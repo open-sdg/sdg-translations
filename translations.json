@@ -1,1 +1,1 @@
-{"fr": {"global": {"hello": "Bonjour le monde"}}, "en": {"global": {"hello": "Hello world"}}, "es": {"global": {"hello": "Hola mundo"}}}
+{"fr": {"header": {"skip-link": "Needs translation"}, "global": {"indicator": "Needs translation", "goal": "Needs translation"}}, "es": {"header": {"skip-link": "Needs translation"}, "global": {"indicator": "Needs translation", "goal": "Needs translation"}}, "en": {"header": {"skip-link": "Skip to main content"}, "global": {"indicator": "Indicator", "goal": "Goal"}}}

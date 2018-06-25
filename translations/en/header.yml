@@ -2,3 +2,11 @@ skip_link: Skip to main content
 disclaimer: <strong class="phase-tag">Alpha</strong> This is a development
   website. We welcome your <a href="mailto:%var">feedback</a>.
 tag_line: 17 Goals to Transform our World
+menu:
+  menu: Menu
+  search: Search
+  reporting_status: Reporting Status
+  about: About
+  publications: Publications
+  guidance: Guidance
+  faq: FAQ

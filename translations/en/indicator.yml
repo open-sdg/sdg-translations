@@ -1,0 +1,10 @@
+select_all: Select all
+clear_all: Clear all
+variable_hint: Available when '%var' is selected
+no_data_hint: No options available because of filters above
+download_headline: Download Headline CSV
+download_source: Download Source CSV
+source: Source
+geographical_area: Geographical Area
+unit_of_measurement: Unit of Measurement
+footnote: Footnote

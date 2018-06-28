@@ -5,6 +5,7 @@ no_data_hint: Needs translation
 download_headline: Needs translation
 download_source: Needs translation
 source: Needs translation
+sources: Needs translation
 geographical_area: Needs translation
 unit_of_measurement: Needs translation
 footnote: Needs translation
@@ -23,3 +24,5 @@ national_metadata_blurb: Needs translation
 global_metadata: Needs translation
 global_metadata_blurb: Needs translation
 edit: Needs translation
+edit_data: Needs translation
+edit_metadata: Needs translation

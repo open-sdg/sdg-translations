@@ -1,0 +1,780 @@
+1.1.1:
+  title: Proporción de la población que vive por debajo del umbral internacional de
+    la pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica
+    (urbana o rural)
+1.2.1:
+  title: Proporción de la población que vive por debajo del umbral nacional de la
+    pobreza, desglosada por sexo y edad
+1.2.2:
+  title: Proporción de hombres, mujeres y niños de todas las edades que viven en la
+    pobreza, en todas sus dimensiones, con arreglo a las definiciones nacionales
+1.3.1:
+  title: Proporción de la población cubierta por niveles mínimos o sistemas de protección
+    social, desglosada por sexo, distinguiendo entre los niños, los desempleados,
+    los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién
+    nacidos, las víctimas de accidentes de trabajo y los pobres y los grupos vulnerables
+1.4.1:
+  title: Proporción de la población que vive en hogares con acceso a servicios básicos
+1.4.2:
+  title: Proporción del total de la población adulta, por sexo y por tipo de tenencia,
+    con derechos seguros de tenencia de la tierra, que posee documentación reconocida
+    legalmente al respecto y que percibe esos derechos como seguros
+1.5.1:
+  title: Número de muertes, personas desaparecidas y afectados directamente a consecuencia
+    de desastres por cada 100.000 personas
+1.5.2:
+  title: Pérdidas económicas causadas directamente por los desastres en relación con
+    el Producto Interior Bruto (PIB) mundial
+1.5.3:
+  title: Número de países que adoptan y aplican estrategias de reducción del riesgo
+    de desastres a nivel local en consonancia con el Marco de Sendái para la Reducción
+    del Riesgo de Desastres 2015-2030
+1.5.4:
+  title: Proporción de gobiernos locales que adoptan y aplican estrategias de reducción
+    del riesgo de desastres a nivel local en consonancia con las estrategias nacionales
+    de reducción del riesgo de desastres
+1.a.1:
+  title: Proporción de recursos generados a nivel nacional asignados por el gobierno
+    directamente a programas de reducción de la pobreza
+1.a.2:
+  title: Proporción del gasto público total en servicios esenciales (educación, salud
+    y protección social)
+1.a.3:
+  title: Suma del total de subvenciones y asignaciones no generadoras de deuda dedicadas
+    directamente a programas de reducción de la pobreza como proporción del PIB
+1.b.1:
+  title: Proporción del gasto público periódico y de capital destinado a sectores
+    que benefician de forma desproporcionada a las mujeres, los pobres y los grupos
+    vulnerables
+10.1.1:
+  title: Tasas de crecimiento de los gastos o ingresos de los hogares per cápita entre
+    el 40% más pobre de la población y la población total
+10.2.1:
+  title: Proporción de personas que viven por debajo del 50% de la mediana de los
+    ingresos, por sexo, edad y personas con discapacidad
+10.3.1:
+  title: Proporción de personas que viven por debajo del 50% de la mediana de los
+    ingresos, por sexo, edad y personas con discapacidad
+10.4.1:
+  title: Proporción laboral del PIB, que comprende los salarios y las transferencias
+    de protección social
+10.5.1:
+  title: Indicadores de solidez financiera
+10.6.1:
+  title: Proporción de miembros y derechos de voto de los países en desarrollo en
+    las organizaciones internacionales
+10.7.1:
+  title: Costo de la contratación por cuenta del empleado como proporción de los ingresos
+    anuales percibidos en el país de destino
+10.7.2:
+  title: Número de países que han aplicado políticas migratorias bien gestionadas
+10.a.1:
+  title: Proporción de líneas arancelarias que se aplican a las importaciones de los
+    países menos adelantados y los países en desarrollo con arancel cero
+10.b.1:
+  title: Corriente total de recursos para el desarrollo, por país receptor y país
+    donante y el tipo de corriente (por ejemplo, asistencia oficial para el desarrollo,
+    inversión extranjera directa y otras corrientes)
+10.c.1:
+  title: Costo de las remesas como proporción del monto remitido
+11.1.1:
+  title: Proporción de la población urbana que vive en barrios marginales, asentamientos
+    improvisados o viviendas inadecuadas
+11.2.1:
+  title: Proporción de la población que tiene acceso conveniente al transporte público,
+    desglosada por sexo, edad y personas con discapacidad
+11.3.1:
+  title: Cociente entre la tasa de consumo de tierras y la tasa de crecimiento de
+    la población
+11.3.2:
+  title: Proporción de ciudades con una estructura de participación directa de la
+    sociedad civil en la planificación y la gestión urbanas que opera regular y democráticamente
+11.4.1:
+  title: Total de gasto (público y privado) per cápita en la preservación, protección
+    y conservación de todo el patrimonio cultural y natural, desglosado por tipo de
+    patrimonio (cultural, natural, mixto y reconocido por el Centro del Patrimonio
+    Mundial), nivel de gobierno (nacional, regional, local y municipal), tipo de gastos
+    (gastos de funcionamiento e inversiones) y tipo de financiación privada (donaciones
+    en especie, sector privado sin fines de lucro y patrocinio)
+11.5.1:
+  title: Número de muertes, personas desaparecidas y afectados directamente a consecuencia
+    de desastres por cada 100.000 personas
+11.5.2:
+  title: Proporción de gobiernos locales que adoptan y aplican estrategias de reducción
+    del riesgo de desastres a nivel local en consonancia con las estrategias nacionales
+    de reducción del riesgo de desastres
+11.6.1:
+  title: Proporción de residuos sólidos urbanos recolectados periódicamente con descarga
+    final adecuada del total de residuos sólidos urbanos generados, desglosada por
+    ciudad
+11.6.2:
+  title: Niveles medios anuales de partículas finas (por ejemplo, PM2.5 y PM10) en
+    las ciudades (ponderados según la población)
+11.7.1:
+  title: Proporción media de la superficie edificada de las ciudades correspondiente
+    a espacios abiertos para el uso público de todos, desglosada por sexo, edad y
+    personas con discapacidad
+11.7.2:
+  title: Proporción de personas víctimas de violencia física o acoso sexual, desglosada
+    por sexo, edad, grado de discapacidad y lugar del hecho, en los 12 meses anteriores
+11.a.1:
+  title: Proporción de población residente en ciudades que aplican planes de desarrollo
+    urbano y regional que integran las proyecciones demográficas y las necesidades
+    de recursos, desglosada por tamaño de ciudad
+11.b.1:
+  title: Número de países que adoptan y aplican estrategias de reducción del riesgo
+    de desastres a nivel local en consonancia con el Marco de Sendái para la Reducción
+    del Riesgo de Desastres 2015-2030
+11.b.2:
+  title: Proporción de gobiernos locales que adoptan y aplican estrategias de reducción
+    del riesgo de desastres a nivel local en consonancia con las estrategias nacionales
+    de reducción del riesgo de desastres
+11.c.1:
+  title: Proporción del apoyo financiero a los países menos adelantados que se asigna
+    a la construcción y el reacondicionamiento con materiales locales de edificios
+    sostenibles, resilientes y eficientes en el uso de recursos
+12.1.1:
+  title: Número de países con planes de acción nacionales de consumo y producción
+    sostenibles incorporados como prioridad o meta en las políticas nacionales
+12.2.1:
+  title: Huella material en términos absolutos, huella material per cápita y huella
+    material por PIB
+12.2.2:
+  title: Consumo material interior en términos absolutos, consumo material interior
+    per cápita y consumo material interior por PIB
+12.3.1:
+  title: Índice de la pérdida mundial de alimentos
+12.4.1:
+  title: Número de partes en los acuerdos ambientales multilaterales internacionales
+    relacionados con los desechos peligrosos y otros productos químicos, que cumplen
+    sus compromisos y obligaciones de transmitir información como lo exige cada acuerdo
+    pertinente
+12.4.2:
+  title: Desechos peligrosos generados per cápita y proporción de desechos peligrosos
+    tratados, desglosados por tipo de tratamiento
+12.5.1:
+  title: Tasa nacional de reciclado, toneladas de material reciclado
+12.6.1:
+  title: Número de empresas que publican informes sobre sostenibilidad
+12.7.1:
+  title: Número de países que aplican políticas de adquisiciones públicas y planes
+    de acción sostenibles
+12.8.1:
+  title: 'Grado en que i) la educación cívica mundial y ii) la educación para el desarrollo
+    sostenible (incluida la educación sobre el cambio climático) se incorporan en:
+    a) las políticas nacionales de educación; b) los planes de estudio; c) la formación
+    del profesorado y d) la evaluación de los estudiantes'
+12.a.1:
+  title: Cantidad de apoyo en materia de investigación y desarrollo prestado a los
+    países en desarrollo para el consumo y la producción sostenibles y las tecnologías
+    ecológicamente racionales
+12.b.1:
+  title: Número de estrategias o políticas de turismo sostenible y de planes de acción
+    implantados que incluyen instrumentos de seguimiento y evaluación acordados
+12.c.1:
+  title: Cuantía de los subsidios a los combustibles fósiles por unidad de PIB (producción
+    y consumo) y como proporción del total de los gastos nacionales en combustibles
+    fósiles
+13.1.1:
+  title: Número de muertes, personas desaparecidas y afectados directamente a consecuencia
+    de desastres por cada 100.000 personas
+13.1.2:
+  title: Número de países que adoptan y aplican estrategias de reducción del riesgo
+    de desastres a nivel local en consonancia con el Marco de Sendái para la Reducción
+    del Riesgo de Desastres 2015-2030
+13.1.3:
+  title: Proporción de gobiernos locales que adoptan y aplican estrategias de reducción
+    del riesgo de desastres a nivel local en consonancia con las estrategias nacionales
+    de reducción del riesgo de desastres
+13.2.1:
+  title: Número de países que han comunicado el establecimiento o la puesta en marcha
+    de una política, estrategia o plan integrados que aumenta su capacidad para adaptarse
+    a los efectos adversos del cambio climático, y promueven la resiliencia al clima
+    y un desarrollo con bajas emisiones de gases de efecto invernadero, de un modo
+    que no comprometa la producción de alimentos (como un plan nacional de adaptación,
+    una contribución determinada a nivel nacional, una comunicación nacional o un
+    informe bienal de actualización)
+13.3.1:
+  title: Número de países que han incorporado la mitigación, la adaptación, la reducción
+    del impacto y la alerta temprana en los planes de estudios de la enseñanza primaria,
+    secundaria y terciaria
+13.3.2:
+  title: Número de países que han comunicado una mayor creación de capacidad institucional,
+    sistémica e individual para aplicar la adaptación, la mitigación y la transferencia
+    de tecnología, y las medidas de desarrolloNumber of countries that have communicated
+    the strengthening of institutional, systemic and individual capacity-building
+    to implement adaptation, mitigation and technology transfer, and development actions
+13.a.1:
+  title: Suma en dólares de los Estados Unidos movilizada por año entre 2020 y 2025
+    como parte del compromiso de los 100.000 millones de dólares
+13.b.1:
+  title: Número de países menos adelantados y pequeños Estados insulares en desarrollo
+    que están recibiendo apoyo especializado, y cantidad de apoyo, en particular financiero,
+    tecnológico y de creación de capacidad, para los mecanismos encaminados a aumentar
+    la capacidad de planificación y gestión eficaces en relación con el cambio climático,
+    incluidos los centrados en las mujeres, los jóvenes y las comunidades locales
+    y marginadas
+14.1.1:
+  title: Índice de eutrofización costera y densidad de desechos plásticos flotantes
+14.2.1:
+  title: Índice de eutrofización costera y densidad de desechos plásticos flotantes
+14.3.1:
+  title: Acidez media del mar (pH) medida en un conjunto convenido de estaciones de
+    muestreo representativas
+14.4.1:
+  title: Proporción de poblaciones de peces que están dentro de niveles biológicamente
+    sostenibles
+14.5.1:
+  title: Cobertura de las zonas protegidas en relación con las zonas marinas
+14.6.1:
+  title: Progresos realizados por los países en el grado de aplicación de instrumentos
+    internacionales cuyo objetivo es combatir la pesca ilegal, no declarada y no reglamentada
+14.7.1:
+  title: Pesca sostenible como proporción del PIB en los pequeños Estados insulares
+    en desarrollo, los países menos adelantados y todos los países
+14.a.1:
+  title: Proporción del presupuesto total de investigación asignada a la investigación
+    en el campo de la tecnología marina
+14.b.1:
+  title: Progresos realizados por los países en el grado de aplicación de un marco
+    jurídico, reglamentario, normativo o institucional que reconozca y proteja los
+    derechos de acceso de la pesca en pequeña escala
+14.c.1:
+  title: Número de países que, mediante marcos jurídicos, normativos e institucionales,
+    avanzan en la ratificación, la aceptación y la implementación de instrumentos
+    relacionados con los océanos que aplican el derecho internacional reflejado en
+    la Convención de las Naciones Unidas sobre el Derecho del Mar para la conservación
+    y el uso sostenible de los océanos y sus recursos
+15.1.1:
+  title: Superficie forestal como proporción de la superficie total
+15.1.2:
+  title: Proporción de lugares importantes para la diversidad biológica terrestre
+    y del agua dulce que constituyen áreas protegidas, desglosada por tipo de ecosistema
+15.2.1:
+  title: Progresos en la gestión forestal sostenible
+15.3.1:
+  title: Proporción de tierras degradadas en comparación con la superficie total
+15.4.1:
+  title: Cobertura por zonas protegidas de lugares importantes para la diversidad
+    biológica de las montañas
+15.4.2:
+  title: Índice de cobertura verde de las montañas
+15.5.1:
+  title: Índice de la Lista Roja
+15.6.1:
+  title: Número de países que han adoptado marcos legislativos, administrativos y
+    normativos para una distribución justa y equitativa de los beneficios
+15.7.1:
+  title: Proporción de vida silvestre comercializada que ha sido objeto de caza furtiva
+    o de tráfico ilícito
+15.8.1:
+  title: Proporción de países que han aprobado legislación nacional pertinente y han
+    destinado recursos suficientes para la prevención o el control de especies exóticas
+    invasoras
+15.9.1:
+  title: Avances en el logro de las metas nacionales establecidas de conformidad con
+    la segunda Meta de Aichi para la Diversidad Biológica del Plan Estratégico para
+    la Diversidad Biológica 2011-2020
+15.a.1:
+  title: La asistencia oficial para el desarrollo y el gasto público en la conservación
+    y el uso sostenible de la diversidad biológica y los ecosistemas
+15.b.1:
+  title: La asistencia oficial para el desarrollo y el gasto público en la conservación
+    y el uso sostenible de la diversidad biológica y los ecosistemas
+15.c.1:
+  title: Proporción de vida silvestre comercializada que ha sido objeto de caza furtiva
+    o de tráfico ilícito
+16.1.1:
+  title: Número de víctimas de homicidios dolosos por cada 100.000 habitantes, desglosado
+    por sexo y edad
+16.1.2:
+  title: Muertes causadas por conflictos por cada 100.000 habitantes, desglosadas
+    por sexo, edad y causa
+16.1.3:
+  title: Proporción de la población sometida a violencia física, psicológica o sexual
+    en los 12 meses anteriores
+16.1.4:
+  title: Proporción de la población que no tiene miedo de caminar sola cerca de donde
+    vive
+16.10.1:
+  title: Número de casos verificados de homicidio, secuestro, desaparición forzada,
+    detención arbitraria y tortura de periodistas, miembros asociados de los medios
+    de comunicación, sindicalistas y defensores de los derechos humanos, en los 12
+    meses anteriores
+16.10.2:
+  title: Número de países que adoptan y aplican las garantías constitucionales, reglamentarias
+    y/o normativas para el acceso público a la información
+16.2.1:
+  title: Proporción de niños de 1 a 17 años que sufrieron algún castigo físico o agresión
+    psicológica por los cuidadores en el mes anterior
+16.2.2:
+  title: Número de víctimas de la trata de personas por cada 100.000 habitantes, desglosado
+    por sexo, edad y tipo de explotación
+16.2.3:
+  title: Proporción de mujeres y hombres jóvenes de 18 a 29 años de edad que habían
+    sufrido violencia sexual antes de cumplir los 18 años
+16.3.1:
+  title: Proporción de las víctimas de violencia en los 12 meses anteriores que notificaron
+    su victimización a las autoridades competentes u otros mecanismos de resolución
+    de conflictos reconocidos oficialmente
+16.3.2:
+  title: Detenidos que no han sido sentenciados como proporción de la población carcelaria
+    total
+16.4.1:
+  title: Valor total de las corrientes financieras ilícitas de entrada y salida (en
+    dólares corrientes de los Estados Unidos)
+16.4.2:
+  title: Proporción de armas incautadas, encontradas o entregadas cuyo origen o contexto
+    ilícitos han sido determinados o establecidos por una autoridad competente, de
+    conformidad con los instrumentos internacionales
+16.5.1:
+  title: Proporción de las personas que han tenido por lo menos un contacto con un
+    funcionario público y que pagaron un soborno a un funcionario público, o tuvieron
+    la experiencia de que un funcionario público les pidiera que lo pagaran, durante
+    los 12 meses anteriores
+16.5.2:
+  title: Proporción de negocios que han tenido por lo menos un contacto con un funcionario
+    público y que pagaron un soborno a un funcionario público, o tuvieron la experiencia
+    de que un funcionario público les pidiera que lo pagaran, durante los 12 meses
+    anteriores
+16.6.1:
+  title: Gastos primarios del gobierno como proporción del presupuesto aprobado original,
+    desglosados por sector (o por códigos presupuestarios o elementos similares)
+16.6.2:
+  title: Proporción de la población que se siente satisfecha con su última experiencia
+    de los servicios públicos
+16.7.1:
+  title: Proporciones de plazas (por sexo, edad, personas con discapacidad y grupos
+    de población) en las instituciones públicas (asambleas legislativas nacionales
+    y locales, administración pública, poder judicial), en comparación con las distribuciones
+    nacionales
+16.7.2:
+  title: Proporción de la población que considera que la adopción de decisiones es
+    inclusiva y participativa, desglosada por sexo, edad, discapacidad y grupo de
+    población
+16.8.1:
+  title: Proporción de miembros y derechos de voto de los países en desarrollo en
+    las organizaciones internacionales
+16.9.1:
+  title: Proporción de niños menores de 5 años cuyo nacimiento se ha registrado ante
+    una autoridad civil, desglosada por edad
+16.a.1:
+  title: Existencia de instituciones nacionales independientes de derechos humanos,
+    en cumplimiento de lo dispuesto por los Principios de París
+16.b.1:
+  title: Proporción de la población que declara haberse sentido personalmente víctima
+    de discriminación o acoso en los 12 meses anteriores por motivos de discriminación
+    prohibidos por el derecho internacional de los derechos humanos
+17.1.1:
+  title: Total de los ingresos del gobierno como proporción del PIB, desglosado por
+    fuente
+17.1.2:
+  title: Proporción del presupuesto nacional financiado por impuestos internos
+17.10.1:
+  title: Promedio arancelario ponderado en todo el mundo
+17.11.1:
+  title: Participación de los países en desarrollo y los países menos adelantados
+    en las exportaciones mundiales
+17.12.1:
+  title: Promedio de los aranceles que enfrentan los países en desarrollo, los países
+    menos adelantados y los pequeños Estados insulares en desarrollo
+17.13.1:
+  title: Tablero Macroeconómico
+17.14.1:
+  title: Número de países que cuentan con mecanismos para mejorar la coherencia de
+    las políticas de desarrollo sostenible
+17.15.1:
+  title: Grado de utilización de los marcos de resultados y de las herramientas de
+    planificación de los propios países por los proveedores de cooperación para el
+    desarrollo
+17.16.1:
+  title: Número de países que informan de los progresos en marcos de seguimiento de
+    la eficacia de las actividades de desarrollo de múltiples interesados que favorecen
+    el logro de los Objetivos de Desarrollo Sostenible
+17.17.1:
+  title: Suma en dólares de los Estados Unidos comprometida para asociaciones público-privadas
+    y asociaciones con la sociedad civil
+17.18.1:
+  title: Proporción de indicadores de desarrollo sostenible producidos a nivel nacional,
+    con pleno desglose cuando sea pertinente a la meta, de conformidad con los Principios
+    Fundamentales de las Estadísticas Oficiales
+17.18.2:
+  title: Número de países que cuentan con legislación nacional sobre las estadísticas
+    acorde con los Principios Fundamentales de las Estadísticas Oficiales
+17.18.3:
+  title: Número de países que cuentan con un plan nacional de estadística plenamente
+    financiado y en proceso de aplicación, desglosado por fuente de financiación
+17.19.1:
+  title: Valor en dólares de todos los recursos proporcionados para fortalecer la
+    capacidad estadística de los países en desarrollo
+17.19.2:
+  title: Proporción de países que a) han realizado al menos un censo de población
+    y vivienda en los últimos diez años; y b) han registrado el 100% de los nacimientos
+    y el 80% de las defunciones
+17.2.1:
+  title: Asistencia oficial para el desarrollo neta, total y para los países menos
+    adelantados, como proporción del ingreso nacional bruto (INB) de los donantes
+    del Comité de Asistencia para el Desarrollo de la Organización de Cooperación
+    y Desarrollo Económicos (OCDE)
+17.3.1:
+  title: Inversión extranjera directa, asistencia oficial para el desarrollo y cooperación
+    Sur-Sur como proporción del presupuesto nacional total
+17.3.2:
+  title: Volumen de las remesas (en dólares de los Estados Unidos) como proporción
+    del PIB total
+17.4.1:
+  title: Servicio de la deuda como proporción de las exportaciones de bienes y servicios
+17.5.1:
+  title: Número de países que adoptan y aplican regímenes de promoción de las inversiones
+    para los países menos adelantados
+17.6.1:
+  title: Número de acuerdos y programas de cooperación en materia de ciencia y tecnología
+    celebrados entre países, desglosado por tipo de cooperación
+17.6.2:
+  title: Suscripciones a Internet de banda ancha fija por cada 100 habitantes, desglosadas
+    por velocidad
+17.7.1:
+  title: Suscripciones a Internet de banda ancha fija por cada 100 habitantes, desglosadas
+    por velocidad
+17.8.1:
+  title: Proporción de personas que usan Internet
+17.9.1:
+  title: Valor en dólares de la asistencia financiera y técnica (incluso mediante
+    la cooperación Norte-Sur, Sur-Sur y triangular) prometida a los países en desarrollo
+2.1.1:
+  title: Prevalencia de la subalimentación
+2.1.2:
+  title: Prevalencia de la inseguridad alimentaria moderada o grave en la población,
+    según la Escala de Experiencia de Inseguridad Alimentaria
+2.2.1:
+  title: Prevalencia del retraso en el crecimiento (estatura para la edad, desviación
+    típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización
+    Mundial de la Salud (OMS)) entre los niños menores de 5 años
+2.2.2:
+  title: Prevalencia de la malnutrición (peso para la estatura, desviación típica
+    > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre
+    los niños menores de 5 años, desglosada por tipo (emaciación y peso excesivo)
+2.3.1:
+  title: Volumen de producción por unidad de trabajo según el tamaño de la empresa
+    agropecuaria/pastoral/silvícola
+2.3.2:
+  title: Ingresos medios de los productores de alimentos en pequeña escala, desglosados
+    por sexo y condición de indígena
+2.4.1:
+  title: Proporción de la superficie agrícola en que se practica una agricultura productiva
+    y sostenible
+2.5.1:
+  title: Número de recursos genéticos vegetales y animales para la alimentación y
+    la agricultura en instalaciones de conservación a medio y largo plazo
+2.5.2:
+  title: Proporción de razas locales clasificadas según su situación de riesgo, ausencia
+    de riesgo o nivel de riesgo de extinción desconocido
+2.a.1:
+  title: Índice de orientación agrícola para los gastos públicos
+2.a.2:
+  title: Total de corrientes oficiales (asistencia oficial para el desarrollo más
+    otras corrientes oficiales) destinado al sector de la agricultura
+2.b.2:
+  title: Subsidios a la exportación de productos agropecuarios
+2.c.1:
+  title: Indicador de anomalías en los precios de los alimentos
+3.1.1:
+  title: Índice de mortalidad materna
+3.1.2:
+  title: Proporción de partos con asistencia de personal sanitario especializado
+3.2.1:
+  title: Tasa de mortalidad de niños menores de 5 años
+3.2.2:
+  title: Tasa de mortalidad neonatal
+3.3.1:
+  title: Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados,
+    desglosado por sexo, edad y sectores clave de la población
+3.3.2:
+  title: Incidencia de la tuberculosis por cada 100.000 habitantes
+3.3.3:
+  title: Incidencia de la malaria por cada 1.000 habitantes
+3.3.4:
+  title: Incidencia de la hepatitis B por cada 100.000 habitantes
+3.3.5:
+  title: Número de personas que requieren intervenciones contra enfermedades tropicales
+    desatendidas
+3.4.1:
+  title: Tasa de mortalidad atribuida a las enfermedades cardiovasculares, el cáncer,
+    la diabetes o las enfermedades respiratorias crónicas
+3.4.2:
+  title: Tasa de mortalidad por suicidio
+3.5.1:
+  title: Cobertura de las intervenciones de tratamiento (farmacológico, psicosocial
+    y servicios de rehabilitación y postratamiento) por trastornos de uso indebido
+    de drogas
+3.5.2:
+  title: Consumo nocivo de alcohol, definido según el contexto nacional como el consumo
+    per cápita de alcohol (15 años y mayores) en un año civil en litros de alcohol
+    puro
+3.6.1:
+  title: Tasa de mortalidad por lesiones debidas a accidentes de tráfico
+3.7.1:
+  title: Proporción de mujeres en edad de procrear (de 15 a 49 años) que practican
+    la planificación familiar con métodos modernos
+3.7.2:
+  title: Tasa de fecundidad de las adolescentes (de 10 a 14 años; de 15 a 19 años)
+    por cada 1.000 mujeres de ese grupo de edad
+3.8.1:
+  title: Cobertura de servicios de salud esenciales (definida como el promedio de
+    la cobertura de  servicios esenciales sobre la base de intervenciones con trazadores,
+    por ejemplo la salud reproductiva, materna, neonatal e infantil, las enfermedades
+    infecciosas, las enfermedades no transmisibles y la capacidad de los servicios
+    y el acceso a ellos, entre la población general y los más desfavorecidos)
+3.8.2:
+  title: Proporción de la población con grandes gastos en salud por hogar como porcentaje
+    del total de los gastos o ingresos de los hogares
+3.9.1:
+  title: Tasa de mortalidad atribuida a la contaminación de los hogares y del aire
+    ambiente
+3.9.2:
+  title: Tasa de mortalidad atribuida al agua no apta para el consumo, el saneamiento
+    en condiciones de riesgo y la falta de higiene (exposición a servicios de Agua,
+    Saneamiento e Higiene para Todos (WASH) no seguros)
+3.9.3:
+  title: Tasa de mortalidad atribuida a la intoxicación accidental
+3.a.1:
+  title: Prevalencia normalizada para la edad del consumo actual de tabaco entre las
+    personas de 15 o más años de edad
+3.b.1:
+  title: Proporción de la población inmunizada por todas las vacunas incluidas en
+    su programa nacional
+3.b.2:
+  title: Total de la asistencia oficial para el desarrollo neta destinada a los sectores
+    de la investigación médica y la salud básica
+3.b.3:
+  title: Proporción de centros de salud que tienen un conjunto básico de los medicamentos
+    esenciales asequibles de manera sostenible
+3.c.1:
+  title: Densidad y distribución de los trabajadores sanitarios
+3.d.1:
+  title: Capacidad del Reglamento Sanitario Internacional (RSI) y preparación para
+    emergencias de salud
+4.1.1:
+  title: 'Proporción de niños, niñas y adolescentes: a) en los grados 2/3; b) al final
+    de la enseñanza primaria; y c) al final de la enseñanza secundaria inferior, que
+    han alcanzado al menos un nivel mínimo de competencia en i) lectura y ii) matemáticas,
+    desglosada por sexo'
+4.2.1:
+  title: Proporción de niños menores de 5 años cuyo desarrollo se encuentra bien encauzado
+    en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosado por
+    sexo
+4.2.2:
+  title: Tasa de participación en la enseñanza organizada (un año antes de la edad
+    oficial de ingreso en la enseñanza primaria), desglosada por sexo
+4.3.1:
+  title: Tasa de participación de los jóvenes y adultos en la enseñanza académica
+    y no académica, y en la capacitación en los 12 meses anteriores, desglosada por
+    sexo
+4.4.1:
+  title: Proporción de jóvenes y adultos con conocimientos de tecnología de la información
+    y las comunicaciones (TIC), desglosada por tipo de conocimiento técnico
+4.5.1:
+  title: Índices de paridad (mujeres/hombres, zonas rurales y urbanas, quintil superior/inferior
+    de recursos económicos, y otras características, como la situación en materia
+    de discapacidad, los pueblos indígenas y los efectos de conflictos, a medida que
+    se disponga de datos) para todos los indicadores de educación de esta lista que
+    puedan desglosarse
+4.6.1:
+  title: Proporción de población en un grupo de edad determinado que alcanza por lo
+    menos un nivel fijo de competencia funcional en a) alfabetización y b) aritmética
+    elemental, desglosado por sexo
+4.7.1:
+  title: 'Grado en que i) la educación cívica mundial y ii) la educación para el desarrollo
+    sostenible, incluida la igualdad entre los géneros y los derechos humanos, se
+    incorporan en todos los niveles en: a) las políticas nacionales de educación,
+    b) los planes de estudio, c) la formación del profesorado y d) la evaluación de
+    los estudiantes'
+4.a.1:
+  title: 'Proporción de escuelas con acceso a: a) electricidad; b) Internet con fines
+    pedagógicos; c) computadoras con fines pedagógicos; d) infraestructura y materiales
+    adaptados a los estudiantes con discapacidad; e) suministro básico de agua potable;
+    f) instalaciones de saneamiento básicas segregadas por sexo; y g) instalaciones
+    básicas para lavarse las manos (según las definiciones de los indicadores de WASH)'
+4.b.1:
+  title: Volumen de la asistencia oficial para el desarrollo destinada a becas por
+    sector y por tipo de estudio
+4.c.1:
+  title: 'Proporción de maestros en la enseñanza: a) preescolar; b) primaria; c) secundaria
+    inferior y d) secundaria superior que han recibido al menos el mínimo de formación
+    docente organizada (por ejemplo, formación pedagógica), requisitos de práctica
+    previa a la docencia o durante su ejercicio para la enseñanza a un nivel dado
+    en un país determinado'
+5.1.1:
+  title: Determinar si existen o no marcos jurídicos para promover, hacer cumplir
+    y supervisar la igualdad y la no discriminación por motivos de sexo
+5.2.1:
+  title: Proporción de mujeres y niñas de 15 años de edad o más que han sufrido en
+    los 12 meses anteriores violencia física, sexual o psicológica infligida por un
+    compañero íntimo actual o anterior, desglosada por la forma de violencia y por
+    edad
+5.2.2:
+  title: Proporción de mujeres y niñas de 15 años de edad o más que han sufrido en
+    los 12 meses anteriores violencia sexual infligida por otra persona que no sea
+    un compañero íntimo, por edad y lugar del hecho
+5.3.1:
+  title: Proporción de mujeres de entre 20 y 24 años que estaban casadas o mantenían
+    una unión estable antes de cumplir los 15 años y antes de cumplir los 18 años
+5.3.2:
+  title: Proporción de niñas y mujeres de entre 15 y 49 años que han sufrido mutilación/ablación
+    genital, desglosada por edad
+5.4.1:
+  title: Proporción de tiempo dedicado a quehaceres domésticos y cuidados no remunerados,
+    desglosada por sexo, edad y ubicación
+5.5.1:
+  title: Proporción de escaños ocupados por mujeres en a) los parlamentos nacionales
+    y b) los gobiernos locales
+5.5.2:
+  title: Proporción de mujeres en cargos directivos
+5.6.1:
+  title: Proporción de mujeres de 15 a 49 años de edad que toman sus propias decisiones
+    informadas con respecto a las relaciones sexuales, el uso de anticonceptivos y
+    la atención de la salud reproductiva
+5.6.2:
+  title: Número de países con leyes y reglamentos que garantizan a hombres y mujeres
+    de 15 años y mayores un acceso pleno y en pie de igualdad a servicios de salud
+    sexual y reproductiva y a información y educación en la materia
+5.a.1:
+  title: a) Proporción del total de la población agrícola con derechos de propiedad
+    o derechos seguros sobre las tierras agrícolas, desglosada por sexo; y b) proporción
+    de mujeres entre los propietarios de tierras agrícolas, o titulares de derechos
+    sobre tierras agrícolas, desglosada por tipo de tenencia
+5.a.2:
+  title: Proporción de países en que el ordenamiento jurídico (incluido el derecho
+    consuetudinario) garantiza la igualdad de derechos de la mujer a la propiedad
+    y/o el control de la tierra
+5.b.1:
+  title: Proporción de personas que poseen un teléfono móvil, desglosada por sexo
+5.c.1:
+  title: Proporción de países que cuentan con sistemas para dar seguimiento a la igualdad
+    de género y el empoderamiento de la mujer y asignar fondos públicos para ese fin
+6.1.1:
+  title: Proporción de la población que dispone de servicios de suministro de agua
+    potable gestionados de manera segura
+6.2.1:
+  title: Proporción de la población que utiliza servicios de saneamiento gestionados
+    de manera segura, incluida una instalación para lavarse las manos con agua y  jabón
+6.3.1:
+  title: Proporción de aguas residuales tratadas de manera segura
+6.3.2:
+  title: Proporción de masas de agua de buena calidad
+6.4.1:
+  title: Cambio en la eficiencia del uso del agua con el tiempo
+6.4.2:
+  title: 'Nivel de estrés por escasez de agua: extracción de agua dulce como proporción
+    de los recursos de agua dulce disponibles'
+6.5.1:
+  title: Grado de aplicación de la ordenación integrada de los recursos hídricos (0-100)
+6.5.2:
+  title: Proporción de la superficie de cuencas transfronterizas con un arreglo operacional
+    para la cooperación en la esfera del agua
+6.6.1:
+  title: Cambio en la extensión de los ecosistemas relacionados con el agua a lo largo
+    del tiempo
+6.a.1:
+  title: Volumen de la asistencia oficial para el desarrollo destinada al agua y el
+    saneamiento que forma parte de un plan de gastos coordinados del gobierno
+6.b.1:
+  title: Proporción de dependencias administrativas locales con políticas y procedimientos
+    operacionales establecidos para la participación de las comunidades locales en
+    la ordenación del agua y el saneamiento
+7.1.1:
+  title: Proporción de la población con acceso a la electricidad
+7.1.2:
+  title: Proporción de la población cuya fuente primaria de energía consiste en combustibles
+    y tecnología limpios
+7.2.1:
+  title: Proporción de la energía renovable en el consumo final total de energía
+7.3.1:
+  title: Intensidad energética medida en función de la energía primaria y el PIB
+7.a.1:
+  title: Las corrientes financieras internacionales a los países en desarrollo en
+    apoyo de la investigación y el desarrollo de energías limpias y la producción
+    de energía renovable, incluidos los sistemas híbridos
+7.b.1:
+  title: Inversiones en eficiencia energética como proporción del PIB y del monto
+    de la inversión extranjera directa en transferencias financieras destinadas a
+    infraestructuras y tecnología con el fin de prestar servicios para el desarrollo
+    sostenible
+8.1.1:
+  title: Tasa de crecimiento anual del PIB real per cápita
+8.10.1:
+  title: a) Número de sucursales de bancos comerciales por cada 100.000 adultos y
+    b) número de cajeros automáticos por cada 100.000 adultos
+8.10.2:
+  title: Proporción de adultos (de 15 años o más) con una cuenta en un banco u otra
+    institución financiera o con un proveedor móvil de servicios monetarios
+8.2.1:
+  title: Tasa de crecimiento anual del PIB real por persona empleada
+8.3.1:
+  title: Proporción de empleo informal en el empleo no agrícola, desglosada por sexo
+8.4.1:
+  title: Huella material en términos absolutos, huella material per cápita y huella
+    material por PIB
+8.4.2:
+  title: Consumo material interior en términos absolutos, consumo material interior
+    per cápita y consumo material interior por PIB
+8.5.1:
+  title: Ingreso medio por hora de mujeres y hombres empleados, por ocupación, edad
+    y personas con discapacidad
+8.5.2:
+  title: Tasa de desempleo, por sexo, edad y personas con discapacidad
+8.6.1:
+  title: Proporción de jóvenes (de 15 a 24 años) que no estudian, no tienen empleo
+    ni reciben capacitación
+8.7.1:
+  title: Proporción y número de niños de entre 5 y 17 años que realizan trabajo infantil,
+    desglosada por sexo y edad
+8.8.1:
+  title: Tasas de frecuencia de lesiones ocupacionales mortales y no mortales, por
+    sexo y situación migratoria
+8.8.2:
+  title: Nivel de cumplimiento nacional de derechos laborales (libertad de asociación
+    y negociación colectiva) sobre la base de fuentes textuales de la Organización
+    Internacional del Trabajo (OIT) y la legislación nacional, desglosado por sexo
+    y condición de migrante
+8.9.1:
+  title: Proporción directa del turismo en el PIB como proporción del PIB total y
+    en la tasa de crecimiento
+8.9.2:
+  title: Proporción de empleos en los sectores del turismo sostenible respecto del
+    total de empleos del turismo
+8.a.1:
+  title: Ayuda para los compromisos y desembolsos comerciales
+8.b.1:
+  title: Existencia de una estrategia nacional organizada y en marcha para el empleo
+    de los jóvenes, como estrategia independiente o como parte de una estrategia nacional
+    de empleo
+9.1.1:
+  title: Proporción de la población rural que vive a menos de 2 km de una carretera
+    transitable todo el año
+9.1.2:
+  title: Volumen de transporte de pasajeros y carga, por medio de transporte
+9.2.1:
+  title: Valor agregado por manufactura como proporción del PIB y per cápita
+9.2.2:
+  title: Empleo en la manufactura como proporción del empleo total
+9.3.1:
+  title: Proporción correspondiente a las industrias a pequeña escala del valor añadido
+    total del sector
+9.3.2:
+  title: Proporción de las industrias a pequeña escala que han obtenido un préstamo
+    o una línea de crédito
+9.4.1:
+  title: Emisiones de CO2 por unidad de valor añadido
+9.5.1:
+  title: Gastos en investigación y desarrollo como proporción del PIB
+9.5.2:
+  title: Investigadores (valor equivalente a tiempo completo) por millón de habitantes
+9.a.1:
+  title: Total de apoyo internacional oficial (asistencia oficial para el desarrollo
+    más otras corrientes oficiales) a la infraestructura
+9.b.1:
+  title: Proporción del valor agregado por la industria de tecnología mediana y alta
+    del valor añadido total
+9.c.1:
+  title: Proporción de la población abarcada por una red móvil, desglosada por tecnología

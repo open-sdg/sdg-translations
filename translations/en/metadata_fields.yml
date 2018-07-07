@@ -3,18 +3,15 @@ computation_calculations: Calculations
 computation_definitions: Definitions
 computation_units: Unit of measurement
 goal_meta_link: Link to UN metadata
-goal_meta_link_text: Link to UN metadata text
 indicator: Indicator number
 indicator_definition: Global indicator description
 indicator_name: Indicator name
 indicator_sort_order: Indicator display order (within Goal page)
 national_data_update_url: Data last updated
-national_data_update_url_text: Data last updated
 national_geographical_coverage: Geographical coverage
 national_indicator_available: Indicator available
 national_indicator_description: Indicator description
 national_metadata_update_url: Metadata last updated
-national_metadata_update_url_text: Metadata last updated
 source_contact_1: Contact details
 source_contact_2: Contact details
 source_contact_3: Contact details
@@ -75,12 +72,6 @@ source_url_3: Link to data source
 source_url_4: Link to data source
 source_url_5: Link to data source
 source_url_6: Link to data source
-source_url_text_1: Link to data source text
-source_url_text_2: Link to data source text
-source_url_text_3: Link to data source text
-source_url_text_4: Link to data source text
-source_url_text_5: Link to data source text
-source_url_text_6: Link to data source text
 target: Target name
 target_id: Target number
 un_custodian_agency: UN custodian agency

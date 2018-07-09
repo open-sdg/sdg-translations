@@ -4,6 +4,9 @@ variable_hint: Disponible lorsque le champ '%field' est sélectionné
 no_data_hint: Aucune option disponible en raison des filtres ci-dessus
 download_headline: Télécharger Headline CSV
 download_source: Télécharger Source CSV
+download_chart: Télécharger le graphique CSV
+download_table: Télécharger le tableau CSV
+download_csv: Télécharger CSV
 source: La source
 sources: Sources
 geographical_area: Zone géographique

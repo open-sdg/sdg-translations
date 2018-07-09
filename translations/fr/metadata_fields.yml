@@ -1,78 +1,78 @@
-comments_limitations: Needs translation
-computation_calculations: Needs translation
-computation_definitions: Needs translation
-computation_units: Needs translation
-goal_meta_link: Needs translation
-indicator: Needs translation
-indicator_definition: Needs translation
-indicator_name: Needs translation
-indicator_sort_order: Needs translation
-national_data_update_url: Needs translation
-national_geographical_coverage: Needs translation
-national_indicator_available: Needs translation
-national_indicator_description: Needs translation
-national_metadata_update_url: Needs translation
-source_contact_1: Needs translation
-source_contact_2: Needs translation
-source_contact_3: Needs translation
-source_contact_4: Needs translation
-source_contact_5: Needs translation
-source_contact_6: Needs translation
-source_earliest_available_1: Needs translation
-source_earliest_available_2: Needs translation
-source_earliest_available_3: Needs translation
-source_earliest_available_4: Needs translation
-source_earliest_available_5: Needs translation
-source_earliest_available_6: Needs translation
-source_geographical_coverage_1: Needs translation
-source_geographical_coverage_2: Needs translation
-source_geographical_coverage_3: Needs translation
-source_geographical_coverage_4: Needs translation
-source_geographical_coverage_5: Needs translation
-source_geographical_coverage_6: Needs translation
-source_next_release_1: Needs translation
-source_next_release_2: Needs translation
-source_next_release_3: Needs translation
-source_next_release_4: Needs translation
-source_next_release_5: Needs translation
-source_next_release_6: Needs translation
-source_organisation_1: Needs translation
-source_organisation_2: Needs translation
-source_organisation_3: Needs translation
-source_organisation_4: Needs translation
-source_organisation_5: Needs translation
-source_organisation_6: Needs translation
-source_other_info_1: Needs translation
-source_other_info_2: Needs translation
-source_other_info_3: Needs translation
-source_other_info_4: Needs translation
-source_other_info_5: Needs translation
-source_other_info_6: Needs translation
-source_periodicity_1: Needs translation
-source_periodicity_2: Needs translation
-source_periodicity_3: Needs translation
-source_periodicity_4: Needs translation
-source_periodicity_5: Needs translation
-source_periodicity_6: Needs translation
-source_release_date_1: Needs translation
-source_release_date_2: Needs translation
-source_release_date_3: Needs translation
-source_release_date_4: Needs translation
-source_release_date_5: Needs translation
-source_release_date_6: Needs translation
-source_statistical_classification_1: Needs translation
-source_statistical_classification_2: Needs translation
-source_statistical_classification_3: Needs translation
-source_statistical_classification_4: Needs translation
-source_statistical_classification_5: Needs translation
-source_statistical_classification_6: Needs translation
-source_url_1: Needs translation
-source_url_2: Needs translation
-source_url_3: Needs translation
-source_url_4: Needs translation
-source_url_5: Needs translation
-source_url_6: Needs translation
-target: Needs translation
-target_id: Needs translation
-un_custodian_agency: Needs translation
-un_designated_tier: Needs translation
+comments_limitations: Les autres informations
+computation_calculations: Calculs
+computation_definitions: Définitions
+computation_units: Unité de mesure
+goal_meta_link: Lien vers les métadonnées UN
+indicator: Numéro de l&#39;indicateur
+indicator_definition: Description de l&#39;indicateur global
+indicator_name: Nom de l&#39;indicateur
+indicator_sort_order: Ordre d&#39;affichage des indicateurs (dans la page Objectif)
+national_data_update_url: Données mises à jour en dernier
+national_geographical_coverage: Couverture géographique
+national_indicator_available: Indicateur disponible
+national_indicator_description: Description de l&#39;indicateur
+national_metadata_update_url: Dernière mise à jour des métadonnées
+source_contact_1: Détails du contact
+source_contact_2: Détails du contact
+source_contact_3: Détails du contact
+source_contact_4: Détails du contact
+source_contact_5: Détails du contact
+source_contact_6: Détails du contact
+source_earliest_available_1: Les premières données disponibles
+source_earliest_available_2: Les premières données disponibles
+source_earliest_available_3: Les premières données disponibles
+source_earliest_available_4: Les premières données disponibles
+source_earliest_available_5: Les premières données disponibles
+source_earliest_available_6: Les premières données disponibles
+source_geographical_coverage_1: Couverture géographique
+source_geographical_coverage_2: Couverture géographique
+source_geographical_coverage_3: Couverture géographique
+source_geographical_coverage_4: Couverture géographique
+source_geographical_coverage_5: Couverture géographique
+source_geographical_coverage_6: Couverture géographique
+source_next_release_1: Prochaine sortie
+source_next_release_2: Prochaine sortie
+source_next_release_3: Prochaine sortie
+source_next_release_4: Prochaine sortie
+source_next_release_5: Prochaine sortie
+source_next_release_6: Prochaine sortie
+source_organisation_1: Organisation
+source_organisation_2: Organisation
+source_organisation_3: Organisation
+source_organisation_4: Organisation
+source_organisation_5: Organisation
+source_organisation_6: Organisation
+source_other_info_1: Les autres informations
+source_other_info_2: Les autres informations
+source_other_info_3: Les autres informations
+source_other_info_4: Les autres informations
+source_other_info_5: Les autres informations
+source_other_info_6: Les autres informations
+source_periodicity_1: Périodicité
+source_periodicity_2: Périodicité
+source_periodicity_3: Périodicité
+source_periodicity_4: Périodicité
+source_periodicity_5: Périodicité
+source_periodicity_6: Périodicité
+source_release_date_1: Date de sortie
+source_release_date_2: Date de sortie
+source_release_date_3: Date de sortie
+source_release_date_4: Date de sortie
+source_release_date_5: Date de sortie
+source_release_date_6: Date de sortie
+source_statistical_classification_1: Classification statistique
+source_statistical_classification_2: Classification statistique
+source_statistical_classification_3: Classification statistique
+source_statistical_classification_4: Classification statistique
+source_statistical_classification_5: Classification statistique
+source_statistical_classification_6: Classification statistique
+source_url_1: Lien vers la source de données
+source_url_2: Lien vers la source de données
+source_url_3: Lien vers la source de données
+source_url_4: Lien vers la source de données
+source_url_5: Lien vers la source de données
+source_url_6: Lien vers la source de données
+target: Nom de la cible
+target_id: Numéro cible
+un_custodian_agency: Agence dépositaire des Nations Unies
+un_designated_tier: Niveau désigné par les Nations Unies

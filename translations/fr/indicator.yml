@@ -1,28 +1,39 @@
-select_all: Needs translation
-clear_all: Needs translation
-variable_hint: Needs translation
-no_data_hint: Needs translation
-download_headline: Needs translation
-download_source: Needs translation
-source: Needs translation
-sources: Needs translation
-geographical_area: Needs translation
-unit_of_measurement: Needs translation
-footnote: Needs translation
-units_type: Needs translation
-dataset_size_warning: Needs translation
-view_indicator_list: Needs translation
-sub_categories: Needs translation
-series_help: Needs translation
-legend_help: Needs translation
-chart: Needs translation
-table: Needs translation
-map: Needs translation
-loading_map: Needs translation
-national_metadata: Needs translation
-national_metadata_blurb: Needs translation
-global_metadata: Needs translation
-global_metadata_blurb: Needs translation
-edit: Needs translation
-edit_data: Needs translation
-edit_metadata: Needs translation
+select_all: Tout sélectionner
+clear_all: Tout effacer
+variable_hint: Disponible lorsque le champ '%field' est sélectionné
+no_data_hint: Aucune option disponible en raison des filtres ci-dessus
+download_headline: Télécharger Headline CSV
+download_source: Télécharger Source CSV
+source: La source
+sources: Sources
+geographical_area: Zone géographique
+unit_of_measurement: Unité de mesure
+footnote: note de bas de page
+units_type: Type d&#39;unités
+dataset_size_warning: Il y a trop de jeux de données à afficher sur le graphique.
+  Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
+view_indicator_list: Voir la liste des indicateurs de cet objectif
+sub_categories: Sous-catégories
+series_help: Choisissez des catégories dans les listes déroulantes ci-dessous pour
+  voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à
+  ce qu&#39;un niveau supérieur soit choisi.
+legend_help: Cliquez sur la légende pour supprimer les lignes individuelles du graphique.
+chart: Graphique
+table: Table
+map: Carte
+loading_map: Chargement de la carte
+national_metadata: Métadonnées nationales
+national_metadata_blurb: Cette table fournit des métadonnées pour l&#39;indicateur
+  réel disponible à partir des statistiques %country_name les plus proches de l&#39;indicateur
+  SDG global correspondant. Veuillez noter que même lorsque l&#39;indicateur global
+  des ODD est entièrement disponible à partir des statistiques %country_adjective, ce
+  tableau devrait être consulté pour obtenir des informations sur la méthodologie
+  nationale et d&#39;autres informations sur les métadonnées spécifiques à un pays_adjectif.
+global_metadata: Métadonnées globales
+global_metadata_blurb: Ce tableau fournit des informations sur les métadonnées pour
+  les indicateurs SDG définis par la Commission de statistique des Nations Unies.
+  <a href="https://unstats.un.org/sdgs/metadata/">Les métadonnées globales complètes</a>
+  sont fournies par la Division de statistique de l&#39;ONU.
+edit: modifier
+edit_data: Modifier les données
+edit_metadata: Modifier les métadonnées

@@ -1,28 +1,40 @@
-select_all: Needs translation
-clear_all: Needs translation
-variable_hint: Needs translation
-no_data_hint: Needs translation
-download_headline: Needs translation
-download_source: Needs translation
-source: Needs translation
-sources: Needs translation
-geographical_area: Needs translation
-unit_of_measurement: Needs translation
-footnote: Needs translation
-units_type: Needs translation
-dataset_size_warning: Needs translation
-view_indicator_list: Needs translation
-sub_categories: Needs translation
-series_help: Needs translation
-legend_help: Needs translation
-chart: Needs translation
-table: Needs translation
-map: Needs translation
-loading_map: Needs translation
-national_metadata: Needs translation
-national_metadata_blurb: Needs translation
-global_metadata: Needs translation
-global_metadata_blurb: Needs translation
-edit: Needs translation
-edit_data: Needs translation
-edit_metadata: Needs translation
+select_all: Seleccionar todo
+clear_all: Limpiar todo
+variable_hint: Disponible cuando se selecciona '%field'
+no_data_hint: No hay opciones disponibles debido a los filtros anteriores
+download_headline: Descargar Headline CSV
+download_source: Descargar Source CSV
+source: Fuente
+sources: Fuentes
+geographical_area: Área geográfica
+unit_of_measurement: Unidad de medida
+footnote: Nota
+units_type: Tipo de unidades
+dataset_size_warning: Hay demasiados conjuntos de datos para mostrar en el gráfico.
+  No todo se mostrará hasta que elimine algunas selecciones.
+view_indicator_list: Ver la lista de indicadores de este objetivo
+sub_categories: Subcategorías
+series_help: Elija categorías de las listas desplegables a continuación para ver diferentes
+  desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel
+  superior.
+legend_help: Haga clic en la leyenda para eliminar líneas individuales del gráfico.
+chart: Gráfico
+table: Mesa
+map: Mapa
+loading_map: Cargando mapa
+national_metadata: Metadatos nacionales
+national_metadata_blurb: Esta tabla proporciona metadatos para el indicador real disponible
+  a partir de las estadísticas de %country_name más cercanas al correspondiente indicador
+  global de SDG. Tenga en cuenta que incluso cuando el indicador global de ODS esté
+  totalmente disponible a partir de las estadísticas de %country_adjective, se debe
+  consultar esta tabla para obtener información sobre la metodología nacional y otra
+  información de metadatos específicos de %country_adjective.
+global_metadata: Metadatos globales
+global_metadata_blurb: Esta tabla proporciona información sobre los metadatos para
+  los indicadores de los ODS tal como los define la Comisión de Estadística de la
+  ONU. <a href="https://unstats.un.org/sdgs/metadata/">La</a> División de Estadística
+  de las Naciones Unidas proporciona <a href="https://unstats.un.org/sdgs/metadata/">los
+  metadatos globales completos</a> .
+edit: Editar
+edit_data: Editar datos
+edit_metadata: Editar metadatos

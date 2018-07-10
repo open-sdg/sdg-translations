@@ -3,10 +3,13 @@ clear_all: Tout effacer
 variable_hint: Disponible lorsque le champ '%field' est sélectionné
 no_data_hint: Aucune option disponible en raison des filtres ci-dessus
 download_headline: Télécharger Headline CSV
+download_headline_title: Télécharger les données de titre au format CSV
 download_source: Télécharger Source CSV
+download_source_title: Télécharger les données source au format CSV
 download_chart: Télécharger le graphique CSV
 download_table: Télécharger le tableau CSV
 download_csv: Télécharger CSV
+download_csv_title: Télécharger en format CSV
 source: La source
 sources: Sources
 geographical_area: Zone géographique

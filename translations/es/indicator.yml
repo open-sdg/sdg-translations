@@ -1,5 +1,6 @@
 select_all: Seleccionar todo
 clear_all: Limpiar todo
+clear_selections: Borrar selecciones
 variable_hint: Disponible cuando se selecciona '%field'
 no_data_hint: No hay opciones disponibles debido a los filtros anteriores
 download_headline: Descargar Headline CSV

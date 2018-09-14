@@ -11,7 +11,7 @@ import sys
 
 def main():
 
-    if len(sys.argv) < 1:
+    if len(sys.argv) < 2:
         sys.exit('Provide a 2-letter abbreviation for the target language.')
 
     language = sys.argv[1]

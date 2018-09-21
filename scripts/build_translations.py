@@ -6,10 +6,10 @@ Convert the YAML translation files into a single JSON file.
 import os
 import yaml
 import json
+from git import Repo
 
-def main():
+def build_translations(output_file):
     status = True
-
     data = {}
 
     for root, dirs, files in os.walk('translations'):
@@ -32,9 +32,26 @@ def main():
     json_dir = '_site'
     if not os.path.exists(json_dir):
         os.makedirs(json_dir, exist_ok=True)
-    json_path = os.path.join(json_dir, 'translations.json')
+    json_path = os.path.join(json_dir, output_file)
     with open(json_path, 'w') as fp:
         json.dump(data, fp)
+
+    return status
+
+def main():
+    status = True
+
+    data = {}
+
+    # First output the latest code.
+    build_translations('translations.json')
+
+    # Loop through all the past Git tags.
+    repo = Repo(os.getcwd())
+    for tag in repo.tags:
+        # Switch to the tag and build another version.
+        repo.git.checkout(tag.tag)
+        build_translations('translations-' + tag.tag + '.json')
 
     return status
 

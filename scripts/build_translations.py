@@ -50,8 +50,8 @@ def main():
     repo = Repo(os.getcwd())
     for tag in repo.tags:
         # Switch to the tag and build another version.
-        repo.git.checkout(tag.tag)
-        build_translations('translations-' + tag.tag + '.json')
+        repo.git.checkout(tag)
+        build_translations('translations-' + str(tag) + '.json')
 
     return status
 

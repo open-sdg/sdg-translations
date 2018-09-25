@@ -14,7 +14,8 @@ def parse_translation_data(filepath):
     with open(filepath, 'r') as stream:
         try:
             yamldata = yaml.load(stream)
-            df = pd.io.json.json_normalize(yamldata)
+            # Use an unusual "sep" below so that dots can still be used in keys.
+            df = pd.io.json.json_normalize(yamldata, sep='---')
             return df.to_dict(orient='records')[0]
         except Exception as exc:
             print(exc)

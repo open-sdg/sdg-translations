@@ -31,7 +31,7 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          key: test-dependencies-v1-{{ checksum "scripts/requirements.txt" }}
+          key: build-dependencies-v1-{{ checksum "scripts/requirements.txt" }}
       - run:
           name: Install Python dependencies
           command: |
@@ -39,11 +39,11 @@ jobs:
             . venv/bin/activate
             pip install -r scripts/requirements.txt
       - save_cache:
-          key: test-dependencies-v1-{{ checksum "scripts/requirements.txt" }}
+          key: build-dependencies-v1-{{ checksum "scripts/requirements.txt" }}
           paths:
             - ./venv
       - run:
-          name: Validate the translation data.
+          name: Build the translation data.
           command: |
             . venv/bin/activate
             python3 scripts/build_translations.py

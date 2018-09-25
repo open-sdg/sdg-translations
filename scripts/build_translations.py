@@ -34,7 +34,7 @@ def build_translations(output_file):
         os.makedirs(json_dir, exist_ok=True)
     json_path = os.path.join(json_dir, output_file)
     with open(json_path, 'w') as fp:
-        json.dump(data, fp)
+        json.dump(data, fp, sort_keys=True)
 
     return status
 

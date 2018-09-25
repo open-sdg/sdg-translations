@@ -18,7 +18,8 @@ def parse_translation_data(filepath):
             df = pd.io.json.json_normalize(yamldata, sep='---')
             return df.to_dict(orient='records')[0]
         except Exception as exc:
-            print(exc)
+            # Could not load the file, return an empty object.
+            return {}
 
 def main():
 

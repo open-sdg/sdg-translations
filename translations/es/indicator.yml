@@ -1,34 +1,30 @@
-select_all: Seleccionar todo
+chart: Gráfico
 clear_all: Limpiar todo
 clear_selections: Borrar selecciones
-variable_hint: Disponible cuando se selecciona '%field'
-no_data_hint: No hay opciones disponibles debido a los filtros anteriores
+dataset_size_warning: Hay demasiados conjuntos de datos para mostrar en el gráfico.
+  No todo se mostrará hasta que elimine algunas selecciones.
+download_chart: Descargar Chart CSV
+download_csv: Descargar CSV
+download_csv_title: Descargar como CSV
 download_headline: Descargar Headline CSV
 download_headline_title: Descargar los datos del titular como CSV
 download_source: Descargar Source CSV
 download_source_title: Descargar los datos fuente como CSV
-download_chart: Descargar Chart CSV
 download_table: Descargar la tabla CSV
-download_csv: Descargar CSV
-download_csv_title: Descargar como CSV
-source: Fuente
-sources: Fuentes
-geographical_area: Área geográfica
-unit_of_measurement: Unidad de medida
+edit: Editar
+edit_data: Editar datos
+edit_metadata: Editar metadatos
 footnote: Nota
-units_type: Tipo de unidades
-dataset_size_warning: Hay demasiados conjuntos de datos para mostrar en el gráfico.
-  No todo se mostrará hasta que elimine algunas selecciones.
-view_indicator_list: Ver la lista de indicadores de este objetivo
-sub_categories: Subcategorías
-series_help: Elija categorías de las listas desplegables a continuación para ver diferentes
-  desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel
-  superior.
+geographical_area: Área geográfica
+global_metadata: Metadatos globales
+global_metadata_blurb: Esta tabla proporciona información sobre los metadatos para
+  los indicadores de los ODS tal como los define la Comisión de Estadística de la
+  ONU. <a href="https://unstats.un.org/sdgs/metadata/">La</a> División de Estadística
+  de las Naciones Unidas proporciona <a href="https://unstats.un.org/sdgs/metadata/">los
+  metadatos globales completos</a> .
 legend_help: Haga clic en la leyenda para eliminar líneas individuales del gráfico.
-chart: Gráfico
-table: Mesa
-map: Mapa
 loading_map: Cargando mapa
+map: Mapa
 national_metadata: Metadatos nacionales
 national_metadata_blurb: Esta tabla proporciona metadatos para el indicador real disponible
   a partir de las estadísticas de %country_name más cercanas al correspondiente indicador
@@ -36,12 +32,16 @@ national_metadata_blurb: Esta tabla proporciona metadatos para el indicador real
   totalmente disponible a partir de las estadísticas de %country_adjective, se debe
   consultar esta tabla para obtener información sobre la metodología nacional y otra
   información de metadatos específicos de %country_adjective.
-global_metadata: Metadatos globales
-global_metadata_blurb: Esta tabla proporciona información sobre los metadatos para
-  los indicadores de los ODS tal como los define la Comisión de Estadística de la
-  ONU. <a href="https://unstats.un.org/sdgs/metadata/">La</a> División de Estadística
-  de las Naciones Unidas proporciona <a href="https://unstats.un.org/sdgs/metadata/">los
-  metadatos globales completos</a> .
-edit: Editar
-edit_data: Editar datos
-edit_metadata: Editar metadatos
+no_data_hint: No hay opciones disponibles debido a los filtros anteriores
+select_all: Seleccionar todo
+series_help: Elija categorías de las listas desplegables a continuación para ver diferentes
+  desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel
+  superior.
+source: Fuente
+sources: Fuentes
+sub_categories: Subcategorías
+table: Mesa
+unit_of_measurement: Unidad de medida
+units_type: Tipo de unidades
+variable_hint: Disponible cuando se selecciona '%field'
+view_indicator_list: Ver la lista de indicadores de este objetivo

@@ -1,46 +1,46 @@
-select_all: Tout sélectionner
+chart: Graphique
 clear_all: Tout effacer
 clear_selections: Effacer les sélections
-variable_hint: Disponible lorsque le champ '%field' est sélectionné
-no_data_hint: Aucune option disponible en raison des filtres ci-dessus
+dataset_size_warning: Il y a trop de jeux de données à afficher sur le graphique.
+  Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
+download_chart: Télécharger le graphique CSV
+download_csv: Télécharger CSV
+download_csv_title: Télécharger en format CSV
 download_headline: Télécharger Headline CSV
 download_headline_title: Télécharger les données de titre au format CSV
 download_source: Télécharger Source CSV
 download_source_title: Télécharger les données source au format CSV
-download_chart: Télécharger le graphique CSV
 download_table: Télécharger le tableau CSV
-download_csv: Télécharger CSV
-download_csv_title: Télécharger en format CSV
-source: La source
-sources: Sources
-geographical_area: Zone géographique
-unit_of_measurement: Unité de mesure
+edit: modifier
+edit_data: Modifier les données
+edit_metadata: Modifier les métadonnées
 footnote: note de bas de page
-units_type: Type d&#39;unités
-dataset_size_warning: Il y a trop de jeux de données à afficher sur le graphique.
-  Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
-view_indicator_list: Voir la liste des indicateurs de cet objectif
-sub_categories: Sous-catégories
-series_help: Choisissez des catégories dans les listes déroulantes ci-dessous pour
-  voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à
-  ce qu&#39;un niveau supérieur soit choisi.
-legend_help: Cliquez sur la légende pour supprimer les lignes individuelles du graphique.
-chart: Graphique
-table: Table
-map: Carte
-loading_map: Chargement de la carte
-national_metadata: Métadonnées nationales
-national_metadata_blurb: Cette table fournit des métadonnées pour l&#39;indicateur
-  réel disponible à partir des statistiques %country_name les plus proches de l&#39;indicateur
-  SDG global correspondant. Veuillez noter que même lorsque l&#39;indicateur global
-  des ODD est entièrement disponible à partir des statistiques %country_adjective, ce
-  tableau devrait être consulté pour obtenir des informations sur la méthodologie
-  nationale et d&#39;autres informations sur les métadonnées spécifiques à un pays_adjectif.
+geographical_area: Zone géographique
 global_metadata: Métadonnées globales
 global_metadata_blurb: Ce tableau fournit des informations sur les métadonnées pour
   les indicateurs SDG définis par la Commission de statistique des Nations Unies.
   <a href="https://unstats.un.org/sdgs/metadata/">Les métadonnées globales complètes</a>
   sont fournies par la Division de statistique de l&#39;ONU.
-edit: modifier
-edit_data: Modifier les données
-edit_metadata: Modifier les métadonnées
+legend_help: Cliquez sur la légende pour supprimer les lignes individuelles du graphique.
+loading_map: Chargement de la carte
+map: Carte
+national_metadata: Métadonnées nationales
+national_metadata_blurb: Cette table fournit des métadonnées pour l&#39;indicateur
+  réel disponible à partir des statistiques %country_name les plus proches de l&#39;indicateur
+  SDG global correspondant. Veuillez noter que même lorsque l&#39;indicateur global
+  des ODD est entièrement disponible à partir des statistiques %country_adjective,
+  ce tableau devrait être consulté pour obtenir des informations sur la méthodologie
+  nationale et d&#39;autres informations sur les métadonnées spécifiques à un pays_adjectif.
+no_data_hint: Aucune option disponible en raison des filtres ci-dessus
+select_all: Tout sélectionner
+series_help: Choisissez des catégories dans les listes déroulantes ci-dessous pour
+  voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à
+  ce qu&#39;un niveau supérieur soit choisi.
+source: La source
+sources: Sources
+sub_categories: Sous-catégories
+table: Table
+unit_of_measurement: Unité de mesure
+units_type: Type d&#39;unités
+variable_hint: Disponible lorsque le champ '%field' est sélectionné
+view_indicator_list: Voir la liste des indicateurs de cet objectif

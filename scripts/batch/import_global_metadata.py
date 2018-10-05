@@ -7,6 +7,7 @@ import os.path
 import PyPDF2
 import glob
 import yaml
+import shutil
 from zipfile import ZipFile
 
 """
@@ -47,6 +48,10 @@ def sdg_text_without_number(text, number):
   This simply removes a number from some text.
   """
   normalized = unicodedata.normalize("NFKD", str(text))
+  # Remove numerals from the end, to deal with footnotes.
+  for footnote in range(1, 9):
+    normalized = normalized.rstrip(str(footnote))
+  # Remove the number and everything before it.
   parts = normalized.split(number)
   if len(parts) == 2:
     return parts[1].lstrip('.').strip()
@@ -104,15 +109,11 @@ def main():
 
   # Next get the (Engish only, currently) metadata.
   zip_filename = 'SDG-indicator-metadata.zip'
-  example_pdf = 'Metadata-01-01-01a.pdf'
   unzip_folder = 'temp-import-files'
-  example_pdf_path = os.path.join(unzip_folder, example_pdf)
-  if not os.path.isfile(example_pdf_path):
-    if not os.path.isfile(zip_filename):
-      remote_url = 'https://unstats.un.org/sdgs/metadata/files/SDG-indicator-metadata.zip'
-      urllib.request.urlretrieve(remote_url, zip_filename)
-      with ZipFile(zip_filename, 'r') as zip:
-        zip.extractall(unzip_folder)
+  remote_url = 'https://unstats.un.org/sdgs/metadata/files/SDG-indicator-metadata.zip'
+  urllib.request.urlretrieve(remote_url, zip_filename)
+  with ZipFile(zip_filename, 'r') as zip:
+    zip.extractall(unzip_folder)
 
   for filepath in glob.iglob(unzip_folder + '/*.pdf'):
     # Figure out the indicator number.
@@ -139,7 +140,7 @@ def main():
     if organization:
       organizations = organization.split('\n \n')
       organizations = list(map(lambda x: x.replace('\n', ''), organizations))
-      organization = '\n'.join(organizations)
+      organization = ', '.join(organizations)
       organization = organization.strip()
     if organization and organization != '':
       global_indicators['en'][indicator]['custodian_agency'] = organization
@@ -148,7 +149,7 @@ def main():
     if description:
       description = description.replace('\n', '').strip()
     if description and description != '':
-      global_indicators['en'][indicator]['description'] = description
+      global_indicators['en'][indicator]['definition'] = description
 
     # Just guess at the remote link from the filepath.
     remote_folder = 'https://unstats.un.org/sdgs/metadata/files/'
@@ -177,6 +178,10 @@ def main():
             yaml_data[item][key] = all_results[yaml_filename][language][item][key]
       with open(translation_path, 'w') as outfile:
         yaml.dump(yaml_data, outfile, default_flow_style=False, allow_unicode=True)
+
+  # Clean up.
+  shutil.rmtree(unzip_folder)
+  os.remove(zip_filename)
 
 if __name__ == '__main__':
   main()

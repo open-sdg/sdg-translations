@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 import pandas as pd
 import re
+import unicodedata
+import urllib
+import os.path
+from zipfile import ZipFile
 
 """
 This script tries to get as much official United Nations metadata as possible
@@ -33,7 +37,8 @@ def sdg_text_without_number(text, number):
   """
   This simply removes a number from some text.
   """
-  return str(text).replace(number, '').strip()
+  normalized = unicodedata.normalize("NFKD", str(text))
+  return normalized.replace(number, '').strip()
 
 def main():
   global_goals = {}
@@ -60,6 +65,7 @@ def main():
       'usecols': [1, 2],
       'skiprows': [0, 1, 2],
       'skipfooter': 6,
+      'encoding': 'utf-8',
     }
     df = pd.read_excel(spreadsheet_url, **import_options)
     for index, row in df.iterrows():
@@ -69,24 +75,27 @@ def main():
         goal_number = sdg_number_from_text(row['target'])
         if goal_number and goal_number not in global_goals[language]:
           goal_text = sdg_text_without_number(row['target'], goal_number)
-          global_goals[language][goal_number] = goal_text
+          global_goals[language][goal_number] = {'title': goal_text}
       else:
         # Otherwise it is a target and indicator.
         #print(row)
         target_number = sdg_number_from_text(row['target'])
         if target_number and target_number not in global_targets[language]:
           target_text = sdg_text_without_number(row['target'], target_number)
-          global_targets[language][target_number] = target_text
+          global_targets[language][target_number] = {'title': target_text}
         indicator_number = sdg_number_from_text(row['indicator'])
         if indicator_number and indicator_number not in global_indicators[language]:
           indicator_text = sdg_text_without_number(row['indicator'], indicator_number)
-          global_indicators[language][indicator_number] = indicator_text
+          global_indicators[language][indicator_number] = {'title': indicator_text}
 
-    break
-
-  print(global_goals)
-  print(global_targets)
-  print(global_indicators)
+  # Next get the (Engish only, currently) metadata.
+  zip_filename = 'SDG-indicator-metadata.zip'
+  if not os.path.isfile(zip_filename):
+    remote_url = 'https://unstats.un.org/sdgs/metadata/files/SDG-indicator-metadata.zip'
+    urllib.request.urlretrieve(remote_url, zip_filename)
+  with ZipFile(zip_filename, 'r') as zip:
+    # printing all the contents of the zip file
+    zip.printdir()
 
 if __name__ == '__main__':
   main()

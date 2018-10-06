@@ -53,6 +53,8 @@ def main():
         repo.git.checkout(tag)
         build_translations('translations-' + str(tag) + '.json')
 
+    # TODO: This should clean up by going back to the original branch.
+
     return status
 
 if __name__ == '__main__':

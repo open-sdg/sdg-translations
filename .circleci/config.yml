@@ -43,15 +43,17 @@ jobs:
           paths:
             - ./venv
       - run:
-          name: Build the translation data.
-          command: |
-            . venv/bin/activate
-            python3 scripts/build_translations.py
-      - run:
           name: Export the current languages for translation.
           command: |
             . venv/bin/activate
             python3 scripts/export_languages.py
+      # This build step MUST be last! The reason is that it changes to a
+      # different Git branch. (TODO: This behavior should be fixed.)
+      - run:
+          name: Build the translation data.
+          command: |
+            . venv/bin/activate
+            python3 scripts/build_translations.py
       - persist_to_workspace:
           root: ~/repo
           paths:

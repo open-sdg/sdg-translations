@@ -18,6 +18,10 @@ def should_we_omit_key(key, language):
         ('global_indicators', 'metadata_link'),
         # No need to translate organisation names.
         ('global_indicators', 'custodian_agency'),
+        # For now let's leave off the "Definition" as well, only because it
+        # would be a significant translation effort, and we may want to find out
+        # whether the UN may eventually do this translation.
+        ('global_indicators', 'definition'),
     ]
     # Add some more for offical UN languages.
     official_un_languages = ['es', 'fr', 'zh']

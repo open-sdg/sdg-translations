@@ -48,7 +48,7 @@ jobs:
             . venv/bin/activate
             python3 scripts/build_translations.py
       - run:
-          name: Export the current langauges for translation.
+          name: Export the current languages for translation.
           command: |
             . venv/bin/activate
             python3 scripts/export_languages.py

@@ -75,7 +75,7 @@ def main():
     if len(sys.argv) < 2:
         sys.exit('Provide a 2-letter abbreviation for the target language.')
     language = sys.argv[1]
-    export_language(language)
+    export_language(language, '.')
 
 # Boilerplace syntax for running the main function.
 if __name__ == '__main__':

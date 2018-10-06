@@ -1,4 +1,178 @@
 key,en,es
+status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
+status:overall_reporting_status,Overall Reporting Status,Estado general de informes
+status:reported_online,Reported online,Reportado en línea
+status:reporting_status,Reporting Status,Estado de informes
+status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
+global_goals:1---short,No Poverty,Fin de la Pobreza
+global_goals:1---title,End poverty in all its forms everywhere,Poner fin a la pobreza en todas sus formas y en todo el mundo
+global_goals:10---short,Reduced inequalities,Reducción de las Desigualdades
+global_goals:10---title,Reduce inequality within and among countries,Reducir la desigualdad en los países y entre ellos
+global_goals:11---short,Sustainable Cities & Communities,Cuidades y Comunidades Sostenibles
+global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles"
+global_goals:12---short,Responsible consumption and production,Producción y Consumo Responsables
+global_goals:12---title,Ensure sustainable consumption and production patterns,Garantizar modalidades de consumo y producción sostenibles
+global_goals:13---short,Climate action,Acción por el Clima
+global_goals:13---title,Take urgent action to combat climate change and its impacts,Adoptar medidas urgentes para combatir el cambio climático y sus efectos
+global_goals:14---short,Life below water,Vida Submarina
+global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible"
+global_goals:15---short,Life on land,Vida de Ecosistemas Terrestres
+global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad"
+global_goals:16---short,Peace and justice - strong institutions,"Paz, Justicia e Instituciones Sólidas"
+global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas"
+global_goals:17---short,Partnerships for the goals,Alianzas para Lograr los Objetivos
+global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible
+global_goals:2---short,Zero Hunger,Hambre Cero
+global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible"
+global_goals:3---short,Good Health and Well-being,Salud y Bienestar
+global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,Garantizar una vida sana y promover el bienestar de todos a todas las edades
+global_goals:4---short,Quality Education,Educación de Calidad
+global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos
+global_goals:5---short,Gender Equality,Igualdad de Género
+global_goals:5---title,Achieve gender equality and empower all women and girls,Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
+global_goals:6---short,Clean water and sanitation,Agua Limpia y Saneamiento
+global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos
+global_goals:7---short,Affordable and clean energy,Energía Asequible y No Contaminante
+global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos"
+global_goals:8---short,Decent jobs and economic growth,Trabajo Decente y Crecimiento Económico
+global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos"
+global_goals:9---short,"Industry, innovation and infrastructure","Industria, Innovación e Infraestructura"
+global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación"
+indicator:chart,Chart,Gráfico
+indicator:clear_all,Clear all,Limpiar todo
+indicator:clear_selections,Clear selections,Borrar selecciones
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Hay demasiados conjuntos de datos para mostrar en el gráfico. No todo se mostrará hasta que elimine algunas selecciones.
+indicator:download_chart,Download Chart CSV,Descargar Chart CSV
+indicator:download_csv,Download CSV,Descargar CSV
+indicator:download_csv_title,Download as CSV,Descargar como CSV
+indicator:download_headline,Download Headline CSV,Descargar Headline CSV
+indicator:download_headline_title,Download headline data as CSV,Descargar los datos del titular como CSV
+indicator:download_source,Download Source CSV,Descargar Source CSV
+indicator:download_source_title,Download source data as CSV,Descargar los datos fuente como CSV
+indicator:download_table,Download Table CSV,Descargar la tabla CSV
+indicator:edit,Edit,Editar
+indicator:edit_data,Edit Data,Editar datos
+indicator:edit_metadata,Edit Metadata,Editar metadatos
+indicator:footnote,Footnote,Nota
+indicator:geographical_area,Geographical Area,Área geográfica
+indicator:global_metadata,Global Metadata,Metadatos globales
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Esta tabla proporciona información sobre los metadatos para los indicadores de los ODS tal como los define la Comisión de Estadística de la ONU. <a href=""https://unstats.un.org/sdgs/metadata/"">La</a> División de Estadística de las Naciones Unidas proporciona <a href=""https://unstats.un.org/sdgs/metadata/"">los metadatos globales completos</a> ."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Haga clic en la leyenda para eliminar líneas individuales del gráfico.
+indicator:loading_map,Loading map,Cargando mapa
+indicator:map,Map,Mapa
+indicator:national_metadata,National Metadata,Metadatos nacionales
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Esta tabla proporciona metadatos para el indicador real disponible a partir de las estadísticas de %country_name más cercanas al correspondiente indicador global de SDG. Tenga en cuenta que incluso cuando el indicador global de ODS esté totalmente disponible a partir de las estadísticas de %country_adjective, se debe consultar esta tabla para obtener información sobre la metodología nacional y otra información de metadatos específicos de %country_adjective."
+indicator:no_data_hint,No options available because of filters above,No hay opciones disponibles debido a los filtros anteriores
+indicator:select_all,Select all,Seleccionar todo
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,Elija categorías de las listas desplegables a continuación para ver diferentes desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel superior.
+indicator:source,Source,Fuente
+indicator:sources,Sources,Fuentes
+indicator:sub_categories,Sub-categories,Subcategorías
+indicator:table,Table,Mesa
+indicator:unit_of_measurement,Unit of Measurement,Unidad de medida
+indicator:units_type,Units type,Tipo de unidades
+indicator:variable_hint,Available when '%field' is selected,Disponible cuando se selecciona '%field'
+indicator:view_indicator_list,View this goal's indicator list,Ver la lista de indicadores de este objetivo
+header:alpha,Alpha,Alfa
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Este es un sitio web de desarrollo. Agradecemos sus comentarios.
+header:skip_link,Skip to main content,Saltar al contenido principal
+header:tag_line,17 Goals to Transform our World,17 Metas para transformar nuestro mundo
+general:goal,Goal,Gol
+general:goals,Goals,Metas
+general:home,Home,Casa
+general:indicator,Indicator,Indicador
+general:indicators,Indicators,Indicadores
+general:loading,Loading search results,Cargando resultados de búsqueda
+general:opens_new_window,opens in a new window,Se abre en una nueva ventana
+general:sdg,Sustainable Development Goals,Objetivos de Desarrollo Sostenible
+frontpage:heading,data for Sustainable Development Goal indicators,datos para los indicadores de los Objetivos de Desarrollo Sostenible
+frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.","Haga clic en cada objetivo %before_link, o busque, %after_link para las estadísticas %country_name para Objetivo de desarrollo sostenible global indicadores."
+menu:about,About,Acerca de
+menu:contact_us,Contact us,Contáctenos
+menu:cookies,Cookies,Galletas
+menu:faq,FAQ,Preguntas más frecuentes
+menu:guidance,Guidance,Dirección
+menu:menu,Menu,Menú
+menu:publications,Publications,Publicaciones
+menu:reporting_status,Reporting Status,Estado de informes
+metadata_fields:comments_limitations,Other information,Otra información
+metadata_fields:computation_calculations,Calculations,Cálculos
+metadata_fields:computation_definitions,Definitions,Definiciones
+metadata_fields:computation_units,Unit of measurement,Unidad de medida
+metadata_fields:goal_meta_link,Link to UN metadata,Enlace a los metadatos de la ONU
+metadata_fields:indicator,Indicator number,Número de indicador
+metadata_fields:indicator_definition,Global indicator description,Descripción del indicador global
+metadata_fields:indicator_name,Indicator name,Nombre del indicador
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Orden de visualización del indicador (dentro de la página de Goal)
+metadata_fields:national_data_update_url,Data last updated,Datos actualizados por última vez
+metadata_fields:national_geographical_coverage,Geographical coverage,Cobertura geográfica
+metadata_fields:national_indicator_available,Indicator available,Indicador disponible
+metadata_fields:national_indicator_description,Indicator description,Descripción del indicador
+metadata_fields:national_metadata_update_url,Metadata last updated,Metadatos actualizados por última vez
+metadata_fields:source_contact_1,Contact details,Detalles de contacto
+metadata_fields:source_contact_2,Contact details,Detalles de contacto
+metadata_fields:source_contact_3,Contact details,Detalles de contacto
+metadata_fields:source_contact_4,Contact details,Detalles de contacto
+metadata_fields:source_contact_5,Contact details,Detalles de contacto
+metadata_fields:source_contact_6,Contact details,Detalles de contacto
+metadata_fields:source_earliest_available_1,Earliest available data,Los datos disponibles más antiguos
+metadata_fields:source_earliest_available_2,Earliest available data,Los datos disponibles más antiguos
+metadata_fields:source_earliest_available_3,Earliest available data,Los datos disponibles más antiguos
+metadata_fields:source_earliest_available_4,Earliest available data,Los datos disponibles más antiguos
+metadata_fields:source_earliest_available_5,Earliest available data,Los datos disponibles más antiguos
+metadata_fields:source_earliest_available_6,Earliest available data,Los datos disponibles más antiguos
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Cobertura geográfica
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Cobertura geográfica
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Cobertura geográfica
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Cobertura geográfica
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Cobertura geográfica
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Cobertura geográfica
+metadata_fields:source_next_release_1,Next release,Siguiente lanzamiento
+metadata_fields:source_next_release_2,Next release,Siguiente lanzamiento
+metadata_fields:source_next_release_3,Next release,Siguiente lanzamiento
+metadata_fields:source_next_release_4,Next release,Siguiente lanzamiento
+metadata_fields:source_next_release_5,Next release,Siguiente lanzamiento
+metadata_fields:source_next_release_6,Next release,Siguiente lanzamiento
+metadata_fields:source_organisation_1,Organisation,Organización
+metadata_fields:source_organisation_2,Organisation,Organización
+metadata_fields:source_organisation_3,Organisation,Organización
+metadata_fields:source_organisation_4,Organisation,Organización
+metadata_fields:source_organisation_5,Organisation,Organización
+metadata_fields:source_organisation_6,Organisation,Organización
+metadata_fields:source_other_info_1,Other information,Otra información
+metadata_fields:source_other_info_2,Other information,Otra información
+metadata_fields:source_other_info_3,Other information,Otra información
+metadata_fields:source_other_info_4,Other information,Otra información
+metadata_fields:source_other_info_5,Other information,Otra información
+metadata_fields:source_other_info_6,Other information,Otra información
+metadata_fields:source_periodicity_1,Periodicity,Periodicidad
+metadata_fields:source_periodicity_2,Periodicity,Periodicidad
+metadata_fields:source_periodicity_3,Periodicity,Periodicidad
+metadata_fields:source_periodicity_4,Periodicity,Periodicidad
+metadata_fields:source_periodicity_5,Periodicity,Periodicidad
+metadata_fields:source_periodicity_6,Periodicity,Periodicidad
+metadata_fields:source_release_date_1,Release date,Fecha de lanzamiento
+metadata_fields:source_release_date_2,Release date,Fecha de lanzamiento
+metadata_fields:source_release_date_3,Release date,Fecha de lanzamiento
+metadata_fields:source_release_date_4,Release date,Fecha de lanzamiento
+metadata_fields:source_release_date_5,Release date,Fecha de lanzamiento
+metadata_fields:source_release_date_6,Release date,Fecha de lanzamiento
+metadata_fields:source_statistical_classification_1,Statistical classification,Clasificación estadística
+metadata_fields:source_statistical_classification_2,Statistical classification,Clasificación estadística
+metadata_fields:source_statistical_classification_3,Statistical classification,Clasificación estadística
+metadata_fields:source_statistical_classification_4,Statistical classification,Clasificación estadística
+metadata_fields:source_statistical_classification_5,Statistical classification,Clasificación estadística
+metadata_fields:source_statistical_classification_6,Statistical classification,Clasificación estadística
+metadata_fields:source_url_1,Link to data source,Enlace a la fuente de datos
+metadata_fields:source_url_2,Link to data source,Enlace a la fuente de datos
+metadata_fields:source_url_3,Link to data source,Enlace a la fuente de datos
+metadata_fields:source_url_4,Link to data source,Enlace a la fuente de datos
+metadata_fields:source_url_5,Link to data source,Enlace a la fuente de datos
+metadata_fields:source_url_6,Link to data source,Enlace a la fuente de datos
+metadata_fields:target,Target name,Nombre de destino
+metadata_fields:target_id,Target number,Número objetivo
+metadata_fields:un_custodian_agency,UN custodian agency,Agencia de custodia de la ONU
+metadata_fields:un_designated_tier,UN designated tier,Nivel designado por la ONU
 global_targets:1.1---title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","De aquí a 2030, erradicar para todas las personas y en todo el mundo la pobreza extrema (actualmente se considera que sufren pobreza extrema las personas que viven con menos de 1,25 dólares de los Estados Unidos al día)"
 global_targets:1.2---title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","De aquí a 2030, reducir al menos a la mitad la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales"
 global_targets:1.3---title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Implementar a nivel nacional sistemas y medidas apropiados de protección social para todos, incluidos niveles mínimos, y, de aquí a 2030, lograr una amplia cobertura de las personas pobres y vulnerables"
@@ -168,113 +342,14 @@ global_targets:9.5---title,"Enhance scientific research, upgrade the technologic
 global_targets:9.a---title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Facilitar el desarrollo de infraestructuras sostenibles y resilientes en los países en desarrollo mediante un mayor apoyo financiero, tecnológico y técnico a los países africanos, los países menos adelantados, los países en desarrollo sin litoral y los pequeños Estados insulares en desarrollo"
 global_targets:9.b---title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Apoyar el desarrollo de tecnologías, la investigación y la innovación nacionales en los países en desarrollo, incluso garantizando un entorno normativo propicio a la diversificación industrial y la adición de valor a los productos básicos, entre otras cosas"
 global_targets:9.c---title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,Aumentar significativamente el acceso a la tecnología de la información y las comunicaciones y esforzarse por proporcionar acceso universal y asequible a Internet en los países menos adelantados de aquí a 2020
-post:posts_by_category,Posts by Category,Publicaciones por categoría
-post:view_all_in_category,View all posts in the %category_name category,Ver todas las publicaciones en la categoría %category_name
-status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
-status:overall_reporting_status,Overall Reporting Status,Estado general de informes
-status:reported_online,Reported online,Reportado en línea
-status:reporting_status,Reporting Status,Estado de informes
-status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
-menu:about,About,Acerca de
-menu:contact_us,Contact us,Contáctenos
-menu:cookies,Cookies,Galletas
-menu:faq,FAQ,Preguntas más frecuentes
-menu:guidance,Guidance,Dirección
-menu:menu,Menu,Menú
-menu:publications,Publications,Publicaciones
-menu:reporting_status,Reporting Status,Estado de informes
-languages:en,English,English
-languages:es,Español,Español
-languages:fr,Français,Français
-languages:zh,中文,中文
-metadata_fields:comments_limitations,Other information,Otra información
-metadata_fields:computation_calculations,Calculations,Cálculos
-metadata_fields:computation_definitions,Definitions,Definiciones
-metadata_fields:computation_units,Unit of measurement,Unidad de medida
-metadata_fields:goal_meta_link,Link to UN metadata,Enlace a los metadatos de la ONU
-metadata_fields:indicator,Indicator number,Número de indicador
-metadata_fields:indicator_definition,Global indicator description,Descripción del indicador global
-metadata_fields:indicator_name,Indicator name,Nombre del indicador
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Orden de visualización del indicador (dentro de la página de Goal)
-metadata_fields:national_data_update_url,Data last updated,Datos actualizados por última vez
-metadata_fields:national_geographical_coverage,Geographical coverage,Cobertura geográfica
-metadata_fields:national_indicator_available,Indicator available,Indicador disponible
-metadata_fields:national_indicator_description,Indicator description,Descripción del indicador
-metadata_fields:national_metadata_update_url,Metadata last updated,Metadatos actualizados por última vez
-metadata_fields:source_contact_1,Contact details,Detalles de contacto
-metadata_fields:source_contact_2,Contact details,Detalles de contacto
-metadata_fields:source_contact_3,Contact details,Detalles de contacto
-metadata_fields:source_contact_4,Contact details,Detalles de contacto
-metadata_fields:source_contact_5,Contact details,Detalles de contacto
-metadata_fields:source_contact_6,Contact details,Detalles de contacto
-metadata_fields:source_earliest_available_1,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_earliest_available_2,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_earliest_available_3,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_earliest_available_4,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_earliest_available_5,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_earliest_available_6,Earliest available data,Los datos disponibles más antiguos
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Cobertura geográfica
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Cobertura geográfica
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Cobertura geográfica
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Cobertura geográfica
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Cobertura geográfica
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Cobertura geográfica
-metadata_fields:source_next_release_1,Next release,Siguiente lanzamiento
-metadata_fields:source_next_release_2,Next release,Siguiente lanzamiento
-metadata_fields:source_next_release_3,Next release,Siguiente lanzamiento
-metadata_fields:source_next_release_4,Next release,Siguiente lanzamiento
-metadata_fields:source_next_release_5,Next release,Siguiente lanzamiento
-metadata_fields:source_next_release_6,Next release,Siguiente lanzamiento
-metadata_fields:source_organisation_1,Organisation,Organización
-metadata_fields:source_organisation_2,Organisation,Organización
-metadata_fields:source_organisation_3,Organisation,Organización
-metadata_fields:source_organisation_4,Organisation,Organización
-metadata_fields:source_organisation_5,Organisation,Organización
-metadata_fields:source_organisation_6,Organisation,Organización
-metadata_fields:source_other_info_1,Other information,Otra información
-metadata_fields:source_other_info_2,Other information,Otra información
-metadata_fields:source_other_info_3,Other information,Otra información
-metadata_fields:source_other_info_4,Other information,Otra información
-metadata_fields:source_other_info_5,Other information,Otra información
-metadata_fields:source_other_info_6,Other information,Otra información
-metadata_fields:source_periodicity_1,Periodicity,Periodicidad
-metadata_fields:source_periodicity_2,Periodicity,Periodicidad
-metadata_fields:source_periodicity_3,Periodicity,Periodicidad
-metadata_fields:source_periodicity_4,Periodicity,Periodicidad
-metadata_fields:source_periodicity_5,Periodicity,Periodicidad
-metadata_fields:source_periodicity_6,Periodicity,Periodicidad
-metadata_fields:source_release_date_1,Release date,Fecha de lanzamiento
-metadata_fields:source_release_date_2,Release date,Fecha de lanzamiento
-metadata_fields:source_release_date_3,Release date,Fecha de lanzamiento
-metadata_fields:source_release_date_4,Release date,Fecha de lanzamiento
-metadata_fields:source_release_date_5,Release date,Fecha de lanzamiento
-metadata_fields:source_release_date_6,Release date,Fecha de lanzamiento
-metadata_fields:source_statistical_classification_1,Statistical classification,Clasificación estadística
-metadata_fields:source_statistical_classification_2,Statistical classification,Clasificación estadística
-metadata_fields:source_statistical_classification_3,Statistical classification,Clasificación estadística
-metadata_fields:source_statistical_classification_4,Statistical classification,Clasificación estadística
-metadata_fields:source_statistical_classification_5,Statistical classification,Clasificación estadística
-metadata_fields:source_statistical_classification_6,Statistical classification,Clasificación estadística
-metadata_fields:source_url_1,Link to data source,Enlace a la fuente de datos
-metadata_fields:source_url_2,Link to data source,Enlace a la fuente de datos
-metadata_fields:source_url_3,Link to data source,Enlace a la fuente de datos
-metadata_fields:source_url_4,Link to data source,Enlace a la fuente de datos
-metadata_fields:source_url_5,Link to data source,Enlace a la fuente de datos
-metadata_fields:source_url_6,Link to data source,Enlace a la fuente de datos
-metadata_fields:target,Target name,Nombre de destino
-metadata_fields:target_id,Target number,Número objetivo
-metadata_fields:un_custodian_agency,UN custodian agency,Agencia de custodia de la ONU
-metadata_fields:un_designated_tier,UN designated tier,Nivel designado por la ONU
-header:alpha,Alpha,Alfa
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Este es un sitio web de desarrollo. Agradecemos sus comentarios.
-header:skip_link,Skip to main content,Saltar al contenido principal
-header:tag_line,17 Goals to Transform our World,17 Metas para transformar nuestro mundo
 search:found_in,found in,encontrado en
 search:indicator_search,Indicator search,Búsqueda de indicador
 search:keywords,Keywords,Palabras clave
 search:no_results,No results,No hay resultados
 search:search,Search,Buscar
 search:search_results_for,Search results for,Resultados de búsqueda para
+post:posts_by_category,Posts by Category,Publicaciones por categoría
+post:view_all_in_category,View all posts in the %category_name category,Ver todas las publicaciones en la categoría %category_name
 global_indicators:1.1.1---title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)"
 global_indicators:1.1.1a---custodian_agency,World Bank (WB),
 global_indicators:1.1.1a---definition,The indicator Proportion of population below the international poverty line is defined as the percentage of the population living on less than $1.90 a day at 2011 international prices. The 'international poverty line' is currently set at $1.90 a day at 2011 international prices.,
@@ -1020,82 +1095,7 @@ global_indicators:9.c.1---custodian_agency,International Telecommunication Union
 global_indicators:9.c.1---definition,"Proportion of population covered by a mobile network, broken down by technology, refers to the percentage of inhabitants living within range of a mobile-cellular signal, irrespective of whether or not they are mobile phone subscribers or users. This is calculated by dividing the number of inhabitants within range of a mobile-cellular signal by the total population and multiplying by 100.",
 global_indicators:9.c.1---metadata_link,https://unstats.un.org/sdgs/metadata/files/Metadata-09-0C-01.pdf,
 global_indicators:9.c.1---title,"Proportion of population covered by a mobile network, by technology","Proporción de la población con cobertura de red móvil, desglosada por tecnología"
-indicator:chart,Chart,Gráfico
-indicator:clear_all,Clear all,Limpiar todo
-indicator:clear_selections,Clear selections,Borrar selecciones
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Hay demasiados conjuntos de datos para mostrar en el gráfico. No todo se mostrará hasta que elimine algunas selecciones.
-indicator:download_chart,Download Chart CSV,Descargar Chart CSV
-indicator:download_csv,Download CSV,Descargar CSV
-indicator:download_csv_title,Download as CSV,Descargar como CSV
-indicator:download_headline,Download Headline CSV,Descargar Headline CSV
-indicator:download_headline_title,Download headline data as CSV,Descargar los datos del titular como CSV
-indicator:download_source,Download Source CSV,Descargar Source CSV
-indicator:download_source_title,Download source data as CSV,Descargar los datos fuente como CSV
-indicator:download_table,Download Table CSV,Descargar la tabla CSV
-indicator:edit,Edit,Editar
-indicator:edit_data,Edit Data,Editar datos
-indicator:edit_metadata,Edit Metadata,Editar metadatos
-indicator:footnote,Footnote,Nota
-indicator:geographical_area,Geographical Area,Área geográfica
-indicator:global_metadata,Global Metadata,Metadatos globales
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Esta tabla proporciona información sobre los metadatos para los indicadores de los ODS tal como los define la Comisión de Estadística de la ONU. <a href=""https://unstats.un.org/sdgs/metadata/"">La</a> División de Estadística de las Naciones Unidas proporciona <a href=""https://unstats.un.org/sdgs/metadata/"">los metadatos globales completos</a> ."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Haga clic en la leyenda para eliminar líneas individuales del gráfico.
-indicator:loading_map,Loading map,Cargando mapa
-indicator:map,Map,Mapa
-indicator:national_metadata,National Metadata,Metadatos nacionales
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Esta tabla proporciona metadatos para el indicador real disponible a partir de las estadísticas de %country_name más cercanas al correspondiente indicador global de SDG. Tenga en cuenta que incluso cuando el indicador global de ODS esté totalmente disponible a partir de las estadísticas de %country_adjective, se debe consultar esta tabla para obtener información sobre la metodología nacional y otra información de metadatos específicos de %country_adjective."
-indicator:no_data_hint,No options available because of filters above,No hay opciones disponibles debido a los filtros anteriores
-indicator:select_all,Select all,Seleccionar todo
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,Elija categorías de las listas desplegables a continuación para ver diferentes desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel superior.
-indicator:source,Source,Fuente
-indicator:sources,Sources,Fuentes
-indicator:sub_categories,Sub-categories,Subcategorías
-indicator:table,Table,Mesa
-indicator:unit_of_measurement,Unit of Measurement,Unidad de medida
-indicator:units_type,Units type,Tipo de unidades
-indicator:variable_hint,Available when '%field' is selected,Disponible cuando se selecciona '%field'
-indicator:view_indicator_list,View this goal's indicator list,Ver la lista de indicadores de este objetivo
-general:goal,Goal,Gol
-general:goals,Goals,Metas
-general:home,Home,Casa
-general:indicator,Indicator,Indicador
-general:indicators,Indicators,Indicadores
-general:loading,Loading search results,Cargando resultados de búsqueda
-general:opens_new_window,opens in a new window,Se abre en una nueva ventana
-general:sdg,Sustainable Development Goals,Objetivos de Desarrollo Sostenible
-global_goals:1---short,No Poverty,Fin de la Pobreza
-global_goals:1---title,End poverty in all its forms everywhere,Poner fin a la pobreza en todas sus formas y en todo el mundo
-global_goals:10---short,Reduced inequalities,Reducción de las Desigualdades
-global_goals:10---title,Reduce inequality within and among countries,Reducir la desigualdad en los países y entre ellos
-global_goals:11---short,Sustainable Cities & Communities,Cuidades y Comunidades Sostenibles
-global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles"
-global_goals:12---short,Responsible consumption and production,Producción y Consumo Responsables
-global_goals:12---title,Ensure sustainable consumption and production patterns,Garantizar modalidades de consumo y producción sostenibles
-global_goals:13---short,Climate action,Acción por el Clima
-global_goals:13---title,Take urgent action to combat climate change and its impacts,Adoptar medidas urgentes para combatir el cambio climático y sus efectos
-global_goals:14---short,Life below water,Vida Submarina
-global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible"
-global_goals:15---short,Life on land,Vida de Ecosistemas Terrestres
-global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad"
-global_goals:16---short,Peace and justice - strong institutions,"Paz, Justicia e Instituciones Sólidas"
-global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas"
-global_goals:17---short,Partnerships for the goals,Alianzas para Lograr los Objetivos
-global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible
-global_goals:2---short,Zero Hunger,Hambre Cero
-global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible"
-global_goals:3---short,Good Health and Well-being,Salud y Bienestar
-global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,Garantizar una vida sana y promover el bienestar de todos a todas las edades
-global_goals:4---short,Quality Education,Educación de Calidad
-global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos
-global_goals:5---short,Gender Equality,Igualdad de Género
-global_goals:5---title,Achieve gender equality and empower all women and girls,Lograr la igualdad de género y empoderar a todas las mujeres y las niñas
-global_goals:6---short,Clean water and sanitation,Agua Limpia y Saneamiento
-global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,Garantizar la disponibilidad y la gestión sostenible del agua y el saneamiento para todos
-global_goals:7---short,Affordable and clean energy,Energía Asequible y No Contaminante
-global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos"
-global_goals:8---short,Decent jobs and economic growth,Trabajo Decente y Crecimiento Económico
-global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos"
-global_goals:9---short,"Industry, innovation and infrastructure","Industria, Innovación e Infraestructura"
-global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación"
-frontpage:heading,data for Sustainable Development Goal indicators,datos para los indicadores de los Objetivos de Desarrollo Sostenible
-frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.","Haga clic en cada objetivo %before_link, o busque, %after_link para las estadísticas %country_name para Objetivo de desarrollo sostenible global indicadores."
+languages:en,English,English
+languages:es,Español,Español
+languages:fr,Français,Français
+languages:zh,中文,中文

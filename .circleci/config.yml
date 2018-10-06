@@ -43,10 +43,15 @@ jobs:
           paths:
             - ./venv
       - run:
-          name: Validate the translation data.
+          name: Build the translation data.
           command: |
             . venv/bin/activate
             python3 scripts/build_translations.py
+      - run:
+          name: Export the current languages for translation.
+          command: |
+            . venv/bin/activate
+            python3 scripts/export_languages.py
       - persist_to_workspace:
           root: ~/repo
           paths:

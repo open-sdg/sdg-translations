@@ -21,14 +21,8 @@ def parse_translation_data(filepath):
             # Could not load the file, return an empty object.
             return {}
 
-def main():
-
-    # Abort if there is no parameter provided.
-    if len(sys.argv) < 2:
-        sys.exit('Provide a 2-letter abbreviation for the target language.')
-
+def export_language(language, folder):
     src_language = 'en'
-    language = sys.argv[1]
     rows = []
     src = os.path.join('translations', src_language)
     dest = os.path.join('translations', language)
@@ -66,11 +60,22 @@ def main():
     keys = rows[0].keys()
 
     # Write our results to a file.
+    if not os.path.exists(folder):
+        os.makedirs(folder, exist_ok=True)
     csv_filename = 'sdg_translations_' + language + '.csv'
-    with open(csv_filename, 'w') as output_file:
+    csv_filepath = os.path.join(folder, csv_filename)
+    with open(csv_filepath, 'w') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(rows)
+
+def main():
+
+    # Abort if there is no parameter provided.
+    if len(sys.argv) < 2:
+        sys.exit('Provide a 2-letter abbreviation for the target language.')
+    language = sys.argv[1]
+    export_language(language)
 
 # Boilerplace syntax for running the main function.
 if __name__ == '__main__':

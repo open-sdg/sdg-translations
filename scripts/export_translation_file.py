@@ -9,6 +9,42 @@ import pandas as pd
 import csv
 import sys
 
+# Decide if we actually want to export a particular key.
+def should_we_omit_key(key, language):
+
+    # Ignore keys that start with and end with these values.
+    starts_with_and_ends_with = [
+        # No need to translate URLs.
+        ('global_indicators', 'metadata_link'),
+        # No need to translate organisation names.
+        ('global_indicators', 'custodian_agency'),
+    ]
+    # Add some more for offical UN languages.
+    official_un_languages = ['es', 'fr', 'zh']
+    if language in official_un_languages:
+        starts_with_and_ends_with.extend([
+            # The titles for these are pulled directly from UN sources.
+            ('global_indicators', 'title'),
+            ('global_targets', 'title'),
+            ('global_goals', 'title'),
+        ])
+    # Ignore keys that start with these values.
+    starts_with = [
+        # This key is identical in all languages.
+        'languages'
+    ]
+
+    # Now do the actual ignoring.
+    for item in starts_with_and_ends_with:
+        if key.startswith(item[0]) and key.endswith(item[1]):
+            return True
+    for item in starts_with:
+        if key.startswith(item):
+            return True
+
+    # Still here? It must be fine.
+    return False
+
 # Parse and "flatten" the yaml from a translation file.
 def parse_translation_data(filepath):
     with open(filepath, 'r') as stream:
@@ -47,11 +83,15 @@ def export_language(language, folder):
                 dest_data = parse_translation_data(dest_filepath)
             # Loop through the source data and append rows for the CSV output.
             for key in src_data:
+                full_key = no_extension + ':' + key
+                # First make sure we shouldn't ignore this one.
+                if should_we_omit_key(full_key, language):
+                    continue
                 rows.append({
                     # First column is a combination of the filename and the
                     # "flattened" key, separated by a colon. For example:
                     # frontpage:disclaimer_text
-                    'key': no_extension + ':' + key,
+                    'key': full_key,
                     # Second column is the source language - English.
                     src_language: src_data[key],
                     # Third column is the destination language, if it exists.

@@ -4,7 +4,9 @@ Numbers in parenthesis below refer to Github issues or pull-requests.
 
 ## Unreleased changes
 
-None currently.
+### Functionality
+
+* Omit certain keys from translation CSV exports. (#13)
 
 ## 0.2.0
 

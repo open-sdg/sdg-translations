@@ -62,7 +62,7 @@ def export_language(language, folder):
     # Write our results to a file.
     if not os.path.exists(folder):
         os.makedirs(folder, exist_ok=True)
-    csv_filename = 'sdg_translations_' + language + '.csv'
+    csv_filename = 'sdg-translations-' + language + '.csv'
     csv_filepath = os.path.join(folder, csv_filename)
     with open(csv_filepath, 'w') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)

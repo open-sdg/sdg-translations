@@ -18,6 +18,9 @@ def main():
   for language in current_languages:
     export.export_language(language, folder)
 
+  # Also, export a 'blank' one for new languages.
+  export.export_language('blank', folder)
+
 # Boilerplace syntax for running the main function.
 if __name__ == '__main__':
   main()

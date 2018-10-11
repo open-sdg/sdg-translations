@@ -4,20 +4,20 @@ This repository contains a set of translations of common words and phrases inten
 
 The translations are compiled and available at:
 
-http://brock.tips/sdg-translations/translations.json
+https://opendataenterprise.github.io/sdg-translations/translations.json
 
 ## Previous releases
 
 Each past release is available separately, according to its tag. For example, release 0.1.0 is available at:
 
-http://brock.tips/sdg-translations/translations-0.1.0.json
+https://opendataenterprise.github.io/sdg-translations/translations-0.1.0.json
 
 ## Exports for translation audits
 
 The translations for the current languages are available in spreadsheet form for ease of translation audits. The spreadsheets avaiable include:
-* [Spanish](http://brock.tips/sdg-translations/sdg-translations-es.csv)
-* [French](http://brock.tips/sdg-translations/sdg-translations-fr.csv)
-* [Chinese](http://brock.tips/sdg-translations/sdg-translations-zh.csv)
+* [Spanish](https://opendataenterprise.github.io/sdg-translations/sdg-translations-es.csv)
+* [French](https://opendataenterprise.github.io/sdg-translations/sdg-translations-fr.csv)
+* [Chinese](https://opendataenterprise.github.io/sdg-translations/sdg-translations-zh.csv)
 
 In these spreadsheets the English translations sit in a column alongside the translations for the target language, if any.
 
@@ -27,7 +27,7 @@ The purpose of this is to facilitate an audit of the translations, or to facilia
 
 Along the same lines as the exports mentioned above, there is a "blank" export available to help with new languages. That spreadsheet is available at:
 
-http://brock.tips/sdg-translations/sdg-translations-blank.csv
+https://opendataenterprise.github.io/sdg-translations/sdg-translations-blank.csv
 
 ## Manual exports
 

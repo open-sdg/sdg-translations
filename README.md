@@ -6,6 +6,12 @@ The translations are compiled and available at:
 
 https://opendataenterprise.github.io/sdg-translations/translations.json
 
+## Translation search and context
+
+A simple search app is available [here](https://opendataenterprise.github.io/sdg-translations) for finding the status of a particular translation. The results here may include contextual information as well, to help translators decide on the best translations.
+
+Please let us know through the [issue queue](https://github.com/OpenDataEnterprise/sdg-translations/issues) if contextual information is needed about a particular translation.
+
 ## Previous releases
 
 Each past release is available separately, according to its tag. For example, release 0.1.0 is available at:

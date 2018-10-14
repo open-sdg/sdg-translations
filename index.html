@@ -45,13 +45,87 @@
     <section class="usa-grid usa-section">
       <div>
         <h3>Search for translations</h3>
-        <input class="translation-search" />
+        <input id="search-bar" />
+      </div>
+      <div id="search-results">
       </div>
     </section>
 
   </main>
 
 
+  <!-- modernizr or whatever for es6 -->
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/1.6.8/js/uswds.min.js"></script>
+  <script>
+    fetch('translations.json')
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(languages) {
+      // Convert the json into an array of documents for Lunr to index.
+      var docs = {};
+      Object.entries(languages).map(([lang, groups]) => {
+        if (groups) {
+          Object.entries(groups).map(([group, keys]) => {
+            if (keys) {
+              Object.entries(keys).map(([key, val]) => {
+                // Support either objects of strings, or just strings.
+                if (typeof val === 'object') {
+                  Object.entries(val).map(([subkey, subval]) => {
+                    doc_key = [group, key, subkey].join('.');
+                    if (!docs[doc_key]) {
+                      docs[doc_key] = {};
+                    }
+                    docs[doc_key]['key'] = doc_key;
+                    docs[doc_key][lang] = subval;
+                  });
+                }
+                else {
+                  doc_key = [group, key].join('.');
+                  if (!docs[doc_key]) {
+                    docs[doc_key] = {};
+                  }
+                  docs[doc_key]['key'] = doc_key;
+                  docs[doc_key][lang] = val;
+                }
+              });
+            }
+          });
+        }
+      });
+
+      // Set up the Lunr index.
+      var idx = lunr(function() {
+        this.ref('key');
+        Object.keys(languages).forEach(function(lang) {
+          this.field(lang);
+        }, this);
+        Object.values(docs).forEach(function(doc) {
+          this.add(doc);
+        }, this);
+      });
+
+      // Apply behavior to search input.
+      var search_bar = document.getElementById('search-bar');
+      var search_results = document.getElementById('search-results');
+      search_bar.addEventListener('keyup', function(e) {
+        if (this.value.length > 3) {
+          var matches = idx.search(this.value);
+          var results = '<p>No translations found.</p>';
+          if (matches.length) {
+            results = '';
+            matches.forEach(function(match) {
+              results += '<pre>' + JSON.stringify(docs[match.ref], null, 2) + '</pre>';
+            });
+          }
+          search_results.innerHTML = results;
+        }
+      });
+    })
+    .catch(function(failure) {
+      console.log(failure);
+    });
+  </script>
 </body>
 </html>

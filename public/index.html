@@ -73,7 +73,7 @@
                 // Support either objects of strings, or just strings.
                 if (typeof val === 'object') {
                   Object.entries(val).map(([subkey, subval]) => {
-                    doc_key = [group, key, subkey].join('.');
+                    var doc_key = group + ':' + key + '---' + subkey;
                     if (!docs[doc_key]) {
                       docs[doc_key] = {};
                     }
@@ -82,7 +82,7 @@
                   });
                 }
                 else {
-                  doc_key = [group, key].join('.');
+                  var doc_key = group + ':' + key;
                   if (!docs[doc_key]) {
                     docs[doc_key] = {};
                   }
@@ -98,6 +98,7 @@
       // Set up the Lunr index.
       var idx = lunr(function() {
         this.ref('key');
+        this.field('key');
         Object.keys(languages).forEach(function(lang) {
           this.field(lang);
         }, this);
@@ -111,7 +112,9 @@
       var search_results = document.getElementById('search-results');
       search_bar.addEventListener('keyup', function(e) {
         if (this.value.length > 3) {
-          var matches = idx.search(this.value);
+          // Escape colons since we use them in translation keys.
+          var search_query = this.value.replace(":", "\\:");
+          var matches = idx.search(search_query);
           var results = '<p>No translations found.</p>';
           if (matches.length) {
             results = '';

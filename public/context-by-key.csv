@@ -1,0 +1,4 @@
+key,context
+indicator:edit,A button for editing some content
+indicator:edit_data,A button for editing data
+indicator:edit_metadata,A button for editing metadata

@@ -7,6 +7,7 @@ import os
 import yaml
 import json
 from git import Repo
+from shutil import copyfile
 
 def build_translations(output_file):
     status = True
@@ -48,12 +49,14 @@ def main():
 
     # Loop through all the past Git tags.
     repo = Repo(os.getcwd())
+    # Save the current branch for later.
+    branch = repo.active_branch.name
     for tag in repo.tags:
         # Switch to the tag and build another version.
         repo.git.checkout(tag)
         build_translations('translations-' + str(tag) + '.json')
-
-    # TODO: This should clean up by going back to the original branch.
+    # Go back to the current branch.
+    repo.git.checkout(branch)
 
     return status
 

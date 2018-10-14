@@ -42,10 +42,10 @@
       </div>
     </section>
 
-    <section class="usa-grid usa-section">
+    <section class="usa-grid">
       <div>
-        <h3>Search for translations</h3>
-        <input id="search-bar" />
+        <label for="search-bar">Search for translations</label>
+        <input id="search-bar" name="search-bar" type="text">
       </div>
       <div id="search-results">
       </div>
@@ -58,7 +58,7 @@
   <script src="https://unpkg.com/lunr/lunr.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uswds/1.6.8/js/uswds.min.js"></script>
   <script>
-    fetch('translations.json')
+    fetch('https://opendataenterprise.github.io/sdg-translations/translations.json')
     .then(function(response) {
       return response.json();
     })

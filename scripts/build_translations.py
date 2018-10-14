@@ -58,6 +58,9 @@ def main():
     # Go back to the current branch.
     repo.git.checkout(branch)
 
+    # Copy the single-page-app into the _site folder for Github Pages.
+    copyfile('index.html', os.path.join('_site', 'index.html'))
+
     return status
 
 if __name__ == '__main__':

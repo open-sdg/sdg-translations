@@ -1,0 +1,14 @@
+[
+  {
+    "key": "indicator:edit",
+    "context": "A button for editing some content"
+  },
+  {
+    "key": "indicator:edit_data",
+    "context": "A button for editing data"
+  },
+  {
+    "key": "indicator:edit_metadata",
+    "context": "A button for editing metadata"
+  }
+]

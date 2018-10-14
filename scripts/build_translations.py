@@ -6,6 +6,7 @@ Convert the YAML translation files into a single JSON file.
 import os
 import yaml
 import json
+import shutil
 from git import Repo
 
 def build_translations(output_file):
@@ -48,12 +49,21 @@ def main():
 
     # Loop through all the past Git tags.
     repo = Repo(os.getcwd())
+    # Save the current branch for later.
+    branch = repo.active_branch.name
     for tag in repo.tags:
         # Switch to the tag and build another version.
         repo.git.checkout(tag)
         build_translations('translations-' + str(tag) + '.json')
+    # Go back to the current branch.
+    repo.git.checkout(branch)
 
-    # TODO: This should clean up by going back to the original branch.
+    # Copy any other public files into the _site folder for Github Pages.
+    src_files = os.listdir('public')
+    for file_name in src_files:
+        full_file_name = os.path.join('public', file_name)
+        if (os.path.isfile(full_file_name)):
+            shutil.copy(full_file_name, '_site')
 
     return status
 

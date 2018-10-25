@@ -108,7 +108,7 @@ def export_language(language, folder):
         os.makedirs(folder, exist_ok=True)
     csv_filename = 'sdg-translations-' + language + '.csv'
     csv_filepath = os.path.join(folder, csv_filename)
-    with open(csv_filepath, 'w') as output_file:
+    with open(csv_filepath, 'w', encoding='utf-8-sig') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(rows)

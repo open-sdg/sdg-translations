@@ -1,10 +1,27 @@
-key,en,es
-search:found_in,found in,encontrado en
-search:indicator_search,Indicator search,Búsqueda de indicador
-search:keywords,Keywords,Palabras clave
-search:no_results,No results,No hay resultados
-search:search,Search,Buscar
-search:search_results_for,Search results for,Resultados de búsqueda para
+﻿key,en,es
+menu:about,About,Acerca de
+menu:contact_us,Contact us,Contáctenos
+menu:cookies,Cookies,Galletas
+menu:faq,FAQ,FAQ
+menu:guidance,Guidance,Dirección
+menu:menu,Menu,Menú
+menu:publications,Publications,Publicaciones
+menu:reporting_status,Reporting Status,Estado de informes
+general:goal,Goal,Gol
+general:goals,Goals,Metas
+general:home,Home,Casa
+general:indicator,Indicator,Indicador
+general:indicators,Indicators,Indicadores
+general:loading,Loading search results,Cargando resultados de búsqueda
+general:opens_new_window,opens in a new window,Se abre en una nueva ventana
+general:sdg,Sustainable Development Goals,Objetivos de Desarrollo Sostenible
+status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
+status:overall_reporting_status,Overall Reporting Status,Estado general de informes
+status:reported_online,Reported online,Reportado en línea
+status:reporting_status,Reporting Status,Estado de informes
+status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
+frontpage:heading,data for Sustainable Development Goal indicators,datos para los indicadores de los Objetivos de Desarrollo Sostenible
+frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.","Haga clic en cada objetivo %before_link, o busque, %after_link para las estadísticas %country_name para Objetivo de desarrollo sostenible global indicadores."
 indicator:chart,Chart,Gráfico
 indicator:clear_all,Clear all,Limpiar todo
 indicator:clear_selections,Clear selections,Borrar selecciones
@@ -40,6 +57,8 @@ indicator:unit_of_measurement,Unit of Measurement,Unidad de medida
 indicator:units_type,Units type,Tipo de unidades
 indicator:variable_hint,Available when '%field' is selected,Disponible cuando se selecciona '%field'
 indicator:view_indicator_list,View this goal's indicator list,Ver la lista de indicadores de este objetivo
+post:posts_by_category,Posts by Category,Publicaciones por categoría
+post:view_all_in_category,View all posts in the %category_name category,Ver todas las publicaciones en la categoría %category_name
 metadata_fields:comments_limitations,Other information,Otra información
 metadata_fields:computation_calculations,Calculations,Cálculos
 metadata_fields:computation_definitions,Definitions,Definiciones
@@ -118,8 +137,12 @@ metadata_fields:target,Target name,Nombre de destino
 metadata_fields:target_id,Target number,Número objetivo
 metadata_fields:un_custodian_agency,UN custodian agency,Agencia de custodia de la ONU
 metadata_fields:un_designated_tier,UN designated tier,Nivel designado por la ONU
-frontpage:heading,data for Sustainable Development Goal indicators,datos para los indicadores de los Objetivos de Desarrollo Sostenible
-frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.","Haga clic en cada objetivo %before_link, o busque, %after_link para las estadísticas %country_name para Objetivo de desarrollo sostenible global indicadores."
+search:found_in,found in,encontrado en
+search:indicator_search,Indicator search,Búsqueda de indicador
+search:keywords,Keywords,Palabras clave
+search:no_results,No results,No hay resultados
+search:search,Search,Buscar
+search:search_results_for,Search results for,Resultados de búsqueda para
 global_goals:1---short,No Poverty,Fin de la Pobreza
 global_goals:10---short,Reduced inequalities,Reducción de las Desigualdades
 global_goals:11---short,Sustainable Cities & Communities,Cuidades y Comunidades Sostenibles
@@ -141,26 +164,3 @@ header:alpha,Alpha,Alfa
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Este es un sitio web de desarrollo. Agradecemos sus comentarios.
 header:skip_link,Skip to main content,Saltar al contenido principal
 header:tag_line,17 Goals to Transform our World,17 Metas para transformar nuestro mundo
-status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
-status:overall_reporting_status,Overall Reporting Status,Estado general de informes
-status:reported_online,Reported online,Reportado en línea
-status:reporting_status,Reporting Status,Estado de informes
-status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
-post:posts_by_category,Posts by Category,Publicaciones por categoría
-post:view_all_in_category,View all posts in the %category_name category,Ver todas las publicaciones en la categoría %category_name
-menu:about,About,Acerca de
-menu:contact_us,Contact us,Contáctenos
-menu:cookies,Cookies,Galletas
-menu:faq,FAQ,FAQ
-menu:guidance,Guidance,Dirección
-menu:menu,Menu,Menú
-menu:publications,Publications,Publicaciones
-menu:reporting_status,Reporting Status,Estado de informes
-general:goal,Goal,Gol
-general:goals,Goals,Metas
-general:home,Home,Casa
-general:indicator,Indicator,Indicador
-general:indicators,Indicators,Indicadores
-general:loading,Loading search results,Cargando resultados de búsqueda
-general:opens_new_window,opens in a new window,Se abre en una nueva ventana
-general:sdg,Sustainable Development Goals,Objetivos de Desarrollo Sostenible

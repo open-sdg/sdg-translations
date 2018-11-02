@@ -34,11 +34,12 @@ indicator:unit_of_measurement,Unit of Measurement,Unité de mesure
 indicator:units_type,Units type,Type d&#39;unités
 indicator:variable_hint,Available when '%field' is selected,Disponible lorsque le champ '%field' est sélectionné
 indicator:view_indicator_list,View this goal's indicator list,Voir la liste des indicateurs de cet objectif
-status:exploring_data_sources,Exploring data sources,Explorer les sources de données
-status:overall_reporting_status,Overall Reporting Status,Statut général de rapport
-status:reported_online,Reported online,Signalé en ligne
-status:reporting_status,Reporting Status,Statut de rapport
-status:statistics_in_progress,Statistics in progress,Statistiques en cours
+search:found_in,found in,trouvé dans
+search:indicator_search,Indicator search,Recherche d&#39;indicateur
+search:keywords,Keywords,Mots clés
+search:no_results,No results,Aucun résultat
+search:search,Search,Chercher
+search:search_results_for,Search results for,Résultats de recherche pour
 general:goal,Goal,Objectif
 general:goals,Goals,Buts
 general:home,Home,Accueil
@@ -49,20 +50,13 @@ general:opens_new_window,opens in a new window,Ouvre dans une nouvelle fenêtre
 general:sdg,Sustainable Development Goals,Objectifs de développement durable
 frontpage:heading,data for Sustainable Development Goal indicators,données pour les indicateurs des objectifs de développement durable
 frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.","Cliquez sur chaque objectif %before_link, ou recherchez, %after_link pour %country_name statistiques pour Sustainable Development Goal global indicateurs."
+status:exploring_data_sources,Exploring data sources,Explorer les sources de données
+status:overall_reporting_status,Overall Reporting Status,Statut général de rapport
+status:reported_online,Reported online,Signalé en ligne
+status:reporting_status,Reporting Status,Statut de rapport
+status:statistics_in_progress,Statistics in progress,Statistiques en cours
 post:posts_by_category,Posts by Category,Messages par catégorie
 post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
-header:alpha,Alpha,Alpha
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Ceci est un site de développement. Nous apprécions vos commentaires.
-header:skip_link,Skip to main content,Passer au contenu principal
-header:tag_line,17 Goals to Transform our World,17 objectifs pour transformer notre monde
-menu:about,About,Sur
-menu:contact_us,Contact us,Contactez nous
-menu:cookies,Cookies,Biscuits
-menu:faq,FAQ,FAQ
-menu:guidance,Guidance,Orientation
-menu:menu,Menu,Menu
-menu:publications,Publications,Publications
-menu:reporting_status,Reporting Status,Statut de rapport
 global_goals:1---short,No Poverty,Pas de pauvreté
 global_goals:10---short,Reduced inequalities,Inégalités réduites
 global_goals:11---short,Sustainable Cities & Communities,Villes et communautés durables
@@ -80,12 +74,10 @@ global_goals:6---short,Clean water and sanitation,Eau propre et assainissement
 global_goals:7---short,Affordable and clean energy,Energies propres et d'un coût abordable
 global_goals:8---short,Decent jobs and economic growth,Travaux décent et croissance économique
 global_goals:9---short,"Industry, innovation and infrastructure","Industrie, innovation et infrastructure"
-search:found_in,found in,trouvé dans
-search:indicator_search,Indicator search,Recherche d&#39;indicateur
-search:keywords,Keywords,Mots clés
-search:no_results,No results,Aucun résultat
-search:search,Search,Chercher
-search:search_results_for,Search results for,Résultats de recherche pour
+header:alpha,Alpha,Alpha
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Ceci est un site de développement. Nous apprécions vos commentaires.
+header:skip_link,Skip to main content,Passer au contenu principal
+header:tag_line,17 Goals to Transform our World,17 objectifs pour transformer notre monde
 metadata_fields:comments_limitations,Other information,Les autres informations
 metadata_fields:computation_calculations,Calculations,Calculs
 metadata_fields:computation_definitions,Definitions,Définitions
@@ -164,3 +156,11 @@ metadata_fields:target,Target name,Nom de la cible
 metadata_fields:target_id,Target number,Numéro cible
 metadata_fields:un_custodian_agency,UN custodian agency,Agence dépositaire des Nations Unies
 metadata_fields:un_designated_tier,UN designated tier,Niveau désigné par les Nations Unies
+menu:about,About,Sur
+menu:contact_us,Contact us,Contactez nous
+menu:cookies,Cookies,Biscuits
+menu:faq,FAQ,FAQ
+menu:guidance,Guidance,Orientation
+menu:menu,Menu,Menu
+menu:publications,Publications,Publications
+menu:reporting_status,Reporting Status,Statut de rapport

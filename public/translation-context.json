@@ -1,7 +1,7 @@
 [
   {
     "key": "indicator:edit",
-    "context": "A button for editing some content. "
+    "context": "A button for editing some content"
   },
   {
     "key": "indicator:edit_data",

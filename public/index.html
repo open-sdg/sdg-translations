@@ -113,6 +113,7 @@
       const idx = lunr(function() {
         this.ref('key');
         this.field('key');
+        this.field('context');
         Object.keys(languages).forEach(function(lang) {
           this.field(lang);
         }, this);

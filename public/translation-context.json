@@ -130,5 +130,73 @@
   {
     "key": "metadata_fields:source_statistical_classification_1",
     "context": "A label describing information: some classification of a particular source of data for a particular indicator"
+  },
+  {
+    "key": "metadata_fields:target",
+    "context": "A label describing information: the overall SDG target associated with a particular indicator"
+  },
+  {
+    "key": "metadata_fields:target_id",
+    "context": "A label describing information: the numeric id for the overall SDG target associated with a particular indicator"
+  },
+  {
+    "key": "metadata_fields:un_custodian_agency",
+    "context": "A label describing information: the United Nations custodian agency associated with a particular indicator"
+  },
+  {
+    "key": "metadata_fields:un_designated_tier",
+    "context": "A label describing information: the 'tier' (1, 2, or 3) that the United Nations has assigned to a particular indicator"
+  },
+  {
+    "key": "header:alpha",
+    "context": "This word identifies a software or web project as being in the early stages of development"
+  },
+  {
+    "key": "header:tag_line",
+    "context": "This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title"
+  },
+  {
+    "key": "general:goal",
+    "context": "This is a 'goal' in the sense of the 'Sustainable Development Goals' -- some achievement for a community to aspire to"
+  },
+  {
+    "key": "general:goals",
+    "context": "This is the plural version of the general:goal key"
+  },
+  {
+    "key": "general:home",
+    "context": "This refers to the 'home page' of a website"
+  },
+  {
+    "key": "general:indicator",
+    "context": "This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals"
+  },
+  {
+    "key": "general:indicators",
+    "context": "This is the plural version of the general:indicator key"
+  },
+  {
+    "key": "search:indicator_search",
+    "context": "This refers to a section of the site for performing keyword searches to find particular indicators"
+  },
+  {
+    "key": "search:no_results",
+    "context": "A message for the user, after they have performed an online search, to indicate that their search produced no results"
+  },
+  {
+    "key": "search:search_results_for",
+    "context": "A message for describing a set of search results -- to be followed by whatever the user searched for. For example, if the user searched for 'foo', this might be: 'Search results for foo'"
+  },
+  {
+    "key": "menu:about",
+    "context": "An item for a website's navigation menu pointing to its 'About' page, which will provide general information about the website"
+  },
+  {
+    "key": "menu:menu",
+    "context": "A label describing the navigation menu of a website"
+  },
+  {
+    "key": "menu:reporting_status",
+    "context": "An item for a website's navigation menu pointing to its 'Reporting Status' page, which will provide information and status about the current state of each indicator, in terms of whether the site has data or not"
   }
 ]

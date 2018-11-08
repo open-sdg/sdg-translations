@@ -58,13 +58,6 @@ def main():
     # Go back to the current branch.
     repo.git.checkout(branch)
 
-    # Copy any other public files into the _site folder for Github Pages.
-    src_files = os.listdir('public')
-    for file_name in src_files:
-        full_file_name = os.path.join('public', file_name)
-        if (os.path.isfile(full_file_name)):
-            shutil.copy(full_file_name, '_site')
-
     return status
 
 if __name__ == '__main__':

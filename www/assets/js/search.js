@@ -1,9 +1,11 @@
+---
+---
 async function init() {
   try {
     const data = await Promise.all([
-      fetch('https://opendataenterprise.github.io/sdg-translations/translations.json')
+      fetch('{{ site.baseurl }}/translations.json')
         .then((response) => response.json()),
-      fetch('https://opendataenterprise.github.io/sdg-translations/translation-context.json')
+      fetch('{{ site.baseurl }}/contexts.json')
         .then((response) => response.json())
     ]);
     const languages = data[0];

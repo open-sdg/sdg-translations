@@ -6,7 +6,7 @@ SDG Translations makes it easy to translate text related to the United Nation's
 and to keep those translations available in one place, in both machine-friendly
 and translator-friendly formats.
 
-The machine-friendly translations are compiled and available [here]({{ site.baseurl }}translations.json).
+The machine-friendly translations are compiled and available [here]({{ site.baseurl }}/translations.json).
 
 ## Translation search and context
 

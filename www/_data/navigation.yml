@@ -1,0 +1,9 @@
+primary:
+  - text: About
+    href: /
+  - text: Translators
+    href: /translators/
+  - text: Developers
+    href: /developers/
+  - text: Search
+    href: /search/

@@ -70,7 +70,7 @@ jobs:
           at: /tmp/data
       - run:
           name: Copy in the built data
-          command: cp /tmp/data/www/* www/
+          command: cp -r /tmp/data/www/* www/
       - run:
           name: Build the Jekyll site
           command: make build_site

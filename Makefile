@@ -8,7 +8,7 @@ test:
 
 build_data:
 	pipenv run "python scripts/build_translations.py"
-    pipenv run "python scripts/build_contexts.py"
+	pipenv run "python scripts/build_contexts.py"
 	pipenv run "python scripts/export_languages.py"
 
 build_site:

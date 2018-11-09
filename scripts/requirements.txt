@@ -1,4 +1,0 @@
-pyyaml
-gitpython
-unflatten
-pandas

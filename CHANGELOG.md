@@ -7,6 +7,12 @@ Numbers in parenthesis below refer to Github issues or pull-requests.
 ### Functionality
 
 * Omit certain keys from translation CSV exports. (#13)
+* Search page for looking for contextual information (#16)
+* Revamp the repository to use Jekyll for the www pages. (#19)
+
+### Translations
+
+* Added context about some translations (#17)
 
 ## 0.2.0
 

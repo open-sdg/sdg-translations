@@ -12,9 +12,6 @@ markdown: kramdown
 source: www
 theme: uswds-jekyll
 
-exclude:
-  - "www/*.json"
-  - "www/*.csv"
 keep_files:
-  - "www/*.json"
-  - "www/*.csv"
+  - "*.json"
+  - "*.csv"

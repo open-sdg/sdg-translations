@@ -1,52 +1,18 @@
 ---
 layout: page
 ---
-SDG Translations makes it easy to translate text related to the United Nation's
+The goal of SDG Translations is to compile text related to the United Nation's
 [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/),
-and to keep those translations available in one place, in both machine-friendly
-and translator-friendly formats.
+translate it into as many languages as possible, and then provide those translations in both machine-readable and human-readable formats.
 
-The machine-friendly translations are compiled and available [here]({{ site.baseurl }}/translations.json).
+## Machine-readable
 
-## Translation search and context
+This project was built to support SDG reporting platforms, by making it easier to translate those platforms into multiple languages. So accomplish this, the translations are available in machine-readable JSON format. For more technical information, see the [developers page]({{ site.baseurl }}/developers).
 
-A simple search app is available [here](https://opendataenterprise.github.io/sdg-translations) for finding the status of a particular translation. The results here may include contextual information as well, to help translators decide on the best translations.
+## Human-readable
 
-Please let us know through the [issue queue](https://github.com/OpenDataEnterprise/sdg-translations/issues) if contextual information is needed about a particular translation.
+In order to make it easy to audit and expand this set of translations, this project also provides some user-friendly tools for translators. On the [translators page]({{ site.baseurl }}/translators) there are spreadsheets available for each language. Additionally there is a [search page]({{ site.baseurl }}/search) where translators can look up particular items to get more detailed context about how a word/phrase is intended to be used.
 
-## Previous releases
+## Contibuting and forking
 
-Each past release is available separately, according to its tag. For example, release 0.1.0 is available at:
-
-https://opendataenterprise.github.io/sdg-translations/translations-0.1.0.json
-
-## Exports for translation audits
-
-The translations for the current languages are available in spreadsheet form for ease of translation audits. The spreadsheets avaiable include:
-* [Spanish](https://opendataenterprise.github.io/sdg-translations/sdg-translations-es.csv)
-* [French](https://opendataenterprise.github.io/sdg-translations/sdg-translations-fr.csv)
-* [Chinese](https://opendataenterprise.github.io/sdg-translations/sdg-translations-zh.csv)
-
-In these spreadsheets the English translations sit in a column alongside the translations for the target language, if any.
-
-The purpose of this is to facilitate an audit of the translations, or to faciliate the translation process itself. After the spreadsheet has been audited/completed by a translator (such as in Excel), it can be re-imported into this repository - see below.
-
-## New languages
-
-Along the same lines as the exports mentioned above, there is a "blank" export available to help with new languages. That spreadsheet is available at:
-
-https://opendataenterprise.github.io/sdg-translations/sdg-translations-blank.csv
-
-## Manual exports
-
-Exports can also be created by running a Python script, and specifying a 2-letter language code, like "es":
-
-`python scripts/export_translation_file es`
-
-## Importing
-
-An exported spreadsheet can be re-imported back into the repository, after having been edited, by running a Python script, and specifying a path to the file:
-
-`python scripts/import_translation_file /path/to/my-translation-file.csv`
-
-Note that this only updates the .yml files, but it is still up to you to use Git to commit the changes and create a pull-request.
+Forking of this repository is encouraged, especially for maintaining translations that are specific to a particular platform. However any useful translations are welcome to be contributed back, as "pull requests". If you are unsure how to submit a pull request, simply start things off with a note in the [issue queue](https://github.com/OpenDataEnterprise/sdg-translations/issues).

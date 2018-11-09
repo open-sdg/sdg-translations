@@ -43,3 +43,21 @@ Note that this only updates the .yml files, but it is still up to you to use Git
         light: luz rojo
         dark: rojo oscuro
     ```
+
+## Local development
+
+Requires Python and Ruby.
+
+* `pip install -r scripts/requirements.txt`
+* `bundle install`
+* `make`
+
+To serve the site locally:
+
+* `make serve`
+
+## Forking and builds
+
+The origin repo is built by CirciCI and deployed to Github Pages. The configuration and scripts that accomplish this should work for forks as well, with a few steps.
+
+[TODO: document steps for setting up CircleCI and Github Pages for forks]

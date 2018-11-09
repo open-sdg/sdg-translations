@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Translators
+permalink: translators/
 ---
 
 ## Exports for translation audits

@@ -31,14 +31,14 @@ Note that this only updates the .yml files, but it is still up to you to use Git
     ```
     # Strings are fine
     hue: matiz
-    # Objects contains strings are fine too
+    # Objects containing strings are fine too
     colors:
       red: rojo
     ```
 
     But this will not work:
     ```
-    # Objects contains objects - won't work.
+    # Objects containing objects - won't work.
     colors:
       red:
         light: luz rojo
@@ -49,7 +49,7 @@ Note that this only updates the .yml files, but it is still up to you to use Git
 
 Requires Python and Ruby.
 
-* `pip install -r scripts/requirements.txt`
+* `pipenv install`
 * `bundle install`
 * `make`
 

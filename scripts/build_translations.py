@@ -30,7 +30,7 @@ def build_translations(output_file):
                     except Exception as exc:
                         print (exc)
 
-    json_dir = '_site'
+    json_dir = 'www'
     if not os.path.exists(json_dir):
         os.makedirs(json_dir, exist_ok=True)
     json_path = os.path.join(json_dir, output_file)
@@ -57,13 +57,6 @@ def main():
         build_translations('translations-' + str(tag) + '.json')
     # Go back to the current branch.
     repo.git.checkout(branch)
-
-    # Copy any other public files into the _site folder for Github Pages.
-    src_files = os.listdir('public')
-    for file_name in src_files:
-        full_file_name = os.path.join('public', file_name)
-        if (os.path.isfile(full_file_name)):
-            shutil.copy(full_file_name, '_site')
 
     return status
 

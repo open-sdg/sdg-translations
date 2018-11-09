@@ -1,0 +1,47 @@
+comments_limitations: A label describing information - any other metadata about
+    a particular indicator - not covered by more specific labels
+computation_calculations: A label describing information - any calculations
+    that were used in the production of a dataset
+computation_definitions: A label describing information - a list of definitions
+    of terms used within other metadata fields
+computation_units: A label describing information - the unit of measurement that
+    is being represented in a dataset
+goal_meta_link: A label describing information - a hyperlink that leads to a
+    United Nations web page with information about a particular indicator
+indicator: A label describing information - the numeric code for a particular
+    indicator
+indicator_definition: A label describing information - the definition for a
+    particular indicator - as provided by the United Nations
+indicator_name: A label describing information - the name of a particular
+    indicator
+national_geographical_coverage: A label describing information - the
+    geographical area covered by a dataset
+source_contact_1: A label describing information - contact information for the
+    person or agency that provided data
+source_earliest_available_1: A label describing information -
+    the earliest date at which data for a particular indicator was provided by
+    a particular person or agency
+source_geographical_coverage_1: A label describing information - the
+    geographical area covered in the data provided by a particular person or
+    agency
+source_next_release_1: A label describing information - the
+    date at which a particular person or agency plans to update their provided
+    data
+source_organisation_1: A label describing information - the name of any
+    organization associated with some provided data
+source_other_info_1: A label describing information - any other information
+    about a particular source of data for a particular indicator
+source_periodicity_1: A label describing information - the frequency with which
+    a particular source of data will provide updates
+source_release_date_1: A label describing information - The
+    date at which a particular source provided their data
+source_statistical_classification_1: A label describing information - some
+    classification of a particular source of data for a particular indicator
+target: A label describing information - the overall SDG target associated with
+    a particular indicator
+target_id: A label describing information - the numeric id for the overall SDG
+    target associated with a particular indicator
+un_custodian_agency: A label describing information - the United Nations
+    custodian agency associated with a particular indicator
+un_designated_tier: A label describing information - the 'tier' (1 - 2 - or 3)
+    that the United Nations has assigned to a particular indicator

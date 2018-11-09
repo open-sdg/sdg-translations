@@ -13,7 +13,7 @@ def main():
     'zh',
   ]
 
-  folder = '_site'
+  folder = 'www'
 
   for language in current_languages:
     export.export_language(language, folder)

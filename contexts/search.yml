@@ -1,0 +1,7 @@
+indicator_search: This refers to a section of the site for performing
+    keyword searches to find particular indicators
+no_results: A message for the user - after they have performed an
+    online search - to indicate that their search produced no results
+search_results_for: A message for describing a set of search results -
+    to be followed by whatever the user searched for. For example - if the
+    user searched for 'foo' - this might be 'Search results for foo'

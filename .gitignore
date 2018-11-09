@@ -1,5 +1,9 @@
 # Custom
 _site/
+.sass-cache
+Gemfile.lock
+www/*.csv
+www/*.json
 
 # Default Python
 # Byte-compiled / optimized / DLL files

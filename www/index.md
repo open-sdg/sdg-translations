@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+
+## Project overview
+
 The goals of SDG Translations are:
 1. To compile text related to the United Nation's
 [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/)

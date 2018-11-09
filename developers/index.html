@@ -145,13 +145,13 @@
   <li>The items in the .yml translation files can contain either strings or objects. However, in the case of objects, those objects can’t contain other objects. For example, this will work:
     <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  # Strings are fine
   hue: matiz
-  # Objects contains strings are fine too
+  # Objects containing strings are fine too
   colors:
     red: rojo
 </code></pre></div>    </div>
 
     <p>But this will not work:</p>
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  # Objects contains objects - won't work.
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  # Objects containing objects - won't work.
   colors:
     red:
       light: luz rojo
@@ -165,7 +165,7 @@
 <p>Requires Python and Ruby.</p>
 
 <ul>
-  <li><code class="highlighter-rouge">pip install -r scripts/requirements.txt</code></li>
+  <li><code class="highlighter-rouge">pipenv install</code></li>
   <li><code class="highlighter-rouge">bundle install</code></li>
   <li><code class="highlighter-rouge">make</code></li>
 </ul>

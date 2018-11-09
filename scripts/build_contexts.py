@@ -30,7 +30,7 @@ def build_contexts():
                     except Exception as exc:
                         print (exc)
 
-    json_dir = '_site'
+    json_dir = 'www'
     if not os.path.exists(json_dir):
         os.makedirs(json_dir, exist_ok=True)
     json_path = os.path.join(json_dir, "contexts.json")

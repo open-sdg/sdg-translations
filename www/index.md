@@ -1,13 +1,15 @@
 ---
 layout: page
 ---
-The goal of SDG Translations is to compile text related to the United Nation's
-[Sustainable Development Goals](https://www.un.org/sustainabledevelopment/),
-translate it into as many languages as possible, and then provide those translations in both machine-readable and human-readable formats.
+The goals of SDG Translations are:
+1. To compile text related to the United Nation's
+[Sustainable Development Goals](https://www.un.org/sustainabledevelopment/)
+2. To translate that text into as many languages as possible
+3. To provide those translations in both machine-readable and human-readable formats
 
 ## Machine-readable
 
-This project was built to support SDG reporting platforms, by making it easier to translate those platforms into multiple languages. So accomplish this, the translations are available in machine-readable JSON format. For more technical information, see the [developers page]({{ site.baseurl }}/developers).
+This project was built to support SDG reporting platforms, by making it easier to translate those platforms into multiple languages. To accomplish this, the translations are available in machine-readable JSON format. For more technical information, see the [developers page]({{ site.baseurl }}/developers).
 
 ## Human-readable
 

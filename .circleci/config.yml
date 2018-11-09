@@ -11,10 +11,7 @@ jobs:
           key: test-dependencies-v1-{{ checksum "scripts/requirements.txt" }}
       - run:
           name: Install Python dependencies
-          command: |
-            python3 -m venv venv
-            . venv/bin/activate
-            pip install -r scripts/requirements.txt
+          command: pip install -r scripts/requirements.txt
       - save_cache:
           key: test-dependencies-v1-{{ checksum "scripts/requirements.txt" }}
           paths:

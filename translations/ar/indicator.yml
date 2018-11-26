@@ -1,0 +1,41 @@
+chart: مخطط
+clear_all: ازالة الكل
+clear_selections: إزالة المحدد
+dataset_size_warning: هناك عدد كبير من البيانات المحددة. لن يتم عرض الكل حتى تزيل
+  بعضها.
+download_chart: تحميل المخطط الCSV
+download_csv: تحميل الCSV
+download_csv_title: تحميل كCSV
+download_headline: 'تحميل CSV الخط الرئيسي '
+download_headline_title: تحميل بيانات CSV الخط الرئيسي
+download_source: تحميل مصدر الCSV
+download_source_title: تحميل بيانات مصدر الCSV
+download_table: تحميل جدول CSV
+edit: تغيير
+edit_data: تغيير البيانات
+edit_metadata: تغيير البيانات الوصفية
+footnote: حاشية
+geographical_area: المنطقة الجغرافية
+global_metadata: البيانات الوصفية العالمية
+global_metadata_blurb: رابط الى البيانات الوصفية للأمم المتحدة
+legend_help: انقر على وسيلة الايضاح لازالة أسطر فردية من المخطط
+loading_map: تحميل الخريطة
+map: خريطة
+national_metadata: البيانات الوصفية الوطنية
+national_metadata_blurb: هذا الجدول يقدم بيانات وصفية للمؤشر المتاح من احصائيات %country_name
+  الاقرب الى مؤشر الاهداف التنمية المستدامة العالمية المناظر. يرجى الملاحظة انه تحتى
+  عندما يكون المؤشر متاحاً بالكامل من احصائيات %country_adjective، ينبغي استشارة هذا
+  الجدول للحصول على معلومات حول المنهجية الوطنية وغيرها من المعلومات المتعلقة بالبيانات
+  الشرحية الخاصة ب%country_adjective
+no_data_hint: 'لا تتوفر خيارات بسبب الفلاتر الاعلى '
+select_all: اختيار الكل
+series_help: اختر فئات من القوائم المندسلة ادناه لرؤية تركيبات مختلفة للبيانات. بعضها
+  لن تكون متاحة حتى يتم اختيار مستوى اعلى
+source: مصدر
+sources: مصادر
+sub_categories: فئات فرعية
+table: جدول
+unit_of_measurement: وحدة قياس
+units_type: نوع الوحدات
+variable_hint: 'متاح عند تحديد ''%field'' '
+view_indicator_list: عرض قائمة المؤشرات لهذا الهدف

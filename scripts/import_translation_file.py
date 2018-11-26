@@ -84,9 +84,14 @@ def main():
         # Put the dots back into the keys.
         yaml_files = change_keys(yaml_files, lambda key: key.replace('^^^', '.'))
 
+        # Make sure the folder exists.
+        language_folder = os.path.join('translations', language)
+        if not os.path.isdir(language_folder):
+            os.mkdir(language_folder)
+
         # Loop through the yaml_files dict and write any changes to file.
         for yaml_file in yaml_files:
-            yaml_path = os.path.join('translations', language, yaml_file + '.yml')
+            yaml_path = os.path.join(language_folder, yaml_file + '.yml')
             with open(yaml_path, 'w') as outfile:
                 yaml.dump(yaml_files[yaml_file], outfile, default_flow_style=False, allow_unicode=True)
 

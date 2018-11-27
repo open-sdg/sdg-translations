@@ -1,8 +1,8 @@
-chart: Graphique
+chart: le(s) graphique(s)
 clear_all: Tout effacer
-clear_selections: Effacer les sélections
-dataset_size_warning: Il y a trop de jeux de données à afficher sur le graphique.
-  Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
+clear_selections: Effacer ces sélections
+dataset_size_warning: Il y a trop d'ensembles de données à afficher sur le graphique.
+  Tout ne sera pas affiché jusqu'à ce que vous supprimiez certaines sélections.
 download_chart: Télécharger le graphique CSV
 download_csv: Télécharger CSV
 download_csv_title: Télécharger en format CSV
@@ -15,7 +15,7 @@ edit: modifier
 edit_data: Modifier les données
 edit_metadata: Modifier les métadonnées
 footnote: note de bas de page
-geographical_area: Zone géographique
+geographical_area: la région géographique
 global_metadata: Métadonnées globales
 global_metadata_blurb: Ce tableau fournit des informations sur les métadonnées pour
   les indicateurs SDG définis par la Commission de statistique des Nations Unies.

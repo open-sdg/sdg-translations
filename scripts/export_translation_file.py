@@ -24,7 +24,7 @@ def should_we_omit_key(key, language):
         ('global_indicators', 'definition'),
     ]
     # Add some more for offical UN languages.
-    official_un_languages = ['es', 'fr', 'zh']
+    official_un_languages = ['es', 'fr', 'zh-Hans']
     if language in official_un_languages:
         starts_with_and_ends_with.extend([
             # The titles for these are pulled directly from UN sources.

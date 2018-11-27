@@ -53,6 +53,10 @@ def main():
         language = header[2]
         if len(header) < 2:
             sys.exit('The header for the third column must be a language code.')
+        # Make sure the folder exists.
+        language_folder = os.path.join('translations', language)
+        if not os.path.isdir(language_folder):
+            os.mkdir(language_folder)
 
         yaml_files = {}
 
@@ -75,7 +79,15 @@ def main():
             translation = row[2]
 
             if filename not in yaml_files:
+                # Start with an empty dict.
                 yaml_files[filename] = {}
+                # But also check to see if there is existing data.
+                filepath = os.path.join(language_folder, filename + '.yml')
+                if (os.path.isfile(filepath)):
+                    with open(filepath, 'r') as infile:
+                        existing = yaml.load(infile)
+                        if existing:
+                            yaml_files[filename] = existing
 
             # Unflatted and merge the data into our yaml_files dict.
             unflattened = unflatten({key_flat: translation})
@@ -83,11 +95,6 @@ def main():
 
         # Put the dots back into the keys.
         yaml_files = change_keys(yaml_files, lambda key: key.replace('^^^', '.'))
-
-        # Make sure the folder exists.
-        language_folder = os.path.join('translations', language)
-        if not os.path.isdir(language_folder):
-            os.mkdir(language_folder)
 
         # Loop through the yaml_files dict and write any changes to file.
         for yaml_file in yaml_files:

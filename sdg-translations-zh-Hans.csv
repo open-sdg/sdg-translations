@@ -1,6 +1,48 @@
 ﻿key,en,zh-Hans
+general:goal,Goal,目标
+general:goals,Goals,目标
+general:home,Home,首页
+general:indicator,Indicator,指标
+general:indicators,Indicators,指标
+general:loading,Loading search results,加载搜索结果
+general:opens_new_window,opens in a new window,在新窗口中打开
+general:sdg,Sustainable Development Goals,可持续发展目标
+header:alpha,Alpha,Alpha
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",这是一个发展中的网站。欢迎您向我们发送反馈意见。
+header:skip_link,Skip to main content,跳到主要内容
+header:tag_line,17 Goals to Transform our World,变革世界的17个目标
+frontpage:heading,data for Sustainable Development Goal indicators,可持续发展目标指标的数据
+frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.",点击每一个目标查询或自行搜索各个国家的可持续发展目标全球指标统计。
+search:found_in,found in,找到
+search:indicator_search,Indicator search,指标搜索
+search:keywords,Keywords,关键字
+search:no_results,No results,无搜索结果
+search:search,Search,搜索
+search:search_results_for,Search results for,搜索结果
+status:exploring_data_sources,Exploring data sources,探索数据源
+status:overall_reporting_status,Overall Reporting Status,整体上报状况
+status:reported_online,Reported online,已在线上上报
+status:reporting_status,Reporting Status,上报状况
+status:statistics_in_progress,Statistics in progress,统计在进行中
 post:posts_by_category,Posts by Category,按分类发布的帖子
 post:view_all_in_category,View all posts in the %category_name category,显示此分类的所有帖子
+global_goals:1---short,No Poverty,无贫穷
+global_goals:10---short,Reduced inequalities,减少不平等
+global_goals:11---short,Sustainable Cities & Communities,可持续城市和社区
+global_goals:12---short,Responsible consumption and production,负责任消费和生产
+global_goals:13---short,Climate action,气候行动
+global_goals:14---short,Life below water,水下生物
+global_goals:15---short,Life on land,陆地生物
+global_goals:16---short,Peace and justice - strong institutions,和平、正义与强大机构
+global_goals:17---short,Partnerships for the goals,促进目标现实的伙伴关系
+global_goals:2---short,Zero Hunger,零饥饿
+global_goals:3---short,Good Health and Well-being,良好健康与福祉
+global_goals:4---short,Quality Education,优质教育
+global_goals:5---short,Gender Equality,性别平等
+global_goals:6---short,Clean water and sanitation,清洁饮水和卫生设施
+global_goals:7---short,Affordable and clean energy,经济适用的清洁能源
+global_goals:8---short,Decent jobs and economic growth,体面工作和经济增长
+global_goals:9---short,"Industry, innovation and infrastructure",创业、创新和基础设施
 menu:about,About,关于
 menu:contact_us,Contact us,联系我们
 menu:cookies,Cookies,Cookies
@@ -9,6 +51,41 @@ menu:guidance,Guidance,指引
 menu:menu,Menu,目录
 menu:publications,Publications,出版物
 menu:reporting_status,Reporting Status,上报状况
+indicator:chart,Chart,图表
+indicator:clear_all,Clear all,全部清除
+indicator:clear_selections,Clear selections,清除选项
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,由于图表上显示的数据集过多，请删除一些选项来以便展示。
+indicator:download_chart,Download Chart CSV,下载CSV格式的图表
+indicator:download_csv,Download CSV,下载CSV
+indicator:download_csv_title,Download as CSV,下载为CSV格式
+indicator:download_headline,Download Headline CSV,下载CSV格式的标题
+indicator:download_headline_title,Download headline data as CSV,下载为CSV格式的标题数据
+indicator:download_source,Download Source CSV,下载CSV格式的来源
+indicator:download_source_title,Download source data as CSV,下载为CSV格式的资源数据
+indicator:download_table,Download Table CSV,下载CSV格式的表格
+indicator:edit,Edit,编辑
+indicator:edit_data,Edit Data,编辑数据
+indicator:edit_metadata,Edit Metadata,编辑元数据
+indicator:footnote,Footnote,脚注
+indicator:geographical_area,Geographical Area,地理区域
+indicator:global_metadata,Global Metadata,全球元数据
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",此表格提供的资料是由联合国统计委员会所界定的可持续发展目标指标的元数据。完整的全球元数据是由联合国统计司提供的。
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,点击图例来移除图表中的线条。
+indicator:loading_map,Loading map,载入地图
+indicator:map,Map,地图
+indicator:national_metadata,National Metadata,国家元数据
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",此表格所提供的真正指标中的元数据可从接近相对的全球可持续发展目标指标的国家统计数据获得。请注意：全球可持续发展目标指标完全可从国家统计数据获得，此表格资料皆只用作参阅国家方法论及其他国家的元数据用途。
+indicator:no_data_hint,No options available because of filters above,由于上述筛选的限制，因此没有可用的选项
+indicator:select_all,Select all,全选
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,从下面的下拉式菜单中选择分类查询不同的数据分析。部分分析需要选择更高的级别才会开放。
+indicator:source,Source,来源
+indicator:sources,Sources,来源
+indicator:sub_categories,Sub-categories,子分类
+indicator:table,Table,表格
+indicator:unit_of_measurement,Unit of Measurement,计量单位
+indicator:units_type,Units type,单位类型
+indicator:variable_hint,Available when '%field' is selected,点击以便显示內容
+indicator:view_indicator_list,View this goal's indicator list,查看此目标的指标清单
 metadata_fields:comments_limitations,Other information,其他资料
 metadata_fields:computation_calculations,Calculations,计算
 metadata_fields:computation_definitions,Definitions,定义
@@ -87,511 +164,3 @@ metadata_fields:target,Target name,目标名称
 metadata_fields:target_id,Target number,目标数字
 metadata_fields:un_custodian_agency,UN custodian agency,联合国托管机构
 metadata_fields:un_designated_tier,UN designated tier,联合国指定层
-global_goals:1---short,No Poverty,无贫穷
-global_goals:1---title,End poverty in all its forms everywhere,在全世界消除一切形式的贫穷
-global_goals:10---short,Reduced inequalities,减少不平等
-global_goals:10---title,Reduce inequality within and among countries,减少国家内部和国家之间的不平等
-global_goals:11---short,Sustainable Cities & Communities,可持续城市和社区
-global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable",建设包容、安全、有抵御灾害能力和可持续的城市和人类住区
-global_goals:12---short,Responsible consumption and production,负责任消费和生产
-global_goals:12---title,Ensure sustainable consumption and production patterns,确保采用可持续的消费和生产模式
-global_goals:13---short,Climate action,气候行动
-global_goals:13---title,Take urgent action to combat climate change and its impacts,采取紧急行动应对气候变化及其影响
-global_goals:14---short,Life below water,水下生物
-global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development",保护和可持续利用海洋和海洋资源以促进可持续发展
-global_goals:15---short,Life on land,陆地生物
-global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","保护、恢复和促进可持续利用陆地生态系统,可持续管理森林,防治荒漠化,制止和扭转土地退化,遏制生物多样性的丧失"
-global_goals:16---short,Peace and justice - strong institutions,和平、正义与强大机构
-global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","创建和平、包容的社会以促进可持续发展,让所有人都能诉诸司法,在各级建立有效、负责和包容的机构"
-global_goals:17---short,Partnerships for the goals,促进目标现实的伙伴关系
-global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,"加强执行手段,重振可持续发展全球伙伴关系"
-global_goals:2---short,Zero Hunger,零饥饿
-global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","消除饥饿,实现粮食安全,改善营养状况和促进可持续农业"
-global_goals:3---short,Good Health and Well-being,良好健康与福祉
-global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,"确保各年龄段人群的健康生活方式,促进他们的福祉"
-global_goals:4---short,Quality Education,优质教育
-global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"确保包容和公平的优质教育,让全民终身享有学习机会"
-global_goals:5---short,Gender Equality,性别平等
-global_goals:5---title,Achieve gender equality and empower all women and girls,"实现性别平等,增强所有妇女和女童的权能"
-global_goals:6---short,Clean water and sanitation,清洁饮水和卫生设施
-global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,为所有人提供水和环境卫生并对其进行可持续管理
-global_goals:7---short,Affordable and clean energy,经济适用的清洁能源
-global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all",确保人人获得负担得起的、可靠和可持续的现代能源
-global_goals:8---short,Decent jobs and economic growth,体面工作和经济增长
-global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","促进持久、包容和可持续经济增长,促进充分的生产性就业和人人获得体面工作"
-global_goals:9---short,"Industry, innovation and infrastructure",创业、创新和基础设施
-global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","建造具备抵御灾害能力的基础设施,促进具有包容性的可持续工业化,推动创新"
-header:alpha,Alpha,Alpha
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",这是一个发展中的网站。欢迎您向我们发送反馈意见。
-header:skip_link,Skip to main content,跳到主要内容
-header:tag_line,17 Goals to Transform our World,变革世界的17个目标
-search:found_in,found in,找到
-search:indicator_search,Indicator search,指标搜索
-search:keywords,Keywords,关键字
-search:no_results,No results,无搜索结果
-search:search,Search,搜索
-search:search_results_for,Search results for,搜索结果
-status:exploring_data_sources,Exploring data sources,探索数据源
-status:overall_reporting_status,Overall Reporting Status,整体上报状况
-status:reported_online,Reported online,已在线上上报
-status:reporting_status,Reporting Status,上报状况
-status:statistics_in_progress,Statistics in progress,统计在进行中
-frontpage:heading,data for Sustainable Development Goal indicators,可持续发展目标指标的数据
-frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.",点击每一个目标查询或自行搜索各个国家的可持续发展目标全球指标统计。
-indicator:chart,Chart,图表
-indicator:clear_all,Clear all,全部清除
-indicator:clear_selections,Clear selections,清除选项
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,由于图表上显示的数据集过多，请删除一些选项来以便展示。
-indicator:download_chart,Download Chart CSV,下载CSV格式的图表
-indicator:download_csv,Download CSV,下载CSV
-indicator:download_csv_title,Download as CSV,下载为CSV格式
-indicator:download_headline,Download Headline CSV,下载CSV格式的标题
-indicator:download_headline_title,Download headline data as CSV,下载为CSV格式的标题数据
-indicator:download_source,Download Source CSV,下载CSV格式的来源
-indicator:download_source_title,Download source data as CSV,下载为CSV格式的资源数据
-indicator:download_table,Download Table CSV,下载CSV格式的表格
-indicator:edit,Edit,编辑
-indicator:edit_data,Edit Data,编辑数据
-indicator:edit_metadata,Edit Metadata,编辑元数据
-indicator:footnote,Footnote,脚注
-indicator:geographical_area,Geographical Area,地理区域
-indicator:global_metadata,Global Metadata,全球元数据
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",此表格提供的资料是由联合国统计委员会所界定的可持续发展目标指标的元数据。完整的全球元数据是由联合国统计司提供的。
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,点击图例来移除图表中的线条。
-indicator:loading_map,Loading map,载入地图
-indicator:map,Map,地图
-indicator:national_metadata,National Metadata,国家元数据
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",此表格所提供的真正指标中的元数据可从接近相对的全球可持续发展目标指标的国家统计数据获得。请注意：全球可持续发展目标指标完全可从国家统计数据获得，此表格资料皆只用作参阅国家方法论及其他国家的元数据用途。
-indicator:no_data_hint,No options available because of filters above,由于上述筛选的限制，因此没有可用的选项
-indicator:select_all,Select all,全选
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,从下面的下拉式菜单中选择分类查询不同的数据分析。部分分析需要选择更高的级别才会开放。
-indicator:source,Source,来源
-indicator:sources,Sources,来源
-indicator:sub_categories,Sub-categories,子分类
-indicator:table,Table,表格
-indicator:unit_of_measurement,Unit of Measurement,计量单位
-indicator:units_type,Units type,单位类型
-indicator:variable_hint,Available when '%field' is selected,点击以便显示內容
-indicator:view_indicator_list,View this goal's indicator list,查看此目标的指标清单
-general:goal,Goal,目标
-general:goals,Goals,目标
-general:home,Home,首页
-general:indicator,Indicator,指标
-general:indicators,Indicators,指标
-general:loading,Loading search results,加载搜索结果
-general:opens_new_window,opens in a new window,在新窗口中打开
-general:sdg,Sustainable Development Goals,可持续发展目标
-global_indicators:1.1.1---title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","低于国际贫穷线人口的比例,按性别、年龄、就业状况、地理位置(城市/农村)分列"
-global_indicators:1.2.1---title,"Proportion of population living below the national poverty line, by sex and age","国家贫穷线以下人口的比例,按性别和年龄组分列"
-global_indicators:1.2.2---title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",各国按其标准界定的陷入各种形式贫穷的不同年龄段男女和儿童所占比例
-global_indicators:1.3.1---title,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable","社会保护最低标准/系统覆盖的人口比例,按性别分列并区分儿童、失业者、老年人、残疾人、孕妇、新生儿、工伤受害者、穷人和弱势者"
-global_indicators:1.4.1---title,Proportion of population living in households with access to basic services,其家庭可获得基本服务的人口比例
-global_indicators:1.4.2---title,"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure","按性别和保有权类型分列,拥有可靠的土地保有权、(a) 拥有法律承认文件而且(b) 认为其土地权利受到保障者在总成年人口中所占的比例"
-global_indicators:1.5.1---title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",每10万人当中因灾害死亡、失踪和直接受影响的人数
-global_indicators:1.5.2---title,Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),灾害造成的直接经济损失与全球国内生产总值相比
-global_indicators:1.5.3---title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,依照《2015-2030年仙台减少灾害风险框架》通过和执行国家减少灾害风险战略的国家数目
-global_indicators:1.5.4---title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,依照国家减少灾害风险战略通过和执行地方减少灾害风险战略的地方政府比例
-global_indicators:1.a.1---title,Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes,由政府直接向减贫方案分配的国内产生的资源比例
-global_indicators:1.a.2---title,"Proportion of total government spending on essential services (education, health and social protection)",用于基本服务(教育、保健和社会保护)的开支在政府总开支中的比例
-global_indicators:1.a.3---title,Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP,直接分配给减贫方案的拨款总额和不产生债务的流入款额之和与国内生产总额相比的比例
-global_indicators:1.b.1---title,"Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups",政府经常性支出和资本中用于特别有益于女性、贫困者和弱势群体领域的比例
-global_indicators:10.1.1---title,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,最底层40%人口和总人口的家庭支出或人均收入增长率
-global_indicators:10.2.1---title,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities","收入低于收入中位数50%的人口所占比例,按性别、年龄和残疾人分列"
-global_indicators:10.3.1---title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,报告说在过去12个月内亲身感到因国际人权法所禁止的歧视理由而受到歧视或骚扰的人口比例
-global_indicators:10.4.1---title,"Labour share of GDP, comprising wages and social protection transfers","劳动力占国内生产总值的份额,包括工资和社会保障转移"
-global_indicators:10.5.1---title,Financial Soundness Indicators,金融健全性指标
-global_indicators:10.6.1---title,Proportion of members and voting rights of developing countries in international organizations,发展中国家在国际组织中的成员和表决权的比例
-global_indicators:10.7.1---title,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination,由雇员承担的招聘费用占其在目的地国年收入的比例
-global_indicators:10.7.2---title,Number of countries that have implemented well-managed migration policies,移民政策管理完善的的国家的数量
-global_indicators:10.a.1---title,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,从零关税的最不发达国家和发展中国家进口商品所适用的关税细目比例
-global_indicators:10.b.1---title,"Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",按受援国和捐助国及资源流动类型(如官方发展援助、外国直接投资和其他流动)分列的促进发展资源流动总额
-global_indicators:10.c.1---title,Remittance costs as a proportion of the amount remitted,汇款费用占汇款额的比例
-global_indicators:11.1.1---title,"Proportion of urban population living in slums, informal settlements or inadequate housing",居住在贫民窟和非正规住区内或者住房不足的城市人口比例
-global_indicators:11.2.1---title,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities","可便利使用公共交通的人口比例,按年龄、性别和残疾人分列"
-global_indicators:11.3.1---title,Ratio of land consumption rate to population growth rate,土地使用率与人口增长率之间的比率
-global_indicators:11.3.2---title,Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically,已设立以民主方式定期运作的、民间社会直接参与城市规划和管理架构的城市所占百分比
-global_indicators:11.4.1---title,"Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)","保存、保护和养护所有文化和自然遗产的人均支出总额(公共和私人),按遗产类型(文化、自然、混合、世界遗产中心指定)、政府级别(国家、区域和地方/市)、支出类型(业务支出/投资)和私人供资类型(实物捐赠、私人非营利部门、赞助)分列"
-global_indicators:11.5.1---title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",每10万人当中因灾害死亡、失踪和直接受影响的人数
-global_indicators:11.5.2---title,"Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters",灾害造成的直接经济损失(与全球国内生产总值相比)、重要基础设施的损坏和基本服务的中断次数
-global_indicators:11.6.1---title,"Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities","定期收集并得到适当最终排放的城市固体废物占城市固体废物总量的比例, 按城市分列"
-global_indicators:11.6.2---title,Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted),城市细颗粒物(例如PM2.5和PM10)年度均值(按人口权重计算)
-global_indicators:11.7.1---title,"Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities","城市建设区中供所有人使用的开放公共空间的平均比例,按性别、年龄和残疾人分列"
-global_indicators:11.7.2---title,"Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months","过去12个月中遭受身体骚扰或性骚扰的受害人比例,按性别、年龄和残疾情况及发生地点分列"
-global_indicators:11.a.1---title,"Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city","执行人口预测和资源需求一体化的城市和区域发展计划的城市的比例,按城市规模分列"
-global_indicators:11.b.1---title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,依照《2015-2030年仙台减少灾害风险框架》通过和执行国家减少灾害风险战略的国家数目
-global_indicators:11.b.2---title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,依照国家减少灾害风险战略通过和执行地方减少灾害风险战略的地方政府比例
-global_indicators:11.c.1---title,"Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials",支持最不发达国家就地取材建造和翻新可持续、抗灾和资源节约型建筑的财政支助的比例
-global_indicators:12.1.1---title,Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies,已制定可持续消费和生产国家行动计划或已将可持续消费和生产作为优先事项或目标纳入国家政策主流的国家数目
-global_indicators:12.2.1---title,"Material footprint, material footprint per capita, and material footprint per GDP",物质足迹、人均物质足迹和单位国内生产总值的物质足迹
-global_indicators:12.2.2---title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",国内物质消费、人均国内物质消费和单位国内生产总值的国内物质消费
-global_indicators:12.3.1---title,Global food loss index,全球粮食损耗指数
-global_indicators:12.4.1---title,"Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",关于危险物质和其他化学品及废物的国际多边环境协定的缔约方中按照每个相关协定的要求履行了信息转递承诺和义务的缔约方数目
-global_indicators:12.4.2---title,"Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment","有害废物人均生成量和处理的有害废物的比例,按处理类型分列"
-global_indicators:12.5.1---title,"National recycling rate, tons of material recycled",国家回收利用率、物资回收吨数
-global_indicators:12.6.1---title,Number of companies publishing sustainability reports,发布可持续性报告的公司数量
-global_indicators:12.7.1---title,Number of countries implementing sustainable public procurement policies and action plans,实施可持续公共采购政策和行动计划的国家数目
-global_indicators:12.8.1---title,Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,(一) 全球公民教育和(二) 可持续发展教育(包括气候变化教育)在多大程度上在(a) 国家教育政策、(b) 课程、(c) 教师培训和(d) 学生评估方面进入主流
-global_indicators:12.a.1---title,Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies,对发展中国家在可持续消费和生产和无害环境技术的研究与发展的支助量
-global_indicators:12.b.1---title,Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools,可持续旅游战略或政策的数目和利用商定监测和评价工具所实施行动计划的数目
-global_indicators:12.c.1---title,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels,每单位国内总产值(生产和消费)的化石燃料补贴数额及其在国家化石燃料总支出中的占比
-global_indicators:13.1.1---title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",每10万人当中因灾害死亡、失踪和直接受影响的人数
-global_indicators:13.1.2---title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,依照《2015-2030年仙台减少灾害风险框架》通过和执行国家减少灾害风险战略的国家数目
-global_indicators:13.1.3---title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,依照国家减少灾害风险战略通过和执行地方减少灾害风险战略的地方政府比例
-global_indicators:13.2.1---title,"Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)","通报已经建立或运作综合政策/战略/计划的国家数目,目的是增强其适应气候变化的不利影响,并促进气候抗御能力和温室气体低排放发展,以不威胁到粮食生产(包括国家适应计划、国家确定的贡献、国家信息通报、两年期更新报告等)"
-global_indicators:13.3.1---title,"Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula",已将减缓、适应、减少影响和预警内容纳入小学、中学和大学课程的国家数目
-global_indicators:13.3.2---title,"Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions",已经通报为执行适应、缓解、技术转让和发展行动而加强了机构、系统和个人能力建设的国家数目
-global_indicators:13.a.1---title,Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment,在2020年和2025年之间为1 000亿美元承诺款每年筹集的美元数额
-global_indicators:13.b.1---title,"Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities","得到专门支助以建立增强能力的机制,从而有效进行与气候变化有关的规划和管理,包括重点注意妇女、青年、地方社区和边缘化社区的最不发达国家和小岛屿发展中国家的数目,以及支助总额,包括金融,技术和能力建设的支助"
-global_indicators:14.1.1---title,Index of coastal eutrophication and floating plastic debris density,富营养化指数和漂浮的塑料污染物浓度
-global_indicators:14.2.1---title,Proportion of national exclusive economic zones managed using ecosystem-based approaches,国家级经济特区当中实施基于生态系统管理措施的比例
-global_indicators:14.3.1---title,Average marine acidity (pH) measured at agreed suite of representative sampling stations,在商定的一系列有代表性的采样站测量平均海洋酸度(pH值)
-global_indicators:14.4.1---title,Proportion of fish stocks within biologically sustainable levels,在生物可持续产量水平范围内的鱼类种群的比例
-global_indicators:14.5.1---title,Coverage of protected areas in relation to marine areas,保护区面积占海洋区域的比例
-global_indicators:14.6.1---title,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",各国在执行为打击非法、未报告和无管制的捕捞活动的国际文书程度上取得进展
-global_indicators:14.7.1---title,"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",小岛屿发展中国家、最不发达国家和所有国家的可持续渔业占国内总产值的比例
-global_indicators:14.a.1---title,Proportion of total research budget allocated to research in the field of marine technology,对海洋技术领域研究的分配额占研究活动预算总额的比例
-global_indicators:14.b.1---title,Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries,各国在通过和执行承认小规模渔业并保护其市场准入权利的法律/监管/政策/制度框架方面取得的进展的程度
-global_indicators:14.c.1---title,"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources","为养护和可持续利用海洋及其资源,通过法律、政策和体制框架,在批准、接受、执行《联合国海洋法公约》中有关执行海洋国际法的文书方面取得进展的国家数目"
-global_indicators:15.1.1---title,Forest area as a proportion of total land area,森林面积占陆地总面积的比例
-global_indicators:15.1.2---title,"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type","保护区内陆地和淡水生物多样性的重要场地所占比例,按生态系统类型分列"
-global_indicators:15.2.1---title,Progress towards sustainable forest management,实施可持续森林管理的进展
-global_indicators:15.3.1---title,Proportion of land that is degraded over total land area,已退化土地占土地总面积的比例
-global_indicators:15.4.1---title,Coverage by protected areas of important sites for mountain biodiversity,保护区内山区生物多样性的重要场地的覆盖情况
-global_indicators:15.4.2---title,Mountain Green Cover Index,山区绿化覆盖指数
-global_indicators:15.5.1---title,Red List Index,红色名录指数
-global_indicators:15.6.1---title,"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",已通过立法、行政和政策框架确保公正和公平分享惠益的国家数目
-global_indicators:15.7.1---title,Proportion of traded wildlife that was poached or illicitly trafficked,野生生物贸易中偷猎和非法贩运的比例
-global_indicators:15.8.1---title,Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,通过有关国家立法和充分资源防止或控制外来入侵物种的国家的比例
-global_indicators:15.9.1---title,Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020,根据2011-2020年生物多样性战略计划爱知生物多样性目标2确立的国家目标方面的进展
-global_indicators:15.a.1---title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,在养护和可持续利用生物多样性和生态系统方面的官方发展援助和公共支出
-global_indicators:15.b.1---title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,在养护和可持续利用生物多样性和生态系统方面的官方发展援助和公共支出
-global_indicators:15.c.1---title,Proportion of traded wildlife that was poached or illicitly trafficked,偷猎和非法贩运在野生生物贸易中的比例
-global_indicators:16.1.1---title,"Number of victims of intentional homicide per 100,000 population, by sex and age","每10万人中故意杀人案的受害者人数,按性别和年龄分列"
-global_indicators:16.1.2---title,"Conflict-related deaths per 100,000 population, by sex, age and cause","每10万人中与冲突有关的死亡人数,按性别、年龄和死因分列"
-global_indicators:16.1.3---title,"Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months",过去12个月内遭受(a) 身体暴力(b) 心理暴力和(c) 性暴力的人口所占的比例
-global_indicators:16.1.4---title,Proportion of population that feel safe walking alone around the area they live,在居住区单独步行感到安全的人口比例
-global_indicators:16.10.1---title,"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",过去12个月内记者、相关媒体人员、工会会员和人权倡导者被杀害、绑架、强迫失踪、任意拘留和施以酷刑的经核实案件数目
-global_indicators:16.10.2---title,"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",通过和执行宪法、法律和(或)政策以保障公众获取信息的国家数目
-global_indicators:16.2.1---title,Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,过去一个月内受到照顾者施加的任何体罚和/或心理侵害的1至17岁儿童比例
-global_indicators:16.2.2---title,"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation","每10万人中人口贩运行为受害者的人数,按性别、年龄和剥削形式分列"
-global_indicators:16.2.3---title,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 1,18岁之前受到性暴力侵害的18至29岁青年男女的比例
-global_indicators:16.3.1---title,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,过去12个月内向主管当局或其他官方认可的冲突解决机制报告其受害经历的暴力行为受害者所占比例
-global_indicators:16.3.2---title,Unsentenced detainees as a proportion of overall prison population,未判刑的被拘留者占监狱服刑总人口的比例
-global_indicators:16.4.1---title,Total value of inward and outward illicit financial flows (in current United States dollars),流入和流出的非法资金流量总值(按美元现值计)
-global_indicators:16.4.2---title,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",其非法来源或背景已被主管当局按照国际文书规定追查或确定的已缴获、发现或交出的武器所占比例
-global_indicators:16.5.1---title,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",过去12个月内至少与公职人员接触过一次、向公职人员行贿或被这些公职人员要求行贿的人所占比例
-global_indicators:16.5.2---title,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",过去12个月内至少与公职人员接触过一次、向公职人员行贿或被这些公职人员要求行贿的公司所占比例
-global_indicators:16.6.1---title,"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)","政府基本支出占初始核定预算的比例,按部门(或预算账簿代号或类似分类码)分列"
-global_indicators:16.6.2---title,Proportion of population satisfied with their last experience of public services,对上一次公共服务体验感到满意的人口比例
-global_indicators:16.7.1---title,"Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions",公共机构(国家和地方立法机构、公务制度和司法机构)中的职位(按性别、年龄、残疾者和人口群体分列)相对全国分配数的比例
-global_indicators:16.7.2---title,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group","认为决策具有包容性和响应性的人口比例,按性别、年龄、残疾人和人口群体分列"
-global_indicators:16.8.1---title,Proportion of members and voting rights of developing countries in international organizations,发展中国家在国际组织成员和投票权中的比例
-global_indicators:16.9.1---title,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age","在民政机构做了出生登记的5岁以下儿童的比例,按年龄分列"
-global_indicators:16.a.1---title,Existence of independent national human rights institutions in compliance with the Paris Principles,符合《巴黎原则》的独立的国家人权机构的存在
-global_indicators:16.b.1---title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,报告在过去12个月内亲身感受到因国际人权法所禁止的歧视理由而受歧视或骚扰人口所占比例
-global_indicators:17.1.1---title,"Total government revenue as a proportion of GDP, by source","政府总收入占国内生产总值的比例,按来源分列"
-global_indicators:17.1.2---title,Proportion of domestic budget funded by domestic taxes,由国内税收供资的国内预算比例
-global_indicators:17.10.1---title,Worldwide weighted tariff-average,全球加权平均关税
-global_indicators:17.11.1---title,Developing countries’ and least developed countries’ share of global exports,发展中国家和最不发达国家在全球出口中所占份额
-global_indicators:17.12.1---title,"Average tariffs faced by developing countries, least developed countries and small island developing States",发展中国家、最不发达国家和小岛屿发展中国承受的平均关税
-global_indicators:17.13.1---title,Macroeconomic Dashboard,宏观经济信息总汇
-global_indicators:17.14.1---title,Number of countries with mechanisms in place to enhance policy coherence of sustainable development,制定有可持续发展协调政策机制的国家数目
-global_indicators:17.15.1---title,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation,按发展合作提供者分列的国家所有成果框架和规划工具的利用程度
-global_indicators:17.16.1---title,Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,为协助实现可持续发展目标在多利益攸关方发展成效监测框架内提出进展报告的国家数目
-global_indicators:17.17.1---title,Amount of United States dollars committed to (a) public-private partnerships and (b) civil society partnerships,为建立(a) 公私伙伴关系和(b) 民间社会伙伴关系承付的美元数额
-global_indicators:17.18.1---title,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics",按照官方统计基本原则在国家一级编制的就有关目标做了全面分列的可持续发展指标的比例
-global_indicators:17.18.2---title,Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics,遵循官方统计基本原则制定了国家统计立法的国家数目
-global_indicators:17.18.3---title,"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding","国家统计计划有充分资金且正在执行的国家数目, 按资金来源分列"
-global_indicators:17.19.1---title,Dollar value of all resources made available to strengthen statistical capacity in developing countries,为加强发展中国家的统计能力而提供的以美元计值的各种资源
-global_indicators:17.19.2---title,Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,"(a) 在过去十年中至少进行了一次人口和住房普查,(b) 已经实现100%的出生登记和80%的死亡登记的国家比例"
-global_indicators:17.2.1---title,"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",官方发展援助净额、总额和对最不发达国家的官方发展援助额占经济合作及发展组织(经合组织)发展援助委员会捐助国国民总收入的比例
-global_indicators:17.3.1---title,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",外国直接投资、官方发展援助和南南合作占国内预算总额的比例
-global_indicators:17.3.2---title,Volume of remittances (in United States dollars) as a proportion of total GDP,汇款数额(美元)占国内生产总值总额的比例
-global_indicators:17.4.1---title,Debt service as a proportion of exports of goods and services,还本付息额占货物和服务出口额的比例
-global_indicators:17.5.1---title,Number of countries that adopt and implement investment promotion regimes for least developed countries,通过和实施对最不发达国家的投资促进制度的国家数量
-global_indicators:17.6.1---title,"Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation","国家间科学和(或)技术合作协定和方案数目, 按合作类型分列"
-global_indicators:17.6.2---title,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed","每100名居民固定因特网宽带用户数,按速度分列"
-global_indicators:17.7.1---title,"Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",为促进开发、转让、传播和推广无害环境技术向发展中国家提供的核定供资总额
-global_indicators:17.8.1---title,Proportion of individuals using the Internet,使用因特网的人口比例
-global_indicators:17.9.1---title,"Dollar value of financial and technical assistance (including through North-South, South‐South and triangular cooperation) committed to developing countries",承诺向发展中国家提供的以美元计值的财政和技术援助(包括通过南北合作、南南合作和三角合作)
-global_indicators:2.1.1---title,Prevalence of undernourishment,营养不足发生率
-global_indicators:2.1.2---title,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)","根据粮食无保障情况表,中度或严重的粮食无保障人口发生率"
-global_indicators:2.2.1---title,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,五岁以下儿童发育迟缓发病率(年龄标准身高小于世卫组织儿童生长发育标准中位数-2的标准偏差)
-global_indicators:2.2.2---title,"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",按类型(消瘦和超重)分列的五岁以下儿童营养不良发生率(身高标准体重大于或小于世卫组织儿童生长发育标准中位数+2或-2的标准偏差)
-global_indicators:2.3.1---title,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,按农业/畜牧/林业企业规模分类的每个劳动单位的生产量
-global_indicators:2.3.2---title,"Average income of small-scale food producers, by sex and indigenous status",按性别和土著地位分类的小型粮食生产者的平均收入
-global_indicators:2.4.1---title,Proportion of agricultural area under productive and sustainable agriculture,从事生产性和可持续农业的农业地区比例
-global_indicators:2.5.1---title,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,中期或长期养护设施维持的粮食和农业动植物遗传资源的数量
-global_indicators:2.5.2---title,"Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction",被归类为面临灭绝危险、没有危险或危险不为人所知的当地品种的比例
-global_indicators:2.a.1---title,The agriculture orientation index for government expenditures,政府支出的农业取向指数
-global_indicators:2.a.2---title,Total official flows (official development assistance plus other official flows) to the agriculture sector,用于农业部门的官方资金(官方发展援助和其他官方资金流)总额
-global_indicators:2.b.1---title,Agricultural export subsidies,农产品出口补贴
-global_indicators:2.b.2---title,Agricultural export subsidies,
-global_indicators:2.c.1---title,Indicator of food price anomalies,食品价格异常指标
-global_indicators:3.1.1---title,Maternal mortality ratio,孕产妇死亡率
-global_indicators:3.1.2---title,Proportion of births attended by skilled health personnel,由熟练保健人员协助的分娩比例
-global_indicators:3.2.1---title,Under‐5 mortality rate,5岁以下儿童死亡率
-global_indicators:3.2.2---title,Neonatal mortality rate,新生儿死亡率
-global_indicators:3.3.1---title,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations","每1 000名未感染者中艾滋病毒新感染病例数,按性别、年龄和主要群体分列"
-global_indicators:3.3.2---title,"Tuberculosis incidence per 100,000 population",每100 000人中的结核病发生率
-global_indicators:3.3.3---title,"Malaria incidence per 1,000 population",每1 000人中的疟疾发生率
-global_indicators:3.3.4---title,"Hepatitis B incidence per 100,000 population",每100 000人中的乙型肝炎发生率
-global_indicators:3.3.5---title,Number of people requiring interventions against neglected tropical diseases,必须接受干预措施以治疗被忽视的热带疾病的人数
-global_indicators:3.4.1---title,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",心血管疾病、癌症、糖尿病或慢性呼吸道疾病死亡率
-global_indicators:3.4.2---title,Suicide mortality rate,自杀死亡率
-global_indicators:3.5.1---title,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",药物使用紊乱症治疗措施的覆盖面(药物、心理、康复及疗后护理服务)
-global_indicators:3.5.2---title,"Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol","酒精有害饮用量,根据国情界定为一个历年内以纯酒精升数表示的人均(15岁及15岁以上)消费量"
-global_indicators:3.6.1---title,Death rate due to road traffic injuries,因道路交通伤所致死亡率
-global_indicators:3.7.1---title,Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods,计划生育方面需求通过现代化方法得到满足的育龄妇女(15-49岁)的比例
-global_indicators:3.7.2---title,"Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group",该年龄组每1 000名女性的青少年生育率(10-14岁;15-19岁)
-global_indicators:3.8.1---title,"Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)",基本保健服务的覆盖面(定义为以跟踪措施向普通和最弱势群体提供包括生殖健康、孕产妇健康、新生儿和儿童健康、传染性疾病、非传染性疾病和服务能力和机会的基本服务平均覆盖范围)
-global_indicators:3.8.2---title,Proportion of population with large household expenditures on health as a share of total household expenditure or income,家庭保健支出在家庭总支出或收入中所占份额大的人口比例
-global_indicators:3.9.1---title,Mortality rate attributed to household and ambient air pollution,家庭和环境空气污染导致的死亡率
-global_indicators:3.9.2---title,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",不安全供水、不安全环卫设施以及缺乏个人卫生(接触人人享有饮水、环境卫生和个人卫生项目(水卫项目)所述的不安全服务)导致的死亡率
-global_indicators:3.9.3---title,Mortality rate attributed to unintentional poisoning,意外中毒导致的死亡率
-global_indicators:3.a.1---title,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,15岁及以上人口中目前的年龄标准化烟草使用流行率
-global_indicators:3.b.1---title,Proportion of the target population covered by all vaccines included in their national programme,能够享用其国家方案内的所有疫苗的目标人口比例
-global_indicators:3.b.2---title,Total net official development assistance to medical research and basic health sectors,给予医学研究和基本保健部门的官方发展援助总数净额
-global_indicators:3.b.3---title,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,具备一套可持续获得、负担得起、相关和必要的核心药物的保健设施所占比例
-global_indicators:3.c.1---title,Health worker density and distribution,卫生工作者的密度和分布情况
-global_indicators:3.d.1---title,International Health Regulations (IHR) capacity and health emergency preparedness,遵守《国际卫生条例》的能力和保健方面应急准备
-global_indicators:4.1.1---title,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex","(a) 在2/3年级、(b) 小学结束时、(c) 初中结束时获得起码的(一) 阅读和(二) 数学能力的儿童和青年的比例,按性别分列"
-global_indicators:4.2.1---title,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex","在保健、学习和社会心理健康方面发育正常的5岁以下儿童的比例,按性别分列"
-global_indicators:4.2.2---title,"Participation rate in organized learning (one year before the official primary entry age), by sex","有组织学习(小学入学正规年龄的一年前)的参与率,按性别分列"
-global_indicators:4.3.1---title,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex","过去12个月青年和成年人正规和非正规教育和培训的参与率,按性别分列"
-global_indicators:4.4.1---title,"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill","掌握信通技术技能的青年和成年人的比例,按技能类型分列"
-global_indicators:4.5.1---title,"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated","所有可以分类的教育指标的均等指数(女/男、城市/农村、财富五分位最低/最高,以及具备有关数据的其他方面,如残疾状况、土著人民和受冲突影响等)"
-global_indicators:4.6.1---title,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex","某一年龄组中获得既定水平的实用(a) 识字和(b) 识数能力的人口比例,按性别分列"
-global_indicators:4.7.1---title,"Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment","(一) 全球公民教育和(二) 可持续发展教育,包括两性平等和人权,在多大程度上在(a) 国家教育政策、(b) 课程、(c) 教师培训和(d) 学生评估方面进入主流"
-global_indicators:4.a.1---title,Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions),能获得以下资源的学校比例:(a) 电;(b) 教学用因特网;(c) 教学用电脑;(d) 为残疾学生提供的经调整的基础设施和材料;(e) 饮用水;(f) 男女分开的基本卫生设施;(g) 基本洗手设施(按水卫项目指标定义)
-global_indicators:4.b.1---title,Volume of official development assistance flows for scholarships by sector and type of study,按部门和学习类型分列的奖学金官方发展援助数额
-global_indicators:4.c.1---title,Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country,至少接受过有关国家相应水平教学所规定起码水平的有组织任前或在职师资培训(如教学法培训)的(a) 学前、(b) 小学、(c) 初中和(d) 高中教育中教师的比例
-global_indicators:5.1.1---title,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",是否已制定法律框架来促进、推行和监督实现平等和无性别歧视
-global_indicators:5.2.1---title,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age","有过伴侣的妇女和15岁及以上女童在过去12个月中遭到过现任或前任亲密伴侣殴打、性暴力或心理暴力的比例,按暴力形式和年龄分列"
-global_indicators:5.2.2---title,"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence","妇女和15岁及以上女童在过去12个月中遭到过亲密伴侣之外其他人的性暴力的比例,按年龄组和发生地分列"
-global_indicators:5.3.1---title,Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 1,20至24岁妇女中在15岁以前和18岁之前结婚或同居的妇女所占比例
-global_indicators:5.3.2---title,"Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age","15至49岁女童和妇女中生殖器被残割/切割过的人所占比例,按年龄分列"
-global_indicators:5.4.1---title,"Proportion of time spent on unpaid domestic and care work, by sex, age and location","用于无薪酬家务和护理工作的时间所占比例,按性别、年龄和地点分列"
-global_indicators:5.5.1---title,Proportion of seats held by women in (a) national parliaments and (b) local governments,妇女在(a) 国家议会和(b) 地方政府席位中所占比例
-global_indicators:5.5.2---title,Proportion of women in managerial positions,妇女在管理岗位任职的比例
-global_indicators:5.6.1---title,"Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",15至49岁妇女就性关系、使用避孕药具和生殖保健问题自己做出知情决定的比例
-global_indicators:5.6.2---title,"Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",已制定法律规章确保15岁及以上的男女充分和平等享有获得性与生殖保健、信息和教育机会的国家数目
-global_indicators:5.a.1---title,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure","(a) 农业总人口中对农业用地拥有所有权或有保障权利的人口比例,按性别分列;(b) 农业用地所有人或权利人中妇女所占比例,按土地保有类型分列"
-global_indicators:5.a.2---title,Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control,包括习惯法在内的国家法律框架保障妇女有权平等享有土地所有权和(或)控制权的国家所占比例
-global_indicators:5.b.1---title,"Proportion of individuals who own a mobile telephone, by sex","拥有移动电话的人口比例,按性别分列"
-global_indicators:5.c.1---title,Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,已建立制度来追踪并拨付公共款项用于性别平等和增强妇女权能的国家所占比例
-global_indicators:6.1.1---title,Proportion of population using safely managed drinking water services,使用得到安全管理的饮用水服务的人口比例
-global_indicators:6.2.1---title,Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water,使用(a) 得到安全管理的环境卫生设施服务和(b) 提供肥皂和水的洗手设施的人口所占的比例
-global_indicators:6.3.1---title,Proportion of wastewater safely treated,安全处理废水的比例
-global_indicators:6.3.2---title,Proportion of bodies of water with good ambient water quality,环境水质良好的水体比例
-global_indicators:6.4.1---title,Change in water-use efficiency over time,按时间列出的用水效率变化
-global_indicators:6.4.2---title,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,用水紧张程度:淡水汲取量占可用淡水资源的比例
-global_indicators:6.5.1---title,Degree of integrated water resources management implementation (0–100),水资源综合管理的执行程度(0-100)
-global_indicators:6.5.2---title,Proportion of transboundary basin area with an operational arrangement for water cooperation,制定有水合作业务安排的跨界流域的比例
-global_indicators:6.6.1---title,Change in the extent of water-related ecosystems over time,与水有关的生态系统范围随时间的变化
-global_indicators:6.a.1---title,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,作为政府协调开支计划组成部分的与水和环境卫生有关的官方发展援助数额
-global_indicators:6.b.1---title,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,已经制定业务政策和流程以促进当地社区参与水和环境卫生管理的地方行政单位的比例
-global_indicators:7.1.1---title,Proportion of population with access to electricity,能获得电力的人口比例
-global_indicators:7.1.2---title,Proportion of population with primary reliance on clean fuels and technology,主要依靠清洁燃料和技术的人口比例
-global_indicators:7.2.1---title,Renewable energy share in the total final energy consumption,可再生能源在最终能源消费总量中的份额
-global_indicators:7.3.1---title,Energy intensity measured in terms of primary energy and GDP,以一次能源和国内生产总值计量的能源密集度
-global_indicators:7.a.1---title,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems","为支助清洁能源研发和可再生能源生产,包括为支助混合系统而流入发展中国家的国际资金"
-global_indicators:7.b.1---title,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services,"为提高能源效率而进行的投资与国内生产总值的比例,以及为促进可持续发展服务的基础设施和技术进行的外国直接投资资金转移的数量"
-global_indicators:8.1.1---title,Annual growth rate of real GDP per capita,实际人均国内生产总值年增长率
-global_indicators:8.10.1---title,"(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",(a) 每10万成年人可使用的商业银行分支机构数目和(b) 每10万成年人可使用的自动取款机数目
-global_indicators:8.10.2---title,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,在银行或其他金融机构或与移动货币服务商开立了账户的成年人(15岁及以上)所占比例
-global_indicators:8.2.1---title,Annual growth rate of real GDP per employed person,就业人员实际人均国内生产总值年增长率
-global_indicators:8.3.1---title,"Proportion of informal employment in non‐agriculture employment, by sex","按性别分列,非正规就业在非农业就业机会中的比例"
-global_indicators:8.4.1---title,"Material footprint, material footprint per capita, and material footprint per GDP",物质足迹、人均物质足迹和单位国内生产总值的物质足迹
-global_indicators:8.4.2---title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",国内物质消费、人均国内物质消费和单位国内生产总值的国内物质消费
-global_indicators:8.5.1---title,"Average hourly earnings of female and male employees, by occupation, age and persons with disabilities","男女雇员平均每小时收入,按职业、年龄和残疾人分列"
-global_indicators:8.5.2---title,"Unemployment rate, by sex, age and persons with disabilities","失业率,按性别、年龄和残疾人分列"
-global_indicators:8.6.1---title,"Proportion of youth (aged 15–24 years) not in education, employment or training",青年(15至24岁)中未在受教育、未参加就业或培训的人数比例
-global_indicators:8.7.1---title,"Proportion and number of children aged 5–17 years engaged in child labour, by sex and age","5至17岁儿童中从事童工劳动的比例和人数,按性别和年龄分列"
-global_indicators:8.8.1---title,"Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status","致命和非致命工伤事故频率,按性别和移民身份分列"
-global_indicators:8.8.2---title,"Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status","国家遵守基于国际劳工组织(劳工组织)文本来源和国家法律的劳工权利(结社自由和集体谈判)的程度,按性别和移民身份分列"
-global_indicators:8.9.1---title,Tourism direct GDP as a proportion of total GDP and in growth rate,直接来自旅游业的国内生产总值占国内生产总值的比例和增长率
-global_indicators:8.9.2---title,Proportion of jobs in sustainable tourism industries out of total tourism jobs,可持续旅游业工作岗位在旅游业工作岗位总数中所占比例
-global_indicators:8.a.1---title,Aid for Trade commitments and disbursements,《促贸援助倡议》承付款和支付的款项
-global_indicators:8.b.1---title,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy","有已制订并在运行的青年就业战略,作为一个单独的战略或作为国家就业战略的一部分"
-global_indicators:9.1.1---title,Proportion of the rural population who live within 2 km of an all-season road,居住在四季通行的道路两公里之内的农村人口所占比例
-global_indicators:9.1.2---title,"Passenger and freight volumes, by mode of transport","客运和货运量,按运输方式分列"
-global_indicators:9.2.1---title,Manufacturing value added as a proportion of GDP and per capita,制造业附加值占国内生产总值的比例和人均值
-global_indicators:9.2.2---title,Manufacturing employment as a proportion of total employment,制造业的就业占总就业的比例
-global_indicators:9.3.1---title,Proportion of small-scale industries in total industry value added,小型工业在工业总附加值中的比例
-global_indicators:9.3.2---title,Proportion of small-scale industries with a loan or line of credit,小型工业中获得贷款或信贷额度的比例
-global_indicators:9.4.1---title,CO2 emission per unit of value added,每单位附加值的二氧化碳排放量
-global_indicators:9.5.1---title,Research and development expenditure as a proportion of GDP,研究和开发支出占国内生产总值的比例
-global_indicators:9.5.2---title,Researchers (in full-time equivalent) per million inhabitants,每百万居民中的研究员(全时当量)人数
-global_indicators:9.a.1---title,Total official international support (official development assistance plus other official flows) to infrastructure,用于基础设施的国际官方援助(官方发展援助和其他官方资金流)总额
-global_indicators:9.b.1---title,Proportion of medium and high-tech industry value added in total value added,中高科技产业附加值在总附加值中的比例
-global_indicators:9.c.1---title,"Proportion of population covered by a mobile network, by technology","移动网络所覆盖的人口比例,按技术种类分列"
-global_targets:1.1---title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","到2030年,在全球所有人口中消除极端贫困,极端贫困目前的衡量标准是每人每日生活费不足1.25美元"
-global_targets:1.2---title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","到2030年,按各国标准界定的陷入各种形式贫困的各年龄段男女和儿童至少减半"
-global_targets:1.3---title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","执行适合本国国情的全民社会保障制度和措施,包括最低标准,到2030年在较大程度上覆盖穷人和弱势群体"
-global_targets:1.4---title,"By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance","到2030年,确保所有男女,特别是穷人和弱势群体,享有平等获取经济资源的权利,享有基本服务,获得对土地和其他形式财产的所有权和控制权,继承遗产,获取自然资源、适当的新技术和包括小额信贷在内的金融服务"
-global_targets:1.5---title,"By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters","到2030年,增强穷人和弱势群体的抵御灾害能力,降低其遭受极端天气事件和其他经济、社会、环境冲击和灾害的概率和易受影响程度"
-global_targets:1.a---title,"Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions","确保从各种来源,包括通过加强发展合作充分调集资源,为发展中国家、特别是最不发达国家提供充足、可预见的手段以执行相关计划和政策,消除一切形式的贫困"
-global_targets:1.b---title,"Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions","根据惠及贫困人口和顾及性别平等问题的发展战略,在国家、区域和国际层面制定合理的政策框架,支持加快对消贫行动的投资"
-global_targets:10.1---title,"By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average","到2030年,逐步实现和维持最底层40%人口的收入增长,并确保其增长率高于全国平均水平"
-global_targets:10.2---title,"By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status","到2030年,增强所有人的权能,促进他们融入社会、经济和政治生活,而不论其年龄、性别、残疾与否、种族、民族、出身、宗教信仰、经济地位或其他任何区别"
-global_targets:10.3---title,"Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard","确保机会均等,减少结果不平等现象,包括取消歧视性法律、政策和做法,推动与上述努力相关的适当立法、政策和行动"
-global_targets:10.4---title,"Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality","采取政策,特别是财政、薪资和社会保障政策,逐步实现更大的平等"
-global_targets:10.5---title,Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations,"改善对全球金融市场和金融机构的监管和监测,并加强上述监管措施的执行"
-global_targets:10.6---title,"Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions","确保发展中国家在国际经济和金融机构决策过程中有更大的代表性和发言权,以建立更加有效、可信、负责和合法的机构"
-global_targets:10.7---title,"Facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies","促进有序、安全、正常和负责的移民和人口流动,包括执行合理规划和管理完善的移民政策"
-global_targets:10.a---title,"Implement the principle of special and differential treatment for developing countries, in particular least developed countries, in accordance with World Trade Organization agreements","根据世界贸易组织的各项协议,落实对发展中国家、特别是最不发达国家的特殊和差别待遇原则"
-global_targets:10.b---title,"Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programmes","鼓励根据最需要帮助的国家,特别是最不发达国家、非洲国家、小岛屿发展中国家和内陆发展中国家的国家计划和方案,向其提供官方发展援助和资金,包括外国直接投资"
-global_targets:10.c---title,"By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent","到2030年,将移民汇款手续费减至3%以下,取消费用高于5%的侨汇渠道"
-global_targets:11.1---title,"By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums","到2030年,确保人人获得适当、安全和负担得起的住房和基本服务,并改造贫民窟"
-global_targets:11.2---title,"By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons","到2030年,向所有人提供安全、负担得起的、易于利用、可持续的交通运输系统,改善道路安全,特别是扩大公共交通,要特别关注处境脆弱者、妇女、儿童、残疾人和老年人的需要"
-global_targets:11.3---title,"By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries","到2030年,在所有国家加强包容和可持续的城市建设,加强参与性、综合性、可持续的人类住区规划和管理能力"
-global_targets:11.4---title,Strengthen efforts to protect and safeguard the world’s cultural and natural heritage,进一步努力保护和捍卫世界文化和自然遗产
-global_targets:11.5---title,"By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations","到2030年,大幅减少包括水灾在内的各种灾害造成的死亡人数和受灾人数,大幅减少上述灾害造成的与全球国内生产总值有关的直接经济损失,重点保护穷人和处境脆弱群体"
-global_targets:11.6---title,"By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management","到2030年,减少城市的人均负面环境影响,包括特别关注空气质量,以及城市废物管理等"
-global_targets:11.7---title,"By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities","到2030年,向所有人,特别是妇女、儿童、老年人和残疾人,普遍提供安全、包容、便利、绿色的公共空间"
-global_targets:11.a---title,"Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning","通过加强国家和区域发展规划,支持在城市、近郊和农村地区之间建立积极的经济、社会和环境联系"
-global_targets:11.b---title,"By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015–2030, holistic disaster risk management at all levels","到2020年,大幅增加采取和实施综合政策和计划以构建包容、资源使用效率高、减缓和适应气候变化、具有抵御灾害能力的城市和人类住区数量,并根据《2015-2030年仙台减少灾害风险框架》在各级建立和实施全面的灾害风险管理"
-global_targets:11.c---title,"Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials","通过财政和技术援助等方式,支持最不发达国家就地取材,建造可持续的,有抵御灾害能力的建筑"
-global_targets:12.1---title,"Implement the 10‐Year Framework of Programmes on Sustainable Consumption and Production Patterns, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries","各国在照顾发展中国家发展水平和能力的基础上,落实《可持续消费和生产模式十年方案框架》,发达国家在此方面要做出表率"
-global_targets:12.2---title,"By 2030, achieve the sustainable management and efficient use of natural resources","到2030年,实现自然资源的可持续管理和高效利用"
-global_targets:12.3---title,"By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses","到2030年,将零售和消费环节的全球人均粮食浪费减半,减少生产和供应环节的粮食损失,包括收获后的损失"
-global_targets:12.4---title,"By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment","到2020年,根据商定的国际框架,实现化学品和所有废物在整个存在周期的无害环境管理,并大幅减少它们排入大气以及渗漏到水和土壤的机率,尽可能降低它们对人类健康和环境造成的负面影响"
-global_targets:12.5---title,"By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse","到2030年,通过预防、减排、回收和再利用,大幅减少废物的产生"
-global_targets:12.6---title,"Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle","鼓励各个公司,特别是大公司和跨国公司,采用可持续的做法,并将可持续性信息纳入各自报告周期"
-global_targets:12.7---title,"Promote public procurement practices that are sustainable, in accordance with national policies and priorities","根据国家政策和优先事项,推行可持续的公共采购做法"
-global_targets:12.8---title,"By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature","到2030年,确保各国人民都能获取关于可持续发展以及与自然和谐的生活方式的信息并具有上述意识"
-global_targets:12.a---title,Support developing countries to strengthen their scientific and technological capacity to move towards more sustainable patterns of consumption and production,"支持发展中国家加强科学和技术能力,采用更可持续的生产和消费模式"
-global_targets:12.b---title,Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products,"开发和利用各种工具,监测能创造就业机会、促进地方文化和产品的可持续旅游业对促进可持续发展产生的影响"
-global_targets:12.c---title,"Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances, including by restructuring taxation and phasing out those harmful subsidies, where they exist, to reflect their environmental impacts, taking fully into account the specific needs and conditions of developing countries and minimizing the possible adverse impacts on their development in a manner that protects the poor and the affected communities","对鼓励浪费性消费的低效化石燃料补贴进行合理化调整,为此,应根据各国国情消除市场扭曲,包括调整税收结构,逐步取消有害补贴以反映其环境影响,同时充分考虑发展中国家的特殊需求和情况,尽可能减少对其发展可能产生的不利影响并注意保护穷人和受影响社区"
-global_targets:13.1---title,Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries,加强各国抵御和适应气候相关的灾害和自然灾害的能力
-global_targets:13.2---title,"Integrate climate change measures into national policies, strategies and planning",将应对气候变化的举措纳入国家政策、战略和规划
-global_targets:13.3---title,"Improve education, awareness-raising and human and institutional capacity on climate change mitigation, adaptation, impact reduction and early warning","加强气候变化减缓、适应、减少影响和早期预警等方面的教育和宣传,加强人员和机构在此方面的能力"
-global_targets:13.a---title,Implement the commitment undertaken by developed-country parties to the United Nations Framework Convention on Climate Change to a goal of mobilizing jointly $100 billion annually by 2020 from all sources to address the needs of developing countries in the context of meaningful mitigation actions and transparency on implementation and fully operationalize the Green Climate Fund through its capitalization as soon as possible,"发达国家履行在《联合国气候变化框架公约》下的承诺,即到2020年每年从各种渠道共同筹资1000亿美元,满足发展中国家的需求,帮助其切实开展减缓行动,提高履约的透明度,并尽快向绿色气候基金注资,使其全面投入运行"
-global_targets:13.b---title,"Promote mechanisms for raising capacity for effective climate change-related planning and management in least developed countries and small island developing States, including focusing on women, youth and local and marginalized communities","促进在最不发达国家和小岛屿发展中国家建立增强能力的机制,帮助其进行与气候变化有关的有效规划和管理,包括重点关注妇女、青年、地方社区和边缘化社区"
-global_targets:14.1---title,"By 2025, prevent and significantly reduce marine pollution of all kinds, in particular from land-based activities, including marine debris and nutrient pollution","到2025年,预防和大幅减少各类海洋污染,特别是陆上活动造成的污染,包括海洋废弃物污染和营养盐污染"
-global_targets:14.2---title,"By 2020, sustainably manage and protect marine and coastal ecosystems to avoid significant adverse impacts, including by strengthening their resilience, and take action for their restoration in order to achieve healthy and productive oceans","到2020年,通过加强抵御灾害能力等方式,可持续管理和保护海洋和沿海生态系统,以免产生重大负面影响,并采取行动帮助它们恢复原状,使海洋保持健康,物产丰富"
-global_targets:14.3---title,"Minimize and address the impacts of ocean acidification, including through enhanced scientific cooperation at all levels","通过在各层级加强科学合作等方式,减少和应对海洋酸化的影响"
-global_targets:14.4---title,"By 2020, effectively regulate harvesting and end overfishing, illegal, unreported and unregulated fishing and destructive fishing practices and implement science-based management plans, in order to restore fish stocks in the shortest time feasible, at least to levels that can produce maximum sustainable yield as determined by their biological characteristics","到2020年,有效规范捕捞活动,终止过度捕捞、非法、未报告和无管制的捕捞活动以及破坏性捕捞做法,执行科学的管理计划,以便在尽可能短的时间内使鱼群量至少恢复到其生态特征允许的能产生最高可持续产量的水平"
-global_targets:14.5---title,"By 2020, conserve at least 10 per cent of coastal and marine areas, consistent with national and international law and based on the best available scientific information","到2020年,根据国内和国际法,并基于现有的最佳科学资料,保护至少10%的沿海和海洋区域"
-global_targets:14.6---title,"By 2020, prohibit certain forms of fisheries subsidies which contribute to overcapacity and overfishing, eliminate subsidies that contribute to illegal, unreported and unregulated fishing and refrain from introducing new such subsidies, recognizing that appropriate and effective special and differential treatment for developing and least developed countries should be an integral part of the World Trade Organization fisheries subsidies negotiation","到2020年,禁止某些助长过剩产能和过度捕捞的渔业补贴,取消助长非法、未报告和无管制捕捞活动的补贴,避免出台新的这类补贴,同时承认给予发展中国家和最不发达国家合理、有效的特殊和差别待遇应是世界贸易组织渔业补贴谈判的一个不可或缺的组成部分"
-global_targets:14.7---title,"By 2030, increase the economic benefits to small island developing States and least developed countries from the sustainable use of marine resources, including through sustainable management of fisheries, aquaculture and tourism","到2030年,增加小岛屿发展中国家和最不发达国家通过可持续利用海洋资源获得的经济收益,包括可持续地管理渔业、水产养殖业和旅游业"
-global_targets:14.a---title,"Increase scientific knowledge, develop research capacity and transfer marine technology, taking into account the Intergovernmental Oceanographic Commission Criteria and Guidelines on the Transfer of Marine Technology, in order to improve ocean health and to enhance the contribution of marine biodiversity to the development of developing countries, in particular small island developing States and least developed countries","根据政府间海洋学委员会《海洋技术转让标准和准则》,增加科学知识,培养研究能力和转让海洋技术,以便改善海洋的健康,增加海洋生物多样性对发展中国家,特别是小岛屿发展中国家和最不发达国家发展的贡献"
-global_targets:14.b---title,Provide access for small-scale artisanal fishers to marine resources and markets,向小规模个体渔民提供获取海洋资源和市场准入机会
-global_targets:14.c---title,"Enhance the conservation and sustainable use of oceans and their resources by implementing international law as reflected in the United Nations Convention on the Law of the Sea, which provides the legal framework for the conservation and sustainable use of oceans and their resources, as recalled in paragraph 158 of “The future we want”","按照《我们希望的未来》第158段所述,根据《联合国海洋法公约》所规定的保护和可持续利用海洋及其资源的国际法律框架,加强海洋和海洋资源的保护和可持续利用"
-global_targets:15.1---title,"By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements","到2020年,根据国际协议规定的义务,保护、恢复和可持续利用陆地和内陆的淡水生态系统及其服务,特别是森林、湿地、山麓和旱地"
-global_targets:15.2---title,"By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally","到2020年,推动对所有类型森林进行可持续管理,停止毁林,恢复退化的森林,大幅增加全球植树造林和重新造林"
-global_targets:15.3---title,"By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world","到2030年,防治荒漠化,恢复退化的土地和土壤,包括受荒漠化、干旱和洪涝影响的土地,努力建立一个不再出现土地退化的世界"
-global_targets:15.4---title,"By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development","到2030年,保护山地生态系统,包括其生物多样性,以便加强山地生态系统的能力,使其能够带来对可持续发展必不可少的益处"
-global_targets:15.5---title,"Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species","采取紧急重大行动来减少自然栖息地的退化,遏制生物多样性的丧失,到2020年,保护受威胁物种,防止其灭绝"
-global_targets:15.6---title,"Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed","根据国际共识,公正和公平地分享利用遗传资源产生的利益,促进适当获取这类资源"
-global_targets:15.7---title,Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products,"采取紧急行动,终止偷猎和贩卖受保护的动植物物种,处理非法野生动植物产品的供求问题"
-global_targets:15.8---title,"By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species","到2020年,采取措施防止引入外来入侵物种并大幅减少其对土地和水域生态系统的影响,控制或消灭其中的重点物种"
-global_targets:15.9---title,"By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts","到2020年,把生态系统和生物多样性价值观纳入国家和地方规划、发展进程、减贫战略和核算"
-global_targets:15.a---title,Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems,"从各种渠道动员并大幅增加财政资源,以保护和可持续利用生物多样性和生态系统"
-global_targets:15.b---title,"Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation","从各种渠道大幅动员资源,从各个层级为可持续森林管理提供资金支持,并为发展中国家推进可持续森林管理,包括保护森林和重新造林,提供充足的激励措施"
-global_targets:15.c---title,"Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities","在全球加大支持力度,打击偷猎和贩卖受保护物种,包括增加地方社区实现可持续生计的机会"
-global_targets:16.1---title,Significantly reduce all forms of violence and related death rates everywhere,在全球大幅减少一切形式的暴力和相关的死亡率
-global_targets:16.10---title,"Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements","根据国家立法和国际协议,确保公众获得各种信息,保障基本自由"
-global_targets:16.2---title,"End abuse, exploitation, trafficking and all forms of violence against and torture of children",制止对儿童进行虐待、剥削、贩卖以及一切形式的暴力和酷刑
-global_targets:16.3---title,Promote the rule of law at the national and international levels and ensure equal access to justice for all,"在国家和国际层面促进法治,确保所有人都有平等诉诸司法的机会"
-global_targets:16.4---title,"By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime","到2030年,大幅减少非法资金和武器流动,加强追赃和被盗资产返还力度,打击一切形式的有组织犯罪"
-global_targets:16.5---title,Substantially reduce corruption and bribery in all their forms,大幅减少一切形式的腐败和贿赂行为
-global_targets:16.6---title,"Develop effective, accountable and transparent institutions at all levels",在各级建立有效、负责和透明的机构
-global_targets:16.7---title,"Ensure responsive, inclusive, participatory and representative decision-making at all levels","确保各级的决策反应迅速,具有包容性、参与性和代表性"
-global_targets:16.8---title,Broaden and strengthen the participation of developing countries in the institutions of global governance,扩大和加强发展中国家对全球治理机构的参与
-global_targets:16.9---title,"By 2030, provide legal identity for all, including birth registration","到2030年,为所有人提供法律身份,包括出生登记"
-global_targets:16.a---title,"Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime","通过开展国际合作等方式加强相关国家机制,在各层级提高各国尤其是发展中国家的能力建设,以预防暴力,打击恐怖主义和犯罪行为"
-global_targets:16.b---title,Promote and enforce non-discriminatory laws and policies for sustainable development,推动和实施非歧视性法律和政策以促进可持续发展
-global_targets:17.1---title,"Strengthen domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other revenue collection","通过向发展中国家提供国际支持等方式,以改善国内征税和提高财政收入的能力,加强筹集国内资源"
-global_targets:17.10---title,"Promote a universal, rules-based, open, non‐discriminatory and equitable multilateral trading system under the World Trade Organization, including through the conclusion of negotiations under its Doha Development Agenda","通过完成多哈发展回合谈判等方式,推动在世界贸易组织下建立一个普遍、以规则为基础、开放、非歧视和公平的多边贸易体系"
-global_targets:17.11---title,"Significantly increase the exports of developing countries, in particular with a view to doubling the least developed countries’ share of global exports by 2020","大幅增加发展中国家的出口,尤其是到2020年使最不发达国家在全球出口中的比例翻番"
-global_targets:17.12---title,"Realize timely implementation of duty-free and quota-free market access on a lasting basis for all least developed countries, consistent with World Trade Organization decisions, including by ensuring that preferential rules of origin applicable to imports from least developed countries are transparent and simple, and contribute to facilitating market access","按照世界贸易组织的各项决定,及时实现所有最不发达国家的产品永久免关税和免配额进入市场,包括确保对从最不发达国家进口产品的原产地优惠规则是简单、透明和有利于市场准入的"
-global_targets:17.13---title,"Enhance global macroeconomic stability, including through policy coordination and policy coherence","加强全球宏观经济稳定,包括为此加强政策协调和政策一致性"
-global_targets:17.14---title,Enhance policy coherence for sustainable development,加强可持续发展政策的一致性
-global_targets:17.15---title,Respect each country’s policy space and leadership to establish and implement policies for poverty eradication and sustainable development,尊重每个国家制定和执行消除贫困和可持续发展政策的政策空间和领导作用
-global_targets:17.16---title,"Enhance the Global Partnership for Sustainable Development, complemented by multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology and financial resources, to support the achievement of the Sustainable Development Goals in all countries, in particular developing countries","加强全球可持续发展伙伴关系,以多利益攸关方伙伴关系作为补充,调动和分享知识、专长、技术和财政资源,以支持所有国家、尤其是发展中国家实现可持续发展目标"
-global_targets:17.17---title,"Encourage and promote effective public, public-private and civil society partnerships, building on the experience and resourcing strategies of partnerships","借鉴伙伴关系的经验和筹资战略,鼓励和推动建立有效的公共、公私和民间社会伙伴关系"
-global_targets:17.18---title,"By 2020, enhance capacity-building support to developing countries, including for least developed countries and small island developing States, to increase significantly the availability of high-quality, timely and reliable data disaggregated by income, gender, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts","到2020年,加强向发展中国家,包括最不发达国家和小岛屿发展中国家提供的能力建设支持,大幅增加获得按收入、性别、年龄、种族、民族、移徙情况、残疾情况、地理位置和各国国情有关的其他特征分类的高质量、及时和可靠的数据"
-global_targets:17.19---title,"By 2030, build on existing initiatives to develop measurements of progress on sustainable development that complement gross domestic product, and support statistical capacity-building in developing countries","到2030年,借鉴现有各项倡议,制定衡量可持续发展进展的计量方法,作为对国内生产总值的补充,协助发展中国家加强统计能力建设"
-global_targets:17.2---title,"Developed countries to implement fully their official development assistance commitments, including the commitment by many developed countries to achieve the target of 0.7 per cent of gross national income for official development assistance (ODA/GNI) to developing countries and 0.15 to 0.20 per cent of ODA/GNI to least developed countries; ODA providers are encouraged to consider setting a target to provide at least 0.20 per cent of ODA/GNI to least developed countries","发达国家全面履行官方发展援助承诺,包括许多发达国家向发展中国家提供占发达国家国民总收入0.7%的官方发展援助,以及向最不发达国家提供占比0.15%至0.2%援助的承诺;鼓励官方发展援助方设定目标,将占国民总收入至少0.2%的官方发展援助提供给最不发达国家"
-global_targets:17.3---title,Mobilize additional financial resources for developing countries from multiple sources,从多渠道筹集额外财政资源用于发展中国家
-global_targets:17.4---title,"Assist developing countries in attaining long-term debt sustainability through coordinated policies aimed at fostering debt financing, debt relief and debt restructuring, as appropriate, and address the external debt of highly indebted poor countries to reduce debt distress","通过政策协调,酌情推动债务融资、债务减免和债务重组,以帮助发展中国家实现长期债务可持续性,处理重债穷国的外债问题以减轻其债务压力"
-global_targets:17.5---title,Adopt and implement investment promotion regimes for least developed countries,采用和实施对最不发达国家的投资促进制度
-global_targets:17.6---title,"Enhance North-South, South-South and triangular regional and international cooperation on and access to science, technology and innovation and enhance knowledge-sharing on mutually agreed terms, including through improved coordination among existing mechanisms, in particular at the United Nations level, and through a global technology facilitation mechanism","加强在科学、技术和创新领域的南北、南南、三方区域合作和国际合作,加强获取渠道,加强按相互商定的条件共享知识,包括加强现有机制间的协调,特别是在联合国层面加强协调,以及通过一个全球技术促进机制加强协调"
-global_targets:17.7---title,"Promote the development, transfer, dissemination and diffusion of environmentally sound technologies to developing countries on favourable terms, including on concessional and preferential terms, as mutually agreed","以优惠条件,包括彼此商定的减让和特惠条件,促进发展中国家开发以及向其转让、传播和推广环境友好型的技术"
-global_targets:17.8---title,"Fully operationalize the technology bank and science, technology and innovation capacity-building mechanism for least developed countries by 2017 and enhance the use of enabling technology, in particular information and communications technology","促成最不发达国家的技术库和科学、技术和创新能力建设机制到2017年全面投入运行,加强促成科技特别是信息和通信技术的使用"
-global_targets:17.9---title,"Enhance international support for implementing effective and targeted capacity-building in developing countries to support national plans to implement all the Sustainable Development Goals, including through North-South, South-South and triangular cooperation","加强国际社会对在发展中国家开展高效的、有针对性的能力建设活动的支持力度,以支持各国落实各项可持续发展目标的国家计划,包括通过开展南北合作、南南合作和三方合作"
-global_targets:2.1---title,"By 2030, end hunger and ensure access by all people, in particular the poor and people in vulnerable situations, including infants, to safe, nutritious and sufficient food all year round","到2030年,消除饥饿,确保所有人,特别是穷人和弱势群体,包括婴儿,全年都有安全、营养和充足的食物"
-global_targets:2.2---title,"By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons","到2030年,消除一切形式的营养不良,包括到2025年实现5岁以下儿童发育迟缓和消瘦问题相关国际目标,解决青春期少女、孕妇、哺乳期妇女和老年人的营养需求"
-global_targets:2.3---title,"By 2030, double the agricultural productivity and incomes of small-scale food producers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, including through secure and equal access to land, other productive resources and inputs, knowledge, financial services, markets and opportunities for value addition and non-farm employment","到2030年,实现农业生产力翻倍和小规模粮食生产者,特别是妇女、土著居民、农户、牧民和渔民的收入翻番,具体做法包括确保平等获得土地、其他生产资源和要素、知识、金融服务、市场以及增值和非农就业机会"
-global_targets:2.4---title,"By 2030, ensure sustainable food production systems and implement resilient agricultural practices that increase productivity and production, that help maintain ecosystems, that strengthen capacity for adaptation to climate change, extreme weather, drought, flooding and other disasters and that progressively improve land and soil quality","到2030年,确保建立可持续粮食生产体系并执行具有抗灾能力的农作方法,以提高生产力和产量,帮助维护生态系统,加强适应气候变化、极端天气、干旱、洪涝和其他灾害的能力,逐步改善土地和土壤质量"
-global_targets:2.5---title,"By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and domesticated animals and their related wild species, including through soundly managed and diversified seed and plant banks at the national, regional and international levels, and promote access to and fair and equitable sharing of benefits arising from the utilization of genetic resources and associated traditional knowledge, as internationally agreed","到2020年,通过在国家、区域和国际层面建立管理得当、多样化的种子和植物库,保持种子、种植作物、养殖和驯养的动物及与之相关的野生物种的遗传多样性;根据国际商定原则获取及公正、公平地分享利用遗传资源和相关传统知识产生的惠益"
-global_targets:2.a---title,"Increase investment, including through enhanced international cooperation, in rural infrastructure, agricultural research and extension services, technology development and plant and livestock gene banks in order to enhance agricultural productive capacity in developing countries, in particular least developed countries","通过加强国际合作等方式,增加对农村基础设施、农业研究和推广服务、技术开发、植物和牲畜基因库的投资,以增强发展中国家,特别是最不发达国家的农业生产能力"
-global_targets:2.b---title,"Correct and prevent trade restrictions and distortions in world agricultural markets, including through the parallel elimination of all forms of agricultural export subsidies and all export measures with equivalent effect, in accordance with the mandate of the Doha Development Round","根据多哈发展回合授权,纠正和防止世界农业市场上的贸易限制和扭曲,包括同时取消一切形式的农业出口补贴和具有相同作用的所有出口措施"
-global_targets:2.c---title,"Adopt measures to ensure the proper functioning of food commodity markets and their derivatives and facilitate timely access to market information, including on food reserves, in order to help limit extreme food price volatility","采取措施,确保粮食商品市场及其衍生工具正常发挥作用,确保及时获取包括粮食储备量在内的市场信息,限制粮价剧烈波动"
-global_targets:3.1---title,"By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births","到2030年,全球孕产妇每10万例活产的死亡率降至70人以下"
-global_targets:3.2---title,"By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under‐5 mortality to at least as low as 25 per 1,000 live births","到2030年,消除新生儿和5岁以下儿童可预防的死亡,各国争取将新生儿每1 000例活产的死亡率至少降至12例,5岁以下儿童每1 000例活产的死亡率至少降至25例"
-global_targets:3.3---title,"By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases","到2030年,消除艾滋病、结核病、疟疾和被忽视的热带疾病等流行病,抗击肝炎、水传播疾病和其他传染病"
-global_targets:3.4---title,"By 2030, reduce by one third premature mortality from non-communicable diseases through prevention and treatment and promote mental health and well-being","到2030年,通过预防、治疗及促进身心健康,将非传染性疾病导致的过早死亡减少三分之一"
-global_targets:3.5---title,"Strengthen the prevention and treatment of substance abuse, including narcotic drug abuse and harmful use of alcohol",加强对滥用药物包括滥用麻醉药品和有害使用酒精的预防和治疗
-global_targets:3.6---title,"By 2020, halve the number of global deaths and injuries from road traffic accidents","到2020年,全球道路交通事故造成的死伤人数减半"
-global_targets:3.7---title,"By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes","到2030年,确保普及性健康和生殖健康保健服务,包括计划生育、信息获取和教育,将生殖健康纳入国家战略和方案"
-global_targets:3.8---title,"Achieve universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all","实现全民健康保障,包括提供经济风险保护,人人享有优质的基本保健服务,人人获得安全、有效、优质和负担得起的基本药品和疫苗"
-global_targets:3.9---title,"By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination","到2030年,大幅减少危险化学品以及空气、水和土壤污染导致的死亡和患病人数"
-global_targets:3.a---title,"Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control in all countries, as appropriate",酌情在所有国家加强执行《世界卫生组织烟草控制框架公约》
-global_targets:3.b---title,"Support the research and development of vaccines and medicines for the communicable and non‐communicable diseases that primarily affect developing countries, provide access to affordable essential medicines and vaccines, in accordance with the Doha Declaration on the TRIPS Agreement and Public Health, which affirms the right of developing countries to use to the full the provisions in the Agreement on Trade-Related Aspects of Intellectual Property Rights regarding flexibilities to protect public health, and, in particular, provide access to medicines for all","支持研发主要影响发展中国家的传染和非传染性疾病的疫苗和药品,根据《<关于与贸易有关的知识产权协议>与公共健康的多哈宣言》的规定,提供负担得起的基本药品和疫苗,《多哈宣言》确认发展中国家有权充分利用《与贸易有关的知识产权协议》中关于采用变通办法保护公众健康,尤其是让所有人获得药品的条款"
-global_targets:3.c---title,"Substantially increase health financing and the recruitment, development, training and retention of the health workforce in developing countries, especially in least developed countries and small island developing States","大幅加强发展中国家,尤其是最不发达国家和小岛屿发展中国家的卫生筹资,增加其卫生工作者的招聘、培养、培训和留用"
-global_targets:3.d---title,"Strengthen the capacity of all countries, in particular developing countries, for early warning, risk reduction and management of national and global health risks","加强各国特别是发展中国家早期预警、减少风险,以及管理国家和全球健康风险的能力"
-global_targets:4.1---title,"By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes","到2030年,确保所有男女童完成免费、公平和优质的中小学教育,并取得相关和有效的学习成果"
-global_targets:4.2---title,"By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre‐primary education so that they are ready for primary education","到2030年,确保所有男女童获得优质儿童早期发展、看护和学前教育,为他们接受初级教育做好准备"
-global_targets:4.3---title,"By 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university","到2030年,确保所有男女平等获得负担得起的优质技术、职业和高等教育,包括大学教育"
-global_targets:4.4---title,"By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship","到2030年,大幅增加掌握就业、体面工作和创业所需相关技能,包括技术性和职业性技能的青年和成年人数"
-global_targets:4.5---title,"By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations","到2030年,消除教育中的性别差距,确保残疾人、土著居民和处境脆弱儿童等弱势群体平等获得各级教育和职业培训"
-global_targets:4.6---title,"By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy","到2030年,确保所有青年和大部分成年男女具有识字和计算能力"
-global_targets:4.7---title,"By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development","到2030年,确保所有从事学习的人都掌握可持续发展所需的知识和技能,具体做法包括开展可持续发展、可持续生活方式、人权和性别平等方面的教育、弘扬和平和非暴力文化、提升全球公民意识,以及肯定文化多样性和文化对可持续发展的贡献"
-global_targets:4.a---title,"Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all","建立和改善兼顾儿童、残疾和性别平等的教育设施,为所有人提供安全、无暴力、包容和有效的学习环境"
-global_targets:4.b---title,"By 2020, substantially expand globally the number of scholarships available to developing countries, in particular least developed countries, small island developing States and African countries, for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programmes, in developed countries and other developing countries","到2020年,在全球范围内大幅增加发达国家和部分发展中国家为发展中国家,特别是最不发达国家、小岛屿发展中国家和非洲国家提供的高等教育奖学金数量,包括职业培训和信息通信技术、技术、工程、科学项目的奖学金"
-global_targets:4.c---title,"By 2030, substantially increase the supply of qualified teachers, including through international cooperation for teacher training in developing countries, especially least developed countries and small island developing States","到2030年,大幅增加合格教师人数,具体做法包括在发展中国家,特别是最不发达国家和小岛屿发展中国家开展师资培训方面的国际合作"
-global_targets:5.1---title,End all forms of discrimination against all women and girls everywhere,在全球消除对妇女和女童一切形式的歧视
-global_targets:5.2---title,"Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other types of exploitation","消除公共和私营部门针对妇女和女童一切形式的暴力行为,包括贩卖、性剥削及其他形式的剥削"
-global_targets:5.3---title,"Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation",消除童婚、早婚、逼婚及割礼等一切伤害行为
-global_targets:5.4---title,"Recognize and value unpaid care and domestic work through the provision of public services, infrastructure and social protection policies and the promotion of shared responsibility within the household and the family as nationally appropriate","认可和尊重无偿护理和家务,各国可视本国情况提供公共服务、基础设施和社会保护政策,在家庭内部提倡责任共担"
-global_targets:5.5---title,"Ensure women’s full and effective participation and equal opportunities for leadership at all levels of decision-making in political, economic and public life","确保妇女全面有效参与各级政治、经济和公共生活的决策,并享有进入以上各级决策领导层的平等机会"
-global_targets:5.6---title,Ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development and the Beijing Platform for Action and the outcome documents of their review conferences,"根据《国际人口与发展会议行动纲领》、《北京行动纲领》及其历次审查会议的成果文件,确保普遍享有性和生殖健康以及生殖权利"
-global_targets:5.a---title,"Undertake reforms to give women equal rights to economic resources, as well as access to ownership and control over land and other forms of property, financial services, inheritance and natural resources, in accordance with national laws","根据各国法律进行改革,给予妇女平等获取经济资源的权利,以及享有对土地和其他形式财产的所有权和控制权,获取金融服务、遗产和自然资源"
-global_targets:5.b---title,"Enhance the use of enabling technology, in particular information and communications technology, to promote the empowerment of women","加强技术特别是信息和通信技术的应用,以增强妇女权能"
-global_targets:5.c---title,Adopt and strengthen sound policies and enforceable legislation for the promotion of gender equality and the empowerment of all women and girls at all levels,"采用和加强合理的政策和有执行力的立法,促进性别平等,在各级增强妇女和女童权能"
-global_targets:6.1---title,"By 2030, achieve universal and equitable access to safe and affordable drinking water for all","到2030年,人人普遍和公平获得安全和负担得起的饮用水"
-global_targets:6.2---title,"By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations","到2030年,人人享有适当和公平的环境卫生和个人卫生,杜绝露天排便,特别注意满足妇女、女童和弱势群体在此方面的需求"
-global_targets:6.3---title,"By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally","到2030年,通过以下方式改善水质:减少污染,消除倾倒废物现象,把危险化学品和材料的排放减少到最低限度,将未经处理废水比例减半,大幅增加全球废物回收和安全再利用"
-global_targets:6.4---title,"By 2030, substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals and supply of freshwater to address water scarcity and substantially reduce the number of people suffering from water scarcity","到2030年,所有行业大幅提高用水效率,确保可持续取用和供应淡水,以解决缺水问题,大幅减少缺水人数"
-global_targets:6.5---title,"By 2030, implement integrated water resources management at all levels, including through transboundary cooperation as appropriate","到2030年,在各级进行水资源综合管理,包括酌情开展跨境合作"
-global_targets:6.6---title,"By 2020, protect and restore water-related ecosystems, including mountains, forests, wetlands, rivers, aquifers and lakes","到2020年,保护和恢复与水有关的生态系统,包括山地、森林、湿地、河流、地下含水层和湖泊"
-global_targets:6.a---title,"By 2030, expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies","到2030年,扩大向发展中国家提供的国际合作和能力建设支持,帮助它们开展与水和卫生有关的活动和方案,包括雨水采集、海水淡化、提高用水效率、废水处理、水回收和再利用技术"
-global_targets:6.b---title,Support and strengthen the participation of local communities in improving water and sanitation management,支持和加强地方社区参与改进水和环境卫生管理
-global_targets:7.1---title,"By 2030, ensure universal access to affordable, reliable and modern energy services","到2030年,确保人人都能获得负担得起的、可靠的现代能源服务"
-global_targets:7.2---title,"By 2030, increase substantially the share of renewable energy in the global energy mix","到2030年,大幅增加可再生能源在全球能源结构中的比例"
-global_targets:7.3---title,"By 2030, double the global rate of improvement in energy efficiency","到2030年,全球能效改善率提高一倍"
-global_targets:7.a---title,"By 2030, enhance international cooperation to facilitate access to clean energy research and technology, including renewable energy, energy efficiency and advanced and cleaner fossil-fuel technology, and promote investment in energy infrastructure and clean energy technology","到2030年,加强国际合作,促进获取清洁能源的研究和技术,包括可再生能源、能效,以及先进和更清洁的化石燃料技术,并促进对能源基础设施和清洁能源技术的投资"
-global_targets:7.b---title,"By 2030, expand infrastructure and upgrade technology for supplying modern and sustainable energy services for all in developing countries, in particular least developed countries, small island developing States and landlocked developing countries, in accordance with their respective programmes of support","到2030年,增建基础设施并进行技术升级,以便根据发展中国家,特别是最不发达国家、小岛屿发展中国家和内陆发展中国家各自的支持方案,为所有人提供可持续的现代能源服务"
-global_targets:8.1---title,"Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 per cent gross domestic product growth per annum in the least developed countries","根据各国国情维持人均经济增长,特别是将最不发达国家国内生产总值年增长率至少维持在7%"
-global_targets:8.10---title,"Strengthen the capacity of domestic financial institutions to encourage and expand access to banking, insurance and financial services for all","加强国内金融机构的能力,鼓励并扩大全民获得银行、保险和金融服务的机会"
-global_targets:8.2---title,"Achieve higher levels of economic productivity through diversification, technological upgrading and innovation, including through a focus on high-value added and labour-intensive sectors","通过多样化经营、技术升级和创新,包括重点发展高附加值和劳动密集型行业,实现更高水平的经济生产力"
-global_targets:8.3---title,"Promote development-oriented policies that support productive activities, decent job creation, entrepreneurship, creativity and innovation, and encourage the formalization and growth of micro-, small- and medium-sized enterprises, including through access to financial services","推行以发展为导向的政策,支持生产性活动、体面就业、创业精神、创造力和创新;鼓励微型和中小型企业通过获取金融服务等方式实现正规化并成长壮大"
-global_targets:8.4---title,"Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10‐Year Framework of Programmes on Sustainable Consumption and Production, with developed countries taking the lead","到2030年,逐步改善全球消费和生产的资源使用效率,按照《可持续消费和生产模式方案十年框架》,努力使经济增长和环境退化脱钩,发达国家应在上述工作中做出表率"
-global_targets:8.5---title,"By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value","到2030年,所有男女,包括青年和残疾人实现充分和生产性就业,有体面工作,并做到同工同酬"
-global_targets:8.6---title,"By 2020, substantially reduce the proportion of youth not in employment, education or training","到2020年,大幅减少未就业和未受教育或培训的青年人比例"
-global_targets:8.7---title,"Take immediate and effective measures to eradicate forced labour, end modern slavery and human trafficking and secure the prohibition and elimination of the worst forms of child labour, including recruitment and use of child soldiers, and by 2025 end child labour in all its forms","立即采取有效措施,根除强制劳动、现代奴隶制和贩卖人口,禁止和消除最恶劣形式的使用童工,包括招募和利用童兵,到2025年终止一切形式的使用童工"
-global_targets:8.8---title,"Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular women migrants, and those in precarious employment","保护劳工权利,推动为所有工人,包括移民工人,特别是女性移民和没有稳定工作的人创造安全和有保障的工作环境"
-global_targets:8.9---title,"By 2030, devise and implement policies to promote sustainable tourism that creates jobs and promotes local culture and products","到2030年,制定和执行推广可持续旅游的政策,以创造就业机会,促进地方文化和产品"
-global_targets:8.a---title,"Increase Aid for Trade support for developing countries, in particular least developed countries, including through the Enhanced Integrated Framework for Trade-related Technical Assistance to Least Developed Countries","增加向发展中国家,特别是最不发达国家提供的促贸援助支持,包括通过《为最不发达国家提供贸易技术援助的强化综合框架》提供上述支持"
-global_targets:8.b---title,"By 2020, develop and operationalize a global strategy for youth employment and implement the Global Jobs Pact of the International Labour Organization","到2020年,拟定和实施青年就业全球战略,并执行国际劳工组织的《全球就业契约》"
-global_targets:9.1---title,"Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all","发展优质、可靠、可持续和有抵御灾害能力的基础设施,包括区域和跨境基础设施,以支持经济发展和提升人类福祉,重点是人人可负担得起并公平利用上述基础设施"
-global_targets:9.2---title,"Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries","促进包容可持续工业化,到2030年,根据各国国情,大幅提高工业在就业和国内生产总值中的比例,使最不发达国家的这一比例翻番"
-global_targets:9.3---title,"Increase the access of small-scale industrial and other enterprises, in particular in developing countries, to financial services, including affordable credit, and their integration into value chains and markets","增加小型工业和其他企业,特别是发展中国家的这些企业获得金融服务、包括负担得起的信贷的机会,将上述企业纳入价值链和市场"
-global_targets:9.4---title,"By 2030, upgrade infrastructure and retrofit industries to make them sustainable, with increased resource-use efficiency and greater adoption of clean and environmentally sound technologies and industrial processes, with all countries taking action in accordance with their respective capabilities","到2030年,所有国家根据自身能力采取行动,升级基础设施,改进工业以提升其可持续性,提高资源使用效率,更多采用清洁和环保技术及产业流程"
-global_targets:9.5---title,"Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending","在所有国家,特别是发展中国家,加强科学研究,提升工业部门的技术能力,包括到2030年,鼓励创新,大幅增加每100万人口中的研发人员数量,并增加公共和私人研发支出"
-global_targets:9.a---title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","向非洲国家、最不发达国家、内陆发展中国家和小岛屿发展中国家提供更多的财政、技术和技能支持,以促进其开发有抵御灾害能力的可持续基础设施"
-global_targets:9.b---title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","支持发展中国家的国内技术开发、研究与创新,包括提供有利的政策环境,以实现工业多样化,增加商品附加值"
-global_targets:9.c---title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,"大幅提升信息和通信技术的普及度,力争到2020年在最不发达国家以低廉的价格普遍提供因特网服务"

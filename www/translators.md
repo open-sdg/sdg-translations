@@ -9,7 +9,7 @@ permalink: translators/
 The translations for the current languages are available in spreadsheet form for ease of translation audits. The spreadsheets available include:
 * [Spanish]({{ site.baseurl }}/sdg-translations-es.csv)
 * [French]({{ site.baseurl }}/sdg-translations-fr.csv)
-* [Chinese]({{ site.baseurl }}/sdg-translations-zh.csv)
+* [Chinese]({{ site.baseurl }}/sdg-translations-zh-Hans.csv)
 * [Arabic]({{ site.baseurl }}/sdg-translations-ar.csv)
 * [Russian]({{ site.baseurl }}/sdg-translations-ru.csv)
 

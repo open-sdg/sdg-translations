@@ -10,7 +10,7 @@ def main():
   current_languages = [
     'es',
     'fr',
-    'zh',
+    'zh-Hans',
     'ar',
     'ru',
   ]

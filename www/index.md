@@ -20,4 +20,4 @@ In order to make it easy to audit and expand this set of translations, this proj
 
 ## Contibuting and forking
 
-Forking of this repository is encouraged, especially for maintaining translations that are specific to a particular platform. However any useful translations are welcome to be contributed back, as "pull requests". If you are unsure how to submit a pull request, simply start things off with a note in the [issue queue](https://github.com/OpenDataEnterprise/sdg-translations/issues).
+Forking of this repository is encouraged, especially for maintaining translations that are specific to a particular platform. However any useful translations are welcome to be contributed back, as "pull requests". If you are unsure how to submit a pull request, simply start things off with a note in the [issue queue](https://github.com/open-sdg/sdg-translations/issues).

@@ -1,23 +1,45 @@
 ﻿key,en,fr
-status:exploring_data_sources,Exploring data sources,Explorer les sources de données
-status:overall_reporting_status,Overall Reporting Status,Statut général de rapport
-status:reported_online,Reported online,Signalé en ligne
-status:reporting_status,Reporting Status,Statut de rapport
-status:statistics_in_progress,Statistics in progress,Statistiques en cours
-frontpage:heading,data for Sustainable Development Goal indicators,données pour les indicateurs des objectifs de développement durable
-frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.","Cliquez sur chaque objectif %before_link, ou recherchez, %after_link pour %country_name statistiques pour Sustainable Development Goal global indicateurs."
-menu:about,About,Sur
-menu:contact_us,Contact us,Contactez nous
-menu:cookies,Cookies,Biscuits
-menu:faq,FAQ,FAQ
-menu:guidance,Guidance,Orientation
-menu:menu,Menu,Menu
-menu:publications,Publications,Publications
-menu:reporting_status,Reporting Status,Statut de rapport
+post:posts_by_category,Posts by Category,Messages par catégorie
+post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
 header:alpha,Alpha,Alpha
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Ceci est un site de développement. Nous apprécions vos commentaires.
 header:skip_link,Skip to main content,Passer au contenu principal
 header:tag_line,17 Goals to Transform our World,17 objectifs pour transformer notre monde
+indicator:chart,Chart,Graphique
+indicator:clear_all,Clear all,Tout effacer
+indicator:clear_selections,Clear selections,Effacer les sélections
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Il y a trop de jeux de données à afficher sur le graphique. Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
+indicator:download_chart,Download Chart CSV,Télécharger le graphique CSV
+indicator:download_csv,Download CSV,Télécharger CSV
+indicator:download_csv_title,Download as CSV,Télécharger en format CSV
+indicator:download_headline,Download Headline CSV,Télécharger Headline CSV
+indicator:download_headline_title,Download headline data as CSV,Télécharger les données de titre au format CSV
+indicator:download_source,Download Source CSV,Télécharger Source CSV
+indicator:download_source_title,Download source data as CSV,Télécharger les données source au format CSV
+indicator:download_table,Download Table CSV,Télécharger le tableau CSV
+indicator:edit,Edit,modifier
+indicator:edit_data,Edit Data,Modifier les données
+indicator:edit_metadata,Edit Metadata,Modifier les métadonnées
+indicator:footnote,Footnote,note de bas de page
+indicator:geographical_area,Geographical Area,Zone géographique
+indicator:global_metadata,Global Metadata,Métadonnées globales
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Ce tableau fournit des informations sur les métadonnées pour les indicateurs SDG définis par la Commission de statistique des Nations Unies. <a href=""https://unstats.un.org/sdgs/metadata/"">Les métadonnées globales complètes</a> sont fournies par la Division de statistique de l&#39;ONU."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Cliquez sur la légende pour supprimer les lignes individuelles du graphique.
+indicator:loading_map,Loading map,Chargement de la carte
+indicator:map,Map,Carte
+indicator:national_metadata,National Metadata,Métadonnées nationales
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Cette table fournit des métadonnées pour l&#39;indicateur réel disponible à partir des statistiques %country_name les plus proches de l&#39;indicateur SDG global correspondant. Veuillez noter que même lorsque l&#39;indicateur global des ODD est entièrement disponible à partir des statistiques %country_adjective, ce tableau devrait être consulté pour obtenir des informations sur la méthodologie nationale et d&#39;autres informations sur les métadonnées spécifiques à un pays_adjectif."
+indicator:no_data_hint,No options available because of filters above,Aucune option disponible en raison des filtres ci-dessus
+indicator:select_all,Select all,Tout sélectionner
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,Choisissez des catégories dans les listes déroulantes ci-dessous pour voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à ce qu&#39;un niveau supérieur soit choisi.
+indicator:source,Source,La source
+indicator:sources,Sources,Sources
+indicator:sub_categories,Sub-categories,Sous-catégories
+indicator:table,Table,Table
+indicator:unit_of_measurement,Unit of Measurement,Unité de mesure
+indicator:units_type,Units type,Type d&#39;unités
+indicator:variable_hint,Available when '%field' is selected,Disponible lorsque le champ '%field' est sélectionné
+indicator:view_indicator_list,View this goal's indicator list,Voir la liste des indicateurs de cet objectif
 global_goals:1---short,No Poverty,Pas de pauvreté
 global_goals:10---short,Reduced inequalities,Inégalités réduites
 global_goals:11---short,Sustainable Cities & Communities,Villes et communautés durables
@@ -35,6 +57,14 @@ global_goals:6---short,Clean water and sanitation,Eau propre et assainissement
 global_goals:7---short,Affordable and clean energy,Energies propres et d'un coût abordable
 global_goals:8---short,Decent jobs and economic growth,Travaux décent et croissance économique
 global_goals:9---short,"Industry, innovation and infrastructure","Industrie, innovation et infrastructure"
+search:found_in,found in,trouvé dans
+search:indicator_search,Indicator search,Recherche d&#39;indicateur
+search:keywords,Keywords,Mots clés
+search:no_results,No results,Aucun résultat
+search:search,Search,Chercher
+search:search_results_for,Search results for,Résultats de recherche pour
+frontpage:heading,data for Sustainable Development Goal indicators,données pour les indicateurs des objectifs de développement durable
+frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.","Cliquez sur chaque objectif %before_link, ou recherchez, %after_link pour %country_name statistiques pour Sustainable Development Goal global indicateurs."
 metadata_fields:comments_limitations,Other information,Les autres informations
 metadata_fields:computation_calculations,Calculations,Calculs
 metadata_fields:computation_definitions,Definitions,Définitions
@@ -113,49 +143,14 @@ metadata_fields:target,Target name,Nom de la cible
 metadata_fields:target_id,Target number,Numéro cible
 metadata_fields:un_custodian_agency,UN custodian agency,Agence dépositaire des Nations Unies
 metadata_fields:un_designated_tier,UN designated tier,Niveau désigné par les Nations Unies
-post:posts_by_category,Posts by Category,Messages par catégorie
-post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
-search:found_in,found in,trouvé dans
-search:indicator_search,Indicator search,Recherche d&#39;indicateur
-search:keywords,Keywords,Mots clés
-search:no_results,No results,Aucun résultat
-search:search,Search,Chercher
-search:search_results_for,Search results for,Résultats de recherche pour
-indicator:chart,Chart,Graphique
-indicator:clear_all,Clear all,Tout effacer
-indicator:clear_selections,Clear selections,Effacer les sélections
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Il y a trop de jeux de données à afficher sur le graphique. Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
-indicator:download_chart,Download Chart CSV,Télécharger le graphique CSV
-indicator:download_csv,Download CSV,Télécharger CSV
-indicator:download_csv_title,Download as CSV,Télécharger en format CSV
-indicator:download_headline,Download Headline CSV,Télécharger Headline CSV
-indicator:download_headline_title,Download headline data as CSV,Télécharger les données de titre au format CSV
-indicator:download_source,Download Source CSV,Télécharger Source CSV
-indicator:download_source_title,Download source data as CSV,Télécharger les données source au format CSV
-indicator:download_table,Download Table CSV,Télécharger le tableau CSV
-indicator:edit,Edit,modifier
-indicator:edit_data,Edit Data,Modifier les données
-indicator:edit_metadata,Edit Metadata,Modifier les métadonnées
-indicator:footnote,Footnote,note de bas de page
-indicator:geographical_area,Geographical Area,Zone géographique
-indicator:global_metadata,Global Metadata,Métadonnées globales
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Ce tableau fournit des informations sur les métadonnées pour les indicateurs SDG définis par la Commission de statistique des Nations Unies. <a href=""https://unstats.un.org/sdgs/metadata/"">Les métadonnées globales complètes</a> sont fournies par la Division de statistique de l&#39;ONU."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Cliquez sur la légende pour supprimer les lignes individuelles du graphique.
-indicator:loading_map,Loading map,Chargement de la carte
-indicator:map,Map,Carte
-indicator:national_metadata,National Metadata,Métadonnées nationales
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Cette table fournit des métadonnées pour l&#39;indicateur réel disponible à partir des statistiques %country_name les plus proches de l&#39;indicateur SDG global correspondant. Veuillez noter que même lorsque l&#39;indicateur global des ODD est entièrement disponible à partir des statistiques %country_adjective, ce tableau devrait être consulté pour obtenir des informations sur la méthodologie nationale et d&#39;autres informations sur les métadonnées spécifiques à un pays_adjectif."
-indicator:no_data_hint,No options available because of filters above,Aucune option disponible en raison des filtres ci-dessus
-indicator:select_all,Select all,Tout sélectionner
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,Choisissez des catégories dans les listes déroulantes ci-dessous pour voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à ce qu&#39;un niveau supérieur soit choisi.
-indicator:source,Source,La source
-indicator:sources,Sources,Sources
-indicator:sub_categories,Sub-categories,Sous-catégories
-indicator:table,Table,Table
-indicator:unit_of_measurement,Unit of Measurement,Unité de mesure
-indicator:units_type,Units type,Type d&#39;unités
-indicator:variable_hint,Available when '%field' is selected,Disponible lorsque le champ '%field' est sélectionné
-indicator:view_indicator_list,View this goal's indicator list,Voir la liste des indicateurs de cet objectif
+menu:about,About,Sur
+menu:contact_us,Contact us,Contactez nous
+menu:cookies,Cookies,Biscuits
+menu:faq,FAQ,FAQ
+menu:guidance,Guidance,Orientation
+menu:menu,Menu,Menu
+menu:publications,Publications,Publications
+menu:reporting_status,Reporting Status,Statut de rapport
 general:goal,Goal,Objectif
 general:goals,Goals,Buts
 general:home,Home,Accueil
@@ -164,3 +159,8 @@ general:indicators,Indicators,Indicateurs
 general:loading,Loading search results,Chargement des résultats de recherche
 general:opens_new_window,opens in a new window,Ouvre dans une nouvelle fenêtre
 general:sdg,Sustainable Development Goals,Objectifs de développement durable
+status:exploring_data_sources,Exploring data sources,Explorer les sources de données
+status:overall_reporting_status,Overall Reporting Status,Statut général de rapport
+status:reported_online,Reported online,Signalé en ligne
+status:reporting_status,Reporting Status,Statut de rapport
+status:statistics_in_progress,Statistics in progress,Statistiques en cours

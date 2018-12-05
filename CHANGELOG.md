@@ -2,7 +2,11 @@
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
-## Unreleased changes
+## 0.3.0
+
+### Breaking changes
+
+* Change Chinese code from "zh" to "zh-Hans" (d217b4b6)
 
 ### Functionality
 
@@ -17,7 +21,7 @@ Numbers in parenthesis below refer to Github issues or pull-requests.
 * Added context about some translations (#17)
 * Added Arabic translations (#20)
 * Added Russian translations (#21)
-* Breaking change: Change Chinese code from "zh" to "zh-Hans" (d217b4b6)
+* Change Chinese code from "zh" to "zh-Hans" (d217b4b6)
 * Added Simplified Chinese translations (16b18d4d)
 
 ## 0.2.0

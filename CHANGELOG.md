@@ -2,6 +2,12 @@
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## Unreleased changes
+
+### Translations
+
+* Arabic fixes. (#24)
+
 ## 0.3.0
 
 ### Breaking changes

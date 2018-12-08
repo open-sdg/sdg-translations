@@ -51,15 +51,15 @@ def should_we_omit_key(key, language):
 
 # Parse and "flatten" the yaml from a translation file.
 def parse_translation_data(filepath):
-    with open(filepath, 'r') as stream:
-        try:
+    try:
+        with open(filepath, 'r') as stream:
             yamldata = yaml.load(stream)
             # Use an unusual "sep" below so that dots can still be used in keys.
             df = pd.io.json.json_normalize(yamldata, sep='---')
             return df.to_dict(orient='records')[0]
-        except Exception as exc:
-            # Could not load the file, return an empty object.
-            return {}
+    except Exception as exc:
+        # Could not load the file, return an empty object.
+        return {}
 
 def export_language(language, folder):
     src_language = 'en'

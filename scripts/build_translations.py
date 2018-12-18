@@ -50,13 +50,17 @@ def main():
     # Loop through all the past Git tags.
     repo = Repo(os.getcwd())
     # Save the current branch for later.
-    branch = repo.active_branch.name
+    try:
+        branch = repo.active_branch.name
+    except:
+        branch = False
     for tag in repo.tags:
         # Switch to the tag and build another version.
         repo.git.checkout(tag)
         build_translations('translations-' + str(tag) + '.json')
     # Go back to the current branch.
-    repo.git.checkout(branch)
+    if branch:
+        repo.git.checkout(branch)
 
     return status
 

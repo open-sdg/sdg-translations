@@ -2,11 +2,17 @@
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
-## Unreleased changes
+## 0.3.1
+
+### Functionality
+
+* Switch to using the master branch, for simplicity (#28)
+* Trigger builds on tagging (#29)
 
 ### Translations
 
 * Arabic fixes. (#24)
+* Spanish fixes. (#25, #26, #27)
 
 ## 0.3.0
 

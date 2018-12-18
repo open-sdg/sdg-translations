@@ -2,7 +2,7 @@
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
-## 0.3.1
+## 0.3.2
 
 ### Functionality
 

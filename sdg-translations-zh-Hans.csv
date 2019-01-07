@@ -1,4 +1,8 @@
 ﻿key,en,zh-Hans
+header:alpha,Alpha,Alpha
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",这是一个发展中的网站。欢迎您向我们发送反馈意见。
+header:skip_link,Skip to main content,跳到主要内容
+header:tag_line,17 Goals to Transform our World,变革世界的17个目标
 menu:about,About,关于
 menu:contact_us,Contact us,联系我们
 menu:cookies,Cookies,Cookies
@@ -7,35 +11,6 @@ menu:guidance,Guidance,指引
 menu:menu,Menu,目录
 menu:publications,Publications,出版物
 menu:reporting_status,Reporting Status,上报状况
-header:alpha,Alpha,Alpha
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",这是一个发展中的网站。欢迎您向我们发送反馈意见。
-header:skip_link,Skip to main content,跳到主要内容
-header:tag_line,17 Goals to Transform our World,变革世界的17个目标
-search:found_in,found in,找到
-search:indicator_search,Indicator search,指标搜索
-search:keywords,Keywords,关键字
-search:no_results,No results,无搜索结果
-search:search,Search,搜索
-search:search_results_for,Search results for,搜索结果
-global_goals:1---short,No Poverty,无贫穷
-global_goals:10---short,Reduced inequalities,减少不平等
-global_goals:11---short,Sustainable Cities & Communities,可持续城市和社区
-global_goals:12---short,Responsible consumption and production,负责任消费和生产
-global_goals:13---short,Climate action,气候行动
-global_goals:14---short,Life below water,水下生物
-global_goals:15---short,Life on land,陆地生物
-global_goals:16---short,Peace and justice - strong institutions,和平、正义与强大机构
-global_goals:17---short,Partnerships for the goals,促进目标现实的伙伴关系
-global_goals:2---short,Zero Hunger,零饥饿
-global_goals:3---short,Good Health and Well-being,良好健康与福祉
-global_goals:4---short,Quality Education,优质教育
-global_goals:5---short,Gender Equality,性别平等
-global_goals:6---short,Clean water and sanitation,清洁饮水和卫生设施
-global_goals:7---short,Affordable and clean energy,经济适用的清洁能源
-global_goals:8---short,Decent jobs and economic growth,体面工作和经济增长
-global_goals:9---short,"Industry, innovation and infrastructure",创业、创新和基础设施
-frontpage:heading,data for Sustainable Development Goal indicators,可持续发展目标指标的数据
-frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.",点击每一个目标查询或自行搜索各个国家的可持续发展目标全球指标统计。
 metadata_fields:comments_limitations,Other information,其他资料
 metadata_fields:computation_calculations,Calculations,计算
 metadata_fields:computation_definitions,Definitions,定义
@@ -119,16 +94,6 @@ status:overall_reporting_status,Overall Reporting Status,整体上报状况
 status:reported_online,Reported online,已在线上上报
 status:reporting_status,Reporting Status,上报状况
 status:statistics_in_progress,Statistics in progress,统计在进行中
-post:posts_by_category,Posts by Category,按分类发布的帖子
-post:view_all_in_category,View all posts in the %category_name category,显示此分类的所有帖子
-general:goal,Goal,目标
-general:goals,Goals,目标
-general:home,Home,首页
-general:indicator,Indicator,指标
-general:indicators,Indicators,指标
-general:loading,Loading search results,加载搜索结果
-general:opens_new_window,opens in a new window,在新窗口中打开
-general:sdg,Sustainable Development Goals,可持续发展目标
 indicator:chart,Chart,图表
 indicator:clear_all,Clear all,全部清除
 indicator:clear_selections,Clear selections,清除选项
@@ -164,3 +129,38 @@ indicator:unit_of_measurement,Unit of Measurement,计量单位
 indicator:units_type,Units type,单位类型
 indicator:variable_hint,Available when '%field' is selected,点击以便显示內容
 indicator:view_indicator_list,View this goal's indicator list,查看此目标的指标清单
+frontpage:heading,data for Sustainable Development Goal indicators,可持续发展目标指标的数据
+frontpage:instructions,"Click on each goal %before_link, or search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.",点击每一个目标查询或自行搜索各个国家的可持续发展目标全球指标统计。
+post:posts_by_category,Posts by Category,按分类发布的帖子
+post:view_all_in_category,View all posts in the %category_name category,显示此分类的所有帖子
+general:goal,Goal,目标
+general:goals,Goals,目标
+general:home,Home,首页
+general:indicator,Indicator,指标
+general:indicators,Indicators,指标
+general:loading,Loading search results,加载搜索结果
+general:opens_new_window,opens in a new window,在新窗口中打开
+general:sdg,Sustainable Development Goals,可持续发展目标
+search:found_in,found in,找到
+search:indicator_search,Indicator search,指标搜索
+search:keywords,Keywords,关键字
+search:no_results,No results,无搜索结果
+search:search,Search,搜索
+search:search_results_for,Search results for,搜索结果
+global_goals:1---short,No Poverty,无贫穷
+global_goals:10---short,Reduced inequalities,减少不平等
+global_goals:11---short,Sustainable Cities & Communities,可持续城市和社区
+global_goals:12---short,Responsible consumption and production,负责任消费和生产
+global_goals:13---short,Climate action,气候行动
+global_goals:14---short,Life below water,水下生物
+global_goals:15---short,Life on land,陆地生物
+global_goals:16---short,Peace and justice - strong institutions,和平、正义与强大机构
+global_goals:17---short,Partnerships for the goals,促进目标现实的伙伴关系
+global_goals:2---short,Zero Hunger,零饥饿
+global_goals:3---short,Good Health and Well-being,良好健康与福祉
+global_goals:4---short,Quality Education,优质教育
+global_goals:5---short,Gender Equality,性别平等
+global_goals:6---short,Clean water and sanitation,清洁饮水和卫生设施
+global_goals:7---short,Affordable and clean energy,经济适用的清洁能源
+global_goals:8---short,Decent jobs and economic growth,体面工作和经济增长
+global_goals:9---short,"Industry, innovation and infrastructure",创业、创新和基础设施

@@ -1,117 +1,4 @@
 ﻿key,en,ar
-indicator:chart,Chart,مخطط
-indicator:clear_all,Clear all,ازالة الكل
-indicator:clear_selections,Clear selections,إزالة المحدد
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,هناك عدد كبير من البيانات المحددة. لن يتم عرض الكل حتى تزيل بعضها.
-indicator:download_chart,Download Chart CSV,تحميل المخطط الCSV
-indicator:download_csv,Download CSV,تحميل الCSV
-indicator:download_csv_title,Download as CSV,تحميل كCSV
-indicator:download_headline,Download Headline CSV,تحميل CSV الخط الرئيسي 
-indicator:download_headline_title,Download headline data as CSV,تحميل بيانات CSV الخط الرئيسي
-indicator:download_source,Download Source CSV,تحميل مصدر الCSV
-indicator:download_source_title,Download source data as CSV,تحميل بيانات مصدر الCSV
-indicator:download_table,Download Table CSV,تحميل جدول CSV
-indicator:edit,Edit,تغيير
-indicator:edit_data,Edit Data,تغيير البيانات
-indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
-indicator:footnote,Footnote,حاشية
-indicator:geographical_area,Geographical Area,المنطقة الجغرافية
-indicator:global_metadata,Global Metadata,البيانات الوصفية العالمية
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",رابط الى البيانات الوصفية للأمم المتحدة
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,انقر على وسيلة الايضاح لازالة أسطر فردية من المخطط
-indicator:loading_map,Loading map,تحميل الخريطة
-indicator:map,Map,خريطة
-indicator:national_metadata,National Metadata,البيانات الوصفية الوطنية
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",هذا الجدول يقدم بيانات وصفية للمؤشر المتاح من احصائيات %country_name الاقرب الى مؤشر الاهداف التنمية المستدامة العالمية المناظر. يرجى الملاحظة انه تحتى عندما يكون المؤشر متاحاً بالكامل من احصائيات %country_adjective، ينبغي استشارة هذا الجدول للحصول على معلومات حول المنهجية الوطنية وغيرها من المعلومات المتعلقة بالبيانات الشرحية الخاصة ب%country_adjective
-indicator:no_data_hint,No options available because of filters above,لا تتوفر خيارات بسبب الفلاتر الاعلى 
-indicator:select_all,Select all,اختيار الكل
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,اختر فئات من القوائم المندسلة ادناه لرؤية تركيبات مختلفة للبيانات. بعضها لن تكون متاحة حتى يتم اختيار مستوى اعلى
-indicator:source,Source,مصدر
-indicator:sources,Sources,مصادر
-indicator:sub_categories,Sub-categories,فئات فرعية
-indicator:table,Table,جدول
-indicator:unit_of_measurement,Unit of Measurement,وحدة قياس
-indicator:units_type,Units type,نوع الوحدات
-indicator:variable_hint,Available when '%field' is selected,متاح عند تحديد '%field' 
-indicator:view_indicator_list,View this goal's indicator list,عرض قائمة المؤشرات لهذا الهدف
-metadata_fields:comments_limitations,Other information,معلومات اخرى
-metadata_fields:computation_calculations,Calculations,عمليات حسابية
-metadata_fields:computation_definitions,Definitions,تعريفات
-metadata_fields:computation_units,Unit of measurement,وحدة قياس
-metadata_fields:goal_meta_link,Link to UN metadata,رابط الى البيانات الوصفية للامم المتحدة
-metadata_fields:indicator,Indicator number,رقم المؤشر
-metadata_fields:indicator_definition,Global indicator description,وصف المؤشر العالمي
-metadata_fields:indicator_name,Indicator name,اسم المؤشر
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),ترتيب عرض المؤشر (داخل صفحة الهدف)
-metadata_fields:national_data_update_url,Data last updated,آخر تحديث للبيانات
-metadata_fields:national_geographical_coverage,Geographical coverage,تغطية جغرافية
-metadata_fields:national_indicator_available,Indicator available,مؤشر متاح
-metadata_fields:national_indicator_description,Indicator description,وصف المؤشر
-metadata_fields:national_metadata_update_url,Metadata last updated,آخر تحديث للبيانات الوصفية
-metadata_fields:source_contact_1,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_2,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_3,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_4,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_5,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_6,Contact details,تفاصيل الاتصال
-metadata_fields:source_earliest_available_1,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_2,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_3,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_4,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_5,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_6,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_geographical_coverage_1,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_2,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_3,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_4,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_5,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_6,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_next_release_1,Next release,الاصدار التالي
-metadata_fields:source_next_release_2,Next release,الاصدار التالي
-metadata_fields:source_next_release_3,Next release,الاصدار التالي
-metadata_fields:source_next_release_4,Next release,الاصدار التالي
-metadata_fields:source_next_release_5,Next release,الاصدار التالي
-metadata_fields:source_next_release_6,Next release,الاصدار التالي
-metadata_fields:source_organisation_1,Organisation,منظمة
-metadata_fields:source_organisation_2,Organisation,منظمة
-metadata_fields:source_organisation_3,Organisation,منظمة
-metadata_fields:source_organisation_4,Organisation,منظمة
-metadata_fields:source_organisation_5,Organisation,منظمة
-metadata_fields:source_organisation_6,Organisation,منظمة
-metadata_fields:source_other_info_1,Other information,معلومات اخرى
-metadata_fields:source_other_info_2,Other information,معلومات اخرى
-metadata_fields:source_other_info_3,Other information,معلومات اخرى
-metadata_fields:source_other_info_4,Other information,معلومات اخرى
-metadata_fields:source_other_info_5,Other information,معلومات اخرى
-metadata_fields:source_other_info_6,Other information,معلومات اخرى
-metadata_fields:source_periodicity_1,Periodicity,دورية
-metadata_fields:source_periodicity_2,Periodicity,دورية
-metadata_fields:source_periodicity_3,Periodicity,دورية
-metadata_fields:source_periodicity_4,Periodicity,دورية
-metadata_fields:source_periodicity_5,Periodicity,دورية
-metadata_fields:source_periodicity_6,Periodicity,دورية
-metadata_fields:source_release_date_1,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_2,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_3,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_4,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_5,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_6,Release date,تاريخ الاصدار
-metadata_fields:source_statistical_classification_1,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_2,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_3,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_4,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_5,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_6,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_url_1,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_2,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_3,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_4,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_5,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_6,Link to data source,رابط الى مصدر البيانات
-metadata_fields:target,Target name,اسم الهدف
-metadata_fields:target_id,Target number,رقم الهدف
-metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
-metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
 global_targets:1.1---title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",القضاء على الفقر المدقع للناس أجمعين أينما كانوا بحلول عام 2030، وهو يُقاس حالياً بعدد الأشخاص الذين يعيشون بأقل من 1.25 دولار في اليوم
 global_targets:1.2---title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",تخفيض نسـبة الرجال والنساء والأطفال من جميع الأعمار الـذين يعـانون الفقر بجميع أبعاده وفقــاً للتعـاريف الوطنية بمقــدار النصف على الأقل، بحلول عام 2030
 global_targets:1.3---title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",تنفيـذ نظم وطنية ملائمـة للحمايـة الاجتمـاعية وتـدابير للجميع ووضع حدود دنيا لها، وبحلول عام 2030، تحقيق تغطية واسعة للفقراء والضعفاء
@@ -281,6 +168,92 @@ global_targets:9.5---title,"Enhance scientific research, upgrade the technologic
 global_targets:9.a---title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States",تيسير إنشاء هياكل أساسية مستدامة وقادرة على الصمود في البلدان النامية، بتحسـين الدعم المالي والتكنولوجي والتقني المقدم للبلدان الأفريقية، وأقل البلدان نمواً، والبلدان النامية غير الساحلية، والدول الجزرية الصغيرة النامية
 global_targets:9.b---title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities",دعم أنشـطـة التطوير والبحـث والابتكـار في التكنولوجيـا المحلية في البلدان النامية، بوسـائل منها كفالة وجود بيئة مؤاتية من حيث السـياسـات للتنويع الصـناعي وإضـافة قيمة للسـلع الأسـاسـية بين أمور أخرى
 global_targets:9.c---title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,تحقيق زيادة كبيرة في فرص الحصول على تكنولوجيا المعلومات والاتصــالات، والســعي إلى توفير فرص الوصــول الشــامل والميسـور إلى شـبكة الإنترنـت في أقـل البلـدان نموا، بحلول عـام 2020
+metadata_fields:comments_limitations,Other information,معلومات اخرى
+metadata_fields:computation_calculations,Calculations,عمليات حسابية
+metadata_fields:computation_definitions,Definitions,تعريفات
+metadata_fields:computation_units,Unit of measurement,وحدة قياس
+metadata_fields:goal_meta_link,Link to UN metadata,رابط الى البيانات الوصفية للامم المتحدة
+metadata_fields:indicator,Indicator number,رقم المؤشر
+metadata_fields:indicator_definition,Global indicator description,وصف المؤشر العالمي
+metadata_fields:indicator_name,Indicator name,اسم المؤشر
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),ترتيب عرض المؤشر (داخل صفحة الهدف)
+metadata_fields:national_data_update_url,Data last updated,آخر تحديث للبيانات
+metadata_fields:national_geographical_coverage,Geographical coverage,تغطية جغرافية
+metadata_fields:national_indicator_available,Indicator available,مؤشر متاح
+metadata_fields:national_indicator_description,Indicator description,وصف المؤشر
+metadata_fields:national_metadata_update_url,Metadata last updated,آخر تحديث للبيانات الوصفية
+metadata_fields:source_contact_1,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_2,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_3,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_4,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_5,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_6,Contact details,تفاصيل الاتصال
+metadata_fields:source_earliest_available_1,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_2,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_3,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_4,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_5,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_6,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_geographical_coverage_1,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_2,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_3,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_4,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_5,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_6,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_next_release_1,Next release,الاصدار التالي
+metadata_fields:source_next_release_2,Next release,الاصدار التالي
+metadata_fields:source_next_release_3,Next release,الاصدار التالي
+metadata_fields:source_next_release_4,Next release,الاصدار التالي
+metadata_fields:source_next_release_5,Next release,الاصدار التالي
+metadata_fields:source_next_release_6,Next release,الاصدار التالي
+metadata_fields:source_organisation_1,Organisation,منظمة
+metadata_fields:source_organisation_2,Organisation,منظمة
+metadata_fields:source_organisation_3,Organisation,منظمة
+metadata_fields:source_organisation_4,Organisation,منظمة
+metadata_fields:source_organisation_5,Organisation,منظمة
+metadata_fields:source_organisation_6,Organisation,منظمة
+metadata_fields:source_other_info_1,Other information,معلومات اخرى
+metadata_fields:source_other_info_2,Other information,معلومات اخرى
+metadata_fields:source_other_info_3,Other information,معلومات اخرى
+metadata_fields:source_other_info_4,Other information,معلومات اخرى
+metadata_fields:source_other_info_5,Other information,معلومات اخرى
+metadata_fields:source_other_info_6,Other information,معلومات اخرى
+metadata_fields:source_periodicity_1,Periodicity,دورية
+metadata_fields:source_periodicity_2,Periodicity,دورية
+metadata_fields:source_periodicity_3,Periodicity,دورية
+metadata_fields:source_periodicity_4,Periodicity,دورية
+metadata_fields:source_periodicity_5,Periodicity,دورية
+metadata_fields:source_periodicity_6,Periodicity,دورية
+metadata_fields:source_release_date_1,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_2,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_3,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_4,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_5,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_6,Release date,تاريخ الاصدار
+metadata_fields:source_statistical_classification_1,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_2,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_3,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_4,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_5,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_6,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_url_1,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_2,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_3,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_4,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_5,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_6,Link to data source,رابط الى مصدر البيانات
+metadata_fields:target,Target name,اسم الهدف
+metadata_fields:target_id,Target number,رقم الهدف
+metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
+metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
+post:posts_by_category,Posts by Category,المنشورات حسب الفئة
+post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
+search:found_in,found in,موجود في
+search:indicator_search,Indicator search,بحث المؤشر
+search:keywords,Keywords,الكلمات الدالة
+search:no_results,No results,لا يوجد نتائج
+search:search,Search,بحث
+search:search_results_for,Search results for,نتائج البحث عن
 global_goals:1---short,No Poverty,لا فقر
 global_goals:1---title,End poverty in all its forms everywhere,القضاء على الفقر بجميع أشكاله في كل مكان
 global_goals:10---short,Reduced inequalities,انخفاض عدم المساواة
@@ -315,6 +288,53 @@ global_goals:8---short,Decent jobs and economic growth,وظائف لائقة و�
 global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",تعزيز النمو الاقتصادي المستدام والشامل والعمالة الكاملة والمنتجة والعمل اللائق للجميع 
 global_goals:9---short,"Industry, innovation and infrastructure",الصناعة والابتكار والهياكل الأساسية 
 global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",بناء هياكل أساسية مرنة، وتعزيز التصنيع الشامل والمستدام وتعزيز الابتكار
+indicator:chart,Chart,مخطط
+indicator:clear_all,Clear all,ازالة الكل
+indicator:clear_selections,Clear selections,إزالة المحدد
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,هناك عدد كبير من البيانات المحددة. لن يتم عرض الكل حتى تزيل بعضها.
+indicator:download_chart,Download Chart CSV,تحميل المخطط الCSV
+indicator:download_csv,Download CSV,تحميل الCSV
+indicator:download_csv_title,Download as CSV,تحميل كCSV
+indicator:download_headline,Download Headline CSV,تحميل CSV الخط الرئيسي 
+indicator:download_headline_title,Download headline data as CSV,تحميل بيانات CSV الخط الرئيسي
+indicator:download_source,Download Source CSV,تحميل مصدر الCSV
+indicator:download_source_title,Download source data as CSV,تحميل بيانات مصدر الCSV
+indicator:download_table,Download Table CSV,تحميل جدول CSV
+indicator:edit,Edit,تغيير
+indicator:edit_data,Edit Data,تغيير البيانات
+indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
+indicator:footnote,Footnote,حاشية
+indicator:geographical_area,Geographical Area,المنطقة الجغرافية
+indicator:global_metadata,Global Metadata,البيانات الوصفية العالمية
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",رابط الى البيانات الوصفية للأمم المتحدة
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,انقر على وسيلة الايضاح لازالة أسطر فردية من المخطط
+indicator:loading_map,Loading map,تحميل الخريطة
+indicator:map,Map,خريطة
+indicator:national_metadata,National Metadata,البيانات الوصفية الوطنية
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",هذا الجدول يقدم بيانات وصفية للمؤشر المتاح من احصائيات %country_name الاقرب الى مؤشر الاهداف التنمية المستدامة العالمية المناظر. يرجى الملاحظة انه تحتى عندما يكون المؤشر متاحاً بالكامل من احصائيات %country_adjective، ينبغي استشارة هذا الجدول للحصول على معلومات حول المنهجية الوطنية وغيرها من المعلومات المتعلقة بالبيانات الشرحية الخاصة ب%country_adjective
+indicator:no_data_hint,No options available because of filters above,لا تتوفر خيارات بسبب الفلاتر الاعلى 
+indicator:select_all,Select all,اختيار الكل
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,اختر فئات من القوائم المندسلة ادناه لرؤية تركيبات مختلفة للبيانات. بعضها لن تكون متاحة حتى يتم اختيار مستوى اعلى
+indicator:source,Source,مصدر
+indicator:sources,Sources,مصادر
+indicator:sub_categories,Sub-categories,فئات فرعية
+indicator:table,Table,جدول
+indicator:unit_of_measurement,Unit of Measurement,وحدة قياس
+indicator:units_type,Units type,نوع الوحدات
+indicator:variable_hint,Available when '%field' is selected,متاح عند تحديد '%field' 
+indicator:view_indicator_list,View this goal's indicator list,عرض قائمة المؤشرات لهذا الهدف
+menu:about,About,عن
+menu:contact_us,Contact us,اتصل بنا
+menu:cookies,Cookies,ملفات تعريف الارتباط
+menu:faq,FAQ,أسئلة شائعة
+menu:guidance,Guidance,توجيه
+menu:menu,Menu,قائمة
+menu:publications,Publications,منشورات
+menu:reporting_status,Reporting Status,حالة التقارير
+header:alpha,Alpha,ألفا
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","هذا موقع تطوير. نرحب <a href=""mailto:%email_address""> بتعليقاتكم </a>"
+header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
+header:tag_line,17 Goals to Transform our World,17 اهداف لتحويل عالمنا
 general:goal,Goal,هدف
 general:goals,Goals,اهداف
 general:home,Home,الصفحة الرئيسية  (Home page)
@@ -323,14 +343,13 @@ general:indicators,Indicators,مؤشرات
 general:loading,Loading search results,تحميل نتائج البحث
 general:opens_new_window,opens in a new window,تنفتح في نافذة جديدة
 general:sdg,Sustainable Development Goals,اهداف التنمية المستدامة
+status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
+status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
+status:reported_online,Reported online,اعلن على الانترنت
+status:reporting_status,Reporting Status,وضع الاعلان
+status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
 frontpage:heading,data for Sustainable Development Goal indicators,بيانات لمؤشرات اهداف التنمية المستدامة
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %country_name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
-search:found_in,found in,موجود في
-search:indicator_search,Indicator search,بحث المؤشر
-search:keywords,Keywords,الكلمات الدالة
-search:no_results,No results,لا يوجد نتائج
-search:search,Search,بحث
-search:search_results_for,Search results for,نتائج البحث عن
 global_indicators:1.1.1---title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",نسبة السكان الذين يعيشون دون خط الفقر الدولي، بحسب الجنس، والعمر، والوضع الوظيفي، والموقع الجغرافي (حضري/ريفي)
 global_indicators:1.2.1---title,"Proportion of population living below the national poverty line, by sex and age",نسبة السكان الذين يعيشون دون خط الفقر الوطني، بحسب الجنس والعمر 
 global_indicators:1.2.2---title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",نسبة الرجال والنساء والأطفال من جميع الاعمار الذين يعانون الفقر بجميع ابعاده وفقا للتعريفات الوطنية
@@ -576,22 +595,3 @@ global_indicators:9.5.2---title,Researchers (in full-time equivalent) per millio
 global_indicators:9.a.1---title,Total official international support (official development assistance plus other official flows) to infrastructure,مجموع الدعم الدولي (المساعدة الإنمائية الرسمية بالإضافة إلى التدفقات الرسمية الأخرى) إلى الهياكل الأساسية
 global_indicators:9.b.1---title,Proportion of medium and high-tech industry value added in total value added,نسـبة القيمة المضافة للصناعة التكنولوجية المتوسـطة والمتقدمة من مجموع القيمة المضافة
 global_indicators:9.c.1---title,"Proportion of population covered by a mobile network, by technology",نسبة السكان المشمولين بشبكة الهاتف المحمول، بحسب التكنولوجيا
-menu:about,About,عن
-menu:contact_us,Contact us,اتصل بنا
-menu:cookies,Cookies,ملفات تعريف الارتباط
-menu:faq,FAQ,أسئلة شائعة
-menu:guidance,Guidance,توجيه
-menu:menu,Menu,قائمة
-menu:publications,Publications,منشورات
-menu:reporting_status,Reporting Status,حالة التقارير
-post:posts_by_category,Posts by Category,المنشورات حسب الفئة
-post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
-header:alpha,Alpha,ألفا
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","هذا موقع تطوير. نرحب <a href=""mailto:%email_address""> بتعليقاتكم </a>"
-header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
-header:tag_line,17 Goals to Transform our World,17 اهداف لتحويل عالمنا
-status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
-status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
-status:reported_online,Reported online,اعلن على الانترنت
-status:reporting_status,Reporting Status,وضع الاعلان
-status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة

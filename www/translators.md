@@ -12,6 +12,7 @@ The translations for the current languages are available in spreadsheet form for
 * [Chinese]({{ site.baseurl }}/sdg-translations-zh-Hans.csv)
 * [Arabic]({{ site.baseurl }}/sdg-translations-ar.csv)
 * [Russian]({{ site.baseurl }}/sdg-translations-ru.csv)
+* [Armenian]({{ site.baseurl }}/sdg-translations-am.csv)
 
 In these spreadsheets the English translations sit in a column alongside the translations for the target language, if any.
 

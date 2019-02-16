@@ -1,0 +1,47 @@
+chart: Grafik
+clear_all: Auswahl aufheben
+clear_selections: Auswahl aufheben
+dataset_size_warning: Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen.
+  Es können nicht alle Zeitreihen dargestellt werden
+download_chart: Grafik im CSV-Format speichern
+download_csv: im CSV-Format speichern
+download_csv_title: im CSV-Format speichern
+download_headline: Speichern der Headline im CSV-Format
+download_headline_title: Speichern der Headline im CSV-Format
+download_source: Daten im CSV-Format speichern
+download_source_title: Daten im CSV-Format speichern
+download_table: Tabelle im CSV-Format speichern
+edit: Bearbeiten
+edit_data: Daten bearbeiten
+edit_metadata: Metadaten bearbeiten
+footnote: Fußnote
+geographical_area: Geographische Abdeckung
+global_metadata: Globale Metadaten
+global_metadata_blurb: Diese Übersicht stellt Informationen zu den globalen Metadaten
+  des jeweiligen SDG-Indikators bereit. <a href=""https://unstats.un.org/sdgs/metadata/"">Die
+  globalen Metadaten werden durch die Statistische Division der Vereinten Nationen
+  bereitgestellt.
+legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+loading_map: Karte wird geladen
+map: Karte
+national_metadata: Nationale Metadaten
+national_metadata_blurb: Im Folgenden werden Metadaten zu den national verfügbaren
+  Zeitreihen für %country_name zum jeweiligen globalen SDG-Indikator bereitgestellt.
+  Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe.
+  Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch
+  auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen
+  hinzuweisen.
+no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
+  verfügbar.
+select_all: Alle auswählen
+series_help: Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien
+  angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt
+  wird.
+source: Datenquelle
+sources: Datenquellen
+sub_categories: Disaggregationsdimensionen
+table: Tabelle
+unit_of_measurement: Einheit
+units_type: Einheit
+variable_hint: Verfügbar
+view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.

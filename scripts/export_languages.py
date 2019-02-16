@@ -14,6 +14,7 @@ def main():
     'ar',
     'ru',
     'am',
+    'de',
   ]
 
   folder = 'www'

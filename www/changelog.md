@@ -14,8 +14,10 @@ Numbers in parenthesis below refer to Github issues or pull-requests.
 
 ### Translations
 
+* Fix placement of tokens in frontpage.instructions (#34, #53)
+* Added translations of "target" and "targets" (#35, #54)
 * Added Armenian translations (#37, #38, #39, #42)
-* Fixed typo in English version of 5.3.1 (#41)
+* Fixed error in English version of 5.3.1 (#41)
 * Sentence casing for some short goal titles in English (#46, #51)
 * Added German translations (#47)
 

@@ -8,18 +8,23 @@ Numbers in parenthesis below refer to Github issues or pull-requests.
 
 ## 0.4.0
 
+## Breaking changes
+
+* Include token for adjective in translations of frontpage.header (#56)
+
 ### Functionality
 
-* Move this changelog to the site
+* Move this changelog to the site (#52)
+* Add goal images to this project for all languages (#58)
 
 ### Translations
 
 * Fix placement of tokens in frontpage.instructions (#34, #53)
-* Added translations of "target" and "targets" (#35, #54)
-* Added Armenian translations (#37, #38, #39, #42)
-* Fixed error in English version of 5.3.1 (#41)
+* Add translations of "target" and "targets" (#35, #54)
+* Add Armenian translations (#37, #38, #39, #42)
+* Fix error in English version of 5.3.1 (#41)
 * Sentence casing for some short goal titles in English (#46, #51)
-* Added German translations (#47)
+* Add German translations (#47, #59)
 
 ## 0.3.2
 

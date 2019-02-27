@@ -18,8 +18,7 @@ footnote: Fußnote
 geographical_area: Geographische Abdeckung
 global_metadata: Globale Metadaten
 global_metadata_blurb: Diese Übersicht stellt Informationen zu den globalen Metadaten
-  des jeweiligen SDG-Indikators bereit. <a href=""https://unstats.un.org/sdgs/metadata/"">Die
-  globalen Metadaten werden durch die Statistische Division der Vereinten Nationen
+  des jeweiligen SDG-Indikators bereit. Die <a href=""https://unstats.un.org/sdgs/metadata/"">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen
   bereitgestellt.
 legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
 loading_map: Karte wird geladen

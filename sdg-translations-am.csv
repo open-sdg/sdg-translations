@@ -244,64 +244,91 @@ global_indicators:9.5.2---title,Researchers (in full-time equivalent) per millio
 global_indicators:9.a.1---title,Total official international support (official development assistance plus other official flows) to infrastructure,Ընդհանուր միջազգային պաշտոնական օժանդակություն (զարգացմանն ուղղված պաշտոնական օգնություն՝ գումարած այլ պաշտոնական հոսքեր) ենթակառուցվածքներին 
 global_indicators:9.b.1---title,Proportion of medium and high-tech industry value added in total value added,Միջին և բարձր տեխնոլոգիաների ճյուղի ավելացված արժեքի համամասնությունը ընդհանուր ավելացված արժեքի մեջ 
 global_indicators:9.c.1---title,"Proportion of population covered by a mobile network, by technology",Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի 
-global_goals:1---short,No poverty,Ոչ աղքատությանը
-global_goals:1---title,End poverty in all its forms everywhere,Ամենուրեք վերացնել աղքատությունը՝ իր բոլոր ձևերով ու դրսևորումներով
-global_goals:10---short,Reduced inequalities,Կրճատված անհավասարություն
-global_goals:10---title,Reduce inequality within and among countries,Կրճատել անհավասարությունը երկրների ներսում և դրանց միջև
-global_goals:11---short,Sustainable cities & communities,Կայուն քաղաքներ և համայնքներ
-global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Քաղաքները և մարդկային բնակավայրերը դարձնել ներառական, դիմակայուն, անվտանգ և կայուն"
-global_goals:12---short,Responsible consumption and production,Պատասխանատու սպառում և արտադրություն
-global_goals:12---title,Ensure sustainable consumption and production patterns,Ապահովել սպառման և արտադրության կայուն մոդելներ
-global_goals:13---short,Climate action,Գործողություն՝ ի նպաստ կլիմայի
-global_goals:13---title,Take urgent action to combat climate change and its impacts,"Ձեռնարկել անհապաղ գործողություններ՝ պայքարելու կլիմայի
-փոփոխության և դրա ազդեցությունների դեմ"
-global_goals:14---short,Life below water,Կյանքը ջրի տակ
-global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ապահովել օվկիանոսների, ծովերի ու ջրային պաշարների պահպանությունը և կայուն օգտագործումը՝ հանուն կայուն զարգացման"
-global_goals:15---short,Life on land,Կյանքը ցամաքում
-global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Պահպանել, վերականգնել և խթանել ցամաքային էկոհամակարգերի կայուն օգտագործումը, ապահովել անտառների կայուն կառավարումը,
-պայքարել անապատացման դեմ, դադարեցնել և շրջադարձել հողերի
-վատթարացումը, կասեցնել կենսաբազմազանության կորուստը"
-global_goals:16---short,Peace and justice - strong institutions,"Խաղաղություն, արդարություն և ամուր հաստատություններ"
-global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Խթանել խաղաղ և ներառական հասարակությունների կառուցումը՝ հանուն կայուն զարգացման, բոլորի համար հասանելի դարձնել արդարությունը, բոլոր մակարդակներում ստեղծել արդյունավետ, հաշվետու և ներառական հաստատություններ"
-global_goals:17---short,Partnerships for the goals,Համագործակցություն՝ նպատակների համար
-global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Ուժեղացնել կայուն զարգացման իրագործման միջոցները և ակտիվացնել գլոբալ գործընկերությունը հանուն այս նպատակի
-global_goals:2---short,Zero hunger,Ոչ սովին
-global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Վերացնել սովը, հասնել պարենային ապահովության ու բարելավված սնուցման, խթանել գյուղատնտեսության կայուն զարգացումը"
-global_goals:3---short,Good health and well-being,Առողջություն և բարեկեցություն
-global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,Ապահովել առողջ կյանք և խթանել բարեկեցություն բոլորի համար՝ անկախ տարիքից
-global_goals:4---short,Quality education,Որակյալ կրթություն
-global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Ապահովել ներառական ու համապատասխան որակյալ կրթություն բոլորի համար և խթանել ողջ կյանքի ընթացքում ուսման հնարավորություններ
-global_goals:5---short,Gender equality,Գենդերային հավասարություն
-global_goals:5---title,Achieve gender equality and empower all women and girls,Հասնել գենդերային հավասարության և զորացնել բոլոր կանանց ու աղջիկներին
-global_goals:6---short,Clean water and sanitation,Մաքուր ջուր և սանիտարական պայմաններ
-global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,Ապահովել հասանելիություն և կայուն ձևով կառավարել ջուրն ու սանիտարական պայմանները բոլորի համար
-global_goals:7---short,Affordable and clean energy,Մատչելի և մաքուր էներգիա
-global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Ապահովել բոլորի համար մատչելի, հուսալի, կայուն և ժամանակակից էներգիայի հասանելիություն"
-global_goals:8---short,Decent jobs and economic growth,Արժանապատիվ աշխատանք և տնտեսական աճ
-global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Խթանել կայացած, ներառական և կայուն տնտեսական աճ, լիարժեք և արտադրողական զբաղվածություն և արժանապատիվ աշխատանք բոլորի համար"
-global_goals:9---short,"Industry, innovation and infrastructure","Արդյունաբերություն, նորարարություն և ենթակառուցվածքներ"
-global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Ստեղծել դիմակայուն ենթակառուցվածքներ, աջակցել ներառական և կայուն արդյունաբերության զարգացմանը և խթանել նորարարությունը"
-post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
-post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
-general:goal,Goal,Նպատակը
-general:goals,Goals,Նպատակները
-general:home,Home,Գլխավոր էջ
-general:indicator,Indicator,Ցուցանիշ
-general:indicators,Indicators,Ցուցանիշներ
-general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
-general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
-general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
-general:target,Target,Թիրախը
-general:targets,Targets,Թիրախներ
+metadata_fields:comments_limitations,Other information,Այլ տեղեկություններ 
+metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
+metadata_fields:computation_definitions,Definitions,Սահմանումներ 
+metadata_fields:computation_units,Unit of measurement,Չափման միավորը 
+metadata_fields:goal_meta_link,Link to UN metadata,Հղում ՄԱԿ-ի մետատվյալների
+metadata_fields:indicator,Indicator number,Ցուցանիշի համարը 
+metadata_fields:indicator_definition,Global indicator description,Գլոբալ ցուցանիշի նկարագրությունը 
+metadata_fields:indicator_name,Indicator name,Ցուցանիշի անվանումը 
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Ցուցանիշի ցուցադրման կարգը (Նպատակների էջում) 
+metadata_fields:national_data_update_url,Data last updated,Տվյալները վերջին անգամ թարմացվել են 
+metadata_fields:national_geographical_coverage,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:national_indicator_available,Indicator available,Առկա ցուցանիշ
+metadata_fields:national_indicator_description,Indicator description,Ցուցանիշի նկարագիր 
+metadata_fields:national_metadata_update_url,Metadata last updated,Մետատվյալները վերջին անգան թարմացվել են 
+metadata_fields:source_contact_1,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_2,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_3,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_4,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_5,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_6,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_earliest_available_1,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_2,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_3,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_4,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_5,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_6,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_next_release_1,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_2,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_3,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_4,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_5,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_6,Next release,Հաջորդ թողարկումը
+metadata_fields:source_organisation_1,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_2,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_3,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_4,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_5,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_6,Organisation,Կազմակերպություն 
+metadata_fields:source_other_info_1,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_2,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_3,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_4,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_5,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_6,Other information,Այլ տեղեկություններ 
+metadata_fields:source_periodicity_1,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_2,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_3,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_4,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_5,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_6,Periodicity,Պարբերականությունը 
+metadata_fields:source_release_date_1,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_2,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_3,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_4,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_5,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_6,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_statistical_classification_1,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_2,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_3,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_4,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_5,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_6,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_url_1,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_2,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_3,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_4,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_5,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_6,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:target,Target name,Թիրախի անվանումը
+metadata_fields:target_id,Target number,Թիրախի համարը 
+metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
+metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
 status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
 status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
 status:reported_online,Reported online,Առցանց հաշվետվություն 
 status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
 status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
-header:alpha,Alpha,Ալֆա
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
-header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
-header:tag_line,17 Goals to Transform our World,17 նպատակներ մեր աշխարհը փոխակերպելու համար
+frontpage:heading,data for Sustainable Development Goal indicators,Կայուն զարգացման նպատակների ցուցանիշների տվյալներ 
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
 search:found_in,found in,Գտնված է
 search:indicator_search,Indicator search,Ցուցանիշների որոնում
 search:keywords,Keywords,Հիմնաբառեր
@@ -490,92 +517,8 @@ global_targets:9.5---title,"Enhance scientific research, upgrade the technologic
 global_targets:9.a---title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Դյուրացնել կայուն և դիմակայուն ենթակառուցվածքների զարգացումը զարգացող երկրներում՝ ցուցաբերելով ընդլայնված ֆինանսական, տեխնոլոգիական և փորձագիտական օժանդակություն  աֆրիկյան երկրներին, առավել թույլ զարգացած երկրներին, դեպի ծով ելք չունեցող զարգացող երկրներին և զարգացող փոքր կղզի-պետություններին "
 global_targets:9.b---title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Օժանդակել հայրենական տեխնոլոգիաների զարգացմանը, գիտահետազոտական աշխատանքներին և նորարարությանը զարգացող երկրներում, այդ թվում՝ ապահովելով քաղաքականությունների առումով նպաստավոր միջավայր, ի թիվս այլոց, արդյունաբերության բազմազանեցման և հումքային ապրանքներին արժեքի ավելացման համար "
 global_targets:9.c---title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,Զգալիորեն մեծացնել տեղեկատվական և հաղորդակցման տեխնոլոգիաների հասանելիությունը և ձգտել տրամադրել համացանցի համընդհանուր և մատչելի հասանելիություն առավել թույլ զարգացած երկրներին մինչև 2020թ. 
-metadata_fields:comments_limitations,Other information,Այլ տեղեկություններ 
-metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
-metadata_fields:computation_definitions,Definitions,Սահմանումներ 
-metadata_fields:computation_units,Unit of measurement,Չափման միավորը 
-metadata_fields:goal_meta_link,Link to UN metadata,Հղում ՄԱԿ-ի մետատվյալների
-metadata_fields:indicator,Indicator number,Ցուցանիշի համարը 
-metadata_fields:indicator_definition,Global indicator description,Գլոբալ ցուցանիշի նկարագրությունը 
-metadata_fields:indicator_name,Indicator name,Ցուցանիշի անվանումը 
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Ցուցանիշի ցուցադրման կարգը (Նպատակների էջում) 
-metadata_fields:national_data_update_url,Data last updated,Տվյալները վերջին անգամ թարմացվել են 
-metadata_fields:national_geographical_coverage,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:national_indicator_available,Indicator available,Առկա ցուցանիշ
-metadata_fields:national_indicator_description,Indicator description,Ցուցանիշի նկարագիր 
-metadata_fields:national_metadata_update_url,Metadata last updated,Մետատվյալները վերջին անգան թարմացվել են 
-metadata_fields:source_contact_1,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_2,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_3,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_4,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_5,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_6,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_earliest_available_1,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_2,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_3,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_4,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_5,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_6,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_next_release_1,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_2,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_3,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_4,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_5,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_6,Next release,Հաջորդ թողարկումը
-metadata_fields:source_organisation_1,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_2,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_3,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_4,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_5,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_6,Organisation,Կազմակերպություն 
-metadata_fields:source_other_info_1,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_2,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_3,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_4,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_5,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_6,Other information,Այլ տեղեկություններ 
-metadata_fields:source_periodicity_1,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_2,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_3,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_4,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_5,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_6,Periodicity,Պարբերականությունը 
-metadata_fields:source_release_date_1,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_2,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_3,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_4,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_5,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_6,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_statistical_classification_1,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_2,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_3,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_4,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_5,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_6,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_url_1,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_2,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_3,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_4,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_5,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_6,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:target,Target name,Թիրախի անվանումը
-metadata_fields:target_id,Target number,Թիրախի համարը 
-metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
-metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
-menu:about,About,Վերաբերյալ
-menu:contact_us,Contact us,Կապ մեզ հետ
-menu:cookies,Cookies,Քուկիներ 
-menu:faq,FAQ,ՀՏՀ
-menu:guidance,Guidance,Ուղեցույց
-menu:menu,Menu,Ցանկ
-menu:publications,Publications,Հրապարակումներ
-menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
+post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
 indicator:chart,Chart,Գծապատկեր
 indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
 indicator:clear_selections,Clear selections,Մաքրել նշվածները 
@@ -611,5 +554,62 @@ indicator:unit_of_measurement,Unit of Measurement,Չափման  միավոր
 indicator:units_type,Units type,Միավորների տեսակը
 indicator:variable_hint,Available when '%field' is selected,"Հասանելի է, երբ ընտրված է դաշտը '%field' "
 indicator:view_indicator_list,View this goal's indicator list,Տեսնել այս նպատակի ցուցանիշների ցանկը
-frontpage:heading,data for Sustainable Development Goal indicators,Կայուն զարգացման նպատակների ցուցանիշների տվյալներ 
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %country_name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
+global_goals:1---short,No poverty,Ոչ աղքատությանը
+global_goals:1---title,End poverty in all its forms everywhere,Ամենուրեք վերացնել աղքատությունը՝ իր բոլոր ձևերով ու դրսևորումներով
+global_goals:10---short,Reduced inequalities,Կրճատված անհավասարություն
+global_goals:10---title,Reduce inequality within and among countries,Կրճատել անհավասարությունը երկրների ներսում և դրանց միջև
+global_goals:11---short,Sustainable cities & communities,Կայուն քաղաքներ և համայնքներ
+global_goals:11---title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Քաղաքները և մարդկային բնակավայրերը դարձնել ներառական, դիմակայուն, անվտանգ և կայուն"
+global_goals:12---short,Responsible consumption and production,Պատասխանատու սպառում և արտադրություն
+global_goals:12---title,Ensure sustainable consumption and production patterns,Ապահովել սպառման և արտադրության կայուն մոդելներ
+global_goals:13---short,Climate action,Գործողություն՝ ի նպաստ կլիմայի
+global_goals:13---title,Take urgent action to combat climate change and its impacts,"Ձեռնարկել անհապաղ գործողություններ՝ պայքարելու կլիմայի
+փոփոխության և դրա ազդեցությունների դեմ"
+global_goals:14---short,Life below water,Կյանքը ջրի տակ
+global_goals:14---title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ապահովել օվկիանոսների, ծովերի ու ջրային պաշարների պահպանությունը և կայուն օգտագործումը՝ հանուն կայուն զարգացման"
+global_goals:15---short,Life on land,Կյանքը ցամաքում
+global_goals:15---title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Պահպանել, վերականգնել և խթանել ցամաքային էկոհամակարգերի կայուն օգտագործումը, ապահովել անտառների կայուն կառավարումը,
+պայքարել անապատացման դեմ, դադարեցնել և շրջադարձել հողերի
+վատթարացումը, կասեցնել կենսաբազմազանության կորուստը"
+global_goals:16---short,Peace and justice - strong institutions,"Խաղաղություն, արդարություն և ամուր հաստատություններ"
+global_goals:16---title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Խթանել խաղաղ և ներառական հասարակությունների կառուցումը՝ հանուն կայուն զարգացման, բոլորի համար հասանելի դարձնել արդարությունը, բոլոր մակարդակներում ստեղծել արդյունավետ, հաշվետու և ներառական հաստատություններ"
+global_goals:17---short,Partnerships for the goals,Համագործակցություն՝ նպատակների համար
+global_goals:17---title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Ուժեղացնել կայուն զարգացման իրագործման միջոցները և ակտիվացնել գլոբալ գործընկերությունը հանուն այս նպատակի
+global_goals:2---short,Zero hunger,Ոչ սովին
+global_goals:2---title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Վերացնել սովը, հասնել պարենային ապահովության ու բարելավված սնուցման, խթանել գյուղատնտեսության կայուն զարգացումը"
+global_goals:3---short,Good health and well-being,Առողջություն և բարեկեցություն
+global_goals:3---title,Ensure healthy lives and promote well-being for all at all ages,Ապահովել առողջ կյանք և խթանել բարեկեցություն բոլորի համար՝ անկախ տարիքից
+global_goals:4---short,Quality education,Որակյալ կրթություն
+global_goals:4---title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Ապահովել ներառական ու համապատասխան որակյալ կրթություն բոլորի համար և խթանել ողջ կյանքի ընթացքում ուսման հնարավորություններ
+global_goals:5---short,Gender equality,Գենդերային հավասարություն
+global_goals:5---title,Achieve gender equality and empower all women and girls,Հասնել գենդերային հավասարության և զորացնել բոլոր կանանց ու աղջիկներին
+global_goals:6---short,Clean water and sanitation,Մաքուր ջուր և սանիտարական պայմաններ
+global_goals:6---title,Ensure availability and sustainable management of water and sanitation for all,Ապահովել հասանելիություն և կայուն ձևով կառավարել ջուրն ու սանիտարական պայմանները բոլորի համար
+global_goals:7---short,Affordable and clean energy,Մատչելի և մաքուր էներգիա
+global_goals:7---title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Ապահովել բոլորի համար մատչելի, հուսալի, կայուն և ժամանակակից էներգիայի հասանելիություն"
+global_goals:8---short,Decent jobs and economic growth,Արժանապատիվ աշխատանք և տնտեսական աճ
+global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Խթանել կայացած, ներառական և կայուն տնտեսական աճ, լիարժեք և արտադրողական զբաղվածություն և արժանապատիվ աշխատանք բոլորի համար"
+global_goals:9---short,"Industry, innovation and infrastructure","Արդյունաբերություն, նորարարություն և ենթակառուցվածքներ"
+global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Ստեղծել դիմակայուն ենթակառուցվածքներ, աջակցել ներառական և կայուն արդյունաբերության զարգացմանը և խթանել նորարարությունը"
+menu:about,About,Վերաբերյալ
+menu:contact_us,Contact us,Կապ մեզ հետ
+menu:cookies,Cookies,Քուկիներ 
+menu:faq,FAQ,ՀՏՀ
+menu:guidance,Guidance,Ուղեցույց
+menu:menu,Menu,Ցանկ
+menu:publications,Publications,Հրապարակումներ
+menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+general:goal,Goal,Նպատակը
+general:goals,Goals,Նպատակները
+general:home,Home,Գլխավոր էջ
+general:indicator,Indicator,Ցուցանիշ
+general:indicators,Indicators,Ցուցանիշներ
+general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
+general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
+general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
+general:target,Target,Թիրախը
+general:targets,Targets,Թիրախներ
+header:alpha,Alpha,Ալֆա
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
+header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
+header:tag_line,17 Goals to Transform our World,17 նպատակներ մեր աշխարհը փոխակերպելու համար

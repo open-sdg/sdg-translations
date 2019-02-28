@@ -1,4 +1,4 @@
 instructions: Click on each goal, or %before_link search, %after_link
-  for %country_name statistics for Sustainable Development Goal global
+  for %name statistics for Sustainable Development Goal global
   indicators.
-heading: "%adjective data for Sustainable Development Goal indicators"
+heading: "%name data for Sustainable Development Goal indicators"

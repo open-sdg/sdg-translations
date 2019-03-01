@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Icons | SDG Translations</title>
+<title>Change Log | SDG Translations</title>
 
 
 
@@ -171,38 +171,99 @@
 
 <div class="usa-layout-docs-main_content">
   
-    <h1>Icons</h1>
+    <h1>Change Log</h1>
   
-  <h2 id="goal-icons">Goal icons</h2>
+  <p>Numbers in parenthesis below refer to Github issues or pull-requests.</p>
 
-<p>Icons for the 17 goals of the SDGs include some language, and so they are provided here, in both full-color and high-contrast versions. They can be downloaded using these patterns:</p>
+<h2 id="040">0.4.0</h2>
 
-<p>Full-color:</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://open-sdg.github.io/sdg-translations/assets/img/goals/[language]/[number].png
-</code></pre></div></div>
-<p>High-contrast:</p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://open-sdg.github.io/sdg-translations/assets/img/high-contrast/goals/[language]/[number].png
-</code></pre></div></div>
+<h2 id="breaking-changes">Breaking changes</h2>
 
-<p>Feel free to use these images directly from these URLs, to avoid having to download and maintain them in your platform.</p>
+<ul>
+  <li>Include token for country name in translations of frontpage.header (#56)</li>
+</ul>
 
-<h2 id="examples">Examples</h2>
+<h3 id="functionality">Functionality</h3>
 
-<p>For example, the French icons for Goal 6 would be:</p>
+<ul>
+  <li>Move this changelog to the site (#52)</li>
+  <li>Add goal images to this project for all languages (#58)</li>
+</ul>
 
-<p><img alt="Goal 6" src="https://open-sdg.github.io/sdg-translations/assets/img/goals/fr/6.png" /></p>
+<h3 id="translations">Translations</h3>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://open-sdg.github.io/sdg-translations/assets/img/goals/fr/6.png
-</code></pre></div></div>
+<ul>
+  <li>Fix placement of tokens in frontpage.instructions (#34, #53)</li>
+  <li>Add translations of “target” and “targets” (#35, #54)</li>
+  <li>Add Armenian translations (#37, #38, #39, #42)</li>
+  <li>Fix error in English version of 5.3.1 (#41)</li>
+  <li>Sentence casing for some short goal titles in English (#46, #51)</li>
+  <li>Add/fix German translations (#47, #59, #61, #65)</li>
+</ul>
 
-<p><img alt="Goal 6 - High Contrast" src="https://open-sdg.github.io/sdg-translations/assets/img/high-contrast/goals/fr/6.png" /></p>
+<h2 id="032">0.3.2</h2>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://open-sdg.github.io/sdg-translations/assets/img/high-contrast/goals/fr/6.png
-</code></pre></div></div>
+<h3 id="functionality-1">Functionality</h3>
 
-<h2 id="goal-18">Goal 18</h2>
+<ul>
+  <li>Switch to using the master branch, for simplicity (#28)</li>
+  <li>Trigger builds on tagging (#29)</li>
+</ul>
 
-<p>Icons for “Goal 18” are included as well, as these are often used to complete a full symmetrical grid of icons.</p>
+<h3 id="translations-1">Translations</h3>
+
+<ul>
+  <li>Arabic fixes. (#24)</li>
+  <li>Spanish fixes. (#25, #26, #27)</li>
+</ul>
+
+<h2 id="030">0.3.0</h2>
+
+<h3 id="breaking-changes-1">Breaking changes</h3>
+
+<ul>
+  <li>Change Chinese code from “zh” to “zh-Hans” (d217b4b6)</li>
+</ul>
+
+<h3 id="functionality-2">Functionality</h3>
+
+<ul>
+  <li>Omit certain keys from translation CSV exports. (#13)</li>
+  <li>Search page for looking for contextual information (#16)</li>
+  <li>Revamp the repository to use Jekyll for the www pages. (#19)</li>
+  <li>Allow imports when folder does not exist (7e0bcc9a)</li>
+  <li>Bug fix: import script preserves existing data (3968aa20)</li>
+</ul>
+
+<h3 id="translations-2">Translations</h3>
+
+<ul>
+  <li>Added context about some translations (#17)</li>
+  <li>Added Arabic translations (#20)</li>
+  <li>Added Russian translations (#21)</li>
+  <li>Change Chinese code from “zh” to “zh-Hans” (d217b4b6)</li>
+  <li>Added Simplified Chinese translations (16b18d4d)</li>
+</ul>
+
+<h2 id="020">0.2.0</h2>
+
+<h3 id="translations-3">Translations</h3>
+
+<ul>
+  <li>Ran a script to import official Spanish, French, and Chinese translations from UN sources. This changed some existing Spanish and French translations (slightly) and added new Chinese translations. (#6)</li>
+</ul>
+
+<h3 id="functionality-3">Functionality</h3>
+
+<ul>
+  <li>Export/import functionality so translators can work with CSV files (#4 and #5)</li>
+  <li>Automatically export CSV translation files during build process (#8)</li>
+  <li>Script for importing metadata from UN sources (#6)</li>
+</ul>
+
+<h2 id="010">0.1.0</h2>
+
+<p>This is the initial release, starting with translations for Spanish and French. The indicator and goal titles were pulled in from the <a href="https://github.com/GSA/sdg-indicators">GSA/sdg-indicators</a> repository. All others through Google Translate.</p>
 
 </div>
     </main>

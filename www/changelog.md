@@ -10,7 +10,7 @@ Numbers in parenthesis below refer to Github issues or pull-requests.
 
 ## Breaking changes
 
-* Include token for adjective in translations of frontpage.header (#56)
+* Include token for country name in translations of frontpage.header (#56)
 
 ### Functionality
 
@@ -24,7 +24,7 @@ Numbers in parenthesis below refer to Github issues or pull-requests.
 * Add Armenian translations (#37, #38, #39, #42)
 * Fix error in English version of 5.3.1 (#41)
 * Sentence casing for some short goal titles in English (#46, #51)
-* Add German translations (#47, #59)
+* Add/fix German translations (#47, #59, #61, #65)
 
 ## 0.3.2
 

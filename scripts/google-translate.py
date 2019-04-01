@@ -21,4 +21,4 @@ for key in yamldata:
   yamldata[key] = translation['translatedText']
 
 with open('output.yml', 'w') as outfile:
-  yaml.dump(yamldata, outfile, default_flow_style=False, allow_unicode=True)
+  yaml.dump(yamldata, outfile, default_flow_style=False, sort_keys=False, allow_unicode=True)

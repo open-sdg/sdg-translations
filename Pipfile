@@ -8,6 +8,7 @@ pyyaml = "*"
 gitpython = "*"
 unflatten = "*"
 pandas = "*"
+google-cloud-translate = "*"
 
 [dev-packages]
 

@@ -1,0 +1,27 @@
+sex: Sexe
+female: Femelle
+male: Mâle
+other: Autre
+unknown: Inconnu
+age: Tranche d&#39;âge
+urbanisation: Degré d&#39;urbanisation
+rural: Rural
+urban: Urbain
+income: Quantile de revenu ou de richesse
+quintile1: Quintile 1 (le plus pauvre)
+quintile2: Quintile 2
+quintile3: Quintile 3
+quintile4: Quintile 4
+quintile5: Quintile 5 (le plus riche)
+disability: État d&#39;invalidité
+disabled: Personnes handicapées
+nondisabled: Personnes sans handicap
+education: Niveau d&#39;éducation
+primary: Enseignement primaire
+secondary: Éducation secondaire
+tertiary: Éducation tertiaire
+occupation: Occupation
+unit: Unité de mesure
+percent: Pour cent
+number: Nombre
+ratio: Rapport

@@ -1,0 +1,27 @@
+sex: Sex
+female: Weiblich
+male: Männlich
+other: Andere
+unknown: unbekannte
+age: Altersgruppe
+urbanisation: Verstädterungsgrad
+rural: Ländlich
+urban: Städtisch
+income: Einkommen oder Reichtum Quantil
+quintile1: Quintil 1 (ärmste)
+quintile2: Quintil 2
+quintile3: Quintil 3
+quintile4: Quintil 4
+quintile5: Quintil 5 (reichste)
+disability: Behinderungsstatus
+disabled: Menschen mit Behinderung
+nondisabled: Personen ohne Behinderung
+education: Bildungsniveau
+primary: Grundschulbildung
+secondary: Sekundarschulbildung
+tertiary: Tertiärunterricht
+occupation: Besetzung
+unit: Maßeinheit
+percent: Prozent
+number: Nummer
+ratio: Verhältnis

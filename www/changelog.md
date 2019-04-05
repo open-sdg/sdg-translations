@@ -6,6 +6,13 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## 0.5.0
+
+### Translations
+
+* "Not applicable"
+* "Status by goal"
+
 ## 0.4.0
 
 ## Breaking changes

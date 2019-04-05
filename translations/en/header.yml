@@ -3,4 +3,4 @@ alpha: Alpha
 disclaimer: This is a development website. We welcome your
   <a href="mailto:%email_address">feedback</a>.
 tag_line: 17 Goals to Transform our World
-survey_text: If you are willing to complete a short (5 minute) survey to provide feedback on the site, please click - %survey_url% 
+survey_text: If you are willing to complete a short (5 minute) survey to provide feedback on the site, please click <a href="%survey_url%">this link</a> (opens in a new tab). 

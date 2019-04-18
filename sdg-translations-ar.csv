@@ -1,366 +1,39 @@
 ﻿key,en,ar
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name بيانات لمؤشرات اهداف التنمية المستدامة
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
-post:posts_by_category,Posts by Category,المنشورات حسب الفئة
-post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
-general:goal,Goal,هدف
-general:goals,Goals,اهداف
-general:home,Home,الصفحة الرئيسية  (Home page)
-general:indicator,Indicator,مؤشر
-general:indicators,Indicators,مؤشرات
-general:loading,Loading search results,تحميل نتائج البحث
-general:opens_new_window,opens in a new window,تنفتح في نافذة جديدة
-general:sdg,Sustainable Development Goals,اهداف التنمية المستدامة
-general:target,Target,استهداف
-general:targets,Targets,أهداف
-header:alpha,Alpha,ألفا
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","هذا موقع تطوير. نرحب <a href=""mailto:%email_address""> بتعليقاتكم </a>"
-header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
-header:tag_line,17 Goals to Transform our World,17 اهداف لتحويل عالمنا
-status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
-status:not_applicable,Not applicable,لايمكن تطبيقه
-status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
-status:reported_online,Reported online,اعلن على الانترنت
-status:reporting_status,Reporting Status,وضع الاعلان
-status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
-status:status_by_goal,Status by goal,الحالة حسب الهدف
-metadata_fields:comments_limitations,Other information,معلومات اخرى
-metadata_fields:computation_calculations,Calculations,عمليات حسابية
-metadata_fields:computation_definitions,Definitions,تعريفات
-metadata_fields:computation_units,Unit of measurement,وحدة قياس
-metadata_fields:goal_meta_link,Link to UN metadata,رابط الى البيانات الوصفية للامم المتحدة
-metadata_fields:indicator,Indicator number,رقم المؤشر
-metadata_fields:indicator_definition,Global indicator description,وصف المؤشر العالمي
-metadata_fields:indicator_name,Indicator name,اسم المؤشر
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),ترتيب عرض المؤشر (داخل صفحة الهدف)
-metadata_fields:national_data_update_url,Data last updated,آخر تحديث للبيانات
-metadata_fields:national_geographical_coverage,Geographical coverage,تغطية جغرافية
-metadata_fields:national_indicator_available,Indicator available,مؤشر متاح
-metadata_fields:national_indicator_description,Indicator description,وصف المؤشر
-metadata_fields:national_metadata_update_url,Metadata last updated,آخر تحديث للبيانات الوصفية
-metadata_fields:source_contact_1,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_2,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_3,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_4,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_5,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_6,Contact details,تفاصيل الاتصال
-metadata_fields:source_earliest_available_1,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_2,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_3,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_4,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_5,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_6,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_geographical_coverage_1,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_2,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_3,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_4,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_5,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_6,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_next_release_1,Next release,الاصدار التالي
-metadata_fields:source_next_release_2,Next release,الاصدار التالي
-metadata_fields:source_next_release_3,Next release,الاصدار التالي
-metadata_fields:source_next_release_4,Next release,الاصدار التالي
-metadata_fields:source_next_release_5,Next release,الاصدار التالي
-metadata_fields:source_next_release_6,Next release,الاصدار التالي
-metadata_fields:source_organisation_1,Organisation,منظمة
-metadata_fields:source_organisation_2,Organisation,منظمة
-metadata_fields:source_organisation_3,Organisation,منظمة
-metadata_fields:source_organisation_4,Organisation,منظمة
-metadata_fields:source_organisation_5,Organisation,منظمة
-metadata_fields:source_organisation_6,Organisation,منظمة
-metadata_fields:source_other_info_1,Other information,معلومات اخرى
-metadata_fields:source_other_info_2,Other information,معلومات اخرى
-metadata_fields:source_other_info_3,Other information,معلومات اخرى
-metadata_fields:source_other_info_4,Other information,معلومات اخرى
-metadata_fields:source_other_info_5,Other information,معلومات اخرى
-metadata_fields:source_other_info_6,Other information,معلومات اخرى
-metadata_fields:source_periodicity_1,Periodicity,دورية
-metadata_fields:source_periodicity_2,Periodicity,دورية
-metadata_fields:source_periodicity_3,Periodicity,دورية
-metadata_fields:source_periodicity_4,Periodicity,دورية
-metadata_fields:source_periodicity_5,Periodicity,دورية
-metadata_fields:source_periodicity_6,Periodicity,دورية
-metadata_fields:source_release_date_1,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_2,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_3,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_4,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_5,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_6,Release date,تاريخ الاصدار
-metadata_fields:source_statistical_classification_1,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_2,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_3,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_4,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_5,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_6,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_url_1,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_2,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_3,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_4,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_5,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_6,Link to data source,رابط الى مصدر البيانات
-metadata_fields:target,Target name,اسم الهدف
-metadata_fields:target_id,Target number,رقم الهدف
-metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
-metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
-menu:about,About,عن
-menu:contact_us,Contact us,اتصل بنا
-menu:cookies,Cookies,ملفات تعريف الارتباط
-menu:faq,FAQ,أسئلة شائعة
-menu:guidance,Guidance,توجيه
-menu:menu,Menu,قائمة
-menu:publications,Publications,منشورات
-menu:reporting_status,Reporting Status,حالة التقارير
-search:found_in,found in,موجود في
-search:indicator_search,Indicator search,بحث المؤشر
-search:keywords,Keywords,الكلمات الدالة
-search:no_results,No results,لا يوجد نتائج
-search:search,Search,بحث
-search:search_results_for,Search results for,نتائج البحث عن
-global_indicators:1.1.1---title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",نسبة السكان الذين يعيشون دون خط الفقر الدولي، بحسب الجنس، والعمر، والوضع الوظيفي، والموقع الجغرافي (حضري/ريفي)
-global_indicators:1.2.1---title,"Proportion of population living below the national poverty line, by sex and age",نسبة السكان الذين يعيشون دون خط الفقر الوطني، بحسب الجنس والعمر 
-global_indicators:1.2.2---title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",نسبة الرجال والنساء والأطفال من جميع الاعمار الذين يعانون الفقر بجميع ابعاده وفقا للتعريفات الوطنية
-global_indicators:1.3.1---title,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",نسبة السكان الذين تشملهم حدود دنيا/نظم للحماية الاجتماعية، بحسب الجنس، وبحسب الفئات السكانية، كالأطفال، والعاطلين عن العمل، والمسنين، والأشخاص ذوي الإعاقة، والحوامل، والأطفال حديثي الولادة، وضحايا إصابات العمل، والفقراء، والضعفاء
-global_indicators:1.4.1---title,Proportion of population living in households with access to basic services,ةنسبة السكان الذين يعيشون في أسر معيشية يمكنها الحصول على الخدمات الأساسية 
-global_indicators:1.4.2---title,"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",نسبة مجموع السكان البالغين الذين لديهم حقوق ،ً مضمونة لحيازة الأرض، و (أ) لديهم مستندات معترف بها قانونا و (ب) يعتبرون حقوقهم في الأرض مضمونة، بحسب الجنس ونوع الحيازة
-global_indicators:1.5.1---title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","عدد الأشخاص المتوفين والمفقودين ومن تضرروا مباشرة بسبب الكوارث من بين كل 100,000 شخص"
-global_indicators:1.5.2---title,Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),الخسائر الاقتصادية التي تعزى مباشرة إلى الكوارث مقابل الناتج المحلي الإجمالي العالمي
-global_indicators:1.5.3---title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,عدد البلدان التي تعتمد وتنفذ استراتيجيات وطنية للحد من مخاطر الكوارث تمشيا مع إطار سنداي للحد من مخاطر الكوارث للفترة 2015-2030
-global_indicators:1.5.4---title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies, نسبة الحكومات المحلية التي تعتمد وتنفذ استراتيجيات مع الاستراتيجيات الوطنية محلية للحد من مخاطر الكوارث تمشيا للحد من مخاطر الكوارث
-global_indicators:1.a.1---title,Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes,نسبة الموارد المولدة محليا التي تخصصها الحكومة مباشرة لبرامج الحد من الفقر
-global_indicators:1.a.2---title,"Proportion of total government spending on essential services (education, health and social protection)",نسبة الإنفاق الحكومي على الخدمات الاساسية (التعليم والصحة والضمان الاجتماعي)
-global_indicators:1.a.3---title,Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP,المجموع الإجمالي للمنح والتدفقات الوافدة التي لا تستتبع اقتراض ديون، والتي تخصص مباشرة لبرامج الحد من الفقر محسوبا كنسبة من الناتج المحلي الإجمال
-global_indicators:1.b.1---title,"Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups",نسبة الإنفاق الحكومي المتكرر والرأسمالي المخصص للقطعات التى تفيد المرأة والفقراء والفئات الضعيفة على نحو غير متناسب
-global_indicators:10.1.1---title,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,معدلات نمو نصيب الفرد من إنفاق الأسر المعيشية أو إيراداتها ضمن أدنى 40 في المائة من السكان ومجموع السكان
-global_indicators:10.2.1---title,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",نسبة السكان الذين يعيشون دون 50 في المائة من متوسط الدخل، بحسب الجنس والعمر والأشخاص ذوي الإعاقة
-global_indicators:10.3.1---title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,نسبة السكان الذين أبلغوا عن تعرضهم شخصيا لممارسات تمييزية أو تحرش خلال الاثني عشر شهرا السابقة لأسباب يحظر القانون الدولي لحقوق الإنسان التمييز على أساسها
-global_indicators:10.4.1---title,"Labour share of GDP, comprising wages and social protection transfers",حصة العمل في الناتج المحلي الإجمالي، بما في ذلك الأجور ومدفوعات الحماية الاجتماعية
-global_indicators:10.5.1---title,Financial Soundness Indicators, مؤشرات السلامة المالية
-global_indicators:10.6.1---title,Proportion of members and voting rights of developing countries in international organizations, نسبة عضوية البلدان النامية وحقوقها في التصويت في المنظمات الدولية
-global_indicators:10.7.1---title,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination,تكاليف التوظيف التي يتحملها الموظف كنسبة من الإيرادات السنوية في بلد المقصد\
-global_indicators:10.7.2---title,Number of countries that have implemented well-managed migration policies, عدد البلدان التي نفذت سياسات هجرة متسمة بحسن الإدارة
-global_indicators:10.a.1---title,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,نسبة بنود التعريفات الجمركية المطبقة على الواردات من والبلدان النامية المتمتعة بالإعفاء الكامل من الرسوم أقل البلدان نموا الجمركية
-global_indicators:10.b.1---title,"Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",مجموع تدفقات الموارد المخصصة للتنمية، بحسب البلدان المستفيدة والبلدان المانحة وأنواع التدفقات (على سبيل المثال المساعدة الإنمائية الرسمية، والاستثمار الأجنبي المباشر، والتدفقات الأخرى)
-global_indicators:10.c.1---title,Remittance costs as a proportion of the amount remitted,تكاليف التحويلات المالية كنسبة من المبالغ المحولة
-global_indicators:11.1.1---title,"Proportion of urban population living in slums, informal settlements or inadequate housing",نسبة السكان الحضريين الذين يعيشون في أحياء فقيرة أو مستوطنات غير رسمية أو مساكن غير لائقة
-global_indicators:11.2.1---title,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",نسبة السكان الذين تتوافر لهم وسائل النقل العام المناسبة، بحسب العمر والجنس والأشخاص ذوي الإعاقة
-global_indicators:11.3.1---title,Ratio of land consumption rate to population growth rate,نسبة معدل استهلاك الأراضي إلى معدل النمو السكان
-global_indicators:11.3.2---title,Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically,نسبة المدن التي لديها هيكل يتيح مشاركة المجتمع المدني على نحو مباشر في تخطيط المناطق الحضرية، ويعمل بانتظام ويُدار بطريقة ديمقراطية
-global_indicators:11.4.1---title,"Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)",نصيب الفرد من مجموع النفقات (في القطاعين العام والخاص) التي تُنفق لصون وحماية وحفظ جميع اصناف التراث الثقافي والطبيعي، بحسب نوع التراث (ثقافي وطبيعي ومختلط، وما يعتبره مركز التراث العالمي تراثاً) ومستوى الحكم (وطني وإقليمي، ومحلي/بلدي)، ونوع الإنفاق (إنفاق تشغيلي/استثمار) ونوع التمويل المقدم من القطاع الخاص (تبرعات عينية، وتمويل من القطاع الخاص غير الربحي وبرامج الرعاية)
-global_indicators:11.5.1---title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","عدد الأشخاص المتوفين والمفقودين ومن تأثروا مباشرة بسبب الكوارث من بين كل 100,000 شخص من السكان"
-global_indicators:11.5.2---title,"Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters",الخسائر الاقتصادية المباشرة المتصلة بالناتج المحلي الإجمالي العالمي والأضرار التي لحقت بالهياكل الأساسية الحيوية وعدد الأعطال التي لحقت بالخدمات الأساسية بسبب الكوارث
-global_indicators:11.6.1---title,"Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities",نسبة النفايات الصلبة للمدن، التي ُتجمع بانتظام ويجري تفريغها نهائياً على نحو كاف، من مجموع النفايات الصلبة للمدن، بحسب المدينة
-global_indicators:11.6.2---title,Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted),المتوسط السنوي لمستويات الجسيمات (على سبيل المثال الجيسمات من الفئة 2.5 والجسيمات من الفئة 10) في المدن (المرجَّح حسب السكان)
-global_indicators:11.7.1---title,"Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",متوسط حصة المنطقة السكنية بالمدن التي تمثل فضاء مفتوحا للاستخدام العام للجميع، بحسب العمر والجنس والأشخاص ذوي الإعاقة
-global_indicators:11.7.2---title,"Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",نسبة ضحايا التحرش البدني أو الجنسي بحسب العمر، والجنس، ووضع الأشخاص ذوي الإعاقة، ومكان حدوثه خلال الاثني عشر شهرا السابقة
-global_indicators:11.a.1---title,"Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city",نسبة السكان الذين يعيشون في المدن التي تنفذ خططاً إنمائية مدنية وإقليمية، وتدمج التوقعات السكانية والاحتياجات من الموارد، بحسب حجم المدينة
-global_indicators:11.b.1---title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,عدد البلدان التي تعتمد وتنفذ استراتيجيات وطنية للحد من مخاطرالكوارث تمشيا مع إطار سنداي للحد من مخاطر الكوارث للفترة 2015-2030
-global_indicators:11.b.2---title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,نسبة الحكومات المحلية التي تعتمد وتنفذ استراتيجيات محلية للحد من مخاطرالكوارث تمشيا مع الاستراتيجيات الوطنية للحد من مخاطر الكوارث
-global_indicators:11.c.1---title,"Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials",نسبة الدعم المالي المخصص المقدم إلى أقل البلدان نموا لتشييد وتجديد المباني المستدامة والقادرة على الصمود والمتسمة بالكفاءة في استخدام الموارد باستخدام مواد محلية
-global_indicators:12.1.1---title,Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies,عدد البلدان التي لديها خطط عمل وطنية للاستهلاك والإنتاج المستدامين أو التي أدجت تلك الخطط في سياساتها الوطنية باعتبارها أولوية أو غاية
-global_indicators:12.2.1---title,"Material footprint, material footprint per capita, and material footprint per GDP",الأثر المادي، ونصيب الفرد من الأثر المادي، ونصيب الناتج المحلي الإجمالي من الأثر المادي
-global_indicators:12.2.2---title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",الاستهلاك المادي المحلي ونصيب الفرد من الاستهلاك المادي المحلي ونسبة الاستهلاك المادي المحلي إلى الناتج المحلي الإجمال
-global_indicators:12.3.1---title,Global food loss index,مؤشر الخسائر الغذائية العالمية
-global_indicators:12.4.1---title,"Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",عدد الأطراف في الاتفاقات البيئية الدولية المتعددة الأطراف المتعلقة بنفايات المواد الخطرة وغيرها من المواد الكيميائية، التي تفي بتعهداتها التزاماتها في نقل المعلومات على النحو الذي يتطلبه كل اتفاق ذي صلة
-global_indicators:12.4.2---title,"Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment",نصيب الفرد من توليد النفايات الخطرة ونسبة النفايات الخطرة المعالَجة، بحسب نوع المعالجة
-global_indicators:12.5.1---title,"National recycling rate, tons of material recycled",معدل إعادة التدوير على الصعيد الوطني، وعدد أطنان المواد المعاد تدويرها
-global_indicators:12.6.1---title,Number of companies publishing sustainability reports, عدد الشركات التي تنشر تقارير تتعلق بالاستدامة
-global_indicators:12.7.1---title,Number of countries implementing sustainable public procurement policies and action plans,عدد البلدان التي تنفذ السياسات وخطط العمل المتعلقة بالشراء العمومي المستدام
-global_indicators:12.8.1---title,Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,مدى تعميم مراعاة ’1’ تعليم المواطنة العالمية و ’2’ التعليم من أجل التنمية المستدامة (بما في ذلك التثقيف بشأن تغير المناخ) في (أ) السياسات التربوية الوطنية، و (ب) المناهج الدراسية و (ج) تدريب المعلمين و (د) تقييم الطلاب 
-global_indicators:12.a.1---title,Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies, كمية الدعم المقدم إلى البلدان النامية في مجالي البحث والتطوير من أجل إرساء أنماط الاستهلاك والإنتاج المستدامة والتكنولوجيا السليمة بيئيا
-global_indicators:12.b.1---title,Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools,عدد الاستراتيجيات وأ السياسات و خطط العمل المنفذة في مجال السياحة المستدامة المتفق على أدوات رصدها وتقييمها
-global_indicators:12.c.1---title,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels,مقدار إعانات الوقود الأحفوري لكل وحدة من الناتج المحلي الإجمالي (الإنتاج والاستهلاك) وكنسبة من مجموع النفقات الوطنية على الوقود الأحفوري
-global_indicators:13.1.1---title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","عدد الأشخاص المتوفين والمفقودين ومن تضرروا مباشرة بسبب الكوارث من بين كل 100,000 شخص"
-global_indicators:13.1.2---title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,عدد البلدان التي تعتمد وتنفذ استراتيجيات وطنية للحد من مخاطر الكوارث تمشيا مع إطار سنداي للحد من مخاطر الكوارث للفترة 2015-2030
-global_indicators:13.1.3---title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,نسبة الحكومات المحلية التي تعتمد وتنفذ استراتيجيات محلية للحد من مخاطر الكوارث تمشياً مع الاستراتيجيات الوطنية  للحد من مخاطر الكوارث
-global_indicators:13.2.1---title,"Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)",عدد البلدان التي أبلغت عن وضع أو تفعيل سياسة/استراتيجية/خطة متكاملة تزيد قدراتها على التكيف مع الآثار الضارة لتغير المناخ وتعزز القدرة على التأقلم مع المناخ، والتنمية القائمة على ابنعاثات غازات الدفيئة المنخفضة على نحو لا يهدد إنتاج الأغذية (بما في ذلك وضع خطط تكيُّف وطنية، وتقديم مساهمة محددة على الصعيد الوطني، وبلاغات وطنية، وتقرير عن المستجدات لفترة السنتين، أو غير ذلك)
-global_indicators:13.3.1---title,"Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula",عدد البلدان التي أدمجت التخفيف من تغير المناخ، والتكيف معه، والحد من أثره والإنذار المبكر في مناهج التعليم الابتدائي والثانوي والعال
-global_indicators:13.3.2---title,"Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions",عدد البلدان التي أبلغت عن تعزيز قدرتها المؤسسية والهيكلية والفردية على تنفيذ تدابير التكيف والتخفيف ونقل التكنولوجيا والتدابير الإنمائية
-global_indicators:13.a.1---title,Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment,المبلغ السنوي الذي يجمع سنوياً مقيّماً بدولار الولايات المتحدة في الفترة بين عامي 2020 و 2025 بهدف الوفاء بالتزام توفير 100 بليون دولار
-global_indicators:13.b.1---title,"Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities",عدد أقل البلدان نمواً والدول الجزرية الصغيرة النامية التي تتلقى دعماً متخصصاً ومقدار الدعم المقدم، بما في ذلك التمويل والتكنولوجيا وبناء القدرات، لآليات تحسين مستوي قدرات التخطيط والإدارة الفعالين المتعلقين بتغير المناخ، بما في ذلك التركيز على النساء والشباب والمجتمعات المحلية والمهمشة 
-global_indicators:14.1.1---title,Index of coastal eutrophication and floating plastic debris density,مؤشر فرط المغذيات في المناطق الساحلية وكثافة المخلفات البلاستيكية الطافية
-global_indicators:14.2.1---title,Proportion of national exclusive economic zones managed using ecosystem-based approaches,نسبة المناطق الاقتصادية الحصرية الوطنية التي تُدار باستخدام نُهج قائمة على النظم الإيكولوجية
-global_indicators:14.3.1---title,Average marine acidity (pH) measured at agreed suite of representative sampling stations,قياس متوسط الحموضة البحرية في مجموعة متفق عليها من محطات تمثيلية لأخذ العينات
-global_indicators:14.4.1---title,Proportion of fish stocks within biologically sustainable levels,نسبة الأرصدة السمكية الموجودة ضمن المستويات المستدامة بيولوجيا
-global_indicators:14.5.1---title,Coverage of protected areas in relation to marine areas,طاق المناطق المحمية مقابل المناطق البحرية
-global_indicators:14.6.1---title,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing", التقدم الذي تحرزه البلدان في مدى تنفيذ الصكوك الدولية الرامية إلى مكافحة صيد الأسماك غير المشروع وغير المبلغ عنه وغير المنظم
-global_indicators:14.7.1---title,"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",مصائد الأسماك المستدامة كنسبة من الناتج المحلي الإجمالي في الدول الجزرية الصغيرة النامية، وأقل البلدان نمواً، وجميع البلدان
-global_indicators:14.a.1---title,Proportion of total research budget allocated to research in the field of marine technology,نسبة مجموع الميزانية المخصصة للبحوث في مجال التكنولوجيا البحرية
-global_indicators:14.b.1---title,Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries,التقدم الذي تحرزه البلدان في مدى تطبيق إطار قانوني/تنظيمي/سياساتي/مؤسسي يتعرف بحقوق مصائد الأسماك الصغيرة في الوصول إالى الموارد البحرية ويحمي تلك الحقوق
-global_indicators:14.c.1---title,"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",عدد البلدان التي تحرز تقدماً في التصديق على صكوك متعلقة بالمحيطات تنفـذ القـانون الـدولي، وفي قبول تلـك الصكوك وتنفيذها بموجب أطر قانونية وسياساتية ومؤسسية، على النحو الوارد في اتفاقية الأمم المتحدة لقانون البحار، من أجل حفظ المحيطات ومواردها، واستخدامها على نحو مستدام
-global_indicators:15.1.1---title,Forest area as a proportion of total land area,مساحة الغابات كنسبة من مجموع مساحة اليابسة
-global_indicators:15.1.2---title,"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",نسبة المواقع الهامة التي تجسد التنوع البيولوجي لليابسة والمياه العذبة والتي تشملها المناطق المحمية، بحسب نوع النظام الإيكولوجي
-global_indicators:15.2.1---title,Progress towards sustainable forest management, التقدم المحرز في إرساء الإدارة المستدامة للغابات
-global_indicators:15.3.1---title,Proportion of land that is degraded over total land area,نسبة الأراضي المتدهورة إلى مجموع مساحة اليابسة
-global_indicators:15.4.1---title,Coverage by protected areas of important sites for mountain biodiversity,التغطية محسوبة بالمناطق المحمية من المواقع المهمة للتنوع البيولوجي الجبلي
-global_indicators:15.4.2---title,Mountain Green Cover Index,مؤشر الغطاء الأخضر الجبلي 
-global_indicators:15.5.1---title,Red List Index,مؤشر القائمة الحمراء
-global_indicators:15.6.1---title,"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",عدد البلدان التي اعتمدت أطرا تشريعية وإدارية وسياساتية لكفالة تقاسم المنافع على نحو عادل ومنصف
-global_indicators:15.7.1---title,Proportion of traded wildlife that was poached or illicitly trafficked,نسبة الأحياء البرية المتجر بها، التي جرى صيدها أو الاتجار بها على نحو غير مشروع
-global_indicators:15.8.1---title,Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,نسبة البلدان التي تعتمد تشريعات وطنية ذات صلة، وتخصص موارد كافية لمنع إدخال الأنواع الغريبة الغازية إلى النظم الإيكولوجية أو مراقبتها
-global_indicators:15.9.1---title,Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020,التقدم المحرز نحو تحقيق الأهداف الوطنية المنشأة وفقا للهدف 2 من أهداف آيتشي المتعلقة بالتنوع البيولوجي من الخطة الاستراتيجية للتنوع البيولوجي للفترة 2011-2020
-global_indicators:15.a.1---title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,المساعدة الإنمائية الرسمية والنفقات العامة الموجهة لحفظ التنوع البيولوجي والنظم الإيكولوجية واستخدامها استخداماً مستداماً
-global_indicators:15.b.1---title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,المساعدة الإنمائية الرسمية والنفقات العامة الوجهة لحفظ التنوع البيولوجي والنظم الإيكولوجية واستخدامها استخداماً مستداماً
-global_indicators:15.c.1---title,Proportion of traded wildlife that was poached or illicitly trafficked,نسبة الأحياء البرية المتجر بها، التي جرى صيدها أو الاتجار بها على نحو غير مشروع
-global_indicators:16.1.1---title,"Number of victims of intentional homicide per 100,000 population, by sex and age","عدد ضحايا القتل العمد لكل 100,000 نسمة، بحسب العمر ونوع الجنس"
-global_indicators:16.1.2---title,"Conflict-related deaths per 100,000 population, by sex, age and cause","الوفيات المتصلة بالنزاعات لكل 100,000 نسمة، بحسب العمر والجنس والسبب"
-global_indicators:16.1.3---title,"Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months", نسبة السكان الذين تعرضوا (أ) للعنف البدني و (ب) العنف النفسي و (ج) العنف الجنسي خلال الاثني عشر شهرا السابقة
-global_indicators:16.1.4---title,Proportion of population that feel safe walking alone around the area they live,نسبة السكان الذين يشعرون بالأمان عند تجوالهم على الأقدام بمفردهم في أنحاء المنطقة التي يعيشون فيها
-global_indicators:16.10.1---title,"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",نســـبة الأطفال الذين تتراوح أعمارهم بين سنة واحدة  و17 ســنة والذين تعرضوا لأي عقاب بدني و/أو اعتداء نفسي من جانب مقدمي الرعاية في الشهر السابق
-global_indicators:16.10.2---title,"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"," عدد ضحايا الاتجار بالبشر لكل 100,000 نسمة، بحسب الجنس والعمر وشكل الاستغلال"
-global_indicators:16.2.1---title,Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,نسبة الشابات والشبان الذين تتراوح أعمارهم بين  18 سنة و 29 سنة الذين تعرضوا للعنف الجنسي قبل سن الثامنة عشرة
-global_indicators:16.2.2---title,"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation","عدد ضحايا الاتجار بالبشر لكل 100,000 نسمة، بحسب الجنس والعمر وشكل الاستغلال"
-global_indicators:16.2.3---title,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 1, نسبة الشابات والشبان الذين تتراوح أعمارهم بين 18 سنة و 29 سنة الذين تعرضوا للعنف الجنسي قبل سن الثامنة عشرة
-global_indicators:16.3.1---title,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,نسبة ضحايا العنف خلال الاثني عشر شهرا السـابقة ألذين أبلغوا عما تعرضوا له من إيذاء إلى السلطات المختصة أو غيرها من آليات تسوية النزاعات المعترف بها رسميا
-global_indicators:16.3.2---title,Unsentenced detainees as a proportion of overall prison population,المحتجزون غير المحكوم عليهم كنسبة من مجموع السجناء
-global_indicators:16.4.1---title,Total value of inward and outward illicit financial flows (in current United States dollars),القيمة الإجمالية للتدفقات المالية غير المشروعة الداخلة والخارجة (بالقيمة الحالية لدولارات الولايات المتحدة)
-global_indicators:16.4.2---title,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",نسبة الأسلحة المضبوطة أو المعثور عليها أو المسلّمة التي تحرَّت سلطة مختصة عن مصدرها غير المشروع/ظروفها أو تثبّت من ذلك، تمشياً مع الصكوك الدولية
-global_indicators:16.5.1---title,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",نسبة الأشخاص الذين اتصلوا مرة واحدة على الأقل بمسؤول حكومي ودفعوا رشوة لمسؤول حكومي، أو طلب منهم أولئك المسؤولون الحكوميون دفع رشوة، خلال الاثني عشر شهرا السابقة
-global_indicators:16.5.2---title,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",نسبة الأعمال التجارية التي اتصلت مرة واحدة على الأقل بمسؤول حكومي ودفعت رشوة إلى مسؤول حكومي أو طلب منها أولئك المسؤولون الحكوميون دفع رشوة، خلال الاثني عشر شهرا السابقة
-global_indicators:16.6.1---title,"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",النفقات الحكومية الرئيسية كنسبة من الميزانية الأصلية المعتمدة، بحسب القطاع (أو بحسب رموز الميزانية أو ما شابه)
-global_indicators:16.6.2---title,Proportion of population satisfied with their last experience of public services,نسبة السكان الراضين عن تجربتهم الأخيرة في الاستفادة من الخدمات العامة
-global_indicators:16.7.1---title,"Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions",نسبة الوظائف (بحسب العمر، والجنس، والأشخاص ذوي الإعاقة، والفئات السكانية) في المؤسسات العامة (الهيئات التشـريعية الوطنية والمحلية، والخدمة العامة، والسـلطة القضائية) مقارنة بمستويات التوزيع على الصعيد الوطن
-global_indicators:16.7.2---title,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",نسـبة السكان الذين يعتقدون أن صنع القرار عملية شاملة للجميع وملبية للاحتياجات، بحسب الجنس والعمر والإعاقة والفئة السكانية
-global_indicators:16.8.1---title,Proportion of members and voting rights of developing countries in international organizations,نسبة عضوية البلدان النامية في المنظمات الدولية وحقوقها في التصويت في تلك المنظمات
-global_indicators:16.9.1---title,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",نسبة الأطفال دون سن الخامسة الذين سُجلت ولاداتهم في قيد السجل المدني، بحسب العمر
-global_indicators:16.a.1---title,Existence of independent national human rights institutions in compliance with the Paris Principles,وجود مؤسسات وطنية مستقلة لحقوق الإنسان وفقا لمبادئ باريس
-global_indicators:16.b.1---title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,نسبة السكان الذين أبلغوا عن تعرضهم شخصيا لممارسات تمييزية أو تحرش خلال الاثني عشر شهرا السابقة لأسباب يحظر القانون الدولي لحقوق الإنسان التمييز على أساسها
-global_indicators:17.1.1---title,"Total government revenue as a proportion of GDP, by source",مجموع الإيرادات الحكومية الإجمالية كنسبة من الناتج المحلي الإجمالي، بحسب المصدر 
-global_indicators:17.1.2---title,Proportion of domestic budget funded by domestic taxes,نسبة الميزانية المحلية الممولة من الضرائب المحلية
-global_indicators:17.10.1---title,Worldwide weighted tariff-average,المتوسط المرجح للتعريفات الجمركية في جميع أنحاء العال
-global_indicators:17.11.1---title,Developing countries’ and least developed countries’ share of global exports,حصة البلدان النامية وأقل البلدان نمواً من الصادرات العالمية
-global_indicators:17.12.1---title,"Average tariffs faced by developing countries, least developed countries and small island developing States",متوسط التعريفات الجمركية التي تواجههـا البلـدان النامية وأقل البلدان نموا والدول الجزرية الصغيرة النامية
-global_indicators:17.13.1---title,Macroeconomic Dashboard,لوحة متابعة حالة الاقتصاد الكلي
-global_indicators:17.14.1---title,Number of countries with mechanisms in place to enhance policy coherence of sustainable development,عدد البلدان التي لديها آليات لتعزيز اتساق سياسات التنمية المستدامة
-global_indicators:17.15.1---title,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation, مدى استخدام أطر النتائج وأدوات التخطيط المملوكة للبلدان من جانب مقدمي التعاون الإنمائي
-global_indicators:17.16.1---title,Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,عدد البلدان التي أبلغت عن إحراز تقدم في ما يتعلق بأطر رصد فعالية التنمية لأصحاب المصلحة المتعددين التي تدعم تحقيق أهداف التنمية المستدامة
-global_indicators:17.17.1---title,Amount of United States dollars committed to (a) public-private partnerships and (b) civil society partnerships,المبلغ بدولارات الولايات المتحدة المرصـود لـ (أ) الشراكات بين القطاعين العام والخاص و (ب) شـراكات المجتمع المدني
-global_indicators:17.18.1---title,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics",نسبة مؤشرات التنمية المستدامة الموضوعة على الصعيد الوطني، وفقاً للمبادئ الأساسية للإحصاءات الرسمية
-global_indicators:17.18.2---title,Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics,عدد البلدان التي لديها تشريعات إحصائية على الصعيد الوطني والتي تتقيد بالمبادئ الأساسية للإحصاءات الرسمية
-global_indicators:17.18.3---title,"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",عدد البلدان التي لديها خطة إحصـائية وطنية ممولة بالكامل وقيد التنفيذ، بحسب مصدر التمويل
-global_indicators:17.19.1---title,Dollar value of all resources made available to strengthen statistical capacity in developing countries,القيمة الدولارية لجميع الموارد المتاحة لتعزيز القدرات الإحصائية في البلدان النامية
-global_indicators:17.19.2---title,Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,نسبة البلدان التي (أ) أجرت عداداً واحداً على الأقل للسكان المساكن في السنوات العشر الماضية؛ و(ب) حققت نسبة 100 في المائة في تسجيل المواليد ونسبة 80 في المائة في تسجيل الوفيات
-global_indicators:17.2.1---title,"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",صافي المسـاعدة الإنمائية الرسمية، ومجموعها، والمسـاعدةً، الإنمائية الرسمية المقدمة إلى أقل البلدان نمواً، كنسبة من الدخل القومي الإجمالي للجهات المانحة في لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي
-global_indicators:17.3.1---title,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",الاسـتثمار المباشر الأجنبي والمساعدة الإنمائية الرسمية والتعاون في ما بين بلدان الجنوب كنسبة من إجمالي الميزانية المحلية
-global_indicators:17.3.2---title,Volume of remittances (in United States dollars) as a proportion of total GDP,حجم التحويلات المالية (بدولارات الولايات المتحدة) كنسبة من مجموع الناتج المحلي الإجمال
-global_indicators:17.4.1---title,Debt service as a proportion of exports of goods and services,تكاليف خدمة الدين كنسبة من صادرات السلع والخدمات
-global_indicators:17.5.1---title,Number of countries that adopt and implement investment promotion regimes for least developed countries,عدد البلدان التي تعتمد وتنفذ نظماً لتشجيع الاستثمار لصالح أقل البلدان نمواً
-global_indicators:17.6.1---title,"Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation",عدد اتفاقات التعاون في مجالي العلوم و/أو التكنولوجيا المبرمة بين البلدان، بحسب نوع التعاون
-global_indicators:17.6.2---title,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed",الاشـتراكات في الإنترنت السلكي ذي النطاق العريض لكل 100 من السكان، بحسب السرعة
-global_indicators:17.7.1---title,"Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",مجموع مبلغ التمويل المعتمـد للبلـدان النـاميـة من أجـل تعزيز تطوير تكنولوجيات ســليمة بيئياً ونقلها ونشــرها وتعميمها في البلدان النامية
-global_indicators:17.8.1---title,Proportion of individuals using the Internet,نسبة الأفراد الذين يستخدمون الإنترنت
-global_indicators:17.9.1---title,"Dollar value of financial and technical assistance (including through North-South, South‐South and triangular cooperation) committed to developing countries",القيمة الدولارية للمساعدة المالية والتقنية (بوسائل تشمل التعاون بين الشمال والجنوب وفي ما بين بلدان الجنوب والتعاون الثلاثي) المرصودة للبلدان النامية
-global_indicators:2.1.1---title,Prevalence of undernourishment,معدل انتشار نقص التغذية
-global_indicators:2.1.2---title,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",معدل انتشار انعدام الأمن الغذائي المتوسـط أو الشـديد وسط السكان، استنادا إلى مقياس المعاناة من انعدام الأمن الغذائي
-global_indicators:2.2.1---title,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,معدل انتشار توقّف النمو (الطول بالنسبة للعمر <-2 نقطة من الانحراف المعياري عن متوسط معايير نمو الطفل لمنظمة الصحة العالمية) بين الأطفال دون سن الخامسة
-global_indicators:2.2.2---title,"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",معدل انتشار ســوء التغذية (الوزن بالنســبة للطول > 2+ أو < 2 -نقطة من الانحراف المعياري عن متوسط معايير نمو الطفل لمنظمة الصــحة العالمية) بين الأطفال دون سـن الخامسة، مصنفين حسب النوع (الهزال وزيادة الوزن)
-global_indicators:2.3.1---title,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,حجم الإنتاج لكل وحـدة عمـل حسـب فئـات حجم المؤسسة الزراعية/الرعوية/الحرجية
-global_indicators:2.3.2---title,"Average income of small-scale food producers, by sex and indigenous status",متوسـط دخل صغار منتجي الأغذية، بحسـب الجنس والوضع من حيث الانتماء إلى الشعوب الأصلية
-global_indicators:2.4.1---title,Proportion of agricultural area under productive and sustainable agriculture,نسبة المساحة الزراعية المخصصة للزراعة المنتجة والمستدامة
-global_indicators:2.5.1---title,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,عـدد الموارد الجينية النباتيـة والحيوانية للأغـذية والزراعة المودعة في مرافق للحفظ على المدى المتوسط أو الطويل 
-global_indicators:2.5.2---title,"Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction", نسـبة السـلالات المحلية التي تصـنف على أنها معرضة للخطر، أو غير معرضـة للخطر، أو تقف عند مسـتوى غير معروف لخطر انقراضها
-global_indicators:2.a.1---title,The agriculture orientation index for government expenditures,مؤشر التوجه في المجال الزراعي للنفقات الحكومية
-global_indicators:2.a.2---title,Total official flows (official development assistance plus other official flows) to the agriculture sector,مجموع التدفقات الرسمية (المسـاعدة الإنمائية الرسمية مضـافا إليها تدفقات رسمية أخرى) إلى القطاع الزراعي
-global_indicators:2.b.1---title,Agricultural export subsidies,
-global_indicators:2.b.2---title,Agricultural export subsidies,إعانات الصادرات الزراعية
-global_indicators:2.c.1---title,Indicator of food price anomalies,مؤشر مفارقات أسعار الأغذية
-global_indicators:3.1.1---title,Maternal mortality ratio,نسبة الوفيات النفاسية 
-global_indicators:3.1.2---title,Proportion of births attended by skilled health personnel,نسبة الولادات التي يشرف عليها أخصائيون صحّيون مَهَرة 
-global_indicators:3.2.1---title,Under‐5 mortality rate,معدل وفيات الأطفال دون سن الخامسة
-global_indicators:3.2.2---title,Neonatal mortality rate,معدل وفيات المواليد
-global_indicators:3.3.1---title,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations","عدد الإصـابات الجديدة بفيروس نقص المناعة البشـرية لكل 1,000 شـخص غير مصاب من السكان بحسـب الجنس والعمر والفئات الرئيسية من السكان "
-global_indicators:3.3.2---title,"Tuberculosis incidence per 100,000 population","معدل انتشار داء السل لكل 100,000 شخص"
-global_indicators:3.3.3---title,"Malaria incidence per 1,000 population","دد حالات الإصابة بالملاريا لكل 1,000 شخص"
-global_indicators:3.3.4---title,"Hepatitis B incidence per 100,000 population","عدد الإصـابات بأمراض التهاب الكبد الوبائي باء لكل 100,000 من السكان"
-global_indicators:3.3.5---title,Number of people requiring interventions against neglected tropical diseases,عدد الأشـخاص الذين يسـتلزمون تدخلات لمكافحة الأمراض المدارية المهملة
-global_indicators:3.4.1---title,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",معدل الوفيات الناجمة عن أمراض القلب والأوعية الدموية والسرطان وداء السكري والأمراض التنفسية المزمنة 
-global_indicators:3.4.2---title,Suicide mortality rate, معدل وفيات الانتحار
-global_indicators:3.5.1---title,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",نطاق تغطية التـدخلات العلاجية (الخدمات الدوائية والنفسانية وخدمات إعـادة التأهيـل والرعاية اللاحقـة) لمعالجة الاضطرابات الناشئة عن تعاطي المواد المخدرة
-global_indicators:3.5.2---title,"Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",الاستعمال الضار للكحول، محدداً وفقاً للظروف الوطنية في إطار استهلاك الفرد الواحد من الكحول (سن 15 سنة فأكثر) في سنة تقويمية، باللترات من الكحول الصافي
-global_indicators:3.6.1---title,Death rate due to road traffic injuries,معدلات الوفيات الناجمة عن الإصابات جراء حوادث المرور على الطرق
-global_indicators:3.7.1---title,Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods,نسبة النساء اللاتي في سن الإنجاب (49-15 سنة) واللاتي لُبّيت حاجتُهن إالى تنظيم الأسرة بطرق حديثة 
-global_indicators:3.7.2---title,"Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group","معدل الولادات لدى المراهقات (10-14 سنة؛ و 15-19 سنة) لكل 1,000 امرأة في تلك الفئة العمرية"
-global_indicators:3.8.1---title,"Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)",تغطية توافر الخدمات الصحية الأساسية (المعرَّفة باعتبارها متوسط التغطية التي توفر الخدمات الأساسية المستندة إالى الإجراءات الكاشفة التي تشمل الصحة الإنجابية، وصحة الأمهات، والمواليد الجدد، والأطفال، والأمراض المعدية، والأمراض غير المعدية، والقدرة على توفير الخدمات، وإمكانية الوصول إاليها لدى السكان عموماً والأشد حرماناً خصوصاً) 
-global_indicators:3.8.2---title,Proportion of population with large household expenditures on health as a share of total household expenditure or income,نسبة السكان الذين تصرف أسرهم المعيشية نفقات كبيرة على الصـحة محسـوبة كحصـة من مجموع إنفاق الأسـر المعيشـية أو دخلها
-global_indicators:3.9.1---title,Mortality rate attributed to household and ambient air pollution, معدل الوفيات المنسـوبة إلى الأســر المعيشــية وتلوث الهواء المحيط
-global_indicators:3.9.2---title,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",معدل الوفيات المنسـوب إلى المياه غير المأمونة، وخدمات الصـرف الصحي غير المأمونة والافتقار إلى المرافق الصـحية (التعرض لخدمات غير مأمونة في توفير المياه وخدمات الصـرف الصـحي والنظافة الصحية للجميع)
-global_indicators:3.9.3---title,Mortality rate attributed to unintentional poisoning,معدل الوفيات المنسوب إلى التسمم غير المتعمد
-global_indicators:3.a.1---title,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,معدل الانتشار الموحد السن لاستعمال التبغ حالياً لدى الأشخاص الذين تبلغ أعمارهم 15 سنة فأكثر
-global_indicators:3.b.1---title,Proportion of the target population covered by all vaccines included in their national programme,نسـبة السـكان المسـتهدفين المســتفيدين من جميع اللقاحات المشمولة بالبرنامج الوطني لبلدهم 
-global_indicators:3.b.2---title,Total net official development assistance to medical research and basic health sectors,مجموع صـافي المساعدة الإنمائية الرسمية المقدمة إلى القطاعات الصحية الأساسية والبحوث الطبية 
-global_indicators:3.b.3---title,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,نســبة المرافق الصـحية المتاحة فيها مجموعة أساسـية من الأدوية الضرورية التي تفي بالغرض بكلفة ميسورة على الدوام
-global_indicators:3.c.1---title,Health worker density and distribution,معدل كثافة الأخصائيين الصحيين وتوزيعهم
-global_indicators:3.d.1---title,International Health Regulations (IHR) capacity and health emergency preparedness,القـدرة على تنفيـذ اللوائح الصـحيـة الـدوليـة، والجـاهزيـة لمواجهة حالات الطوارئ الصحية
-global_indicators:4.1.1---title,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",نســبة الأطفال والشــباب (أ) في الصــف الثاني/الثالث؛  و (ب) في نهـايـة المرحلـة الابتـدائيـة؛ و (ج) في نهـايـة المرحلـة الأولى من التعليم الثـــانوي، الـذين يحققون على الأقـــل الحـــد الأدنى من مستوى الكفاءة في ’1 ’القراءة، و’2 ’الرياضيات، بحسب الجنس
-global_indicators:4.2.1---title,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex",نســـــبة الأطفال دون الخامسة الذين هم ماضـون على المسار الصـحيح من حيث النمو في مجالات الصحة، والتعلم، والرفاه النفسي والاجتماعي، بحسب الجنس
-global_indicators:4.2.2---title,"Participation rate in organized learning (one year before the official primary entry age), by sex",معدل المشاركة في التعلُّم المنظَّم (قبل سنة واحدة من سن الالتحاق الرسمي بالتعليم الابتدائي)، بحسب الجنس
-global_indicators:4.3.1---title,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex", معـدل مشـاركـة الشــبـاب والكبـار في التعليم الرسمي ً وغير الرسمي السـابقـة، والتـدريــب خلال الاثني عشـر شـهرا بحسب الجنس
-global_indicators:4.4.1---title,"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",نسـبة الشـباب والبالغين الذين تتوافر لديهم مهارات تكنولوجيا المعلومات والاتصالات، بحسب نوع المهار
-global_indicators:4.5.1---title,"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",مؤشرات التكافؤ (أنثى/ذكر، وريفي/حضري، وأدنى/أعلى خمس السكان ثراء، وفئات أخرى مثل ذوي الإعاقة وأفراد الشعوب الأصـلية، والمتضـررين من النزاعات، متى توافرت البيانات عن ذلك) لجميع مؤشرات التعليم المندرجة في هذه القائمة، التي يمكن تصنيفها
-global_indicators:4.6.1---title,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",نسـبة السـكان في فئة عمرية معينة الذين يحققون على الأقل مسـتوى ثابتا من الكفاءة في المهارات الوظيفية المتصـلة بما يلي: (أ) الأمية و (ب) الحساب، بحسب الجنس
-global_indicators:4.7.1---title,"Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",مدى تعميم ‘1 ‘تعليم المواطنة العالمية و ‘2‘ التعليم من أجل التنمية المسـتدامة، بما في ذلك المساواة بين الجنسين وحقوق الإنسان، وذلك على جميع الصعد في (أ) السياسات التعليمية على الصعيد الوطني و؛ (ب) المناهج الدراسية ؛ و (ج) تدريب المعلمين؛ و(د) تقييم الطلاب
-global_indicators:4.a.1---title,Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions),نسـبة المدارس التي تحصـل على (أ) الطاقة الكهربائية؛ و(ب) شــبكة الإنترنت لأغراض تعليمية؛ و (ج) أجهزة حاسـوبية لأغراض التعليم؛ و (د) بنى تحتية ومواد ملائمة لاحتياجات الطلاب ذوي الإعاقة؛ و (هـــ) مياه الشـرب الأسـاسـية؛ و (و) مرافق صـحية أسـاسية غير مختلطة؛ و (ز) مرافق أسـاسـية لغسـل الأيدي (وفق التعاريف الواردة في مؤشــر توفير المياه وخدمات الصـرف الصحي والنظافة الصحية للجميع)
-global_indicators:4.b.1---title,Volume of official development assistance flows for scholarships by sector and type of study,حجم تدفقات المسـاعدة الإنمائية الرسمية لتقديم المنح الدراسية، بحسب القطاع ونوع الدراسة
-global_indicators:4.c.1---title,Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country,نسـبة المعلمين في (أ) مرحلة ما قبل التعليم الابتدائي؛ و(ب) التعليم الابتدائي؛ و (ج) التعليم الإعدادي؛ و (د) التعليم الثانوي، الذين حصلوا على الأقل على الحد الأدنى من التدريب المنظَّم للمعلمين (كالتدريـب التربوي)، قبل الخـدمـة أو في أثنـاء الخدمة، اللازم للتدريس على المستوى المناسب في بلد معين
-global_indicators:5.1.1---title,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",مـا إذا كـان ثمـة أطر قـانونيـة قـائمـة، أم لا، من أجـل تعزيز وإنفاذ ورصد المساواة وعدم التمييز على أساس الجنس
-global_indicators:5.2.1---title,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",نسبة النساء المعاشـرات والفتيات في الخامسة عشــرة وما فوق، اللاتي تعرضن لعنف بدني أو جنسي أو نفسي من عشير حالي أو سـابق، خلال الاثني عشـر شـهراً السـابقة، مصـنفة بحسـب شكل العنف والعمر 
-global_indicators:5.2.2---title,"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",نسبة النساء والفتيات في الخامسة عشرة وما فوق اللاتي تعرضن لعنف جنسي من أشخاص غير العشير، خلال الاثني عشر شهراً السابقة، بحسب العمر ومكان حدوث العنف
-global_indicators:5.3.1---title,Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18,نسبة النساء اللاتي تتراوح أعمارهن بين و 20 سن 24 ة، واللاتي تزوجن أو ارتبطن بقرين قبل بلوغ سن الخامسة عشـرة وقبل بلوغ سن الثامنة عشر
-global_indicators:5.3.2---title,"Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age", نسـبة الفتيات والنساء اللاتي تتراوح أعمارهن بين 15و49 عاماً، واللاتي خضعن لعملية تشـويه/بتر الأعضاء التناسلية، بحسب العمر
-global_indicators:5.4.1---title,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",نسبة الوقت المخصص للأعمال المنزلية وأعمال الرعاية غير المدفوهة الأجر، بحسب الجنس والعمر والمكان
-global_indicators:5.5.1---title,Proportion of seats held by women in (a) national parliaments and (b) local governments, نسـبة المقاعد التي تشغلها النساء في (أ) البرلمانات الوطنية، و (ب) الحكومات المحلية
-global_indicators:5.5.2---title,Proportion of women in managerial positions,نسبة النساء في المناصب الإدارية
-global_indicators:5.6.1---title,"Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",نســبة النسـاء اللاتي تتراوح أعمارهن بين 15 سـنة و49 ســنة واللاتي يتخذن بأنفسهن قرارات مسـتنيرة بشـأن العلاقات الجنسـية، واسـتخدام وسـائل منع الحمل، والرعاية المتعلقة بالصحة الإنجابية
-global_indicators:5.6.2---title,"Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education", عـدد البلدان التي لديها قوانين وأنظمـة تكفـل حصـول النساء والرجال الذين في سن 15 سنة فأكثر على خدمات الرعاية والمعلومات والتثقيف في مجال الصحة الجنسـية والإنجابية على نحو كامل وعلى قدم المساواة
-global_indicators:5.a.1---title,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",(أ) نســبة مجموع المزارعين الذين يمتلكون أراض زراعية أو لديهم حقوق مضمونة في الأراضي الزراعية، بحسـب الجنس؛ و (ب) حصة المرأة بين الملاّك أو أصحاب الحقوق في الأراضي الزراعية، بحسب نوع الحيازة
-global_indicators:5.a.2---title,Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control,نسـبة البلدان التي يكفل فيها الإطار القانوني (بما في ذلك القانون العرفي) للمرأة المساواة في الحقوق في ملكية الأراضي و/أو السيطرة عليها 
-global_indicators:5.b.1---title,"Proportion of individuals who own a mobile telephone, by sex",نســبة الأفراد الذين يملكون الهاتف المحمول، حســب نوع الجنس
-global_indicators:5.c.1---title,Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,نسـبة البلدان التي لديها نظم لتخصيص وتتبع المخصصات العامة المرصودة للمساواة بين الجنسين وتمكين المرأة
-global_indicators:6.1.1---title,Proportion of population using safely managed drinking water services,نسبة السكان الذين يستفيدون من خدمات مياه الشرب التي تدار بطريقة مأمونة
-global_indicators:6.2.1---title,Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water,نسبة السـكان الذين يســتفيدون (أ) من الإدارة الســليمة لخدمات الصـرف الصحي و (ب) مرافق غسـل اليدين بالصابون والمياه
-global_indicators:6.3.1---title,Proportion of wastewater safely treated,نسبة مياه الصرف الصحي المعالجة بطريقة آمنة
-global_indicators:6.3.2---title,Proportion of bodies of water with good ambient water quality,نسبة الكتل المائية الآتية من مياه محيطة ذات نوعية جيدة
-global_indicators:6.4.1---title,Change in water-use efficiency over time,التغير في كفاءة استخدام المياه على مدى فترة من الزمن 
-global_indicators:6.4.2---title,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,حجم الضغط الذي تتعرض له المياه: سحب المياه العذبة كنسبة من موارد المياه العذبة المتاحة
-global_indicators:6.5.1---title,Degree of integrated water resources management implementation (0–100),درجة تنفيذ الإدارة المتكاملة للموارد المائية (صفر-100)
-global_indicators:6.5.2---title,Proportion of transboundary basin area with an operational arrangement for water cooperation,نسبة مناطق أحواض المياه العابرة للحدود التي لها ترتيبات تنفيذية تتعلق بالتعاون في مجال المياه
-global_indicators:6.6.1---title,Change in the extent of water-related ecosystems over time,نسبة التغير في نطاق النظم الإيكولوجية المتصلة بالمياه خلال فترة من الزمن
-global_indicators:6.a.1---title,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,مقدار المساعدة الإنمائية الرسمية المتصلة بالمياه والصرف الصحي التي تعد جزءاً من خطة إنفاق تتولى الحكومة تنسيقها
-global_indicators:6.b.1---title,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,نسـبة الوحدات الإدارية المحلية التي لديها سـياسات وإجراءات تنفيذية راسـخة في ما يتعلق بمشــاركة المجتمعات المحلية في إدارة خدمات المياه والصرف الصحي
-global_indicators:7.1.1---title,Proportion of population with access to electricity,نسبة السكان المستفيدين من خدمات الكهرباء
-global_indicators:7.1.2---title,Proportion of population with primary reliance on clean fuels and technology,نسبة السكان الذي يعتمدون أساسياً على الوقود التكنولوجيا النظيفين
-global_indicators:7.2.1---title,Renewable energy share in the total final energy consumption,حصة الطاقة المتجددة في مجموع الاسـتهلاك النهائي للطاقة
-global_indicators:7.3.1---title,Energy intensity measured in terms of primary energy and GDP, كثـافة الطـاقة التي تقـاس من حيـث الطـاقة الأوليـة والنـاتج المحلي الإجمال
-global_indicators:7.a.1---title,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",التـدفقـات الماليـة الدوليـة الموجهـة إلى البلـدان النـاميـة لدعم أنشـطة البحث والتطوير في مجالات الطاقة النظيفة وإنتاج الطاقة المتجددة، بما في ذلك النظم الهجينة
-global_indicators:7.b.1---title,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services,الاســتثمارات في مجال كفاءة الطاقة كنسـبة من الناتج المحلي الإجمالي ومبلغ الاستثمار المباشر الأجنبي، في شكل تحويلات مالية، من أجـل توفير الهياكـل الأسـاسـية والتكنولوجيا اللازمة لأغراض التنمية المستدامة
-global_indicators:8.1.1---title,Annual growth rate of real GDP per capita,معدل النمو السـنوي للناتج المحلي الإجمالي الحقيقي للفرد الواحد
-global_indicators:8.10.1---title,"(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults","(أ) عدد فروع المصارف التجارية لكل 100,000 شخص بالغ، و (ب) عدد أجهزة الصرف الآلي لكل 100,000 شخص بالغ"
-global_indicators:8.10.2---title,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,نسـبة البالغين ( 15 سـنة فأكثر) الذين لهم حساب مصـرفي أو حسـاب في مؤسـسة مالية أخرى أو لدى مقدم خدمات مالية متنقلة
-global_indicators:8.2.1---title,Annual growth rate of real GDP per employed person, معدل النمو السنوي في الناتج المحلي الإجمالي لكل شخص عامل
-global_indicators:8.3.1---title,"Proportion of informal employment in non‐agriculture employment, by sex",نســبة العمالة غير الرسمية في غير العمالة الزراعية، بحسب الجنس
-global_indicators:8.4.1---title,"Material footprint, material footprint per capita, and material footprint per GDP",الأثر المادي ونصـيب الفرد من الأثر المادي ونصـيب الناتج المحلي الإجمالي من الأثر المادي
-global_indicators:8.4.2---title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",الاسـتهلاك المادي المحلي ونصـيب الفرد من الاسـتهلاك المادي المحلي ونسـبة الاستهلاك المادي المحلي إلى الناتج المحلي الإجمال
-global_indicators:8.5.1---title,"Average hourly earnings of female and male employees, by occupation, age and persons with disabilities",متوسـط الدخل في الساعة للنساء والرجال العاملين، بحسب الوظيفة والعمر والأشخاص ذوي الإعاقة
-global_indicators:8.5.2---title,"Unemployment rate, by sex, age and persons with disabilities",معـدل البطالة، بحسـب الجنس والعمر والأشـخـاص ذوي الإعاقة
-global_indicators:8.6.1---title,"Proportion of youth (aged 15–24 years) not in education, employment or training",نسـبة الشـباب (الذين تتراوح أعمارهم بين 15 سـنة و 24 سنة) خارج دائرة التعليم والعمالة والتدريب
-global_indicators:8.7.1---title,"Proportion and number of children aged 5–17 years engaged in child labour, by sex and age",نسـبة الأطفال الذين تتراوح أعمارهم بين 5 سـنوات و 17 سـنة والمنخرطين في ســوق عمل الأطفال وعددهم، بحســب الجنس والعمر
-global_indicators:8.8.1---title,"Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status",التواتر في معدلات إصابات العمل المميتة وغير المميتة، بحسب نوع جنس المهاجرين ووضعهم
-global_indicators:8.8.2---title,"Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status", مسـتوى امتثال البلـدان لحقوق العمـل (حريـة تكوين الجمعيات والمفاوضة الجماعية) اســـتناداً إلى نصـوص منظمة العمل الدولية والتشريعات الوطنية، بحسب الجنس ووضع المهاجرين
-global_indicators:8.9.1---title,Tourism direct GDP as a proportion of total GDP and in growth rate,الناتج المحلي الإجمالي للسـياحة المباشـرة كنسـبة من مجموع الناتج المحلي الإجمالي ومن معدل النمو
-global_indicators:8.9.2---title,Proportion of jobs in sustainable tourism industries out of total tourism jobs,نسبة الوظائف في قطاعات السياحة المستدامة من مجموع الوظائف في قطاع السياحة
-global_indicators:8.a.1---title,Aid for Trade commitments and disbursements,المعونة المقدمة من أجل الالتزامات والمدفوعات المتصلة بالتجارة
-global_indicators:8.b.1---title,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",وجود استراتيجية وطنية مكتملة وموضوعة قيد التنفيذ تتعلق بتشغيل الشباب، سواء بوصفها استراتيجية قائمة بذاتها أو عنصراً من استراتيجية وطنية للتشغيل
-global_indicators:9.1.1---title,Proportion of the rural population who live within 2 km of an all-season road, نسـبة سـكان الريف الذين يعيشـون على بعد كيلومترين من طريق صالحة للاستعمال في جميع الفصول
-global_indicators:9.1.2---title,"Passenger and freight volumes, by mode of transport",عدد الركاب وحجم الشحنات، بحسب وسيلة النقل
-global_indicators:9.2.1---title,Manufacturing value added as a proportion of GDP and per capita,القيمة المضـافة التصـنيعية كنسـبة من الناتج المحلي الإجمالي للفرد
-global_indicators:9.2.2---title,Manufacturing employment as a proportion of total employment,العمالة في الصناعة التحويلية كنسبة من مجموع العمالة
-global_indicators:9.3.1---title,Proportion of small-scale industries in total industry value added,نسـبة الصناعات الصـغيرة الحجم من مجموع القيمة المضافة من الصناعات
-global_indicators:9.3.2---title,Proportion of small-scale industries with a loan or line of credit,نسـبة الصـناعات الصغيرة الحجم التي لها قرض أو خط ائتمان
-global_indicators:9.4.1---title,CO2 emission per unit of value added,انبعاثات ثاني أكسـيد الكربون لكل وحدة من القيمـة المضافة 
-global_indicators:9.5.1---title,Research and development expenditure as a proportion of GDP,الإنفاق على البحث والتطوير كنسـبة من الناتج المحلي الإجمال
-global_indicators:9.5.2---title,Researchers (in full-time equivalent) per million inhabitants,العاملون في مجال البحـث (بمكـافئ الـدوام الكـامـل) لكـل مليون نسمة
-global_indicators:9.a.1---title,Total official international support (official development assistance plus other official flows) to infrastructure,مجموع الدعم الدولي (المساعدة الإنمائية الرسمية بالإضافة إلى التدفقات الرسمية الأخرى) إلى الهياكل الأساسية
-global_indicators:9.b.1---title,Proportion of medium and high-tech industry value added in total value added,نسـبة القيمة المضافة للصناعة التكنولوجية المتوسـطة والمتقدمة من مجموع القيمة المضافة
-global_indicators:9.c.1---title,"Proportion of population covered by a mobile network, by technology",نسبة السكان المشمولين بشبكة الهاتف المحمول، بحسب التكنولوجيا
+indicator:chart,Chart,مخطط
+indicator:clear_all,Clear all,ازالة الكل
+indicator:clear_selections,Clear selections,إزالة المحدد
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,هناك عدد كبير من البيانات المحددة. لن يتم عرض الكل حتى تزيل بعضها.
+indicator:download_chart,Download Chart CSV,تحميل المخطط الCSV
+indicator:download_csv,Download CSV,تحميل الCSV
+indicator:download_csv_title,Download as CSV,تحميل كCSV
+indicator:download_headline,Download Headline CSV,تحميل CSV الخط الرئيسي 
+indicator:download_headline_title,Download headline data as CSV,تحميل بيانات CSV الخط الرئيسي
+indicator:download_source,Download Source CSV,تحميل مصدر الCSV
+indicator:download_source_title,Download source data as CSV,تحميل بيانات مصدر الCSV
+indicator:download_table,Download Table CSV,تحميل جدول CSV
+indicator:edit,Edit,تغيير
+indicator:edit_data,Edit Data,تغيير البيانات
+indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
+indicator:footnote,Footnote,حاشية
+indicator:geographical_area,Geographical Area,المنطقة الجغرافية
+indicator:global_metadata,Global Metadata,البيانات الوصفية العالمية
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",رابط الى البيانات الوصفية للأمم المتحدة
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,انقر على وسيلة الايضاح لازالة أسطر فردية من المخطط
+indicator:loading_map,Loading map,تحميل الخريطة
+indicator:map,Map,خريطة
+indicator:national_metadata,National Metadata,البيانات الوصفية الوطنية
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",هذا الجدول يقدم بيانات وصفية للمؤشر المتاح من احصائيات %country_name الاقرب الى مؤشر الاهداف التنمية المستدامة العالمية المناظر. يرجى الملاحظة انه تحتى عندما يكون المؤشر متاحاً بالكامل من احصائيات %country_adjective، ينبغي استشارة هذا الجدول للحصول على معلومات حول المنهجية الوطنية وغيرها من المعلومات المتعلقة بالبيانات الشرحية الخاصة ب%country_adjective
+indicator:no_data_hint,No options available because of filters above,لا تتوفر خيارات بسبب الفلاتر الاعلى 
+indicator:select_all,Select all,اختيار الكل
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,اختر فئات من القوائم المندسلة ادناه لرؤية تركيبات مختلفة للبيانات. بعضها لن تكون متاحة حتى يتم اختيار مستوى اعلى
+indicator:source,Source,مصدر
+indicator:sources,Sources,مصادر
+indicator:sub_categories,Sub-categories,فئات فرعية
+indicator:table,Table,جدول
+indicator:unit_of_measurement,Unit of Measurement,وحدة قياس
+indicator:units_type,Units type,نوع الوحدات
+indicator:variable_hint,Available when '%field' is selected,متاح عند تحديد '%field' 
+indicator:view_indicator_list,View this goal's indicator list,عرض قائمة المؤشرات لهذا الهدف
 global_targets:1.1---title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",القضاء على الفقر المدقع للناس أجمعين أينما كانوا بحلول عام 2030، وهو يُقاس حالياً بعدد الأشخاص الذين يعيشون بأقل من 1.25 دولار في اليوم
 global_targets:1.2---title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",تخفيض نسـبة الرجال والنساء والأطفال من جميع الأعمار الـذين يعـانون الفقر بجميع أبعاده وفقــاً للتعـاريف الوطنية بمقــدار النصف على الأقل، بحلول عام 2030
 global_targets:1.3---title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",تنفيـذ نظم وطنية ملائمـة للحمايـة الاجتمـاعية وتـدابير للجميع ووضع حدود دنيا لها، وبحلول عام 2030، تحقيق تغطية واسعة للفقراء والضعفاء
@@ -530,41 +203,20 @@ global_targets:9.5---title,"Enhance scientific research, upgrade the technologic
 global_targets:9.a---title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States",تيسير إنشاء هياكل أساسية مستدامة وقادرة على الصمود في البلدان النامية، بتحسـين الدعم المالي والتكنولوجي والتقني المقدم للبلدان الأفريقية، وأقل البلدان نمواً، والبلدان النامية غير الساحلية، والدول الجزرية الصغيرة النامية
 global_targets:9.b---title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities",دعم أنشـطـة التطوير والبحـث والابتكـار في التكنولوجيـا المحلية في البلدان النامية، بوسـائل منها كفالة وجود بيئة مؤاتية من حيث السـياسـات للتنويع الصـناعي وإضـافة قيمة للسـلع الأسـاسـية بين أمور أخرى
 global_targets:9.c---title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,تحقيق زيادة كبيرة في فرص الحصول على تكنولوجيا المعلومات والاتصــالات، والســعي إلى توفير فرص الوصــول الشــامل والميسـور إلى شـبكة الإنترنـت في أقـل البلـدان نموا، بحلول عـام 2020
-indicator:chart,Chart,مخطط
-indicator:clear_all,Clear all,ازالة الكل
-indicator:clear_selections,Clear selections,إزالة المحدد
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,هناك عدد كبير من البيانات المحددة. لن يتم عرض الكل حتى تزيل بعضها.
-indicator:download_chart,Download Chart CSV,تحميل المخطط الCSV
-indicator:download_csv,Download CSV,تحميل الCSV
-indicator:download_csv_title,Download as CSV,تحميل كCSV
-indicator:download_headline,Download Headline CSV,تحميل CSV الخط الرئيسي 
-indicator:download_headline_title,Download headline data as CSV,تحميل بيانات CSV الخط الرئيسي
-indicator:download_source,Download Source CSV,تحميل مصدر الCSV
-indicator:download_source_title,Download source data as CSV,تحميل بيانات مصدر الCSV
-indicator:download_table,Download Table CSV,تحميل جدول CSV
-indicator:edit,Edit,تغيير
-indicator:edit_data,Edit Data,تغيير البيانات
-indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
-indicator:footnote,Footnote,حاشية
-indicator:geographical_area,Geographical Area,المنطقة الجغرافية
-indicator:global_metadata,Global Metadata,البيانات الوصفية العالمية
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",رابط الى البيانات الوصفية للأمم المتحدة
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,انقر على وسيلة الايضاح لازالة أسطر فردية من المخطط
-indicator:loading_map,Loading map,تحميل الخريطة
-indicator:map,Map,خريطة
-indicator:national_metadata,National Metadata,البيانات الوصفية الوطنية
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",هذا الجدول يقدم بيانات وصفية للمؤشر المتاح من احصائيات %country_name الاقرب الى مؤشر الاهداف التنمية المستدامة العالمية المناظر. يرجى الملاحظة انه تحتى عندما يكون المؤشر متاحاً بالكامل من احصائيات %country_adjective، ينبغي استشارة هذا الجدول للحصول على معلومات حول المنهجية الوطنية وغيرها من المعلومات المتعلقة بالبيانات الشرحية الخاصة ب%country_adjective
-indicator:no_data_hint,No options available because of filters above,لا تتوفر خيارات بسبب الفلاتر الاعلى 
-indicator:select_all,Select all,اختيار الكل
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,اختر فئات من القوائم المندسلة ادناه لرؤية تركيبات مختلفة للبيانات. بعضها لن تكون متاحة حتى يتم اختيار مستوى اعلى
-indicator:source,Source,مصدر
-indicator:sources,Sources,مصادر
-indicator:sub_categories,Sub-categories,فئات فرعية
-indicator:table,Table,جدول
-indicator:unit_of_measurement,Unit of Measurement,وحدة قياس
-indicator:units_type,Units type,نوع الوحدات
-indicator:variable_hint,Available when '%field' is selected,متاح عند تحديد '%field' 
-indicator:view_indicator_list,View this goal's indicator list,عرض قائمة المؤشرات لهذا الهدف
+menu:about,About,عن
+menu:contact_us,Contact us,اتصل بنا
+menu:cookies,Cookies,ملفات تعريف الارتباط
+menu:faq,FAQ,أسئلة شائعة
+menu:guidance,Guidance,توجيه
+menu:menu,Menu,قائمة
+menu:publications,Publications,منشورات
+menu:reporting_status,Reporting Status,حالة التقارير
+search:found_in,found in,موجود في
+search:indicator_search,Indicator search,بحث المؤشر
+search:keywords,Keywords,الكلمات الدالة
+search:no_results,No results,لا يوجد نتائج
+search:search,Search,بحث
+search:search_results_for,Search results for,نتائج البحث عن
 global_goals:1---short,No poverty,لا فقر
 global_goals:1---title,End poverty in all its forms everywhere,القضاء على الفقر بجميع أشكاله في كل مكان
 global_goals:10---short,Reduced inequalities,انخفاض عدم المساواة
@@ -599,3 +251,351 @@ global_goals:8---short,Decent jobs and economic growth,وظائف لائقة و�
 global_goals:8---title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",تعزيز النمو الاقتصادي المستدام والشامل والعمالة الكاملة والمنتجة والعمل اللائق للجميع 
 global_goals:9---short,"Industry, innovation and infrastructure",الصناعة والابتكار والهياكل الأساسية 
 global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",بناء هياكل أساسية مرنة، وتعزيز التصنيع الشامل والمستدام وتعزيز الابتكار
+header:alpha,Alpha,ألفا
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","هذا موقع تطوير. نرحب <a href=""mailto:%email_address""> بتعليقاتكم </a>"
+header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
+header:tag_line,17 Goals to Transform our World,17 اهداف لتحويل عالمنا
+general:goal,Goal,هدف
+general:goals,Goals,اهداف
+general:home,Home,الصفحة الرئيسية  (Home page)
+general:indicator,Indicator,مؤشر
+general:indicators,Indicators,مؤشرات
+general:loading,Loading search results,تحميل نتائج البحث
+general:opens_new_window,opens in a new window,تنفتح في نافذة جديدة
+general:sdg,Sustainable Development Goals,اهداف التنمية المستدامة
+general:target,Target,استهداف
+general:targets,Targets,أهداف
+post:posts_by_category,Posts by Category,المنشورات حسب الفئة
+post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name بيانات لمؤشرات اهداف التنمية المستدامة
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
+metadata_fields:comments_limitations,Other information,معلومات اخرى
+metadata_fields:computation_calculations,Calculations,عمليات حسابية
+metadata_fields:computation_definitions,Definitions,تعريفات
+metadata_fields:computation_units,Unit of measurement,وحدة قياس
+metadata_fields:goal_meta_link,Link to UN metadata,رابط الى البيانات الوصفية للامم المتحدة
+metadata_fields:indicator,Indicator number,رقم المؤشر
+metadata_fields:indicator_definition,Global indicator description,وصف المؤشر العالمي
+metadata_fields:indicator_name,Indicator name,اسم المؤشر
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),ترتيب عرض المؤشر (داخل صفحة الهدف)
+metadata_fields:national_data_update_url,Data last updated,آخر تحديث للبيانات
+metadata_fields:national_geographical_coverage,Geographical coverage,تغطية جغرافية
+metadata_fields:national_indicator_available,Indicator available,مؤشر متاح
+metadata_fields:national_indicator_description,Indicator description,وصف المؤشر
+metadata_fields:national_metadata_update_url,Metadata last updated,آخر تحديث للبيانات الوصفية
+metadata_fields:source_contact_1,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_2,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_3,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_4,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_5,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_6,Contact details,تفاصيل الاتصال
+metadata_fields:source_earliest_available_1,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_2,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_3,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_4,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_5,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_6,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_geographical_coverage_1,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_2,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_3,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_4,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_5,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_6,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_next_release_1,Next release,الاصدار التالي
+metadata_fields:source_next_release_2,Next release,الاصدار التالي
+metadata_fields:source_next_release_3,Next release,الاصدار التالي
+metadata_fields:source_next_release_4,Next release,الاصدار التالي
+metadata_fields:source_next_release_5,Next release,الاصدار التالي
+metadata_fields:source_next_release_6,Next release,الاصدار التالي
+metadata_fields:source_organisation_1,Organisation,منظمة
+metadata_fields:source_organisation_2,Organisation,منظمة
+metadata_fields:source_organisation_3,Organisation,منظمة
+metadata_fields:source_organisation_4,Organisation,منظمة
+metadata_fields:source_organisation_5,Organisation,منظمة
+metadata_fields:source_organisation_6,Organisation,منظمة
+metadata_fields:source_other_info_1,Other information,معلومات اخرى
+metadata_fields:source_other_info_2,Other information,معلومات اخرى
+metadata_fields:source_other_info_3,Other information,معلومات اخرى
+metadata_fields:source_other_info_4,Other information,معلومات اخرى
+metadata_fields:source_other_info_5,Other information,معلومات اخرى
+metadata_fields:source_other_info_6,Other information,معلومات اخرى
+metadata_fields:source_periodicity_1,Periodicity,دورية
+metadata_fields:source_periodicity_2,Periodicity,دورية
+metadata_fields:source_periodicity_3,Periodicity,دورية
+metadata_fields:source_periodicity_4,Periodicity,دورية
+metadata_fields:source_periodicity_5,Periodicity,دورية
+metadata_fields:source_periodicity_6,Periodicity,دورية
+metadata_fields:source_release_date_1,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_2,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_3,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_4,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_5,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_6,Release date,تاريخ الاصدار
+metadata_fields:source_statistical_classification_1,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_2,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_3,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_4,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_5,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_6,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_url_1,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_2,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_3,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_4,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_5,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_6,Link to data source,رابط الى مصدر البيانات
+metadata_fields:target,Target name,اسم الهدف
+metadata_fields:target_id,Target number,رقم الهدف
+metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
+metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
+status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
+status:not_applicable,Not applicable,لايمكن تطبيقه
+status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
+status:reported_online,Reported online,اعلن على الانترنت
+status:reporting_status,Reporting Status,وضع الاعلان
+status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
+status:status_by_goal,Status by goal,الحالة حسب الهدف
+global_indicators:1.1.1---title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",نسبة السكان الذين يعيشون دون خط الفقر الدولي، بحسب الجنس، والعمر، والوضع الوظيفي، والموقع الجغرافي (حضري/ريفي)
+global_indicators:1.2.1---title,"Proportion of population living below the national poverty line, by sex and age",نسبة السكان الذين يعيشون دون خط الفقر الوطني، بحسب الجنس والعمر 
+global_indicators:1.2.2---title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",نسبة الرجال والنساء والأطفال من جميع الاعمار الذين يعانون الفقر بجميع ابعاده وفقا للتعريفات الوطنية
+global_indicators:1.3.1---title,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",نسبة السكان الذين تشملهم حدود دنيا/نظم للحماية الاجتماعية، بحسب الجنس، وبحسب الفئات السكانية، كالأطفال، والعاطلين عن العمل، والمسنين، والأشخاص ذوي الإعاقة، والحوامل، والأطفال حديثي الولادة، وضحايا إصابات العمل، والفقراء، والضعفاء
+global_indicators:1.4.1---title,Proportion of population living in households with access to basic services,ةنسبة السكان الذين يعيشون في أسر معيشية يمكنها الحصول على الخدمات الأساسية 
+global_indicators:1.4.2---title,"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",نسبة مجموع السكان البالغين الذين لديهم حقوق ،ً مضمونة لحيازة الأرض، و (أ) لديهم مستندات معترف بها قانونا و (ب) يعتبرون حقوقهم في الأرض مضمونة، بحسب الجنس ونوع الحيازة
+global_indicators:1.5.1---title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","عدد الأشخاص المتوفين والمفقودين ومن تضرروا مباشرة بسبب الكوارث من بين كل 100,000 شخص"
+global_indicators:1.5.2---title,Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),الخسائر الاقتصادية التي تعزى مباشرة إلى الكوارث مقابل الناتج المحلي الإجمالي العالمي
+global_indicators:1.5.3---title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,عدد البلدان التي تعتمد وتنفذ استراتيجيات وطنية للحد من مخاطر الكوارث تمشيا مع إطار سنداي للحد من مخاطر الكوارث للفترة 2015-2030
+global_indicators:1.5.4---title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies, نسبة الحكومات المحلية التي تعتمد وتنفذ استراتيجيات مع الاستراتيجيات الوطنية محلية للحد من مخاطر الكوارث تمشيا للحد من مخاطر الكوارث
+global_indicators:1.a.1---title,Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes,نسبة الموارد المولدة محليا التي تخصصها الحكومة مباشرة لبرامج الحد من الفقر
+global_indicators:1.a.2---title,"Proportion of total government spending on essential services (education, health and social protection)",نسبة الإنفاق الحكومي على الخدمات الاساسية (التعليم والصحة والضمان الاجتماعي)
+global_indicators:1.a.3---title,Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP,المجموع الإجمالي للمنح والتدفقات الوافدة التي لا تستتبع اقتراض ديون، والتي تخصص مباشرة لبرامج الحد من الفقر محسوبا كنسبة من الناتج المحلي الإجمال
+global_indicators:1.b.1---title,"Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups",نسبة الإنفاق الحكومي المتكرر والرأسمالي المخصص للقطعات التى تفيد المرأة والفقراء والفئات الضعيفة على نحو غير متناسب
+global_indicators:10.1.1---title,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,معدلات نمو نصيب الفرد من إنفاق الأسر المعيشية أو إيراداتها ضمن أدنى 40 في المائة من السكان ومجموع السكان
+global_indicators:10.2.1---title,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",نسبة السكان الذين يعيشون دون 50 في المائة من متوسط الدخل، بحسب الجنس والعمر والأشخاص ذوي الإعاقة
+global_indicators:10.3.1---title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,نسبة السكان الذين أبلغوا عن تعرضهم شخصيا لممارسات تمييزية أو تحرش خلال الاثني عشر شهرا السابقة لأسباب يحظر القانون الدولي لحقوق الإنسان التمييز على أساسها
+global_indicators:10.4.1---title,"Labour share of GDP, comprising wages and social protection transfers",حصة العمل في الناتج المحلي الإجمالي، بما في ذلك الأجور ومدفوعات الحماية الاجتماعية
+global_indicators:10.5.1---title,Financial Soundness Indicators, مؤشرات السلامة المالية
+global_indicators:10.6.1---title,Proportion of members and voting rights of developing countries in international organizations, نسبة عضوية البلدان النامية وحقوقها في التصويت في المنظمات الدولية
+global_indicators:10.7.1---title,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination,تكاليف التوظيف التي يتحملها الموظف كنسبة من الإيرادات السنوية في بلد المقصد\
+global_indicators:10.7.2---title,Number of countries that have implemented well-managed migration policies, عدد البلدان التي نفذت سياسات هجرة متسمة بحسن الإدارة
+global_indicators:10.a.1---title,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,نسبة بنود التعريفات الجمركية المطبقة على الواردات من والبلدان النامية المتمتعة بالإعفاء الكامل من الرسوم أقل البلدان نموا الجمركية
+global_indicators:10.b.1---title,"Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",مجموع تدفقات الموارد المخصصة للتنمية، بحسب البلدان المستفيدة والبلدان المانحة وأنواع التدفقات (على سبيل المثال المساعدة الإنمائية الرسمية، والاستثمار الأجنبي المباشر، والتدفقات الأخرى)
+global_indicators:10.c.1---title,Remittance costs as a proportion of the amount remitted,تكاليف التحويلات المالية كنسبة من المبالغ المحولة
+global_indicators:11.1.1---title,"Proportion of urban population living in slums, informal settlements or inadequate housing",نسبة السكان الحضريين الذين يعيشون في أحياء فقيرة أو مستوطنات غير رسمية أو مساكن غير لائقة
+global_indicators:11.2.1---title,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",نسبة السكان الذين تتوافر لهم وسائل النقل العام المناسبة، بحسب العمر والجنس والأشخاص ذوي الإعاقة
+global_indicators:11.3.1---title,Ratio of land consumption rate to population growth rate,نسبة معدل استهلاك الأراضي إلى معدل النمو السكان
+global_indicators:11.3.2---title,Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically,نسبة المدن التي لديها هيكل يتيح مشاركة المجتمع المدني على نحو مباشر في تخطيط المناطق الحضرية، ويعمل بانتظام ويُدار بطريقة ديمقراطية
+global_indicators:11.4.1---title,"Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)",نصيب الفرد من مجموع النفقات (في القطاعين العام والخاص) التي تُنفق لصون وحماية وحفظ جميع اصناف التراث الثقافي والطبيعي، بحسب نوع التراث (ثقافي وطبيعي ومختلط، وما يعتبره مركز التراث العالمي تراثاً) ومستوى الحكم (وطني وإقليمي، ومحلي/بلدي)، ونوع الإنفاق (إنفاق تشغيلي/استثمار) ونوع التمويل المقدم من القطاع الخاص (تبرعات عينية، وتمويل من القطاع الخاص غير الربحي وبرامج الرعاية)
+global_indicators:11.5.1---title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","عدد الأشخاص المتوفين والمفقودين ومن تأثروا مباشرة بسبب الكوارث من بين كل 100,000 شخص من السكان"
+global_indicators:11.5.2---title,"Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters",الخسائر الاقتصادية المباشرة المتصلة بالناتج المحلي الإجمالي العالمي والأضرار التي لحقت بالهياكل الأساسية الحيوية وعدد الأعطال التي لحقت بالخدمات الأساسية بسبب الكوارث
+global_indicators:11.6.1---title,"Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities",نسبة النفايات الصلبة للمدن، التي ُتجمع بانتظام ويجري تفريغها نهائياً على نحو كاف، من مجموع النفايات الصلبة للمدن، بحسب المدينة
+global_indicators:11.6.2---title,Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted),المتوسط السنوي لمستويات الجسيمات (على سبيل المثال الجيسمات من الفئة 2.5 والجسيمات من الفئة 10) في المدن (المرجَّح حسب السكان)
+global_indicators:11.7.1---title,"Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",متوسط حصة المنطقة السكنية بالمدن التي تمثل فضاء مفتوحا للاستخدام العام للجميع، بحسب العمر والجنس والأشخاص ذوي الإعاقة
+global_indicators:11.7.2---title,"Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",نسبة ضحايا التحرش البدني أو الجنسي بحسب العمر، والجنس، ووضع الأشخاص ذوي الإعاقة، ومكان حدوثه خلال الاثني عشر شهرا السابقة
+global_indicators:11.a.1---title,"Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city",نسبة السكان الذين يعيشون في المدن التي تنفذ خططاً إنمائية مدنية وإقليمية، وتدمج التوقعات السكانية والاحتياجات من الموارد، بحسب حجم المدينة
+global_indicators:11.b.1---title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,عدد البلدان التي تعتمد وتنفذ استراتيجيات وطنية للحد من مخاطرالكوارث تمشيا مع إطار سنداي للحد من مخاطر الكوارث للفترة 2015-2030
+global_indicators:11.b.2---title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,نسبة الحكومات المحلية التي تعتمد وتنفذ استراتيجيات محلية للحد من مخاطرالكوارث تمشيا مع الاستراتيجيات الوطنية للحد من مخاطر الكوارث
+global_indicators:11.c.1---title,"Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials",نسبة الدعم المالي المخصص المقدم إلى أقل البلدان نموا لتشييد وتجديد المباني المستدامة والقادرة على الصمود والمتسمة بالكفاءة في استخدام الموارد باستخدام مواد محلية
+global_indicators:12.1.1---title,Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies,عدد البلدان التي لديها خطط عمل وطنية للاستهلاك والإنتاج المستدامين أو التي أدجت تلك الخطط في سياساتها الوطنية باعتبارها أولوية أو غاية
+global_indicators:12.2.1---title,"Material footprint, material footprint per capita, and material footprint per GDP",الأثر المادي، ونصيب الفرد من الأثر المادي، ونصيب الناتج المحلي الإجمالي من الأثر المادي
+global_indicators:12.2.2---title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",الاستهلاك المادي المحلي ونصيب الفرد من الاستهلاك المادي المحلي ونسبة الاستهلاك المادي المحلي إلى الناتج المحلي الإجمال
+global_indicators:12.3.1---title,Global food loss index,مؤشر الخسائر الغذائية العالمية
+global_indicators:12.4.1---title,"Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",عدد الأطراف في الاتفاقات البيئية الدولية المتعددة الأطراف المتعلقة بنفايات المواد الخطرة وغيرها من المواد الكيميائية، التي تفي بتعهداتها التزاماتها في نقل المعلومات على النحو الذي يتطلبه كل اتفاق ذي صلة
+global_indicators:12.4.2---title,"Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment",نصيب الفرد من توليد النفايات الخطرة ونسبة النفايات الخطرة المعالَجة، بحسب نوع المعالجة
+global_indicators:12.5.1---title,"National recycling rate, tons of material recycled",معدل إعادة التدوير على الصعيد الوطني، وعدد أطنان المواد المعاد تدويرها
+global_indicators:12.6.1---title,Number of companies publishing sustainability reports, عدد الشركات التي تنشر تقارير تتعلق بالاستدامة
+global_indicators:12.7.1---title,Number of countries implementing sustainable public procurement policies and action plans,عدد البلدان التي تنفذ السياسات وخطط العمل المتعلقة بالشراء العمومي المستدام
+global_indicators:12.8.1---title,Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,مدى تعميم مراعاة ’1’ تعليم المواطنة العالمية و ’2’ التعليم من أجل التنمية المستدامة (بما في ذلك التثقيف بشأن تغير المناخ) في (أ) السياسات التربوية الوطنية، و (ب) المناهج الدراسية و (ج) تدريب المعلمين و (د) تقييم الطلاب 
+global_indicators:12.a.1---title,Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies, كمية الدعم المقدم إلى البلدان النامية في مجالي البحث والتطوير من أجل إرساء أنماط الاستهلاك والإنتاج المستدامة والتكنولوجيا السليمة بيئيا
+global_indicators:12.b.1---title,Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools,عدد الاستراتيجيات وأ السياسات و خطط العمل المنفذة في مجال السياحة المستدامة المتفق على أدوات رصدها وتقييمها
+global_indicators:12.c.1---title,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels,مقدار إعانات الوقود الأحفوري لكل وحدة من الناتج المحلي الإجمالي (الإنتاج والاستهلاك) وكنسبة من مجموع النفقات الوطنية على الوقود الأحفوري
+global_indicators:13.1.1---title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","عدد الأشخاص المتوفين والمفقودين ومن تضرروا مباشرة بسبب الكوارث من بين كل 100,000 شخص"
+global_indicators:13.1.2---title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,عدد البلدان التي تعتمد وتنفذ استراتيجيات وطنية للحد من مخاطر الكوارث تمشيا مع إطار سنداي للحد من مخاطر الكوارث للفترة 2015-2030
+global_indicators:13.1.3---title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,نسبة الحكومات المحلية التي تعتمد وتنفذ استراتيجيات محلية للحد من مخاطر الكوارث تمشياً مع الاستراتيجيات الوطنية  للحد من مخاطر الكوارث
+global_indicators:13.2.1---title,"Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)",عدد البلدان التي أبلغت عن وضع أو تفعيل سياسة/استراتيجية/خطة متكاملة تزيد قدراتها على التكيف مع الآثار الضارة لتغير المناخ وتعزز القدرة على التأقلم مع المناخ، والتنمية القائمة على ابنعاثات غازات الدفيئة المنخفضة على نحو لا يهدد إنتاج الأغذية (بما في ذلك وضع خطط تكيُّف وطنية، وتقديم مساهمة محددة على الصعيد الوطني، وبلاغات وطنية، وتقرير عن المستجدات لفترة السنتين، أو غير ذلك)
+global_indicators:13.3.1---title,"Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula",عدد البلدان التي أدمجت التخفيف من تغير المناخ، والتكيف معه، والحد من أثره والإنذار المبكر في مناهج التعليم الابتدائي والثانوي والعال
+global_indicators:13.3.2---title,"Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions",عدد البلدان التي أبلغت عن تعزيز قدرتها المؤسسية والهيكلية والفردية على تنفيذ تدابير التكيف والتخفيف ونقل التكنولوجيا والتدابير الإنمائية
+global_indicators:13.a.1---title,Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment,المبلغ السنوي الذي يجمع سنوياً مقيّماً بدولار الولايات المتحدة في الفترة بين عامي 2020 و 2025 بهدف الوفاء بالتزام توفير 100 بليون دولار
+global_indicators:13.b.1---title,"Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities",عدد أقل البلدان نمواً والدول الجزرية الصغيرة النامية التي تتلقى دعماً متخصصاً ومقدار الدعم المقدم، بما في ذلك التمويل والتكنولوجيا وبناء القدرات، لآليات تحسين مستوي قدرات التخطيط والإدارة الفعالين المتعلقين بتغير المناخ، بما في ذلك التركيز على النساء والشباب والمجتمعات المحلية والمهمشة 
+global_indicators:14.1.1---title,Index of coastal eutrophication and floating plastic debris density,مؤشر فرط المغذيات في المناطق الساحلية وكثافة المخلفات البلاستيكية الطافية
+global_indicators:14.2.1---title,Proportion of national exclusive economic zones managed using ecosystem-based approaches,نسبة المناطق الاقتصادية الحصرية الوطنية التي تُدار باستخدام نُهج قائمة على النظم الإيكولوجية
+global_indicators:14.3.1---title,Average marine acidity (pH) measured at agreed suite of representative sampling stations,قياس متوسط الحموضة البحرية في مجموعة متفق عليها من محطات تمثيلية لأخذ العينات
+global_indicators:14.4.1---title,Proportion of fish stocks within biologically sustainable levels,نسبة الأرصدة السمكية الموجودة ضمن المستويات المستدامة بيولوجيا
+global_indicators:14.5.1---title,Coverage of protected areas in relation to marine areas,طاق المناطق المحمية مقابل المناطق البحرية
+global_indicators:14.6.1---title,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing", التقدم الذي تحرزه البلدان في مدى تنفيذ الصكوك الدولية الرامية إلى مكافحة صيد الأسماك غير المشروع وغير المبلغ عنه وغير المنظم
+global_indicators:14.7.1---title,"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",مصائد الأسماك المستدامة كنسبة من الناتج المحلي الإجمالي في الدول الجزرية الصغيرة النامية، وأقل البلدان نمواً، وجميع البلدان
+global_indicators:14.a.1---title,Proportion of total research budget allocated to research in the field of marine technology,نسبة مجموع الميزانية المخصصة للبحوث في مجال التكنولوجيا البحرية
+global_indicators:14.b.1---title,Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries,التقدم الذي تحرزه البلدان في مدى تطبيق إطار قانوني/تنظيمي/سياساتي/مؤسسي يتعرف بحقوق مصائد الأسماك الصغيرة في الوصول إالى الموارد البحرية ويحمي تلك الحقوق
+global_indicators:14.c.1---title,"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",عدد البلدان التي تحرز تقدماً في التصديق على صكوك متعلقة بالمحيطات تنفـذ القـانون الـدولي، وفي قبول تلـك الصكوك وتنفيذها بموجب أطر قانونية وسياساتية ومؤسسية، على النحو الوارد في اتفاقية الأمم المتحدة لقانون البحار، من أجل حفظ المحيطات ومواردها، واستخدامها على نحو مستدام
+global_indicators:15.1.1---title,Forest area as a proportion of total land area,مساحة الغابات كنسبة من مجموع مساحة اليابسة
+global_indicators:15.1.2---title,"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",نسبة المواقع الهامة التي تجسد التنوع البيولوجي لليابسة والمياه العذبة والتي تشملها المناطق المحمية، بحسب نوع النظام الإيكولوجي
+global_indicators:15.2.1---title,Progress towards sustainable forest management, التقدم المحرز في إرساء الإدارة المستدامة للغابات
+global_indicators:15.3.1---title,Proportion of land that is degraded over total land area,نسبة الأراضي المتدهورة إلى مجموع مساحة اليابسة
+global_indicators:15.4.1---title,Coverage by protected areas of important sites for mountain biodiversity,التغطية محسوبة بالمناطق المحمية من المواقع المهمة للتنوع البيولوجي الجبلي
+global_indicators:15.4.2---title,Mountain Green Cover Index,مؤشر الغطاء الأخضر الجبلي 
+global_indicators:15.5.1---title,Red List Index,مؤشر القائمة الحمراء
+global_indicators:15.6.1---title,"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",عدد البلدان التي اعتمدت أطرا تشريعية وإدارية وسياساتية لكفالة تقاسم المنافع على نحو عادل ومنصف
+global_indicators:15.7.1---title,Proportion of traded wildlife that was poached or illicitly trafficked,نسبة الأحياء البرية المتجر بها، التي جرى صيدها أو الاتجار بها على نحو غير مشروع
+global_indicators:15.8.1---title,Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,نسبة البلدان التي تعتمد تشريعات وطنية ذات صلة، وتخصص موارد كافية لمنع إدخال الأنواع الغريبة الغازية إلى النظم الإيكولوجية أو مراقبتها
+global_indicators:15.9.1---title,Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020,التقدم المحرز نحو تحقيق الأهداف الوطنية المنشأة وفقا للهدف 2 من أهداف آيتشي المتعلقة بالتنوع البيولوجي من الخطة الاستراتيجية للتنوع البيولوجي للفترة 2011-2020
+global_indicators:15.a.1---title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,المساعدة الإنمائية الرسمية والنفقات العامة الموجهة لحفظ التنوع البيولوجي والنظم الإيكولوجية واستخدامها استخداماً مستداماً
+global_indicators:15.b.1---title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,المساعدة الإنمائية الرسمية والنفقات العامة الوجهة لحفظ التنوع البيولوجي والنظم الإيكولوجية واستخدامها استخداماً مستداماً
+global_indicators:15.c.1---title,Proportion of traded wildlife that was poached or illicitly trafficked,نسبة الأحياء البرية المتجر بها، التي جرى صيدها أو الاتجار بها على نحو غير مشروع
+global_indicators:16.1.1---title,"Number of victims of intentional homicide per 100,000 population, by sex and age","عدد ضحايا القتل العمد لكل 100,000 نسمة، بحسب العمر ونوع الجنس"
+global_indicators:16.1.2---title,"Conflict-related deaths per 100,000 population, by sex, age and cause","الوفيات المتصلة بالنزاعات لكل 100,000 نسمة، بحسب العمر والجنس والسبب"
+global_indicators:16.1.3---title,"Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months", نسبة السكان الذين تعرضوا (أ) للعنف البدني و (ب) العنف النفسي و (ج) العنف الجنسي خلال الاثني عشر شهرا السابقة
+global_indicators:16.1.4---title,Proportion of population that feel safe walking alone around the area they live,نسبة السكان الذين يشعرون بالأمان عند تجوالهم على الأقدام بمفردهم في أنحاء المنطقة التي يعيشون فيها
+global_indicators:16.10.1---title,"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",نســـبة الأطفال الذين تتراوح أعمارهم بين سنة واحدة  و17 ســنة والذين تعرضوا لأي عقاب بدني و/أو اعتداء نفسي من جانب مقدمي الرعاية في الشهر السابق
+global_indicators:16.10.2---title,"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"," عدد ضحايا الاتجار بالبشر لكل 100,000 نسمة، بحسب الجنس والعمر وشكل الاستغلال"
+global_indicators:16.2.1---title,Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,نسبة الشابات والشبان الذين تتراوح أعمارهم بين  18 سنة و 29 سنة الذين تعرضوا للعنف الجنسي قبل سن الثامنة عشرة
+global_indicators:16.2.2---title,"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation","عدد ضحايا الاتجار بالبشر لكل 100,000 نسمة، بحسب الجنس والعمر وشكل الاستغلال"
+global_indicators:16.2.3---title,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18, نسبة الشابات والشبان الذين تتراوح أعمارهم بين 18 سنة و 29 سنة الذين تعرضوا للعنف الجنسي قبل سن الثامنة عشرة
+global_indicators:16.3.1---title,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,نسبة ضحايا العنف خلال الاثني عشر شهرا السـابقة ألذين أبلغوا عما تعرضوا له من إيذاء إلى السلطات المختصة أو غيرها من آليات تسوية النزاعات المعترف بها رسميا
+global_indicators:16.3.2---title,Unsentenced detainees as a proportion of overall prison population,المحتجزون غير المحكوم عليهم كنسبة من مجموع السجناء
+global_indicators:16.4.1---title,Total value of inward and outward illicit financial flows (in current United States dollars),القيمة الإجمالية للتدفقات المالية غير المشروعة الداخلة والخارجة (بالقيمة الحالية لدولارات الولايات المتحدة)
+global_indicators:16.4.2---title,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",نسبة الأسلحة المضبوطة أو المعثور عليها أو المسلّمة التي تحرَّت سلطة مختصة عن مصدرها غير المشروع/ظروفها أو تثبّت من ذلك، تمشياً مع الصكوك الدولية
+global_indicators:16.5.1---title,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",نسبة الأشخاص الذين اتصلوا مرة واحدة على الأقل بمسؤول حكومي ودفعوا رشوة لمسؤول حكومي، أو طلب منهم أولئك المسؤولون الحكوميون دفع رشوة، خلال الاثني عشر شهرا السابقة
+global_indicators:16.5.2---title,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",نسبة الأعمال التجارية التي اتصلت مرة واحدة على الأقل بمسؤول حكومي ودفعت رشوة إلى مسؤول حكومي أو طلب منها أولئك المسؤولون الحكوميون دفع رشوة، خلال الاثني عشر شهرا السابقة
+global_indicators:16.6.1---title,"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",النفقات الحكومية الرئيسية كنسبة من الميزانية الأصلية المعتمدة، بحسب القطاع (أو بحسب رموز الميزانية أو ما شابه)
+global_indicators:16.6.2---title,Proportion of population satisfied with their last experience of public services,نسبة السكان الراضين عن تجربتهم الأخيرة في الاستفادة من الخدمات العامة
+global_indicators:16.7.1---title,"Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions",نسبة الوظائف (بحسب العمر، والجنس، والأشخاص ذوي الإعاقة، والفئات السكانية) في المؤسسات العامة (الهيئات التشـريعية الوطنية والمحلية، والخدمة العامة، والسـلطة القضائية) مقارنة بمستويات التوزيع على الصعيد الوطن
+global_indicators:16.7.2---title,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",نسـبة السكان الذين يعتقدون أن صنع القرار عملية شاملة للجميع وملبية للاحتياجات، بحسب الجنس والعمر والإعاقة والفئة السكانية
+global_indicators:16.8.1---title,Proportion of members and voting rights of developing countries in international organizations,نسبة عضوية البلدان النامية في المنظمات الدولية وحقوقها في التصويت في تلك المنظمات
+global_indicators:16.9.1---title,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",نسبة الأطفال دون سن الخامسة الذين سُجلت ولاداتهم في قيد السجل المدني، بحسب العمر
+global_indicators:16.a.1---title,Existence of independent national human rights institutions in compliance with the Paris Principles,وجود مؤسسات وطنية مستقلة لحقوق الإنسان وفقا لمبادئ باريس
+global_indicators:16.b.1---title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,نسبة السكان الذين أبلغوا عن تعرضهم شخصيا لممارسات تمييزية أو تحرش خلال الاثني عشر شهرا السابقة لأسباب يحظر القانون الدولي لحقوق الإنسان التمييز على أساسها
+global_indicators:17.1.1---title,"Total government revenue as a proportion of GDP, by source",مجموع الإيرادات الحكومية الإجمالية كنسبة من الناتج المحلي الإجمالي، بحسب المصدر 
+global_indicators:17.1.2---title,Proportion of domestic budget funded by domestic taxes,نسبة الميزانية المحلية الممولة من الضرائب المحلية
+global_indicators:17.10.1---title,Worldwide weighted tariff-average,المتوسط المرجح للتعريفات الجمركية في جميع أنحاء العال
+global_indicators:17.11.1---title,Developing countries’ and least developed countries’ share of global exports,حصة البلدان النامية وأقل البلدان نمواً من الصادرات العالمية
+global_indicators:17.12.1---title,"Average tariffs faced by developing countries, least developed countries and small island developing States",متوسط التعريفات الجمركية التي تواجههـا البلـدان النامية وأقل البلدان نموا والدول الجزرية الصغيرة النامية
+global_indicators:17.13.1---title,Macroeconomic Dashboard,لوحة متابعة حالة الاقتصاد الكلي
+global_indicators:17.14.1---title,Number of countries with mechanisms in place to enhance policy coherence of sustainable development,عدد البلدان التي لديها آليات لتعزيز اتساق سياسات التنمية المستدامة
+global_indicators:17.15.1---title,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation, مدى استخدام أطر النتائج وأدوات التخطيط المملوكة للبلدان من جانب مقدمي التعاون الإنمائي
+global_indicators:17.16.1---title,Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,عدد البلدان التي أبلغت عن إحراز تقدم في ما يتعلق بأطر رصد فعالية التنمية لأصحاب المصلحة المتعددين التي تدعم تحقيق أهداف التنمية المستدامة
+global_indicators:17.17.1---title,Amount of United States dollars committed to (a) public-private partnerships and (b) civil society partnerships,المبلغ بدولارات الولايات المتحدة المرصـود لـ (أ) الشراكات بين القطاعين العام والخاص و (ب) شـراكات المجتمع المدني
+global_indicators:17.18.1---title,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics",نسبة مؤشرات التنمية المستدامة الموضوعة على الصعيد الوطني، وفقاً للمبادئ الأساسية للإحصاءات الرسمية
+global_indicators:17.18.2---title,Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics,عدد البلدان التي لديها تشريعات إحصائية على الصعيد الوطني والتي تتقيد بالمبادئ الأساسية للإحصاءات الرسمية
+global_indicators:17.18.3---title,"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",عدد البلدان التي لديها خطة إحصـائية وطنية ممولة بالكامل وقيد التنفيذ، بحسب مصدر التمويل
+global_indicators:17.19.1---title,Dollar value of all resources made available to strengthen statistical capacity in developing countries,القيمة الدولارية لجميع الموارد المتاحة لتعزيز القدرات الإحصائية في البلدان النامية
+global_indicators:17.19.2---title,Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,نسبة البلدان التي (أ) أجرت عداداً واحداً على الأقل للسكان المساكن في السنوات العشر الماضية؛ و(ب) حققت نسبة 100 في المائة في تسجيل المواليد ونسبة 80 في المائة في تسجيل الوفيات
+global_indicators:17.2.1---title,"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",صافي المسـاعدة الإنمائية الرسمية، ومجموعها، والمسـاعدةً، الإنمائية الرسمية المقدمة إلى أقل البلدان نمواً، كنسبة من الدخل القومي الإجمالي للجهات المانحة في لجنة المساعدة الإنمائية التابعة لمنظمة التعاون والتنمية في الميدان الاقتصادي
+global_indicators:17.3.1---title,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",الاسـتثمار المباشر الأجنبي والمساعدة الإنمائية الرسمية والتعاون في ما بين بلدان الجنوب كنسبة من إجمالي الميزانية المحلية
+global_indicators:17.3.2---title,Volume of remittances (in United States dollars) as a proportion of total GDP,حجم التحويلات المالية (بدولارات الولايات المتحدة) كنسبة من مجموع الناتج المحلي الإجمال
+global_indicators:17.4.1---title,Debt service as a proportion of exports of goods and services,تكاليف خدمة الدين كنسبة من صادرات السلع والخدمات
+global_indicators:17.5.1---title,Number of countries that adopt and implement investment promotion regimes for least developed countries,عدد البلدان التي تعتمد وتنفذ نظماً لتشجيع الاستثمار لصالح أقل البلدان نمواً
+global_indicators:17.6.1---title,"Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation",عدد اتفاقات التعاون في مجالي العلوم و/أو التكنولوجيا المبرمة بين البلدان، بحسب نوع التعاون
+global_indicators:17.6.2---title,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed",الاشـتراكات في الإنترنت السلكي ذي النطاق العريض لكل 100 من السكان، بحسب السرعة
+global_indicators:17.7.1---title,"Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",مجموع مبلغ التمويل المعتمـد للبلـدان النـاميـة من أجـل تعزيز تطوير تكنولوجيات ســليمة بيئياً ونقلها ونشــرها وتعميمها في البلدان النامية
+global_indicators:17.8.1---title,Proportion of individuals using the Internet,نسبة الأفراد الذين يستخدمون الإنترنت
+global_indicators:17.9.1---title,"Dollar value of financial and technical assistance (including through North-South, South‐South and triangular cooperation) committed to developing countries",القيمة الدولارية للمساعدة المالية والتقنية (بوسائل تشمل التعاون بين الشمال والجنوب وفي ما بين بلدان الجنوب والتعاون الثلاثي) المرصودة للبلدان النامية
+global_indicators:2.1.1---title,Prevalence of undernourishment,معدل انتشار نقص التغذية
+global_indicators:2.1.2---title,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",معدل انتشار انعدام الأمن الغذائي المتوسـط أو الشـديد وسط السكان، استنادا إلى مقياس المعاناة من انعدام الأمن الغذائي
+global_indicators:2.2.1---title,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,معدل انتشار توقّف النمو (الطول بالنسبة للعمر <-2 نقطة من الانحراف المعياري عن متوسط معايير نمو الطفل لمنظمة الصحة العالمية) بين الأطفال دون سن الخامسة
+global_indicators:2.2.2---title,"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",معدل انتشار ســوء التغذية (الوزن بالنســبة للطول > 2+ أو < 2 -نقطة من الانحراف المعياري عن متوسط معايير نمو الطفل لمنظمة الصــحة العالمية) بين الأطفال دون سـن الخامسة، مصنفين حسب النوع (الهزال وزيادة الوزن)
+global_indicators:2.3.1---title,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,حجم الإنتاج لكل وحـدة عمـل حسـب فئـات حجم المؤسسة الزراعية/الرعوية/الحرجية
+global_indicators:2.3.2---title,"Average income of small-scale food producers, by sex and indigenous status",متوسـط دخل صغار منتجي الأغذية، بحسـب الجنس والوضع من حيث الانتماء إلى الشعوب الأصلية
+global_indicators:2.4.1---title,Proportion of agricultural area under productive and sustainable agriculture,نسبة المساحة الزراعية المخصصة للزراعة المنتجة والمستدامة
+global_indicators:2.5.1---title,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,عـدد الموارد الجينية النباتيـة والحيوانية للأغـذية والزراعة المودعة في مرافق للحفظ على المدى المتوسط أو الطويل 
+global_indicators:2.5.2---title,"Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction", نسـبة السـلالات المحلية التي تصـنف على أنها معرضة للخطر، أو غير معرضـة للخطر، أو تقف عند مسـتوى غير معروف لخطر انقراضها
+global_indicators:2.a.1---title,The agriculture orientation index for government expenditures,مؤشر التوجه في المجال الزراعي للنفقات الحكومية
+global_indicators:2.a.2---title,Total official flows (official development assistance plus other official flows) to the agriculture sector,مجموع التدفقات الرسمية (المسـاعدة الإنمائية الرسمية مضـافا إليها تدفقات رسمية أخرى) إلى القطاع الزراعي
+global_indicators:2.b.1---title,Agricultural export subsidies,
+global_indicators:2.b.2---title,Agricultural export subsidies,إعانات الصادرات الزراعية
+global_indicators:2.c.1---title,Indicator of food price anomalies,مؤشر مفارقات أسعار الأغذية
+global_indicators:3.1.1---title,Maternal mortality ratio,نسبة الوفيات النفاسية 
+global_indicators:3.1.2---title,Proportion of births attended by skilled health personnel,نسبة الولادات التي يشرف عليها أخصائيون صحّيون مَهَرة 
+global_indicators:3.2.1---title,Under‐5 mortality rate,معدل وفيات الأطفال دون سن الخامسة
+global_indicators:3.2.2---title,Neonatal mortality rate,معدل وفيات المواليد
+global_indicators:3.3.1---title,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations","عدد الإصـابات الجديدة بفيروس نقص المناعة البشـرية لكل 1,000 شـخص غير مصاب من السكان بحسـب الجنس والعمر والفئات الرئيسية من السكان "
+global_indicators:3.3.2---title,"Tuberculosis incidence per 100,000 population","معدل انتشار داء السل لكل 100,000 شخص"
+global_indicators:3.3.3---title,"Malaria incidence per 1,000 population","دد حالات الإصابة بالملاريا لكل 1,000 شخص"
+global_indicators:3.3.4---title,"Hepatitis B incidence per 100,000 population","عدد الإصـابات بأمراض التهاب الكبد الوبائي باء لكل 100,000 من السكان"
+global_indicators:3.3.5---title,Number of people requiring interventions against neglected tropical diseases,عدد الأشـخاص الذين يسـتلزمون تدخلات لمكافحة الأمراض المدارية المهملة
+global_indicators:3.4.1---title,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",معدل الوفيات الناجمة عن أمراض القلب والأوعية الدموية والسرطان وداء السكري والأمراض التنفسية المزمنة 
+global_indicators:3.4.2---title,Suicide mortality rate, معدل وفيات الانتحار
+global_indicators:3.5.1---title,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",نطاق تغطية التـدخلات العلاجية (الخدمات الدوائية والنفسانية وخدمات إعـادة التأهيـل والرعاية اللاحقـة) لمعالجة الاضطرابات الناشئة عن تعاطي المواد المخدرة
+global_indicators:3.5.2---title,"Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",الاستعمال الضار للكحول، محدداً وفقاً للظروف الوطنية في إطار استهلاك الفرد الواحد من الكحول (سن 15 سنة فأكثر) في سنة تقويمية، باللترات من الكحول الصافي
+global_indicators:3.6.1---title,Death rate due to road traffic injuries,معدلات الوفيات الناجمة عن الإصابات جراء حوادث المرور على الطرق
+global_indicators:3.7.1---title,Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods,نسبة النساء اللاتي في سن الإنجاب (49-15 سنة) واللاتي لُبّيت حاجتُهن إالى تنظيم الأسرة بطرق حديثة 
+global_indicators:3.7.2---title,"Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group","معدل الولادات لدى المراهقات (10-14 سنة؛ و 15-19 سنة) لكل 1,000 امرأة في تلك الفئة العمرية"
+global_indicators:3.8.1---title,"Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)",تغطية توافر الخدمات الصحية الأساسية (المعرَّفة باعتبارها متوسط التغطية التي توفر الخدمات الأساسية المستندة إالى الإجراءات الكاشفة التي تشمل الصحة الإنجابية، وصحة الأمهات، والمواليد الجدد، والأطفال، والأمراض المعدية، والأمراض غير المعدية، والقدرة على توفير الخدمات، وإمكانية الوصول إاليها لدى السكان عموماً والأشد حرماناً خصوصاً) 
+global_indicators:3.8.2---title,Proportion of population with large household expenditures on health as a share of total household expenditure or income,نسبة السكان الذين تصرف أسرهم المعيشية نفقات كبيرة على الصـحة محسـوبة كحصـة من مجموع إنفاق الأسـر المعيشـية أو دخلها
+global_indicators:3.9.1---title,Mortality rate attributed to household and ambient air pollution, معدل الوفيات المنسـوبة إلى الأســر المعيشــية وتلوث الهواء المحيط
+global_indicators:3.9.2---title,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",معدل الوفيات المنسـوب إلى المياه غير المأمونة، وخدمات الصـرف الصحي غير المأمونة والافتقار إلى المرافق الصـحية (التعرض لخدمات غير مأمونة في توفير المياه وخدمات الصـرف الصـحي والنظافة الصحية للجميع)
+global_indicators:3.9.3---title,Mortality rate attributed to unintentional poisoning,معدل الوفيات المنسوب إلى التسمم غير المتعمد
+global_indicators:3.a.1---title,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,معدل الانتشار الموحد السن لاستعمال التبغ حالياً لدى الأشخاص الذين تبلغ أعمارهم 15 سنة فأكثر
+global_indicators:3.b.1---title,Proportion of the target population covered by all vaccines included in their national programme,نسـبة السـكان المسـتهدفين المســتفيدين من جميع اللقاحات المشمولة بالبرنامج الوطني لبلدهم 
+global_indicators:3.b.2---title,Total net official development assistance to medical research and basic health sectors,مجموع صـافي المساعدة الإنمائية الرسمية المقدمة إلى القطاعات الصحية الأساسية والبحوث الطبية 
+global_indicators:3.b.3---title,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,نســبة المرافق الصـحية المتاحة فيها مجموعة أساسـية من الأدوية الضرورية التي تفي بالغرض بكلفة ميسورة على الدوام
+global_indicators:3.c.1---title,Health worker density and distribution,معدل كثافة الأخصائيين الصحيين وتوزيعهم
+global_indicators:3.d.1---title,International Health Regulations (IHR) capacity and health emergency preparedness,القـدرة على تنفيـذ اللوائح الصـحيـة الـدوليـة، والجـاهزيـة لمواجهة حالات الطوارئ الصحية
+global_indicators:4.1.1---title,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",نســبة الأطفال والشــباب (أ) في الصــف الثاني/الثالث؛  و (ب) في نهـايـة المرحلـة الابتـدائيـة؛ و (ج) في نهـايـة المرحلـة الأولى من التعليم الثـــانوي، الـذين يحققون على الأقـــل الحـــد الأدنى من مستوى الكفاءة في ’1 ’القراءة، و’2 ’الرياضيات، بحسب الجنس
+global_indicators:4.2.1---title,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex",نســـــبة الأطفال دون الخامسة الذين هم ماضـون على المسار الصـحيح من حيث النمو في مجالات الصحة، والتعلم، والرفاه النفسي والاجتماعي، بحسب الجنس
+global_indicators:4.2.2---title,"Participation rate in organized learning (one year before the official primary entry age), by sex",معدل المشاركة في التعلُّم المنظَّم (قبل سنة واحدة من سن الالتحاق الرسمي بالتعليم الابتدائي)، بحسب الجنس
+global_indicators:4.3.1---title,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex", معـدل مشـاركـة الشــبـاب والكبـار في التعليم الرسمي ً وغير الرسمي السـابقـة، والتـدريــب خلال الاثني عشـر شـهرا بحسب الجنس
+global_indicators:4.4.1---title,"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",نسـبة الشـباب والبالغين الذين تتوافر لديهم مهارات تكنولوجيا المعلومات والاتصالات، بحسب نوع المهار
+global_indicators:4.5.1---title,"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",مؤشرات التكافؤ (أنثى/ذكر، وريفي/حضري، وأدنى/أعلى خمس السكان ثراء، وفئات أخرى مثل ذوي الإعاقة وأفراد الشعوب الأصـلية، والمتضـررين من النزاعات، متى توافرت البيانات عن ذلك) لجميع مؤشرات التعليم المندرجة في هذه القائمة، التي يمكن تصنيفها
+global_indicators:4.6.1---title,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",نسـبة السـكان في فئة عمرية معينة الذين يحققون على الأقل مسـتوى ثابتا من الكفاءة في المهارات الوظيفية المتصـلة بما يلي: (أ) الأمية و (ب) الحساب، بحسب الجنس
+global_indicators:4.7.1---title,"Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",مدى تعميم ‘1 ‘تعليم المواطنة العالمية و ‘2‘ التعليم من أجل التنمية المسـتدامة، بما في ذلك المساواة بين الجنسين وحقوق الإنسان، وذلك على جميع الصعد في (أ) السياسات التعليمية على الصعيد الوطني و؛ (ب) المناهج الدراسية ؛ و (ج) تدريب المعلمين؛ و(د) تقييم الطلاب
+global_indicators:4.a.1---title,Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions),نسـبة المدارس التي تحصـل على (أ) الطاقة الكهربائية؛ و(ب) شــبكة الإنترنت لأغراض تعليمية؛ و (ج) أجهزة حاسـوبية لأغراض التعليم؛ و (د) بنى تحتية ومواد ملائمة لاحتياجات الطلاب ذوي الإعاقة؛ و (هـــ) مياه الشـرب الأسـاسـية؛ و (و) مرافق صـحية أسـاسية غير مختلطة؛ و (ز) مرافق أسـاسـية لغسـل الأيدي (وفق التعاريف الواردة في مؤشــر توفير المياه وخدمات الصـرف الصحي والنظافة الصحية للجميع)
+global_indicators:4.b.1---title,Volume of official development assistance flows for scholarships by sector and type of study,حجم تدفقات المسـاعدة الإنمائية الرسمية لتقديم المنح الدراسية، بحسب القطاع ونوع الدراسة
+global_indicators:4.c.1---title,Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country,نسـبة المعلمين في (أ) مرحلة ما قبل التعليم الابتدائي؛ و(ب) التعليم الابتدائي؛ و (ج) التعليم الإعدادي؛ و (د) التعليم الثانوي، الذين حصلوا على الأقل على الحد الأدنى من التدريب المنظَّم للمعلمين (كالتدريـب التربوي)، قبل الخـدمـة أو في أثنـاء الخدمة، اللازم للتدريس على المستوى المناسب في بلد معين
+global_indicators:5.1.1---title,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex",مـا إذا كـان ثمـة أطر قـانونيـة قـائمـة، أم لا، من أجـل تعزيز وإنفاذ ورصد المساواة وعدم التمييز على أساس الجنس
+global_indicators:5.2.1---title,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",نسبة النساء المعاشـرات والفتيات في الخامسة عشــرة وما فوق، اللاتي تعرضن لعنف بدني أو جنسي أو نفسي من عشير حالي أو سـابق، خلال الاثني عشـر شـهراً السـابقة، مصـنفة بحسـب شكل العنف والعمر 
+global_indicators:5.2.2---title,"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",نسبة النساء والفتيات في الخامسة عشرة وما فوق اللاتي تعرضن لعنف جنسي من أشخاص غير العشير، خلال الاثني عشر شهراً السابقة، بحسب العمر ومكان حدوث العنف
+global_indicators:5.3.1---title,Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18,نسبة النساء اللاتي تتراوح أعمارهن بين و 20 سن 24 ة، واللاتي تزوجن أو ارتبطن بقرين قبل بلوغ سن الخامسة عشـرة وقبل بلوغ سن الثامنة عشر
+global_indicators:5.3.2---title,"Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age", نسـبة الفتيات والنساء اللاتي تتراوح أعمارهن بين 15و49 عاماً، واللاتي خضعن لعملية تشـويه/بتر الأعضاء التناسلية، بحسب العمر
+global_indicators:5.4.1---title,"Proportion of time spent on unpaid domestic and care work, by sex, age and location",نسبة الوقت المخصص للأعمال المنزلية وأعمال الرعاية غير المدفوهة الأجر، بحسب الجنس والعمر والمكان
+global_indicators:5.5.1---title,Proportion of seats held by women in (a) national parliaments and (b) local governments, نسـبة المقاعد التي تشغلها النساء في (أ) البرلمانات الوطنية، و (ب) الحكومات المحلية
+global_indicators:5.5.2---title,Proportion of women in managerial positions,نسبة النساء في المناصب الإدارية
+global_indicators:5.6.1---title,"Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",نســبة النسـاء اللاتي تتراوح أعمارهن بين 15 سـنة و49 ســنة واللاتي يتخذن بأنفسهن قرارات مسـتنيرة بشـأن العلاقات الجنسـية، واسـتخدام وسـائل منع الحمل، والرعاية المتعلقة بالصحة الإنجابية
+global_indicators:5.6.2---title,"Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education", عـدد البلدان التي لديها قوانين وأنظمـة تكفـل حصـول النساء والرجال الذين في سن 15 سنة فأكثر على خدمات الرعاية والمعلومات والتثقيف في مجال الصحة الجنسـية والإنجابية على نحو كامل وعلى قدم المساواة
+global_indicators:5.a.1---title,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",(أ) نســبة مجموع المزارعين الذين يمتلكون أراض زراعية أو لديهم حقوق مضمونة في الأراضي الزراعية، بحسـب الجنس؛ و (ب) حصة المرأة بين الملاّك أو أصحاب الحقوق في الأراضي الزراعية، بحسب نوع الحيازة
+global_indicators:5.a.2---title,Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control,نسـبة البلدان التي يكفل فيها الإطار القانوني (بما في ذلك القانون العرفي) للمرأة المساواة في الحقوق في ملكية الأراضي و/أو السيطرة عليها 
+global_indicators:5.b.1---title,"Proportion of individuals who own a mobile telephone, by sex",نســبة الأفراد الذين يملكون الهاتف المحمول، حســب نوع الجنس
+global_indicators:5.c.1---title,Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,نسـبة البلدان التي لديها نظم لتخصيص وتتبع المخصصات العامة المرصودة للمساواة بين الجنسين وتمكين المرأة
+global_indicators:6.1.1---title,Proportion of population using safely managed drinking water services,نسبة السكان الذين يستفيدون من خدمات مياه الشرب التي تدار بطريقة مأمونة
+global_indicators:6.2.1---title,Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water,نسبة السـكان الذين يســتفيدون (أ) من الإدارة الســليمة لخدمات الصـرف الصحي و (ب) مرافق غسـل اليدين بالصابون والمياه
+global_indicators:6.3.1---title,Proportion of wastewater safely treated,نسبة مياه الصرف الصحي المعالجة بطريقة آمنة
+global_indicators:6.3.2---title,Proportion of bodies of water with good ambient water quality,نسبة الكتل المائية الآتية من مياه محيطة ذات نوعية جيدة
+global_indicators:6.4.1---title,Change in water-use efficiency over time,التغير في كفاءة استخدام المياه على مدى فترة من الزمن 
+global_indicators:6.4.2---title,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,حجم الضغط الذي تتعرض له المياه: سحب المياه العذبة كنسبة من موارد المياه العذبة المتاحة
+global_indicators:6.5.1---title,Degree of integrated water resources management implementation (0–100),درجة تنفيذ الإدارة المتكاملة للموارد المائية (صفر-100)
+global_indicators:6.5.2---title,Proportion of transboundary basin area with an operational arrangement for water cooperation,نسبة مناطق أحواض المياه العابرة للحدود التي لها ترتيبات تنفيذية تتعلق بالتعاون في مجال المياه
+global_indicators:6.6.1---title,Change in the extent of water-related ecosystems over time,نسبة التغير في نطاق النظم الإيكولوجية المتصلة بالمياه خلال فترة من الزمن
+global_indicators:6.a.1---title,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,مقدار المساعدة الإنمائية الرسمية المتصلة بالمياه والصرف الصحي التي تعد جزءاً من خطة إنفاق تتولى الحكومة تنسيقها
+global_indicators:6.b.1---title,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,نسـبة الوحدات الإدارية المحلية التي لديها سـياسات وإجراءات تنفيذية راسـخة في ما يتعلق بمشــاركة المجتمعات المحلية في إدارة خدمات المياه والصرف الصحي
+global_indicators:7.1.1---title,Proportion of population with access to electricity,نسبة السكان المستفيدين من خدمات الكهرباء
+global_indicators:7.1.2---title,Proportion of population with primary reliance on clean fuels and technology,نسبة السكان الذي يعتمدون أساسياً على الوقود التكنولوجيا النظيفين
+global_indicators:7.2.1---title,Renewable energy share in the total final energy consumption,حصة الطاقة المتجددة في مجموع الاسـتهلاك النهائي للطاقة
+global_indicators:7.3.1---title,Energy intensity measured in terms of primary energy and GDP, كثـافة الطـاقة التي تقـاس من حيـث الطـاقة الأوليـة والنـاتج المحلي الإجمال
+global_indicators:7.a.1---title,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",التـدفقـات الماليـة الدوليـة الموجهـة إلى البلـدان النـاميـة لدعم أنشـطة البحث والتطوير في مجالات الطاقة النظيفة وإنتاج الطاقة المتجددة، بما في ذلك النظم الهجينة
+global_indicators:7.b.1---title,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services,الاســتثمارات في مجال كفاءة الطاقة كنسـبة من الناتج المحلي الإجمالي ومبلغ الاستثمار المباشر الأجنبي، في شكل تحويلات مالية، من أجـل توفير الهياكـل الأسـاسـية والتكنولوجيا اللازمة لأغراض التنمية المستدامة
+global_indicators:8.1.1---title,Annual growth rate of real GDP per capita,معدل النمو السـنوي للناتج المحلي الإجمالي الحقيقي للفرد الواحد
+global_indicators:8.10.1---title,"(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults","(أ) عدد فروع المصارف التجارية لكل 100,000 شخص بالغ، و (ب) عدد أجهزة الصرف الآلي لكل 100,000 شخص بالغ"
+global_indicators:8.10.2---title,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,نسـبة البالغين ( 15 سـنة فأكثر) الذين لهم حساب مصـرفي أو حسـاب في مؤسـسة مالية أخرى أو لدى مقدم خدمات مالية متنقلة
+global_indicators:8.2.1---title,Annual growth rate of real GDP per employed person, معدل النمو السنوي في الناتج المحلي الإجمالي لكل شخص عامل
+global_indicators:8.3.1---title,"Proportion of informal employment in non‐agriculture employment, by sex",نســبة العمالة غير الرسمية في غير العمالة الزراعية، بحسب الجنس
+global_indicators:8.4.1---title,"Material footprint, material footprint per capita, and material footprint per GDP",الأثر المادي ونصـيب الفرد من الأثر المادي ونصـيب الناتج المحلي الإجمالي من الأثر المادي
+global_indicators:8.4.2---title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",الاسـتهلاك المادي المحلي ونصـيب الفرد من الاسـتهلاك المادي المحلي ونسـبة الاستهلاك المادي المحلي إلى الناتج المحلي الإجمال
+global_indicators:8.5.1---title,"Average hourly earnings of female and male employees, by occupation, age and persons with disabilities",متوسـط الدخل في الساعة للنساء والرجال العاملين، بحسب الوظيفة والعمر والأشخاص ذوي الإعاقة
+global_indicators:8.5.2---title,"Unemployment rate, by sex, age and persons with disabilities",معـدل البطالة، بحسـب الجنس والعمر والأشـخـاص ذوي الإعاقة
+global_indicators:8.6.1---title,"Proportion of youth (aged 15–24 years) not in education, employment or training",نسـبة الشـباب (الذين تتراوح أعمارهم بين 15 سـنة و 24 سنة) خارج دائرة التعليم والعمالة والتدريب
+global_indicators:8.7.1---title,"Proportion and number of children aged 5–17 years engaged in child labour, by sex and age",نسـبة الأطفال الذين تتراوح أعمارهم بين 5 سـنوات و 17 سـنة والمنخرطين في ســوق عمل الأطفال وعددهم، بحســب الجنس والعمر
+global_indicators:8.8.1---title,"Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status",التواتر في معدلات إصابات العمل المميتة وغير المميتة، بحسب نوع جنس المهاجرين ووضعهم
+global_indicators:8.8.2---title,"Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status", مسـتوى امتثال البلـدان لحقوق العمـل (حريـة تكوين الجمعيات والمفاوضة الجماعية) اســـتناداً إلى نصـوص منظمة العمل الدولية والتشريعات الوطنية، بحسب الجنس ووضع المهاجرين
+global_indicators:8.9.1---title,Tourism direct GDP as a proportion of total GDP and in growth rate,الناتج المحلي الإجمالي للسـياحة المباشـرة كنسـبة من مجموع الناتج المحلي الإجمالي ومن معدل النمو
+global_indicators:8.9.2---title,Proportion of jobs in sustainable tourism industries out of total tourism jobs,نسبة الوظائف في قطاعات السياحة المستدامة من مجموع الوظائف في قطاع السياحة
+global_indicators:8.a.1---title,Aid for Trade commitments and disbursements,المعونة المقدمة من أجل الالتزامات والمدفوعات المتصلة بالتجارة
+global_indicators:8.b.1---title,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",وجود استراتيجية وطنية مكتملة وموضوعة قيد التنفيذ تتعلق بتشغيل الشباب، سواء بوصفها استراتيجية قائمة بذاتها أو عنصراً من استراتيجية وطنية للتشغيل
+global_indicators:9.1.1---title,Proportion of the rural population who live within 2 km of an all-season road, نسـبة سـكان الريف الذين يعيشـون على بعد كيلومترين من طريق صالحة للاستعمال في جميع الفصول
+global_indicators:9.1.2---title,"Passenger and freight volumes, by mode of transport",عدد الركاب وحجم الشحنات، بحسب وسيلة النقل
+global_indicators:9.2.1---title,Manufacturing value added as a proportion of GDP and per capita,القيمة المضـافة التصـنيعية كنسـبة من الناتج المحلي الإجمالي للفرد
+global_indicators:9.2.2---title,Manufacturing employment as a proportion of total employment,العمالة في الصناعة التحويلية كنسبة من مجموع العمالة
+global_indicators:9.3.1---title,Proportion of small-scale industries in total industry value added,نسـبة الصناعات الصـغيرة الحجم من مجموع القيمة المضافة من الصناعات
+global_indicators:9.3.2---title,Proportion of small-scale industries with a loan or line of credit,نسـبة الصـناعات الصغيرة الحجم التي لها قرض أو خط ائتمان
+global_indicators:9.4.1---title,CO2 emission per unit of value added,انبعاثات ثاني أكسـيد الكربون لكل وحدة من القيمـة المضافة 
+global_indicators:9.5.1---title,Research and development expenditure as a proportion of GDP,الإنفاق على البحث والتطوير كنسـبة من الناتج المحلي الإجمال
+global_indicators:9.5.2---title,Researchers (in full-time equivalent) per million inhabitants,العاملون في مجال البحـث (بمكـافئ الـدوام الكـامـل) لكـل مليون نسمة
+global_indicators:9.a.1---title,Total official international support (official development assistance plus other official flows) to infrastructure,مجموع الدعم الدولي (المساعدة الإنمائية الرسمية بالإضافة إلى التدفقات الرسمية الأخرى) إلى الهياكل الأساسية
+global_indicators:9.b.1---title,Proportion of medium and high-tech industry value added in total value added,نسـبة القيمة المضافة للصناعة التكنولوجية المتوسـطة والمتقدمة من مجموع القيمة المضافة
+global_indicators:9.c.1---title,"Proportion of population covered by a mobile network, by technology",نسبة السكان المشمولين بشبكة الهاتف المحمول، بحسب التكنولوجيا

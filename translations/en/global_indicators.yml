@@ -42,9 +42,9 @@
   title: Proportion of population living in households with access to basic services
 1.4.2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-02.pdf
-  title: Proportion of total adult population with secure tenure rights to land, (a)
-    with legally recognized documentation, and (b) who perceive their rights to land
-    as secure, by sex and type of tenure
+  title: Proportion of total adult population with secure tenure rights to land, 
+  with legally recognized documentation, and who perceive their rights to land 
+  as secure, by sex and by type of tenure
 1.5.1:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: 'Death: The number of people who died during the disaster, or directly
@@ -137,7 +137,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-01.pdf
   title: Labour share of GDP, comprising wages and social protection transfers
 10.5.1:
-  title: Financial Soundness Indicators
+  title: Financial Soundness Indicators (FSIs)
 10.6.1:
   custodian_agency: Financing for Development Office, DESA (FFDO)
   definition: The proportion of members and voting rights of developing countries
@@ -983,8 +983,8 @@
     monitoring frameworks that support the achievement of the sustainable development
     goals
 17.17.1:
-  title: Amount of United States dollars committed to (a) public-private partnerships
-    and (b) civil society partnerships
+  title: Amount of United States dollars committed to public-private and 
+  civil society partnerships
 17.18.1:
   title: Proportion of sustainable development indicators produced at the national
     level with full disaggregation when relevant to the target, in accordance with
@@ -1274,7 +1274,7 @@
     year or period dying before reaching the age of 5 years, if subject to age specific
     mortality rates of that period, expressed per 1000 live births.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-01.pdf
-  title: Under‐5 mortality rate
+  title: Under‐five mortality rate
 3.2.2:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: The neonatal mortality rate is the probability that a child born in
@@ -1711,8 +1711,8 @@
     a device to contain, transport or regulate the flow of water to facilitate handwashing
     with soap and water in the household.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01.pdf
-  title: Proportion of population using (a) safely managed sanitation services and
-    (b) a hand-washing facility with soap and water
+  title: Proportion of population using safely managed sanitation services, including a
+  handwashing facility with soap and water
 6.3.1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-01.pdf
   title: Proportion of wastewater safely treated
@@ -1772,7 +1772,7 @@
     official UN IWRM status reporting, from 2008 and 2012, of the Johannesburg Plan
     of Implementation from the UN World Summit for Sustainable Development (1992).
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-05-01.pdf
-  title: Degree of integrated water resources management implementation (0–100)
+  title: Degree of integrated water resources management implementation (0 to 100)
 6.5.2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-05-02.pdf
   title: Proportion of transboundary basin area with an operational arrangement for

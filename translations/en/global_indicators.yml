@@ -42,9 +42,9 @@
   title: Proportion of population living in households with access to basic services
 1.4.2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-02.pdf
-  title: Proportion of total adult population with secure tenure rights to land, 
-  with legally recognized documentation, and who perceive their rights to land 
-  as secure, by sex and by type of tenure
+  title: Proportion of total adult population with secure tenure rights to land,
+    with legally recognized documentation, and who perceive their rights to land
+    as secure, by sex and by type of tenure
 1.5.1:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: 'Death: The number of people who died during the disaster, or directly
@@ -983,8 +983,8 @@
     monitoring frameworks that support the achievement of the sustainable development
     goals
 17.17.1:
-  title: Amount of United States dollars committed to public-private and 
-  civil society partnerships
+  title: Amount of United States dollars committed to public-private and
+    civil society partnerships
 17.18.1:
   title: Proportion of sustainable development indicators produced at the national
     level with full disaggregation when relevant to the target, in accordance with
@@ -1712,7 +1712,7 @@
     with soap and water in the household.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01.pdf
   title: Proportion of population using safely managed sanitation services, including a
-  handwashing facility with soap and water
+    handwashing facility with soap and water
 6.3.1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-01.pdf
   title: Proportion of wastewater safely treated

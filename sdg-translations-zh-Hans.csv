@@ -3,8 +3,6 @@ header:alpha,Alpha,Alpha
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",这是一个发展中的网站。欢迎您向我们发送反馈意见。
 header:skip_link,Skip to main content,跳到主要内容
 header:tag_line,17 Goals to Transform our World,变革世界的17个目标
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name可持续发展目标指标的数据
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",点击每一个目标查询或自行%before_link搜索%after_link各个国家的可持续发展目标全球指标统计。
 global_goals:1---short,No poverty,无贫穷
 global_goals:10---short,Reduced inequalities,减少不平等
 global_goals:11---short,Sustainable cities & communities,可持续城市和社区
@@ -24,41 +22,15 @@ global_goals:8---short,Decent jobs and economic growth,体面工作和经济增�
 global_goals:9---short,"Industry, innovation and infrastructure",创业、创新和基础设施
 post:posts_by_category,Posts by Category,按分类发布的帖子
 post:view_all_in_category,View all posts in the %category_name category,显示此分类的所有帖子
-indicator:chart,Chart,图表
-indicator:clear_all,Clear all,全部清除
-indicator:clear_selections,Clear selections,清除选项
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,由于图表上显示的数据集过多，请删除一些选项来以便展示。
-indicator:download_chart,Download Chart CSV,下载CSV格式的图表
-indicator:download_csv,Download CSV,下载CSV
-indicator:download_csv_title,Download as CSV,下载为CSV格式
-indicator:download_headline,Download Headline CSV,下载CSV格式的标题
-indicator:download_headline_title,Download headline data as CSV,下载为CSV格式的标题数据
-indicator:download_source,Download Source CSV,下载CSV格式的来源
-indicator:download_source_title,Download source data as CSV,下载为CSV格式的资源数据
-indicator:download_table,Download Table CSV,下载CSV格式的表格
-indicator:edit,Edit,编辑
-indicator:edit_data,Edit Data,编辑数据
-indicator:edit_metadata,Edit Metadata,编辑元数据
-indicator:footnote,Footnote,脚注
-indicator:geographical_area,Geographical Area,地理区域
-indicator:global_metadata,Global Metadata,全球元数据
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",此表格提供的资料是由联合国统计委员会所界定的可持续发展目标指标的元数据。完整的全球元数据是由联合国统计司提供的。
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,点击图例来移除图表中的线条。
-indicator:loading_map,Loading map,载入地图
-indicator:map,Map,地图
-indicator:national_metadata,National Metadata,国家元数据
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",此表格所提供的真正指标中的元数据可从接近相对的全球可持续发展目标指标的国家统计数据获得。请注意：全球可持续发展目标指标完全可从国家统计数据获得，此表格资料皆只用作参阅国家方法论及其他国家的元数据用途。
-indicator:no_data_hint,No options available because of filters above,由于上述筛选的限制，因此没有可用的选项
-indicator:select_all,Select all,全选
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,从下面的下拉式菜单中选择分类查询不同的数据分析。部分分析需要选择更高的级别才会开放。
-indicator:source,Source,来源
-indicator:sources,Sources,来源
-indicator:sub_categories,Sub-categories,子分类
-indicator:table,Table,表格
-indicator:unit_of_measurement,Unit of Measurement,计量单位
-indicator:units_type,Units type,单位类型
-indicator:variable_hint,Available when '%field' is selected,点击以便显示內容
-indicator:view_indicator_list,View this goal's indicator list,查看此目标的指标清单
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name可持续发展目标指标的数据
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",点击每一个目标查询或自行%before_link搜索%after_link各个国家的可持续发展目标全球指标统计。
+status:exploring_data_sources,Exploring data sources,探索数据源
+status:not_applicable,Not applicable,不适用
+status:overall_reporting_status,Overall Reporting Status,整体上报状况
+status:reported_online,Reported online,已在线上上报
+status:reporting_status,Reporting Status,上报状况
+status:statistics_in_progress,Statistics in progress,统计在进行中
+status:status_by_goal,Status by goal,目标状况
 general:goal,Goal,目标
 general:goals,Goals,目标
 general:home,Home,首页
@@ -69,21 +41,6 @@ general:opens_new_window,opens in a new window,在新窗口中打开
 general:sdg,Sustainable Development Goals,可持续发展目标
 general:target,Target,目标
 general:targets,Targets,目标
-status:exploring_data_sources,Exploring data sources,探索数据源
-status:not_applicable,Not applicable,不适用
-status:overall_reporting_status,Overall Reporting Status,整体上报状况
-status:reported_online,Reported online,已在线上上报
-status:reporting_status,Reporting Status,上报状况
-status:statistics_in_progress,Statistics in progress,统计在进行中
-status:status_by_goal,Status by goal,目标状况
-menu:about,About,关于
-menu:contact_us,Contact us,联系我们
-menu:cookies,Cookies,Cookies
-menu:faq,FAQ,常见问题解答
-menu:guidance,Guidance,指引
-menu:menu,Menu,目录
-menu:publications,Publications,出版物
-menu:reporting_status,Reporting Status,上报状况
 search:found_in,found in,找到
 search:indicator_search,Indicator search,指标搜索
 search:keywords,Keywords,关键字
@@ -168,3 +125,46 @@ metadata_fields:target,Target name,目标名称
 metadata_fields:target_id,Target number,目标数字
 metadata_fields:un_custodian_agency,UN custodian agency,联合国托管机构
 metadata_fields:un_designated_tier,UN designated tier,联合国指定层
+menu:about,About,关于
+menu:contact_us,Contact us,联系我们
+menu:cookies,Cookies,Cookies
+menu:faq,FAQ,常见问题解答
+menu:guidance,Guidance,指引
+menu:menu,Menu,目录
+menu:publications,Publications,出版物
+menu:reporting_status,Reporting Status,上报状况
+indicator:chart,Chart,图表
+indicator:clear_all,Clear all,全部清除
+indicator:clear_selections,Clear selections,清除选项
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,由于图表上显示的数据集过多，请删除一些选项来以便展示。
+indicator:download_chart,Download Chart CSV,下载CSV格式的图表
+indicator:download_csv,Download CSV,下载CSV
+indicator:download_csv_title,Download as CSV,下载为CSV格式
+indicator:download_headline,Download Headline CSV,下载CSV格式的标题
+indicator:download_headline_title,Download headline data as CSV,下载为CSV格式的标题数据
+indicator:download_source,Download Source CSV,下载CSV格式的来源
+indicator:download_source_title,Download source data as CSV,下载为CSV格式的资源数据
+indicator:download_table,Download Table CSV,下载CSV格式的表格
+indicator:edit,Edit,编辑
+indicator:edit_data,Edit Data,编辑数据
+indicator:edit_metadata,Edit Metadata,编辑元数据
+indicator:footnote,Footnote,脚注
+indicator:geographical_area,Geographical Area,地理区域
+indicator:global_metadata,Global Metadata,全球元数据
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",此表格提供的资料是由联合国统计委员会所界定的可持续发展目标指标的元数据。完整的全球元数据是由联合国统计司提供的。
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,点击图例来移除图表中的线条。
+indicator:loading_map,Loading map,载入地图
+indicator:map,Map,地图
+indicator:national_metadata,National Metadata,国家元数据
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",此表格所提供的真正指标中的元数据可从接近相对的全球可持续发展目标指标的国家统计数据获得。请注意：全球可持续发展目标指标完全可从国家统计数据获得，此表格资料皆只用作参阅国家方法论及其他国家的元数据用途。
+indicator:no_data_hint,No options available because of filters above,由于上述筛选的限制，因此没有可用的选项
+indicator:select_all,Select all,全选
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,从下面的下拉式菜单中选择分类查询不同的数据分析。部分分析需要选择更高的级别才会开放。
+indicator:source,Source,来源
+indicator:sources,Sources,来源
+indicator:sub_categories,Sub-categories,子分类
+indicator:table,Table,表格
+indicator:unit_of_measurement,Unit of Measurement,计量单位
+indicator:units_type,Units type,单位类型
+indicator:variable_hint,Available when '%field' is selected,点击以便显示內容
+indicator:view_indicator_list,View this goal's indicator list,查看此目标的指标清单

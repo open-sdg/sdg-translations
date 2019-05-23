@@ -25,7 +25,7 @@ def build_translations(output_file):
             if (extension == '.yml'):
                 with open(os.path.join(root, file), 'r') as stream:
                     try:
-                        yamldata = (yaml.load(stream))
+                        yamldata = (yaml.load(stream, Loader=yaml.FullLoader))
                         data[key][no_extension] = yamldata
                     except Exception as exc:
                         print (exc)

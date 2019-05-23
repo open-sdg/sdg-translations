@@ -1,20 +1,6 @@
 1.1.1:
   title: Proportion of population below the international poverty line, by sex, age,
     employment status and geographical location (urban/rural)
-1.1.1a:
-  custodian_agency: World Bank (WB)
-  definition: The indicator Proportion of population below the international poverty
-    line is defined as the percentage of the population living on less than $1.90
-    a day at 2011 international prices. The 'international poverty line' is currently
-    set at $1.90 a day at 2011 international prices.
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf
-1.1.1b:
-  custodian_agency: ILO
-  definition: Proportion of employed population below the international poverty line
-    of $1.90 per day, also referred to as the working poor, is defined as the proportion
-    of the employed population living in households with per-capita consumption or
-    income that is below the international poverty line of US$1.90.
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01b.pdf
 1.2.1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf
   title: Proportion of population living below the national poverty line, by sex and
@@ -28,16 +14,6 @@
     sex, distinguishing children, unemployed persons, older persons, persons with
     disabilities, pregnant women, newborns, work-injury victims and the poor and the
     vulnerable
-1.3.1a:
-  custodian_agency: International Labour Organization (ILO)
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01a.pdf
-1.3.1b:
-  custodian_agency: World Bank (WB)
-  definition: Coverage of social protection and labor programs (SPL) is the percentage
-    of population participating in social insurance, social safety net, and unemployment
-    benefits and active labor market programs. Estimates include both direct and indirect
-    beneficiaries.
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01b.pdf
 1.4.1:
   title: Proportion of population living in households with access to basic services
 1.4.2:
@@ -1027,38 +1003,6 @@
   title: Proportion of countries that (a) have conducted at least one population and
     housing census in the last 10 years; and (b) have achieved 100 per cent birth
     registration and 80 per cent death registration
-17.19.2a:
-  custodian_agency: United Nations Statistics Division (UNSD)
-  definition: This information only refers to 17.19.2 (a)   The indicator tracks the
-    proportion of countries that have conducted at least one population and housing
-    census in the last 10 years. This also includes countries which compile their
-    detailed population and housing statistics from population registers, administrative
-    records, sample surveys or other sources or a combination of those sources.
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-02a.pdf
-17.19.2b:
-  custodian_agency: United Nations Statistics Division (UNSD), Department of Economic
-    and Social Affairs, United Nations
-  definition: 'This information only refers to 17.19.2 (b): Proportion of countries
-    that have achieved 100 per cent birth registration and 80 per cent death registration  According
-    to the Principles and Recommendations for a Vital Statistics System, Revision
-    3 (https://unstats.un.org/unsd/demographic/standmeth/principles/M19Rev3en.pdf),
-    a complete civil registration The registration in the civil registration system
-    of every vital event that has occurred to the members of the population of a particular
-    country (or area), within a specified period as a result of which every such event
-    has a vital registration record and the system has attained 100 per cent coverage.  In
-    a given country or area, the level of completeness of birth registration can be
-    different from the level of completeness of death registration.   There exist
-    several methods for the evaluation of completeness of birth or death registration
-    systems.  An elaboration of these methods is available at Principles and Recommendations
-    for a Vital Statistics System, Revision 3.  The evaluation and monitoring of quality
-    and completeness  of birth and death registration systems are addressed in Part
-    three, sub-Chapters: D. Quality assessment methods; E. Direct versus indirect
-    assessment,  and F. Choosing appropriate methods for assessing completeness and
-    qualitative accuracy of registration and register-based vital statistics (para
-    579 to 622).  Indicator 17.19.2(b) has two parts; the first concerning the birth
-    registration and the second concerning the death registration of each individual
-    country or area.'
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-02b.pdf
 17.2.1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: The indicator Net official development assistance, total and to least
@@ -1150,10 +1094,6 @@
   title: Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation
     from the median of the WHO Child Growth Standards) among children under 5 years
     of age, by type (wasting and overweight)
-2.2.2a:
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-02a.pdf
-2.2.2b:
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-02b.pdf
 2.3.1:
   title: Volume of production per labour unit by classes of farming/pastoral/forestry
     enterprise size
@@ -1612,21 +1552,6 @@
 5.5.1:
   title: Proportion of seats held by women in (a) national parliaments and (b) local
     governments
-5.5.1a:
-  custodian_agency: Inter-Parliamentary, Union (IPU)
-  definition: The proportion of seats held by women in (a) national parliaments, currently
-    as at 1 February of reporting year, is currently measured as the number of seats
-    held by women members in single or lower chambers of national parliaments, expressed
-    as a percentage of all occupied seats.  National parliaments can be bicameral
-    or unicameral. This indicator covers the single chamber in unicameral parliaments
-    and the lower chamber in bicameral parliaments. It does not cover the upper chamber
-    of bicameral parliaments. Seats are usually won by members in general parliamentary
-    elections. Seats may also be filled by nomination, appointment, indirect election,
-    rotation of members and by-election.  Seats refer to the number of parliamentary
-    mandates, or the number of members of parliament.
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01a.pdf
-5.5.1b:
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf
 5.5.2:
   custodian_agency: ILO
   definition: 'This indicator refers to the proportion of females in the total number
@@ -1661,23 +1586,6 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-0a-02.pdf
   title: Proportion of countries where the legal framework (including customary law)
     guarantees women’s equal rights to land ownership and/or control
-5.a.2x:
-  definition: 'Indicator 5.a.2 collects all existing national policy objectives, draft
-    provisions, legal provisions and ownership and/or control.   ed as a legally recognised
-    right to acquire, to use and to transfer landed property.     The proxies used
-    to monitor Indicator 5.a.2 are widely recognised as good practices in strengthening   The
-    indicator captures the following four proxies:  a) Does the legal framework provide
-    for the establisand/or access to productive resources and services?  b) Is joint
-    titling of private property compulsory or encouraged through economic incentives
-    for married or unmarried couples, in accordance with national law?  c) In recognised
-    customary tenure systems, does the law facilitate the recording of all interests
-    in land (including use rights) of men and women?   The policy and legal instruments
-    covered include draft policy documents, formally adopted policy documents, draft
-    legislation, primary law, secondary legislation (see terminology section for detailed
-    explanation).  Nota bene: The proxies are intended to capture a range of different
-    regional contexts to reflect the universal scope of the Sustainable Development
-    Goals. As a result, Proxy c) may not be applicable to all countries.'
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-0A-02X.pdf
 5.b.1:
   custodian_agency: International Telecommunication Union (ITU)
   definition: The proportion of individuals who own a mobile telephone, by sex is
@@ -1779,35 +1687,6 @@
     water cooperation
 6.6.1:
   title: Change in the extent of water-related ecosystems over time
-6.6.1a:
-  custodian_agency: UN Environment (United Nations Environment Programme)
-  definition: 'The indicator includes five categories: 1) vegetated wetlands, 2) rivers
-    and estuaries, 3) lakes, 4) aquifers, and 5) artificial waterbodies. For purposes
-    of this methodology, the text refers only to these five ecosystem category terminologies.
-    To address its complexity, Indicator 6.6.1 has been divided into 5 Sub-Indicators
-    to capture the various data sources and methodologies required for monitoring
-    components of the Indicator. Data sources come from a combination of ground sampling
-    and earth observations. Depending on the type of ecosystem and the type of extent
-    being measured, the data collection methodology can also differ greatly. A progressive
-    monitoring approach with two levels is proposed:  Level 1: 2 Sub-Indicators based
-    on globally available data from earth observations which will be validated by
-    countries against their own methodologies and datasets:   Sub-Indicator 1  spatial
-    extent of water-related ecosystems   Sub-Indicator 2  water quality of lakes and
-    artificial water bodies Level 2: Data collected by countries through 3 Sub-Indicators:  Sub-Indicator
-    3  quantity of water (discharge) in rivers and estuaries  Sub-Indicator 4  water
-    quality imported from SDG Indicator 6.3.2   Sub-Indicator 5  quantity of groundwater
-    within aquifers  A full methodoloMonitoring Methodology for SDG Indicator 6.6.1'
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01a.pdf
-6.6.1b:
-  custodian_agency: Secretariat of the Ramsar Convention on Wetlands
-  definition: 'Extent of wetlands: this term can be defined as the surface area of
-    wetlands. It is measured in km2 or hectares. It is expected that the surface reported
-    by countries corresponds to the 2017 situation; if not, the reference year should
-    be indicated.   Change in the extent of wetlands: this term refers to the percentage
-    change in area of wetlands from a baseline reference. For reporting such change,
-    the previous extent, if known, and the period over which the change has taken
-    place should be specified.'
-  metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-06-01b.pdf
 6.a.1:
   custodian_agency: World Health Organization (WHO),  United Nations Environment Programme
     (UNEP),  Organisation for Economic Co-operation and Development (OECD)

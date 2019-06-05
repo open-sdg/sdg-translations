@@ -1,0 +1,11 @@
+# This is a special case - these words should be in their target language,
+# no matter what. So the other versions of this file will be identical.
+en: English
+es: Español
+fr: Français
+zh-Hans: 中文
+ar: العربية
+ru: Pусский
+am: ՀԱՅԵՐԵՆ
+de: Deutsch
+kz: Қазақ

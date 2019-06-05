@@ -1,0 +1,46 @@
+select_all: Select all
+clear_all: Clear all
+clear_selections: Clear selections
+variable_hint: Available when '%field' is selected
+no_data_hint: No options available because of filters above
+download_headline: Download Headline CSV
+download_headline_title: Download headline data as CSV
+download_source: Download Source CSV
+download_source_title: Download source data as CSV
+download_chart: Download Chart CSV
+download_table: Download Table CSV
+download_csv: Download CSV
+download_csv_title: Download as CSV
+source: Source
+sources: Sources
+geographical_area: Geographical Area
+unit_of_measurement: Unit of Measurement
+footnote: Footnote
+units_type: Units type
+dataset_size_warning: There are too many datasets to show on the chart. Not all
+  will be shown until you remove some selections.
+view_indicator_list: View this goal's indicator list
+sub_categories: Sub-categories
+series_help: Choose categories from the dropdowns below to see different
+  breakdowns of the data. Some will not be available until a higher level is
+  chosen.
+legend_help: Click on the legend to remove individual lines from the chart.
+chart: Chart
+table: Table
+map: Map
+loading_map: Loading map
+national_metadata: National Metadata
+national_metadata_blurb: This table provides metadata for the actual indicator
+  available from %country_name statistics closest to the corresponding
+  global SDG indicator. Please note that even when the global SDG indicator is
+  fully available from %country_adjective statistics, this table
+  should be consulted for information on national methodology and other
+  %country_adjective-specific metadata information.
+global_metadata: Global Metadata
+global_metadata_blurb: This table provides information on metadata for SDG
+  indicators as defined by the UN Statistical Commission.
+  <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
+  is provided by the UN Statistics Division.
+edit: Edit
+edit_data: Edit Data
+edit_metadata: Edit Metadata

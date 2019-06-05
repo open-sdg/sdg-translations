@@ -1,0 +1,78 @@
+comments_limitations: Other information
+computation_calculations: Calculations
+computation_definitions: Definitions
+computation_units: Unit of measurement
+goal_meta_link: Link to UN metadata
+indicator: Indicator number
+indicator_definition: Global indicator description
+indicator_name: Indicator name
+indicator_sort_order: Indicator display order (within Goal page)
+national_data_update_url: Data last updated
+national_geographical_coverage: Geographical coverage
+national_indicator_available: Indicator available
+national_indicator_description: Indicator description
+national_metadata_update_url: Metadata last updated
+source_contact_1: Contact details
+source_contact_2: Contact details
+source_contact_3: Contact details
+source_contact_4: Contact details
+source_contact_5: Contact details
+source_contact_6: Contact details
+source_earliest_available_1: Earliest available data
+source_earliest_available_2: Earliest available data
+source_earliest_available_3: Earliest available data
+source_earliest_available_4: Earliest available data
+source_earliest_available_5: Earliest available data
+source_earliest_available_6: Earliest available data
+source_geographical_coverage_1: Geographical coverage
+source_geographical_coverage_2: Geographical coverage
+source_geographical_coverage_3: Geographical coverage
+source_geographical_coverage_4: Geographical coverage
+source_geographical_coverage_5: Geographical coverage
+source_geographical_coverage_6: Geographical coverage
+source_next_release_1: Next release
+source_next_release_2: Next release
+source_next_release_3: Next release
+source_next_release_4: Next release
+source_next_release_5: Next release
+source_next_release_6: Next release
+source_organisation_1: Organisation
+source_organisation_2: Organisation
+source_organisation_3: Organisation
+source_organisation_4: Organisation
+source_organisation_5: Organisation
+source_organisation_6: Organisation
+source_other_info_1: Other information
+source_other_info_2: Other information
+source_other_info_3: Other information
+source_other_info_4: Other information
+source_other_info_5: Other information
+source_other_info_6: Other information
+source_periodicity_1: Periodicity
+source_periodicity_2: Periodicity
+source_periodicity_3: Periodicity
+source_periodicity_4: Periodicity
+source_periodicity_5: Periodicity
+source_periodicity_6: Periodicity
+source_release_date_1: Release date
+source_release_date_2: Release date
+source_release_date_3: Release date
+source_release_date_4: Release date
+source_release_date_5: Release date
+source_release_date_6: Release date
+source_statistical_classification_1: Statistical classification
+source_statistical_classification_2: Statistical classification
+source_statistical_classification_3: Statistical classification
+source_statistical_classification_4: Statistical classification
+source_statistical_classification_5: Statistical classification
+source_statistical_classification_6: Statistical classification
+source_url_1: Link to data source
+source_url_2: Link to data source
+source_url_3: Link to data source
+source_url_4: Link to data source
+source_url_5: Link to data source
+source_url_6: Link to data source
+target: Target name
+target_id: Target number
+un_custodian_agency: UN custodian agency
+un_designated_tier: UN designated tier

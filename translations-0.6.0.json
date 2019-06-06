@@ -1904,7 +1904,7 @@
     },
     "languages":{
         "en":"English",
-        "ro":"RomU+00E2na"
+        "ro":"Rom\u2000na"
     },
     "menu":{
         "about":"About",
@@ -3923,7 +3923,7 @@
     },
     "languages":{
         "en":"English",
-        "ro":"RomU+00E2na"
+        "ro":"Rom\u2000na"
     },
     "menu":{
         "about":"About",

@@ -1,49 +1,26 @@
 ﻿key,en,ru
-indicator:chart,Chart,График
-indicator:clear_all,Clear all,Очистить всё
-indicator:clear_selections,Clear selections,Очистить выделенное
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"В таблице слишком много данных, чтобы показать в графике. Чтобы увидеть все, удалите выделенное."
-indicator:download_chart,Download Chart CSV,Скачать график CSV
-indicator:download_csv,Download CSV,Скачать CSV
-indicator:download_csv_title,Download as CSV,Скачать в формате CSV
-indicator:download_headline,Download Headline CSV,Скачать заголовки CSV
-indicator:download_headline_title,Download headline data as CSV,Скачать данные заголовков в формате CSV
-indicator:download_source,Download Source CSV,Скачать исходные CSV
-indicator:download_source_title,Download source data as CSV,Скачать исходные данные в формате CSV
-indicator:download_table,Download Table CSV,Скачать табличные CSV
-indicator:edit,Edit,Редактировать
-indicator:edit_data,Edit Data,Редактировать данные
-indicator:edit_metadata,Edit Metadata,Редактировать метаданные
-indicator:footnote,Footnote,Сноска
-indicator:geographical_area,Geographical Area,Географический район
-indicator:global_metadata,Global Metadata,Глобальные метаданные
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","В этой таблице представлена информация для метаданных показателей ЦУР, определенных Статистической комиссией ООН. Полные глобальные метаданные представлены Статистическим отделом ООН."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,"Нажмите на легенду, чтобы убрать линии из графика."
-indicator:loading_map,Loading map,Загрузка карты
-indicator:map,Map,Карта
-indicator:national_metadata,National Metadata,Национальные метаданные
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","В этой таблице представлены метаданные для фактического показателя, доступного из статистики ближайшей к соответствующему глобальному индикатору ЦУР. Обратите внимание, что даже если глобальный индикатор ЦУР полностью доступен из статистики, по этой таблице следует проконсультироваться для получения информации о национальной методологии и других специфичных метаданных."
-indicator:no_data_hint,No options available because of filters above,Нет имеющихся вариантов из-за фильтров наверху.
-indicator:select_all,Select all,Выделить всё
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Выберите категории из выпадающего меню внизу, чтобы увидеть разные разбивки данных. Несколько не будет доступно, пока более высокий уровень не выбран. "
-indicator:source,Source,Источник
-indicator:sources,Sources,Источники
-indicator:sub_categories,Sub-categories,Субкатегории
-indicator:table,Table,Таблица
-indicator:unit_of_measurement,Unit of Measurement,Единица измерения
-indicator:units_type,Units type,Вид единиц
-indicator:variable_hint,Available when '%field' is selected,"Доступно, когда выбрано"
-indicator:view_indicator_list,View this goal's indicator list,Посмотреть список индикаторов этой цели
-general:goal,Goal,Цель
-general:goals,Goals,Цели
-general:home,Home,Главная
-general:indicator,Indicator,Показатель
-general:indicators,Indicators,Показатели
-general:loading,Loading search results,Загрузка результатов поиска
-general:opens_new_window,opens in a new window,открывается в новой вкладке
-general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
-general:target,Target,Задача
-general:targets,Targets,Задачи
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
+menu:about,About,О нас
+menu:contact_us,Contact us,Свяжитесь с нами
+menu:cookies,Cookies,Cookies
+menu:faq,FAQ,Часто задаваемые вопросы
+menu:guidance,Guidance,Руководство
+menu:menu,Menu,Меню
+menu:publications,Publications,Публикации
+menu:reporting_status,Reporting Status,Состояние отчётности
+header:alpha,Alpha,Альфа
+header:disable_high_contrast,Disable high contrast,
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.
+header:enable_high_contrast,Enable high contrast,
+header:skip_link,Skip to main content,Перейти к главному содержанию
+header:tag_line,17 Goals to Transform our World,"17 Целей, чтобы преобразовать наш мир"
+search:found_in,found in,найдено в
+search:indicator_search,Indicator search,Поиск показателя
+search:keywords,Keywords,Ключевые слова
+search:no_results,No results,Результатов не найдено
+search:search,Search,Поиск
+search:search_results_for,Search results for,Результаты поиска по вашему запросу
 global_goals:1---short,No poverty,Ликвидация нищеты
 global_goals:1---title,End poverty in all its forms everywhere,Повсеместная ликвидация нищеты во всех ее формах
 global_goals:10---short,Reduced inequalities,Уменьшение неравенства
@@ -98,103 +75,6 @@ global_goals:8---title,"Promote sustained, inclusive and sustainable economic gr
 global_goals:9---short,"Industry, innovation and infrastructure","Индустриализация, инновации и инфраструктура"
 global_goals:9---title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Создание стойкой инфраструктуры, содействие всеохватной и устойчивой
 индустриализации и инновациям"
-menu:about,About,О нас
-menu:contact_us,Contact us,Свяжитесь с нами
-menu:cookies,Cookies,Cookies
-menu:faq,FAQ,Часто задаваемые вопросы
-menu:guidance,Guidance,Руководство
-menu:menu,Menu,Меню
-menu:publications,Publications,Публикации
-menu:reporting_status,Reporting Status,Состояние отчётности
-metadata_fields:comments_limitations,Other information,Другая информация
-metadata_fields:computation_calculations,Calculations,Расчёты
-metadata_fields:computation_definitions,Definitions,Определения
-metadata_fields:computation_units,Unit of measurement,Единица измерения
-metadata_fields:goal_meta_link,Link to UN metadata,Ссылка на метаданные ООН
-metadata_fields:indicator,Indicator number,Номер показателя
-metadata_fields:indicator_definition,Global indicator description,Описание глобального показателя
-metadata_fields:indicator_name,Indicator name,Название показателя
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Порядок отображения показателей (на странице целей)
-metadata_fields:national_data_update_url,Data last updated,Последний раз данные обновлялись
-metadata_fields:national_geographical_coverage,Geographical coverage,Географический охват
-metadata_fields:national_indicator_available,Indicator available,Показатель доступен
-metadata_fields:national_indicator_description,Indicator description,Описание показателя
-metadata_fields:national_metadata_update_url,Metadata last updated, Последний раз метаданные обновлялись
-metadata_fields:source_contact_1,Contact details,Контактные данные
-metadata_fields:source_contact_2,Contact details,Контактные данные
-metadata_fields:source_contact_3,Contact details,Контактные данные
-metadata_fields:source_contact_4,Contact details,Контактные данные
-metadata_fields:source_contact_5,Contact details,Контактные данные
-metadata_fields:source_contact_6,Contact details,Контактные данные
-metadata_fields:source_earliest_available_1,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_earliest_available_2,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_earliest_available_3,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_earliest_available_4,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_earliest_available_5,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_earliest_available_6,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Географический охват
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Географический охват
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Географический охват
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Географический охват
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Географический охват
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Географический охват
-metadata_fields:source_next_release_1,Next release,Следующий  выпуск
-metadata_fields:source_next_release_2,Next release,Следующий  выпуск
-metadata_fields:source_next_release_3,Next release,Следующий  выпуск
-metadata_fields:source_next_release_4,Next release,Следующий  выпуск
-metadata_fields:source_next_release_5,Next release,Следующий  выпуск
-metadata_fields:source_next_release_6,Next release,Следующий  выпуск
-metadata_fields:source_organisation_1,Organisation,Организация
-metadata_fields:source_organisation_2,Organisation,Организация
-metadata_fields:source_organisation_3,Organisation,Организация
-metadata_fields:source_organisation_4,Organisation,Организация
-metadata_fields:source_organisation_5,Organisation,Организация
-metadata_fields:source_organisation_6,Organisation,Организация
-metadata_fields:source_other_info_1,Other information,Другая информация
-metadata_fields:source_other_info_2,Other information,Другая информация
-metadata_fields:source_other_info_3,Other information,Другая информация
-metadata_fields:source_other_info_4,Other information,Другая информация
-metadata_fields:source_other_info_5,Other information,Другая информация
-metadata_fields:source_other_info_6,Other information,Другая информация
-metadata_fields:source_periodicity_1,Periodicity,Периодичность
-metadata_fields:source_periodicity_2,Periodicity,Периодичность
-metadata_fields:source_periodicity_3,Periodicity,Периодичность
-metadata_fields:source_periodicity_4,Periodicity,Периодичность
-metadata_fields:source_periodicity_5,Periodicity,Периодичность
-metadata_fields:source_periodicity_6,Periodicity,Периодичность
-metadata_fields:source_release_date_1,Release date,Дата выпуска
-metadata_fields:source_release_date_2,Release date,Дата выпуска
-metadata_fields:source_release_date_3,Release date,Дата выпуска
-metadata_fields:source_release_date_4,Release date,Дата выпуска
-metadata_fields:source_release_date_5,Release date,Дата выпуска
-metadata_fields:source_release_date_6,Release date,Дата выпуска
-metadata_fields:source_statistical_classification_1,Statistical classification,Статистическая классификация
-metadata_fields:source_statistical_classification_2,Statistical classification,Статистическая классификация
-metadata_fields:source_statistical_classification_3,Statistical classification,Статистическая классификация
-metadata_fields:source_statistical_classification_4,Statistical classification,Статистическая классификация
-metadata_fields:source_statistical_classification_5,Statistical classification,Статистическая классификация
-metadata_fields:source_statistical_classification_6,Statistical classification,Статистическая классификация
-metadata_fields:source_url_1,Link to data source,Ссылка на источник данных
-metadata_fields:source_url_2,Link to data source,Ссылка на источник данных
-metadata_fields:source_url_3,Link to data source,Ссылка на источник данных
-metadata_fields:source_url_4,Link to data source,Ссылка на источник данных
-metadata_fields:source_url_5,Link to data source,Ссылка на источник данных
-metadata_fields:source_url_6,Link to data source,Ссылка на источник данных
-metadata_fields:target,Target name,Название задачи
-metadata_fields:target_id,Target number,Номер задачи
-metadata_fields:un_custodian_agency,UN custodian agency,Депозитарное учреждение ООН 
-metadata_fields:un_designated_tier,UN designated tier,Назначенный ООН уровень
-post:posts_by_category,Posts by Category,Посты по категории
-post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
-status:exploring_data_sources,Exploring data sources,Исследование источников данных
-status:not_applicable,Not applicable,Непригодный
-status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
-status:reported_online,Reported online,Сообщалось в интернете
-status:reporting_status,Reporting Status,Состояние отчётности 
-status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
-status:status_by_goal,Status by goal,Статус по цели
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
 global_targets:1.1---title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","К 2030 году ликвидировать крайнюю нищету
 для всех людей во всем мире (в настоящее время
 крайняя нищета определяется как проживание на
@@ -1155,12 +1035,16 @@ global_targets:9.c---title,Significantly increase access to information and comm
 технологиям и стремиться
 к обеспечению всеобщего и недорогого доступа к
 Интернету в наименее развитых странах к 2020 году"
-search:found_in,found in,найдено в
-search:indicator_search,Indicator search,Поиск показателя
-search:keywords,Keywords,Ключевые слова
-search:no_results,No results,Результатов не найдено
-search:search,Search,Поиск
-search:search_results_for,Search results for,Результаты поиска по вашему запросу
+general:goal,Goal,Цель
+general:goals,Goals,Цели
+general:home,Home,Главная
+general:indicator,Indicator,Показатель
+general:indicators,Indicators,Показатели
+general:loading,Loading search results,Загрузка результатов поиска
+general:opens_new_window,opens in a new window,открывается в новой вкладке
+general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
+general:target,Target,Задача
+general:targets,Targets,Задачи
 global_indicators:1.1.1---title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Доля населения, живущего за международной
 чертой бедности, в разбивке по полу, возрасту,
 статусу занятости и месту проживания (городское/сельское)
@@ -2028,9 +1912,125 @@ global_indicators:9.b.1---title,Proportion of medium and high-tech industry valu
 в общем объеме добавленной стоимости"
 global_indicators:9.c.1---title,"Proportion of population covered by a mobile network, by technology","Доля населения, охваченного мобильными
 сетями, в разбивке по технологиям"
-header:alpha,Alpha,Альфа
-header:disable_high_contrast,Disable high contrast,
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.
-header:enable_high_contrast,Enable high contrast,
-header:skip_link,Skip to main content,Перейти к главному содержанию
-header:tag_line,17 Goals to Transform our World,"17 Целей, чтобы преобразовать наш мир"
+indicator:chart,Chart,График
+indicator:clear_all,Clear all,Очистить всё
+indicator:clear_selections,Clear selections,Очистить выделенное
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"В таблице слишком много данных, чтобы показать в графике. Чтобы увидеть все, удалите выделенное."
+indicator:download_chart,Download Chart CSV,Скачать график CSV
+indicator:download_csv,Download CSV,Скачать CSV
+indicator:download_csv_title,Download as CSV,Скачать в формате CSV
+indicator:download_headline,Download Headline CSV,Скачать заголовки CSV
+indicator:download_headline_title,Download headline data as CSV,Скачать данные заголовков в формате CSV
+indicator:download_source,Download Source CSV,Скачать исходные CSV
+indicator:download_source_title,Download source data as CSV,Скачать исходные данные в формате CSV
+indicator:download_table,Download Table CSV,Скачать табличные CSV
+indicator:edit,Edit,Редактировать
+indicator:edit_data,Edit Data,Редактировать данные
+indicator:edit_metadata,Edit Metadata,Редактировать метаданные
+indicator:footnote,Footnote,Сноска
+indicator:geographical_area,Geographical Area,Географический район
+indicator:global_metadata,Global Metadata,Глобальные метаданные
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","В этой таблице представлена информация для метаданных показателей ЦУР, определенных Статистической комиссией ООН. Полные глобальные метаданные представлены Статистическим отделом ООН."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,"Нажмите на легенду, чтобы убрать линии из графика."
+indicator:loading_map,Loading map,Загрузка карты
+indicator:map,Map,Карта
+indicator:national_metadata,National Metadata,Национальные метаданные
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","В этой таблице представлены метаданные для фактического показателя, доступного из статистики ближайшей к соответствующему глобальному индикатору ЦУР. Обратите внимание, что даже если глобальный индикатор ЦУР полностью доступен из статистики, по этой таблице следует проконсультироваться для получения информации о национальной методологии и других специфичных метаданных."
+indicator:no_data_hint,No options available because of filters above,Нет имеющихся вариантов из-за фильтров наверху.
+indicator:select_all,Select all,Выделить всё
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Выберите категории из выпадающего меню внизу, чтобы увидеть разные разбивки данных. Несколько не будет доступно, пока более высокий уровень не выбран. "
+indicator:source,Source,Источник
+indicator:sources,Sources,Источники
+indicator:sub_categories,Sub-categories,Субкатегории
+indicator:table,Table,Таблица
+indicator:unit_of_measurement,Unit of Measurement,Единица измерения
+indicator:units_type,Units type,Вид единиц
+indicator:variable_hint,Available when '%field' is selected,"Доступно, когда выбрано"
+indicator:view_indicator_list,View this goal's indicator list,Посмотреть список индикаторов этой цели
+post:posts_by_category,Posts by Category,Посты по категории
+post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
+status:exploring_data_sources,Exploring data sources,Исследование источников данных
+status:not_applicable,Not applicable,Непригодный
+status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
+status:reported_online,Reported online,Сообщалось в интернете
+status:reporting_status,Reporting Status,Состояние отчётности 
+status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
+status:status_by_goal,Status by goal,Статус по цели
+metadata_fields:comments_limitations,Other information,Другая информация
+metadata_fields:computation_calculations,Calculations,Расчёты
+metadata_fields:computation_definitions,Definitions,Определения
+metadata_fields:computation_units,Unit of measurement,Единица измерения
+metadata_fields:goal_meta_link,Link to UN metadata,Ссылка на метаданные ООН
+metadata_fields:indicator,Indicator number,Номер показателя
+metadata_fields:indicator_definition,Global indicator description,Описание глобального показателя
+metadata_fields:indicator_name,Indicator name,Название показателя
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Порядок отображения показателей (на странице целей)
+metadata_fields:national_data_update_url,Data last updated,Последний раз данные обновлялись
+metadata_fields:national_geographical_coverage,Geographical coverage,Географический охват
+metadata_fields:national_indicator_available,Indicator available,Показатель доступен
+metadata_fields:national_indicator_description,Indicator description,Описание показателя
+metadata_fields:national_metadata_update_url,Metadata last updated, Последний раз метаданные обновлялись
+metadata_fields:source_contact_1,Contact details,Контактные данные
+metadata_fields:source_contact_2,Contact details,Контактные данные
+metadata_fields:source_contact_3,Contact details,Контактные данные
+metadata_fields:source_contact_4,Contact details,Контактные данные
+metadata_fields:source_contact_5,Contact details,Контактные данные
+metadata_fields:source_contact_6,Contact details,Контактные данные
+metadata_fields:source_earliest_available_1,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_earliest_available_2,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_earliest_available_3,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_earliest_available_4,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_earliest_available_5,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_earliest_available_6,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Географический охват
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Географический охват
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Географический охват
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Географический охват
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Географический охват
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Географический охват
+metadata_fields:source_next_release_1,Next release,Следующий  выпуск
+metadata_fields:source_next_release_2,Next release,Следующий  выпуск
+metadata_fields:source_next_release_3,Next release,Следующий  выпуск
+metadata_fields:source_next_release_4,Next release,Следующий  выпуск
+metadata_fields:source_next_release_5,Next release,Следующий  выпуск
+metadata_fields:source_next_release_6,Next release,Следующий  выпуск
+metadata_fields:source_organisation_1,Organisation,Организация
+metadata_fields:source_organisation_2,Organisation,Организация
+metadata_fields:source_organisation_3,Organisation,Организация
+metadata_fields:source_organisation_4,Organisation,Организация
+metadata_fields:source_organisation_5,Organisation,Организация
+metadata_fields:source_organisation_6,Organisation,Организация
+metadata_fields:source_other_info_1,Other information,Другая информация
+metadata_fields:source_other_info_2,Other information,Другая информация
+metadata_fields:source_other_info_3,Other information,Другая информация
+metadata_fields:source_other_info_4,Other information,Другая информация
+metadata_fields:source_other_info_5,Other information,Другая информация
+metadata_fields:source_other_info_6,Other information,Другая информация
+metadata_fields:source_periodicity_1,Periodicity,Периодичность
+metadata_fields:source_periodicity_2,Periodicity,Периодичность
+metadata_fields:source_periodicity_3,Periodicity,Периодичность
+metadata_fields:source_periodicity_4,Periodicity,Периодичность
+metadata_fields:source_periodicity_5,Periodicity,Периодичность
+metadata_fields:source_periodicity_6,Periodicity,Периодичность
+metadata_fields:source_release_date_1,Release date,Дата выпуска
+metadata_fields:source_release_date_2,Release date,Дата выпуска
+metadata_fields:source_release_date_3,Release date,Дата выпуска
+metadata_fields:source_release_date_4,Release date,Дата выпуска
+metadata_fields:source_release_date_5,Release date,Дата выпуска
+metadata_fields:source_release_date_6,Release date,Дата выпуска
+metadata_fields:source_statistical_classification_1,Statistical classification,Статистическая классификация
+metadata_fields:source_statistical_classification_2,Statistical classification,Статистическая классификация
+metadata_fields:source_statistical_classification_3,Statistical classification,Статистическая классификация
+metadata_fields:source_statistical_classification_4,Statistical classification,Статистическая классификация
+metadata_fields:source_statistical_classification_5,Statistical classification,Статистическая классификация
+metadata_fields:source_statistical_classification_6,Statistical classification,Статистическая классификация
+metadata_fields:source_url_1,Link to data source,Ссылка на источник данных
+metadata_fields:source_url_2,Link to data source,Ссылка на источник данных
+metadata_fields:source_url_3,Link to data source,Ссылка на источник данных
+metadata_fields:source_url_4,Link to data source,Ссылка на источник данных
+metadata_fields:source_url_5,Link to data source,Ссылка на источник данных
+metadata_fields:source_url_6,Link to data source,Ссылка на источник данных
+metadata_fields:target,Target name,Название задачи
+metadata_fields:target_id,Target number,Номер задачи
+metadata_fields:un_custodian_agency,UN custodian agency,Депозитарное учреждение ООН 
+metadata_fields:un_designated_tier,UN designated tier,Назначенный ООН уровень

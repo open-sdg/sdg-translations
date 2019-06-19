@@ -1,27 +1,27 @@
-1.1.1:
+1-1-1:
   title: Proportion of population below the international poverty line, by sex, age,
     employment status and geographical location (urban/rural)
-1.2.1:
+1-2-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf
   title: Proportion of population living below the national poverty line, by sex and
     age
-1.2.2:
+1-2-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf
   title: Proportion of men, women and children of all ages living in poverty in all
     its dimensions according to national definitions
-1.3.1:
+1-3-1:
   title: Proportion of population covered by social protection floors/systems, by
     sex, distinguishing children, unemployed persons, older persons, persons with
     disabilities, pregnant women, newborns, work-injury victims and the poor and the
     vulnerable
-1.4.1:
+1-4-1:
   title: Proportion of population living in households with access to basic services
-1.4.2:
+1-4-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-02.pdf
   title: Proportion of total adult population with secure tenure rights to land,
     with legally recognized documentation, and who perceive their rights to land
     as secure, by sex and by type of tenure
-1.5.1:
+1-5-1:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: 'Death: The number of people who died during the disaster, or directly
     after, as a direct result of the hazardous event  Missing: The number of people
@@ -47,11 +47,11 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf
   title: Number of deaths, missing persons and directly affected persons attributed
     to disasters per 100,000 population
-1.5.2:
+1-5-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf
   title: Direct economic loss attributed to disasters in relation to global gross
     domestic product (GDP)
-1.5.3:
+1-5-3:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: NA  [a] An open-ended intergovernmental expert working group on indicators
     and terminology relating to disaster risk reduction established by the General
@@ -61,7 +61,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-03.pdf
   title: Number of countries that adopt and implement national disaster risk reduction
     strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030
-1.5.4:
+1-5-4:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: NA  [a] An open-ended intergovernmental expert working group on indicators
     and terminology relating to disaster risk reduction established by the General
@@ -71,20 +71,20 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-04.pdf
   title: Proportion of local governments that adopt and implement local disaster risk
     reduction strategies in line with national disaster risk reduction strategies
-1.a.1:
+1-a-1:
   title: Proportion of domestically generated resources allocated by the government
     directly to poverty reduction programmes
-1.a.2:
+1-a-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02.pdf
   title: Proportion of total government spending on essential services (education,
     health and social protection)
-1.a.3:
+1-a-3:
   title: Sum of total grants and non-debt-creating inflows directly allocated to poverty
     reduction programmes as a proportion of GDP
-1.b.1:
+1-b-1:
   title: Proportion of government recurrent and capital spending to sectors that disproportionately
     benefit women, the poor and vulnerable groups
-10.1.1:
+10-1-1:
   custodian_agency: World Bank (WB)
   definition: The growth rate in the welfare aggregate of bottom 40% is computed as
     the annualized average growth rate in per capita real consumption or income of
@@ -96,14 +96,14 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-10-01-01.pdf
   title: Growth rates of household expenditure or income per capita among the bottom
     40 per cent of the population and the total population
-10.2.1:
+10-2-1:
   title: Proportion of people living below 50 per cent of median income, by sex, age
     and persons with disabilities
-10.3.1:
+10-3-1:
   title: Proportion of population reporting having personally felt discriminated against
     or harassed in the previous 12 months on the basis of a ground of discrimination
     prohibited under international human rights law
-10.4.1:
+10-4-1:
   custodian_agency: International Labour Organization (ILO)
   definition: Labour share of Gross Domestic Product (GDP) is the total compensation
     of employees given as a percent of GDP, which is a measure of total output. It
@@ -112,9 +112,9 @@
     for a given reference period.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-01.pdf
   title: Labour share of GDP, comprising wages and social protection transfers
-10.5.1:
+10-5-1:
   title: Financial Soundness Indicators (FSIs)
-10.6.1:
+10-6-1:
   custodian_agency: Financing for Development Office, DESA (FFDO)
   definition: The proportion of members and voting rights of developing countries
     in international organizations has two components, the developing country proportion
@@ -123,12 +123,12 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-10-06-01.pdf
   title: Proportion of members and voting rights of developing countries in international
     organizations
-10.7.1:
+10-7-1:
   title: Recruitment cost borne by employee as a proportion of yearly income earned
     in country of destination
-10.7.2:
+10-7-2:
   title: Number of countries that have implemented well-managed migration policies
-10.a.1:
+10-a-1:
   custodian_agency: International Trade Centre (ITC),  United Nations Conference on
     Trade and Development (UNCTAD),  The, World Trade Organization (WTO)
   definition: Proportion of total number of tariff lines (in per cent) applied to
@@ -137,7 +137,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-10-0A-01.pdf
   title: Proportion of tariff lines applied to imports from least developed countries
     and developing countries with zero-tariff
-10.b.1:
+10-b-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: Total resource flows for development, by recipient and donor countries
     and type of flow comprises of Official Development Assistance (ODA), other official
@@ -146,7 +146,7 @@
   title: Total resource flows for development, by recipient and donor countries and
     type of flow (e.g. official development assistance, foreign direct investment
     and other flows)
-10.c.1:
+10-c-1:
   custodian_agency: World Bank
   definition: The target includes two components. The first component is that transaction
     costs for migrant remittances should be 3% or less by 2030. This transaction cost
@@ -162,12 +162,12 @@
     (including service quality, reach etc.), for which the average is 5% or less.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-10-0c-01.pdf
   title: Remittance costs as a proportion of the amount remitted
-11.1.1:
+11-1-1:
   custodian_agency: United Nations Human Settlements Programme (UN-Habitat)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-01-01.pdf
   title: Proportion of urban population living in slums, informal settlements or inadequate
     housing
-11.2.1:
+11-2-1:
   custodian_agency: United Nations Human Settlements Programme (UN-Habitat)
   definition: 'This indicator will be monitored by the proportion of the population
     that has convenient access to public transport. The access to public transport
@@ -182,7 +182,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-02-01.pdf
   title: Proportion of population that has convenient access to public transport,
     by sex, age and persons with disabilities
-11.3.1:
+11-3-1:
   custodian_agency: United Nations Human Settlements Programme (UN-Habitat)
   definition: The indicator is defined as the ratio of land consumption rate to population
     growth rate.  This indicator requires defining the two components of population
@@ -195,17 +195,17 @@
     is also sometimes referred to as built up area.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-03-01.pdf
   title: Ratio of land consumption rate to population growth rate
-11.3.2:
+11-3-2:
   title: Proportion of cities with a direct participation structure of civil society
     in urban planning and management that operate regularly and democratically
-11.4.1:
+11-4-1:
   title: Total expenditure (public and private) per capita spent on the preservation,
     protection and conservation of all cultural and natural heritage, by type of heritage
     (cultural, natural, mixed and World Heritage Centre designation), level of government
     (national, regional and local/municipal), type of expenditure (operating expenditure/investment)
     and type of private funding (donations in kind, private non-profit sector and
     sponsorship)
-11.5.1:
+11-5-1:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: 'Death: The number of people who died during the disaster, or directly
     after, as a direct result of the hazardous event  Missing: The number of people
@@ -231,11 +231,11 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-01.pdf
   title: Number of deaths, missing persons and directly affected persons attributed
     to disasters per 100,000 population
-11.5.2:
+11-5-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-05-02.pdf
   title: Direct economic loss in relation to global GDP, damage to critical infrastructure
     and number of disruptions to basic services, attributed to disasters
-11.6.1:
+11-6-1:
   custodian_agency: United Nations Human Settlements Programme (UN-Habitat)
   definition: Proportion of municipal solid waste regularly collected and with adequate
     treatment and disposal out of total municipal solid waste generated.   The goal
@@ -245,7 +245,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-01.pdf
   title: Proportion of urban solid waste regularly collected and with adequate final
     discharge out of total urban solid waste generated, by cities
-11.6.2:
+11-6-2:
   custodian_agency: World Health Organization (WHO)
   definition: The mean annual concentration of fine suspended particles of less than
     2.5 microns in diameters (PM2.5) is a common measure of air pollution. The mean
@@ -254,7 +254,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-02.pdf
   title: Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities
     (population weighted)
-11.7.1:
+11-7-1:
   custodian_agency: United Nations Human Settlements Programme (UN-Habitat)
   definition: Average share of the built-up area of cities that is open space for
     public use for all  -surfaces including the urban vacant areas in and around them
@@ -262,14 +262,14 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-07-01.pdf
   title: Average share of the built-up area of cities that is open space for public
     use for all, by sex, age and persons with disabilities
-11.7.2:
+11-7-2:
   title: Proportion of persons victim of physical or sexual harassment, by sex, age,
     disability status and place of occurrence, in the previous 12 months
-11.a.1:
+11-a-1:
   title: Proportion of population living in cities that implement urban and regional
     development plans integrating population projections and resource needs, by size
     of city
-11.b.1:
+11-b-1:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: NA  [a] An open-ended intergovernmental expert working group on indicators
     and terminology relating to disaster risk reduction established by the General
@@ -279,7 +279,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-0B-01.pdf
   title: Number of countries that adopt and implement national disaster risk reduction
     strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030
-11.b.2:
+11-b-2:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: NA  [a] An open-ended intergovernmental expert working group on indicators
     and terminology relating to disaster risk reduction established by the General
@@ -289,11 +289,11 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-0B-02.pdf
   title: Proportion of local governments that adopt and implement local disaster risk
     reduction strategies in line with national disaster risk reduction strategies
-11.c.1:
+11-c-1:
   title: Proportion of financial support to the least developed countries that is
     allocated to the construction and retrofitting of sustainable, resilient and resource-efficient
     buildings utilizing local materials
-12.1.1:
+12-1-1:
   custodian_agency: United Nations Environment Programme, (UNEP)
   definition: 'This indicator allows for the quantification (#) and monitoring of
     countries making progress along the policy cycle of binding and non-binding policy
@@ -314,7 +314,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-12-01-01.pdf
   title: Number of countries with sustainable consumption and production (SCP) national
     action plans or SCP mainstreamed as a priority or a target into national policies
-12.2.1:
+12-2-1:
   custodian_agency: United Nations Environment Programme (UNEP)
   definition: Material Footprint (MF) is the attribution of global material extraction
     to domestic final demand of a country. The total material footprint is the sum
@@ -323,7 +323,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-12-02-01.pdf
   title: Material footprint, material footprint per capita, and material footprint
     per GDP
-12.2.2:
+12-2-2:
   custodian_agency: United Nations Environment Programme (UNEP)
   definition: Domestic Material Consumption (DMC) is a standard material flow accounting
     (MFA) indicator and reports the apparent consumption of materials in a national
@@ -331,9 +331,9 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-12-02-02.pdf
   title: Domestic material consumption, domestic material consumption per capita,
     and domestic material consumption per GDP
-12.3.1:
+12-3-1:
   title: Global food loss index
-12.4.1:
+12-4-1:
   custodian_agency: UN Environment, (United Nations Environment Programme)
   definition: 'The indicator refers to the number of parties (=countries that have
     ratified, accepted, approved or accessed), to the following Multilateral Environmental
@@ -371,30 +371,30 @@
   title: Number of parties to international multilateral environmental agreements
     on hazardous waste, and other chemicals that meet their commitments and obligations
     in transmitting information as required by each relevant agreement
-12.4.2:
+12-4-2:
   title: Hazardous waste generated per capita and proportion of hazardous waste treated,
     by type of treatment
-12.5.1:
+12-5-1:
   title: National recycling rate, tons of material recycled
-12.6.1:
+12-6-1:
   title: Number of companies publishing sustainability reports
-12.7.1:
+12-7-1:
   title: Number of countries implementing sustainable public procurement policies
     and action plans
-12.8.1:
+12-8-1:
   title: Extent to which (i) global citizenship education and (ii) education for sustainable
     development (including climate change education) are mainstreamed in (a) national
     education policies; (b) curricula; (c) teacher education; and (d) student assessment
-12.a.1:
+12-a-1:
   title: Amount of support to developing countries on research and development for
     sustainable consumption and production and environmentally sound technologies
-12.b.1:
+12-b-1:
   title: Number of sustainable tourism strategies or policies and implemented action
     plans with agreed monitoring and evaluation tools
-12.c.1:
+12-c-1:
   title: Amount of fossil-fuel subsidies per unit of GDP (production and consumption)
     and as a proportion of total national expenditure on fossil fuels
-13.1.1:
+13-1-1:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: 'Death: The number of people who died during the disaster, or directly
     after, as a direct result of the hazardous event  Missing: The number of people
@@ -420,7 +420,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-13-01-01.pdf
   title: Number of deaths, missing persons and directly affected persons attributed
     to disasters per 100,000 population
-13.1.2:
+13-1-2:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: NA  [a] An open-ended intergovernmental expert working group on indicators
     and terminology relating to disaster risk reduction established by the General
@@ -430,7 +430,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-13-01-02.pdf
   title: Number of countries that adopt and implement national disaster risk reduction
     strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030
-13.1.3:
+13-1-3:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: NA  [a] An open-ended intergovernmental expert working group on indicators
     and terminology relating to disaster risk reduction established by the General
@@ -440,38 +440,38 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-13-01-03.pdf
   title: Proportion of local governments that adopt and implement local disaster risk
     reduction strategies in line with national disaster risk reduction strategies
-13.2.1:
+13-2-1:
   title: Number of countries that have communicated the establishment or operationalization
     of an integrated policy/strategy/plan which increases their ability to adapt to
     the adverse impacts of climate change, and foster climate resilience and low greenhouse
     gas emissions development in a manner that does not threaten food production (including
     a national adaptation plan, nationally determined contribution, national communication,
     biennial update report or other)
-13.3.1:
+13-3-1:
   title: Number of countries that have integrated mitigation, adaptation, impact reduction
     and early warning into primary, secondary and tertiary curricula
-13.3.2:
+13-3-2:
   title: Number of countries that have communicated the strengthening of institutional,
     systemic and individual capacity-building to implement adaptation, mitigation
     and technology transfer, and development actions
-13.a.1:
+13-a-1:
   title: Mobilized amount of United States dollars per year between 2020 and 2025
     accountable towards the $100 billion commitment
-13.b.1:
+13-b-1:
   title: Number of least developed countries and small island developing States that
     are receiving specialized support, and amount of support, including finance, technology
     and capacity-building, for mechanisms for raising capacities for effective climate
     change-related planning and management, including focusing on women, youth and
     local and marginalized communities
-14.1.1:
+14-1-1:
   title: Index of coastal eutrophication and floating plastic debris density
-14.2.1:
+14-2-1:
   title: Proportion of national exclusive economic zones managed using ecosystem-based
     approaches
-14.3.1:
+14-3-1:
   title: Average marine acidity (pH) measured at agreed suite of representative sampling
     stations
-14.4.1:
+14-4-1:
   custodian_agency: Food and Agriculture Organization of the United Nations (FAO)
   definition: The indicator Proportion of fish stocks within biologically sustainable
     levels measures the sustainability of the world's marine capture fisheries by
@@ -481,7 +481,7 @@
     is considered biologically unsustainable.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-14-04-01.pdf
   title: Proportion of fish stocks within biologically sustainable levels
-14.5.1:
+14-5-1:
   custodian_agency: UN, Environment, World Conservation Monitoring Centre (UNEP-WCMC),
     BirdLife International (BLI), International Union for Conservation of Nature (IUCN)
   definition: The indicator Coverage of protected areas in relation to marine areas
@@ -490,39 +490,39 @@
     of biodiversity) that is covered by designated protected areas.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-14-05-01.pdf
   title: Coverage of protected areas in relation to marine areas
-14.6.1:
+14-6-1:
   custodian_agency: Food and Agriculture, Organisation of the United Nations
   definition: Progress by countries in the degree of implementation of international
     instruments aiming to combat illegal, unreported and unregulated fishing.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-14-06-01.pdf
   title: Progress by countries in the degree of implementation of international instruments
     aiming to combat illegal, unreported and unregulated fishing
-14.7.1:
+14-7-1:
   title: Sustainable fisheries as a proportion of GDP in small island developing States,
     least developed countries and all countries
-14.a.1:
+14-a-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-14-0a-01.pdf
   title: Proportion of total research budget allocated to research in the field of
     marine technology
-14.b.1:
+14-b-1:
   custodian_agency: Food and Agriculture Organisation of the United Nations
   definition: Progress by number of countries in the degree of application of a legal/regulatory/policy/institutional
     framework which recognizes and protects access rights for small-scale fisheries.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-14-0b-01.pdf
   title: Progress by countries in the degree of application of a legal/regulatory/policy/institutional
     framework which recognizes and protects access rights for small-scale fisheries
-14.c.1:
+14-c-1:
   title: Number of countries making progress in ratifying, accepting and implementing
     through legal, policy and institutional frameworks, ocean-related instruments
     that implement international law, as reflected in the United Nations Convention
     on the Law of the Sea, for the conservation and sustainable use of the oceans
     and their resources
-15.1.1:
+15-1-1:
   custodian_agency: Food and Agriculture Organization of the United Nations (FAO)
   definition: Forest area as a proportion of total land area
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-01.pdf
   title: Forest area as a proportion of total land area
-15.1.2:
+15-1-2:
   custodian_agency: UN, Environment, World Conservation Monitoring Centre (UNEP-WCMC),
     BirdLife, International (BLI), International Union for Conservation of Nature
     (IUCN)
@@ -534,7 +534,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-01-02.pdf
   title: Proportion of important sites for terrestrial and freshwater biodiversity
     that are covered by protected areas, by ecosystem type
-15.2.1:
+15-2-1:
   custodian_agency: Food and Agriculture Organisation of the United Nations (FAO)
   definition: 'target 15.2. It has been formally defined, by the UN General Assembly,
     as follows:  [a] dynamic and evolving concept [that] aims to maintain and enhance
@@ -557,7 +557,7 @@
     sustainable development goals has been achieved.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-02-01.pdf
   title: Progress towards sustainable forest management
-15.3.1:
+15-3-1:
   custodian_agency: United Nations Convention to Combat Desertification (UNCCD), and,
     partners, including, the Food and Agriculture Organization of the United Nations
     (FAO), United Nations Statistics Division (UNSD), United Nations Environment (UNEP),
@@ -565,14 +565,14 @@
     on Biological Diversity (CBD).
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-03-01.pdf
   title: Proportion of land that is degraded over total land area
-15.4.1:
+15-4-1:
   definition: This indicator Coverage by protected areas of important sites for mountain
     biodiversity shows temporal trends in the mean percentage of each important site
     for mountain biodiversity (i.e., those that contribute significantly to the global
     persistence of biodiversity) that is covered by designated protected areas.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-04-01.pdf
   title: Coverage by protected areas of important sites for mountain biodiversity
-15.4.2:
+15-4-2:
   custodian_agency: Food and Agriculture, Organization of the United Nations (FAO)
   definition: The Green Cover Index is meant to measure the changes of the green vegetation
     in mountain areas - i.e. forest, shrubs, trees, pasture land, crop land, etc.  in
@@ -581,7 +581,7 @@
     of the status of the conservation of mountain environments.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-04-02.pdf
   title: Mountain Green Cover Index
-15.5.1:
+15-5-1:
   custodian_agency: International Union for Conservation of Nature (IUCN), BirdLife
     International (BLI)
   definition: The Red List Index measures change in aggregate extinction risk across
@@ -590,25 +590,25 @@
     2015) is expressed as changes in an index ranging from 0 to 1.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-05-01.pdf
   title: Red List Index
-15.6.1:
+15-6-1:
   custodian_agency: Secretariat of the Convention on Biological Diversity, (CBD)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-06-01.pdf
   title: Number of countries that have adopted legislative, administrative and policy
     frameworks to ensure fair and equitable sharing of benefits
-15.7.1:
+15-7-1:
   custodian_agency: United, Nations Office on Drugs and Crime (UNODC)
   definition: The share of all trade in wildlife detected as being illegal
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-07-01.pdf
   title: Proportion of traded wildlife that was poached or illicitly trafficked
-15.8.1:
+15-8-1:
   custodian_agency: International Union for Conservation of Nature (IUCN)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-08-01.pdf
   title: Proportion of countries adopting relevant national legislation and adequately
     resourcing the prevention or control of invasive alien species
-15.9.1:
+15-9-1:
   title: Progress towards national targets established in accordance with Aichi Biodiversity
     Target 2 of the Strategic Plan for Biodiversity 2011–2020
-15.a.1:
+15-a-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: The indicator Official development assistance and public expenditure
     on conservation and sustainable use of biodiversity and ecosystems is defined
@@ -616,7 +616,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-0A-01.pdf
   title: Official development assistance and public expenditure on conservation and
     sustainable use of biodiversity and ecosystems
-15.b.1:
+15-b-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: The indicator Official development assistance and public expenditure
     on conservation and sustainable use of biodiversity and ecosystems is defined
@@ -624,12 +624,12 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-0B-01.pdf
   title: Official development assistance and public expenditure on conservation and
     sustainable use of biodiversity and ecosystems
-15.c.1:
+15-c-1:
   custodian_agency: United, Nations Office on Drugs and Crime (UNODC)
   definition: The share of all trade in wildlife detected as being illegal
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-15-0C-01.pdf
   title: Proportion of traded wildlife that was poached or illicitly trafficked
-16.1.1:
+16-1-1:
   custodian_agency: United Nations Office on Drugs and Crime (UNODC)
   definition: 'The indicator is defined as the total count of victims of intentional
     homicide divided by the total population, expressed per 100,000 population.  Intentional
@@ -640,22 +640,22 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-01.pdf
   title: Number of victims of intentional homicide per 100,000 population, by sex
     and age
-16.1.2:
+16-1-2:
   title: Conflict-related deaths per 100,000 population, by sex, age and cause
-16.1.3:
+16-1-3:
   definition: The total number of persons who have been victim of physical, psychological
     or sexual violence in the previous 12 months, as a share of the total population.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-03.pdf
   title: Proportion of population subjected to (a) physical violence, (b) psychological
     violence and (c) sexual violence in the previous 12 months
-16.1.4:
+16-1-4:
   custodian_agency: United Nations Office on Drugs and Crime (UNODC)
   definition: This indicator refers to the proportion of the population (adults) who
     feel safe walking alone in their neighbourhood.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-04.pdf
   title: Proportion of population that feel safe walking alone around the area they
     live
-16.10.1:
+16-10-1:
   definition: 'This indicator is defined as the number of verified cases of killing,
     enforced disappearance, torture, arbitrary detention, kidnapping and other harmful
     acts committed against journalists, trade unionists and human rights defenders
@@ -752,11 +752,11 @@
   title: Number of verified cases of killing, kidnapping, enforced disappearance,
     arbitrary detention and torture of journalists, associated media personnel, trade
     unionists and human rights advocates in the previous 12 months
-16.10.2:
+16-10-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-10-02.pdf
   title: Number of countries that adopt and implement constitutional, statutory and/or
     policy guarantees for public access to information
-16.2.1:
+16-2-1:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: Proportion of children aged 1-17 years who experienced any physical
     punishment and/or psychological aggression by caregivers in the past month is
@@ -766,7 +766,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-01.pdf
   title: Proportion of children aged 1–17 years who experienced any physical punishment
     and/or psychological aggression by caregivers in the past month
-16.2.2:
+16-2-2:
   custodian_agency: United Nations Office on Drugs and Crime (UNODC)
   definition: The indicator is defined as the ratio between the total number of victims
     of trafficking in persons detected or living in a country and the population resident
@@ -787,14 +787,14 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-02.pdf
   title: Number of victims of human trafficking per 100,000 population, by sex, age
     and form of exploitation
-16.2.3:
+16-2-3:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: Proportion of young women and men aged 18-29 years who experienced sexual
     violence by age 18
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-02-03.pdf
   title: Proportion of young women and men aged 18–29 years who experienced sexual
     violence by age 18
-16.3.1:
+16-3-1:
   custodian_agency: United Nations Office on Drugs and Crime (UNODC)
   definition: Number of victims of violent crime in the previous 12 months who reported
     their victimization to competent authorities or other officially recognized conflict
@@ -804,20 +804,20 @@
   title: Proportion of victims of violence in the previous 12 months who reported
     their victimization to competent authorities or other officially recognized conflict
     resolution mechanisms
-16.3.2:
+16-3-2:
   definition: The total number of persons held in detention who have not yet been
     sentenced, as a percentage of the total number of persons held in detention, on
     a specified date.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-03-02.pdf
   title: Unsentenced detainees as a proportion of overall prison population
-16.4.1:
+16-4-1:
   title: Total value of inward and outward illicit financial flows (in current United
     States dollars)
-16.4.2:
+16-4-2:
   title: Proportion of seized, found or surrendered arms whose illicit origin or context
     has been traced or established by a competent authority in line with international
     instruments
-16.5.1:
+16-5-1:
   custodian_agency: United Nations Office on Drugs and Crime (UNODC)
   definition: This indicator is defined as the percentage of persons who paid at least
     one bribe (gave a public official money, a gift or counter favour) to a public
@@ -828,7 +828,7 @@
   title: Proportion of persons who had at least one contact with a public official
     and who paid a bribe to a public official, or were asked for a bribe by those
     public officials, during the previous 12 months
-16.5.2:
+16-5-2:
   custodian_agency: World Bank (WB)
   definition: Proportion of firms asked for a gift or informal payment when meeting
     with tax officials.   In every Enterprise Survey (www.enterprisesurveys.org),
@@ -843,7 +843,7 @@
   title: Proportion of businesses that had at least one contact with a public official
     and that paid a bribe to a public official, or were asked for a bribe by those
     public officials during the previous 12 months
-16.6.1:
+16-6-1:
   custodian_agency: World Bank (WB)
   definition: Primary government expenditures as a proportion of original approved
     budget  This indicator measures the extent to which aggregate budget expenditure
@@ -853,16 +853,16 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-06-01.pdf
   title: Primary government expenditures as a proportion of original approved budget,
     by sector (or by budget codes or similar)
-16.6.2:
+16-6-2:
   title: Proportion of population satisfied with their last experience of public services
-16.7.1:
+16-7-1:
   title: Proportions of positions (by sex, age, persons with disabilities and population
     groups) in public institutions (national and local legislatures, public service,
     and judiciary) compared to national distributions
-16.7.2:
+16-7-2:
   title: Proportion of population who believe decision-making is inclusive and responsive,
     by sex, age, disability and population group
-16.8.1:
+16-8-1:
   definition: 'The indicator Proportion of members and voting rights of developing
     countries in international organizations has two components, the developing country
     proportion of voting rights and the developing country proportion of membership
@@ -877,14 +877,14 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-08-01.pdf
   title: Proportion of members and voting rights of developing countries in international
     organizations
-16.9.1:
+16-9-1:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: Proportion of children under 5 years of age whose births have been registered
     with a civil authority.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-09-01.pdf
   title: Proportion of children under 5 years of age whose births have been registered
     with a civil authority, by age
-16.a.1:
+16-a-1:
   custodian_agency: United Nations Office of the High Commissioner for Human Rights
   definition: This indicator Existence of independent national human rights institutions
     in compliance with the Paris Principles measures the compliance of existing national
@@ -897,32 +897,32 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-0A-01.pdf
   title: Existence of independent national human rights institutions in compliance
     with the Paris Principles
-16.b.1:
+16-b-1:
   title: Proportion of population reporting having personally felt discriminated against
     or harassed in the previous 12 months on the basis of a ground of discrimination
     prohibited under international human rights law
-17.1.1:
+17-1-1:
   custodian_agency: IMF Statistics Department (Government Finance Division)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-01.pdf
   title: Total government revenue as a proportion of GDP, by source
-17.1.2:
+17-1-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-01-02.pdf
   title: Proportion of domestic budget funded by domestic taxes
-17.10.1:
+17-10-1:
   custodian_agency: International Trade Centre (ITC),  United Nations Conference on
     Trade and Development (UNCTAD),  The, World Trade Organization (WTO)
   definition: Value in percentage of weighted average tariffs applied to the imports
     of goods in HS chapter 01-97.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-10-01.pdf
   title: Worldwide weighted tariff-average
-17.11.1:
+17-11-1:
   custodian_agency: International Trade Centre (ITC),  United Nations Conference on
     Trade and Development (UNCTAD),  The, World Trade Organization (WTO)
   definition: Exports by developing countries and LDCs as a share of global exports
     of goods and services
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-11-01.pdf
   title: Developing countries’ and least developed countries’ share of global exports
-17.12.1:
+17-12-1:
   custodian_agency: International Trade Centre (ITC),  United Nations Conference on
     Trade and Development (UNCTAD),  The, World Trade Organization (WTO)
   definition: Average import tariffs (in per cent) faced by products exported from
@@ -930,12 +930,12 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-12-01.pdf
   title: Average tariffs faced by developing countries, least developed countries
     and small island developing States
-17.13.1:
+17-13-1:
   title: Macroeconomic Dashboard
-17.14.1:
+17-14-1:
   title: Number of countries with mechanisms in place to enhance policy coherence
     of sustainable development
-17.15.1:
+17-15-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD),  United
     Nations Development Programme (UNDP)
   definition: This indicator measures the extent to which, and the ways in which,
@@ -947,7 +947,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-15-01.pdf
   title: Extent of use of country-owned results frameworks and planning tools by providers
     of development cooperation
-17.16.1:
+17-16-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD),  United
     Nations Development Programme (UNDP)
   definition: The indicator tracks the number of countries reporting progress in multi
@@ -958,14 +958,14 @@
   title: Number of countries reporting progress in multi-stakeholder development effectiveness
     monitoring frameworks that support the achievement of the sustainable development
     goals
-17.17.1:
+17-17-1:
   title: Amount of United States dollars committed to public-private and
     civil society partnerships
-17.18.1:
+17-18-1:
   title: Proportion of sustainable development indicators produced at the national
     level with full disaggregation when relevant to the target, in accordance with
     the Fundamental Principles of Official Statistics
-17.18.2:
+17-18-2:
   custodian_agency: Partnership in Statistics for Development in the 21st Century,
     (PARIS21)
   definition: The indicator refers to the number of countries that have national statistical
@@ -975,13 +975,13 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-02.pdf
   title: Number of countries that have national statistical legislation that complies
     with the Fundamental Principles of Official Statistics
-17.18.3:
+17-18-3:
   custodian_agency: Partnership in Statistics for Development in the 21st Century,
     (PARIS21)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-18-03.pdf
   title: Number of countries with a national statistical plan that is fully funded
     and under implementation, by source of funding
-17.19.1:
+17-19-1:
   custodian_agency: Partnership in Statistics for Development in the 21st Century
     (PARIS21)
   definition: The indicator Dollar value of all resources made available to strengthen
@@ -992,7 +992,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-19-01.pdf
   title: Dollar value of all resources made available to strengthen statistical capacity
     in developing countries
-17.19.2:
+17-19-2:
   custodian_agency: United Nations Statistics Division (UNSD)
   definition: This information only refers to 17.19.2 (a)   The indicator tracks the
     proportion of countries that have conducted at least one population and housing
@@ -1003,7 +1003,7 @@
   title: Proportion of countries that (a) have conducted at least one population and
     housing census in the last 10 years; and (b) have achieved 100 per cent birth
     registration and 80 per cent death registration
-17.2.1:
+17-2-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: The indicator Net official development assistance, total and to least
     developed countries, as a proportion of the Organization for Economic Cooperation
@@ -1013,28 +1013,28 @@
   title: Net official development assistance, total and to least developed countries,
     as a proportion of the Organization for Economic Cooperation and Development (OECD)
     Development Assistance Committee donors’ gross national income (GNI)
-17.3.1:
+17-3-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: 'ODA PART: ODA disbursements'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-03-01.pdf
   title: Foreign direct investment (FDI), official development assistance and South-South
     cooperation as a proportion of total domestic budget
-17.3.2:
+17-3-2:
   custodian_agency: World Bank (WB)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-03-02.pdf
   title: Volume of remittances (in United States dollars) as a proportion of total
     GDP
-17.4.1:
+17-4-1:
   custodian_agency: World Bank (WB)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-04-01.pdf
   title: Debt service as a proportion of exports of goods and services
-17.5.1:
+17-5-1:
   title: Number of countries that adopt and implement investment promotion regimes
     for least developed countries
-17.6.1:
+17-6-1:
   title: Number of science and/or technology cooperation agreements and programmes
     between countries, by type of cooperation
-17.6.2:
+17-6-2:
   custodian_agency: International Telecommunication Union (ITU)
   definition: 'The indicator fixed Internet broadband subscriptions, by speed, refers
     to the number of fixed-broadband subscriptions to the public Internet, split by
@@ -1049,24 +1049,24 @@
     equal to, or greater than, 10 Mbit/s.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-06-02.pdf
   title: Fixed Internet broadband subscriptions per 100 inhabitants, by speed
-17.7.1:
+17-7-1:
   title: Total amount of approved funding for developing countries to promote the
     development, transfer, dissemination and diffusion of environmentally sound technologies
-17.8.1:
+17-8-1:
   custodian_agency: International Telecommunication Union (ITU)
   definition: The indicator proportion of individuals using the Internet is defined
     as the proportion of individuals who used the Internet from any location in the
     last three months.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-08-01.pdf
   title: Proportion of individuals using the Internet
-17.9.1:
+17-9-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: Gross disbursements of total ODA and other official flows from all donors
     for capacity building and national planning.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-09-01.pdf
   title: Dollar value of financial and technical assistance (including through North-South,
     South‐South and triangular cooperation) committed to developing countries
-2.1.1:
+2-1-1:
   custodian_agency: Food and Agriculture Organization of the United Nations (UN FAO)
   definition: 'The prevalence of undernourishment (PoU) (French: pourcentage de sous-alimentation;
     Spanish: porcentaje de sub-alimentación; Italian: prevalenza di sotto-alimentazione)
@@ -1075,7 +1075,7 @@
     a normal active and healthy life. It is expressed as a percentage.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-01.pdf
   title: Prevalence of undernourishment
-2.1.2:
+2-1-2:
   definition: The indicator measures the percentage of individuals in the population
     who have experienced food insecurity at moderate or severe levels during the reference
     period. The severity of food insecurity, defined as a latent trait, is measured
@@ -1085,23 +1085,23 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-02.pdf
   title: Prevalence of moderate or severe food insecurity in the population, based
     on the Food Insecurity Experience Scale (FIES)
-2.2.1:
+2-2-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-01.pdf
   title: Prevalence of stunting (height for age <-2 standard deviation from the median
     of the World Health Organization (WHO) Child Growth Standards) among children
     under 5 years of age
-2.2.2:
+2-2-2:
   title: Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation
     from the median of the WHO Child Growth Standards) among children under 5 years
     of age, by type (wasting and overweight)
-2.3.1:
+2-3-1:
   title: Volume of production per labour unit by classes of farming/pastoral/forestry
     enterprise size
-2.3.2:
+2-3-2:
   title: Average income of small-scale food producers, by sex and indigenous status
-2.4.1:
+2-4-1:
   title: Proportion of agricultural area under productive and sustainable agriculture
-2.5.1:
+2-5-1:
   custodian_agency: Food and Agriculture Organization of the United Nations (UN FAO)
   definition: The conservation of plant and animal genetic resources for food and
     agriculture (GRFA) in medium or long term conservation facilities (ex situ in
@@ -1131,7 +1131,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-05-01.pdf
   title: Number of plant and animal genetic resources for food and agriculture secured
     in either medium- or long-term conservation facilities
-2.5.2:
+2-5-2:
   custodian_agency: Food and Agriculture Organization of the United Nations (FAO)
   definition: The indicator presents the percentage of livestock breeds classified
     as being at risk, not at risk or of unknown risk of extinctions at a certain moment
@@ -1139,7 +1139,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-05-02.pdf
   title: Proportion of local breeds classified as being at risk, not at risk or at
     unknown level of risk of extinction
-2.a.1:
+2-a-1:
   custodian_agency: Food and Agriculture Organization of the United Nations (FAO)
   definition: The Agriculture Orientation Index (AOI) for Government Expenditures
     is defined as the Agriculture Share of Government Expenditures, divided by the
@@ -1151,16 +1151,16 @@
     (SNA).
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-01.pdf
   title: The agriculture orientation index for government expenditures
-2.a.2:
+2-a-2:
   definition: Gross disbursements of total ODA and other official flows from all donors
     to the agriculture sector.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-02.pdf
   title: Total official flows (official development assistance plus other official
     flows) to the agriculture sector
-2.b.1:
+2-b-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-0B-01.pdf
   title: Agricultural export subsidies
-2.b.2:
+2-b-2:
   custodian_agency: The World Trade Organization (WTO)
   definition: 'Agricultural export subsidies are defined as export subsidies budgetary
     outlays and quantities as notified by WTO Members in Tables ES:1 and supporting
@@ -1178,14 +1178,14 @@
     export subsidies under the provisions of article 9.4 of the Agreement on Agriculture."'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-0B-02.pdf
   title: Agricultural export subsidies
-2.c.1:
+2-c-1:
   custodian_agency: Food and Agriculture Organization of the United Nations (FAO)
   definition: The indicator of food price anomalies (IFPA) identifies abnormally high
     or low prices that occur for a food commodity price series over a given period
     of time
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-0C-01.pdf
   title: Indicator of food price anomalies
-3.1.1:
+3-1-1:
   custodian_agency: World Health Organization (WHO)
   definition: 'The maternal mortality ratio (MMR) is defined as the number of maternal
     deaths during a given time period per 100,000 live births during the same time
@@ -1198,7 +1198,7 @@
     live births, for a specified time period.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-01.pdf
   title: Maternal mortality ratio
-3.1.2:
+3-1-2:
   definition: Percentage of births attended by skilled health personnel (generally
     doctors, nurses or midwives) is the percentage of deliveries attended by health
     personnel trained in providing lifesaving obstetric care, including giving the
@@ -1208,14 +1208,14 @@
     not included.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-01-02.pdf
   title: Proportion of births attended by skilled health personnel
-3.2.1:
+3-2-1:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: Under-five mortality is the probability of a child born in a specific
     year or period dying before reaching the age of 5 years, if subject to age specific
     mortality rates of that period, expressed per 1000 live births.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-01.pdf
   title: Under‐five mortality rate
-3.2.2:
+3-2-2:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: The neonatal mortality rate is the probability that a child born in
     a specific year or period will die during the first 28 completed days of life
@@ -1226,7 +1226,7 @@
     before the 28th completed day of life.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-02.pdf
   title: Neonatal mortality rate
-3.3.1:
+3-3-1:
   custodian_agency: The Joint United Nations Programme on HIV/AIDS (UNAIDS)
   definition: The number of new HIV infections per 1,000 uninfected population, by
     sex, age and key populations as defined as the number of new HIV infections per
@@ -1234,7 +1234,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-01.pdf
   title: Number of new HIV infections per 1,000 uninfected population, by sex, age
     and key populations
-3.3.2:
+3-3-2:
   custodian_agency: World Health Organization (WHO)
   definition: The tuberculosis incidence per 100,000 population as defined as the
     estimated number of new and relapse TB cases (all forms of TB, including cases
@@ -1242,32 +1242,32 @@
     000 population.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-02.pdf
   title: Tuberculosis incidence per 100,000 population
-3.3.3:
+3-3-3:
   definition: Incidence of malaria is defined as the number of new cases of malaria
     per 1,000 people at risk each year.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-03.pdf
   title: Malaria incidence per 1,000 population
-3.3.4:
+3-3-4:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-04.pdf
   title: Hepatitis B incidence per 100,000 population
-3.3.5:
+3-3-5:
   custodian_agency: World Health Organization (WHO)
   definition: Number of people requiring treatment and care for any one of the neglected
     tropical diseases (NTDs) targeted by the WHO NTD Roadmap and World Health Assembly
     resolutions and reported to WHO.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-03-05.pdf
   title: Number of people requiring interventions against neglected tropical diseases
-3.4.1:
+3-4-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-01.pdf
   title: Mortality rate attributed to cardiovascular disease, cancer, diabetes or
     chronic respiratory disease
-3.4.2:
+3-4-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-04-02.pdf
   title: Suicide mortality rate
-3.5.1:
+3-5-1:
   title: Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation
     and aftercare services) for substance use disorders
-3.5.2:
+3-5-2:
   custodian_agency: World Health Organization (WHO)
   definition: Harmful use of alcohol, defined according to the national context as
     alcohol per capita consumption (aged 15 years and older) within a calendar year
@@ -1290,11 +1290,11 @@
   title: Harmful use of alcohol, defined according to the national context as alcohol
     per capita consumption (aged 15 years and older) within a calendar year in litres
     of pure alcohol
-3.6.1:
+3-6-1:
   custodian_agency: World Health Organization (WHO)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-06-01.pdf
   title: Death rate due to road traffic injuries
-3.7.1:
+3-7-1:
   custodian_agency: Population Division, Department of Economic and Social Affairs
     (DESA), United Nations Population, Fund (UNFPA)
   definition: The percentage of women of reproductive age (15-49 years) who desire
@@ -1303,11 +1303,11 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-01.pdf
   title: Proportion of women of reproductive age (aged 15–49 years) who have their
     need for family planning satisfied with modern methods
-3.7.2:
+3-7-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-07-02.pdf
   title: Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women
     in that age group
-3.8.1:
+3-8-1:
   custodian_agency: World Health Organization, (WHO)
   definition: Coverage of essential health services (defined as the average coverage
     of essential services based on tracer interventions that include reproductive,
@@ -1321,14 +1321,14 @@
     essential services based on tracer interventions that include reproductive, maternal,
     newborn and child health, infectious diseases, non-communicable diseases and service
     capacity and access, among the general and the most disadvantaged population)
-3.8.2:
+3-8-2:
   definition: Proportion of the population with large household expenditure on health
     as a share of total household expenditure or income.   greater than 25% of total
     household expenditure or income.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-02.pdf
   title: Proportion of population with large household expenditures on health as a
     share of total household expenditure or income
-3.9.1:
+3-9-1:
   custodian_agency: World Health Organization (WHO)
   definition: 'The mortality attributable to the joint effects of household and ambient
     air pollution can be expressed as: Number of deaths, Death rate. Death rates are
@@ -1343,7 +1343,7 @@
     in adults (estimated above 25 years).'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-01.pdf
   title: Mortality rate attributed to household and ambient air pollution
-3.9.2:
+3-9-2:
   custodian_agency: World Health Organization (WHO)
   definition: The mortality rate attributed to unsafe water, unsafe sanitation and
     lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH)
@@ -1353,21 +1353,21 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-02.pdf
   title: Mortality rate attributed to unsafe water, unsafe sanitation and lack of
     hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)
-3.9.3:
+3-9-3:
   custodian_agency: World Health Organization (WHO)
   definition: The mortality rate attributed to unintentional poisoning as defined
     as the number of deaths of unintentional poisonings in a year, divided by the
     population, and multiplied by 100 000.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-03.pdf
   title: Mortality rate attributed to unintentional poisoning
-3.a.1:
+3-a-1:
   definition: The indicator is defined as the percentage of the population aged 15
     years and over who currently use any tobacco product (smoked and/or smokeless
     tobacco) on a daily or non-daily basis.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-0a-01.pdf
   title: Age-standardized prevalence of current tobacco use among persons aged 15
     years and older
-3.b.1:
+3-b-1:
   custodian_agency: World Health Organization, (WHO), (UNICEF)
   definition: 'Coverage of DTP containing vaccine (3rd dose): Percentage of surviving
     infants who received the 3 doses of diphtheria and tetanus toxoid with pertussis
@@ -1381,24 +1381,24 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-0b-01.pdf
   title: Proportion of the target population covered by all vaccines included in their
     national programme
-3.b.2:
+3-b-2:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: Gross disbursements of total ODA from all donors to medical research
     and basic health sectors.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-0B-02.pdf
   title: Total net official development assistance to medical research and basic health
     sectors
-3.b.3:
+3-b-3:
   title: Proportion of health facilities that have a core set of relevant essential
     medicines available and affordable on a sustainable basis
-3.c.1:
+3-c-1:
   custodian_agency: World Health Organization (WHO)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-0C-01.pdf
   title: Health worker density and distribution
-3.d.1:
+3-d-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-0D-01.pdf
   title: International Health Regulations (IHR) capacity and health emergency preparedness
-4.1.1:
+4-1-1:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: Percentage of children and young people in Grade 2 or 3 of primary education,
     at the end of primary education and the end of lower secondary education achieving
@@ -1409,7 +1409,7 @@
   title: Proportion of children and young people (a) in grades 2/3; (b) at the end
     of primary; and (c) at the end of lower secondary achieving at least a minimum
     proficiency level in (i) reading and (ii) mathematics, by sex
-4.2.1:
+4-2-1:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: 'The proportion of children under 5 years of age who are developmentally
     on track in health, learning and psychosocial well-being is currently being measured
@@ -1419,7 +1419,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-01.pdf
   title: Proportion of children under 5 years of age who are developmentally on track
     in health, learning and psychosocial well-being, by sex
-4.2.2:
+4-2-2:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: The participation rate in organized learning (one year before the official
     primary entry age), by sex as defined as the percentage of children in the given
@@ -1430,7 +1430,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-02.pdf
   title: Participation rate in organized learning (one year before the official primary
     entry age), by sex
-4.3.1:
+4-3-1:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: The percentage of youth and adults in a given age range (e.g. 15-24
     years, 25-64 years, etc.) participating in formal or non-formal education or training
@@ -1438,7 +1438,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-03-01.pdf
   title: Participation rate of youth and adults in formal and non-formal education
     and training in the previous 12 months, by sex
-4.4.1:
+4-4-1:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: The proportion of youth and adults with information and communications
     technology (ICT) skills, by type of skill as defined as the percentage of youth
@@ -1447,7 +1447,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf
   title: Proportion of youth and adults with information and communications technology
     (ICT) skills, by type of skill
-4.5.1:
+4-5-1:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: Parity indices require data for the specific groups of interest. They
     represent the ratio of the indicator value for one group to that of the other.
@@ -1457,11 +1457,11 @@
   title: Parity indices (female/male, rural/urban, bottom/top wealth quintile and
     others such as disability status, indigenous peoples and conflict-affected, as
     data become available) for all education indicators on this list that can be disaggregated
-4.6.1:
+4-6-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-06-01.pdf
   title: Proportion of population in a given age group achieving at least a fixed
     level of proficiency in functional (a) literacy and (b) numeracy skills, by sex
-4.7.1:
+4-7-1:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: 'Extent to which (i) global citizenship education and (ii) education
     for sustainable development, including gender equality and human rights, are mainstreamed
@@ -1472,7 +1472,7 @@
     development, including gender equality and human rights, are mainstreamed at all
     levels in (a) national education policies; (b) curricula; (c) teacher education;
     and (d) student assessment
-4.a.1:
+4-a-1:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: The percentage of schools by level of education (primary education)
     with access to the given facility or service.
@@ -1482,12 +1482,12 @@
     and materials for students with disabilities; (e) basic drinking water; (f) single-sex
     basic sanitation facilities; and (g) basic handwashing facilities (as per the
     WASH indicator definitions)
-4.b.1:
+4-b-1:
   definition: Gross disbursements of total ODA from all donors for scholarships.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-0B-01.pdf
   title: Volume of official development assistance flows for scholarships by sector
     and type of study
-4.c.1:
+4-c-1:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: The percentage of teachers by level of education taught (pre-primary,
     primary, lower secondary and upper secondary education) who have received at least
@@ -1498,11 +1498,11 @@
     and (d) upper secondary education who have received at least the minimum organized
     teacher training (e.g. pedagogical training) pre-service or in-service required
     for teaching at the relevant level in a given country'
-5.1.1:
+5-1-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-01-01.pdf
   title: Whether or not legal frameworks are in place to promote, enforce and monitor
     equality and non‐discrimination on the basis of sex
-5.2.1:
+5-2-1:
   custodian_agency: United Nations Entity for Gender Equality and the Empowerment
     of Women (UN Women), United Nations Children's Fund (UNICEF), United Nations Statistics
     Division (UNSD), World Health Organization (WHO), United Nations Population Fund
@@ -1516,7 +1516,7 @@
   title: Proportion of ever-partnered women and girls aged 15 years and older subjected
     to physical, sexual or psychological violence by a current or former intimate
     partner in the previous 12 months, by form of violence and by age
-5.2.2:
+5-2-2:
   custodian_agency: United Nations Entity for Gender Equality and the Empowerment
     of Women (UN Women), United Nations Children's Fund (UNICEF), United Nations Statistics
     Division (UNSD), World Health Organization (WHO), United Nations Population Fund
@@ -1529,14 +1529,14 @@
   title: Proportion of women and girls aged 15 years and older subjected to sexual
     violence by persons other than an intimate partner in the previous 12 months,
     by age and place of occurrence
-5.3.1:
+5-3-1:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: Proportion of women aged 20-24 years who were married or in a union
     before age 15 and before age 18
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-03-01.pdf
   title: Proportion of women aged 20–24 years who were married or in a union before
     age 15 and before age 18
-5.3.2:
+5-3-2:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: Proportion of girls and women aged 15-49 years who have undergone female
     genital mutilation/cutting is currently being measured by the proportion of girls
@@ -1544,15 +1544,15 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-03-02.pdf
   title: Proportion of girls and women aged 15–49 years who have undergone female
     genital mutilation/cutting, by age
-5.4.1:
+5-4-1:
   custodian_agency: UN Statistics Division (UNSD)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-04-01.pdf
   title: Proportion of time spent on unpaid domestic and care work, by sex, age and
     location
-5.5.1:
+5-5-1:
   title: Proportion of seats held by women in (a) national parliaments and (b) local
     governments
-5.5.2:
+5-5-2:
   custodian_agency: ILO
   definition: 'This indicator refers to the proportion of females in the total number
     of persons employed in managerial positions. It is recommended to use two different
@@ -1566,36 +1566,36 @@
     with more decision-making power and responsibilities than they actually do.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-02.pdf
   title: Proportion of women in managerial positions
-5.6.1:
+5-6-1:
   custodian_agency: United Nations Population Fund (UNFPA)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-06-01.pdf
   title: Proportion of women aged 15–49 years who make their own informed decisions
     regarding sexual relations, contraceptive use and reproductive health care
-5.6.2:
+5-6-2:
   title: Number of countries with laws and regulations that guarantee full and equal
     access to women and men aged 15 years and older to sexual and reproductive health
     care, information and education
-5.a.1:
+5-a-1:
   custodian_agency: Food and Agriculture Organization of the United Nations (FAO)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-0A-01.pdf
   title: (a) Proportion of total agricultural population with ownership or secure
     rights over agricultural land, by sex; and (b) share of women among owners or
     rights-bearers of agricultural land, by type of tenure
-5.a.2:
+5-a-2:
   custodian_agency: Food and Agriculture Organization of the United Nations (FAO)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-0a-02.pdf
   title: Proportion of countries where the legal framework (including customary law)
     guarantees women’s equal rights to land ownership and/or control
-5.b.1:
+5-b-1:
   custodian_agency: International Telecommunication Union (ITU)
   definition: The proportion of individuals who own a mobile telephone, by sex is
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-0B-01.pdf
   title: Proportion of individuals who own a mobile telephone, by sex
-5.c.1:
+5-c-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-0c-01.pdf
   title: Proportion of countries with systems to track and make public allocations
     for gender equality and women’s empowerment
-6.1.1:
+6-1-1:
   custodian_agency: World Health Organization (WHO),  United Nations Children's Fund
     (UNICEF)
   definition: 'Proportion of population using safely managed drinking water services
@@ -1606,7 +1606,7 @@
     water and rainwater.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf
   title: Proportion of population using safely managed drinking water services
-6.2.1:
+6-2-1:
   custodian_agency: World Health Organization (WHO),  United Nations Children's Fund
     (UNICEF)
   definition: 'The Proportion of population using safely managed sanitation services,
@@ -1621,10 +1621,10 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-02-01.pdf
   title: Proportion of population using safely managed sanitation services, including a
     handwashing facility with soap and water
-6.3.1:
+6-3-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-01.pdf
   title: Proportion of wastewater safely treated
-6.3.2:
+6-3-2:
   custodian_agency: UN Environment, (United Nations Environment Programme)
   definition: The indicator is defined as the proportion of water bodies in the country
     that have good ambient water quality. Ambient water quality refers to natural,
@@ -1647,7 +1647,7 @@
     percentage.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-03-02.pdf
   title: Proportion of bodies of water with good ambient water quality
-6.4.1:
+6-4-1:
   definition: 'The change in water use efficiency over time (CWUE). The change in
     the ratio of the value added to the volume of water use, over time.  Water Use
     Efficiency (WUE) is defined as the volume of water used divided by the value added
@@ -1657,7 +1657,7 @@
     G-  The unit of the indicator is expressed in Value/Volume, commonly USD/m3.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-04-01.pdf
   title: Change in water-use efficiency over time
-6.4.2:
+6-4-2:
   custodian_agency: Food and Agriculture Organization of the United Nations (FAO)
   definition: 'The level of water stress: freshwater withdrawal as a proportion of
     available freshwater resources is the ratio between total freshwater withdrawn
@@ -1668,7 +1668,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-04-02.pdf
   title: 'Level of water stress: freshwater withdrawal as a proportion of available
     freshwater resources'
-6.5.1:
+6-5-1:
   custodian_agency: United Nations Environment Programme (UNEP)
   definition: The indicator degree of implementation of Integrated Water Resources
     Management (IWRM), measured in per cent (%) from 0 (implementation not yet started)
@@ -1681,13 +1681,13 @@
     of Implementation from the UN World Summit for Sustainable Development (1992).
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-05-01.pdf
   title: Degree of integrated water resources management implementation (0 to 100)
-6.5.2:
+6-5-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-05-02.pdf
   title: Proportion of transboundary basin area with an operational arrangement for
     water cooperation
-6.6.1:
+6-6-1:
   title: Change in the extent of water-related ecosystems over time
-6.a.1:
+6-a-1:
   custodian_agency: World Health Organization (WHO),  United Nations Environment Programme
     (UNEP),  Organisation for Economic Co-operation and Development (OECD)
   definition: Amount of water- and sanitation-related official development assistance
@@ -1697,7 +1697,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-0A-01.pdf
   title: Amount of water- and sanitation-related official development assistance that
     is part of a government-coordinated spending plan
-6.b.1:
+6-b-1:
   custodian_agency: World Health Organization (WHO),  United Nations Environment Programme
     (UNEP),  Organisation for Economic Co-operation and Development (OECD)
   definition: The indicator assesses the percentage of local administrative units
@@ -1715,13 +1715,13 @@
   title: Proportion of local administrative units with established and operational
     policies and procedures for participation of local communities in water and sanitation
     management
-7.1.1:
+7-1-1:
   custodian_agency: World Bank (WB)
   definition: Proportion of population with access to electricity is the percentage
     of population with access to electricity.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-07-01-01.pdf
   title: Proportion of population with access to electricity
-7.1.2:
+7-1-2:
   custodian_agency: World Health Organization (WHO)
   definition: 'Proportion of population with primary reliance on clean fuels and technology  is
     calculated as the number of people using clean fuels and technologies for cooking,
@@ -1731,7 +1731,7 @@
     guidance WHO guidelines for indoor air quality: household fuel combustion.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-07-01-02.pdf
   title: Proportion of population with primary reliance on clean fuels and technology
-7.2.1:
+7-2-1:
   custodian_agency: International Energy Agency (IEA) , United Nations Statistics
     Division (UNSD) , United Nations' inter-agency Mechanism on Energy (UN Energy)
     , International Renewable Energy Agency (IRENA)
@@ -1739,7 +1739,7 @@
     of final consumption of energy that is derived from renewable resources.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-07-02-01.pdf
   title: Renewable energy share in the total final energy consumption
-7.3.1:
+7-3-1:
   custodian_agency: International Energy Agency (IEA),  United Nations Statistics
     Division (UNSD),  United Nations' Inter-agency Mechanism on Energy (UN Energy),  SE4ALL
     Global Tracking Framework Consortium (SE4ALL Global Tracking Framework Consortium)
@@ -1747,7 +1747,7 @@
     unit value of economic output.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-07-03-01.pdf
   title: Energy intensity measured in terms of primary energy and GDP
-7.a.1:
+7-a-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
     and International Renewable Energy Agency (IRENA)
   definition: 'The flows are covered through two complementary sources.  OECD: The
@@ -1789,11 +1789,11 @@
   title: International financial flows to developing countries in support of clean
     energy research and development and renewable energy production, including in
     hybrid systems
-7.b.1:
+7-b-1:
   title: Investments in energy efficiency as a proportion of GDP and the amount of
     foreign direct investment in financial transfer for infrastructure and technology
     to sustainable development services
-8.1.1:
+8-1-1:
   custodian_agency: United Nations Statistics Division (UNSD)
   definition: Annual growth rate of real Gross Domestic Product (GDP) per capita is
     calculated as the percentage change in the real GDP per capita between two consecutive
@@ -1802,7 +1802,7 @@
     US dollars to facilitate the calculation of regional and global aggregates.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-01-01.pdf
   title: Annual growth rate of real GDP per capita
-8.10.1:
+8-10-1:
   custodian_agency: International Monetary Fund (STAFI -, Financial Access Survey,
     Team)
   definition: The number of commercial bank branches per 100,000 adults The number
@@ -1810,26 +1810,26 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-10-01.pdf
   title: (a) Number of commercial bank branches per 100,000 adults and (b) number
     of automated teller machines (ATMs) per 100,000 adults
-8.10.2:
+8-10-2:
   definition: The percentage of adults (ages 15+) who report having an account (by
     themselves or together with someone else) at a bank or another type of financial
     institution or personally using a mobile money service in the past 12 months.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-10-02.pdf
   title: Proportion of adults (15 years and older) with an account at a bank or other
     financial institution or with a mobile-money-service provider
-8.2.1:
+8-2-1:
   custodian_agency: ILO
   definition: Annual growth rate of real GDP per employed person conveys the annual
     percentage change in real Gross Domestic Product per employed person.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-02-01.pdf
   title: Annual growth rate of real GDP per employed person
-8.3.1:
+8-3-1:
   custodian_agency: ILO
   definition: This indicator presents the share of non-agricultural employment which
     is classified as informal employment.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-03-01.pdf
   title: Proportion of informal employment in non‐agriculture employment, by sex
-8.4.1:
+8-4-1:
   custodian_agency: United Nations Environment Programme (UNEP)
   definition: Material Footprint (MF) is the attribution of global material extraction
     to domestic final demand of a country. The total material footprint is the sum
@@ -1838,7 +1838,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-04-01.pdf
   title: Material footprint, material footprint per capita, and material footprint
     per GDP
-8.4.2:
+8-4-2:
   custodian_agency: United Nations Environment Programme (UNEP)
   definition: Domestic Material Consumption (DMC) is a standard material flow accounting
     (MFA) indicator and reports the apparent consumption of materials in a national
@@ -1846,26 +1846,26 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-04-02.pdf
   title: Domestic material consumption, domestic material consumption per capita,
     and domestic material consumption per GDP
-8.5.1:
+8-5-1:
   custodian_agency: International Labour Organisation (ILO)
   definition: This indicator provides information on the mean hourly earnings from
     paid employment of employees by sex, occupation, age and disability status.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-01.pdf
   title: Average hourly earnings of female and male employees, by occupation, age
     and persons with disabilities
-8.5.2:
+8-5-2:
   custodian_agency: ILO
   definition: The unemployment rate conveys the percentage of persons in the labour
     force who are unemployed.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-02.pdf
   title: Unemployment rate, by sex, age and persons with disabilities
-8.6.1:
+8-6-1:
   custodian_agency: ILO
   definition: This indicator conveys the proportion of youth (aged 15-24 years) not
     in education, employment or training (also known as "the youth NEET rate").
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-06-01.pdf
   title: Proportion of youth (aged 15–24 years) not in education, employment or training
-8.7.1:
+8-7-1:
   custodian_agency: United Nations Children's Fund (UNICEF) , International Labour
     Organization (ILO)
   definition: The number of children engaged in child labour corresponds to the number
@@ -1878,7 +1878,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-07-01.pdf
   title: Proportion and number of children aged 5–17 years engaged in child labour,
     by sex and age
-8.8.1:
+8-8-1:
   custodian_agency: ILO
   definition: The frequency rates of fatal and non-fatal occupational injuries provide
     information on the number of cases of fatal and non-fatal occupational injury
@@ -1896,31 +1896,31 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-08-01.pdf
   title: Frequency rates of fatal and non-fatal occupational injuries, by sex and
     migrant status
-8.8.2:
+8-8-2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-08-02.pdf
   title: Level of national compliance with labour rights (freedom of association and
     collective bargaining) based on International Labour Organization (ILO) textual
     sources and national legislation, by sex and migrant status
-8.9.1:
+8-9-1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-09-01.pdf
   title: Tourism direct GDP as a proportion of total GDP and in growth rate
-8.9.2:
+8-9-2:
   title: Proportion of jobs in sustainable tourism industries out of total tourism
     jobs
-8.a.1:
+8-a-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: Aid for Trade commitments and disbursements is the gross disbursements
     and commitments of total Official Development Assistance (ODA) from all donors
     for aid for trade.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-0A-01.pdf
   title: Aid for Trade commitments and disbursements
-8.b.1:
+8-b-1:
   title: Existence of a developed and operationalized national strategy for youth
     employment, as a distinct strategy or as part of a national employment strategy
-9.1.1:
+9-1-1:
   title: Proportion of the rural population who live within 2 km of an all-season
     road
-9.1.2:
+9-1-2:
   custodian_agency: International Civil Aviation Organization (ICAO)
   definition: Passenger and freight volumes is the sum of the passenger and freight
     volumes reported for the air carriers in terms of number of people and metric
@@ -1935,7 +1935,7 @@
     (2016) Trends in the Transport Sector
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-01-02.pdf
   title: Passenger and freight volumes, by mode of transport
-9.2.1:
+9-2-1:
   custodian_agency: United Nations Industrial Development Organization (UNIDO)
   definition: Manufacturing value added (MVA) as a proportion of gross domestic product
     (GDP) is a ratio between MVA and GDP, both reported in constant 2010 USD.  MVA
@@ -1943,21 +1943,21 @@
     a country or area.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-01.pdf
   title: Manufacturing value added as a proportion of GDP and per capita
-9.2.2:
+9-2-2:
   custodian_agency: United Nations Industrial Development Organization (UNIDO)
   definition: The indicator is represented by the share of manufacturing employment
     in total employment.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-02-02.pdf
   title: Manufacturing employment as a proportion of total employment
-9.3.1:
+9-3-1:
   custodian_agency: United Nations Industrial Development Organization (UNIDO)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-03-01.pdf
   title: Proportion of small-scale industries in total industry value added
-9.3.2:
+9-3-2:
   custodian_agency: United Nations Industrial Development Organization (UNIDO)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-03-02.pdf
   title: Proportion of small-scale industries with a loan or line of credit
-9.4.1:
+9-4-1:
   definition: Carbon dioxide (here after, CO2) emissions per unit value added is an
     indicator computed as ratio between CO2 emissions from fuel combustion and the
     value added of associated economic activities. The indicator can be computed for
@@ -1969,7 +1969,7 @@
     in constant 2010 USD.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-04-01.pdf
   title: CO2 emission per unit of value added
-9.5.1:
+9-5-1:
   custodian_agency: United Nations Educational, Scientific and Cultural Organization
     (UNESCO)
   definition: Research and development (R&D) expenditure as a proportion of Gross
@@ -1977,7 +1977,7 @@
     of the economy.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-05-01.pdf
   title: Research and development expenditure as a proportion of GDP
-9.5.2:
+9-5-2:
   custodian_agency: United Nations Educational, Scientific and Cultural Organization
     (UNESCO)
   definition: The researchers (in full-time equivalent) per million inhabitants is
@@ -1985,21 +1985,21 @@
     people.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-05-02.pdf
   title: Researchers (in full-time equivalent) per million inhabitants
-9.a.1:
+9-a-1:
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: Gross disbursements of total ODA and other official flows from all donors
     in support of infrastructure.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-0A-01.pdf
   title: Total official international support (official development assistance plus
     other official flows) to infrastructure
-9.b.1:
+9-b-1:
   custodian_agency: United Nations Industrial Development Organization (UNIDO)
   definition: The proportion of medium and high-tech industry (MHT hereafter) value
     added in total value added of manufacturing (MVA hereafter) is a ratio value between
     the value added of MHT industry and MVA.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-0B-01.pdf
   title: Proportion of medium and high-tech industry value added in total value added
-9.c.1:
+9-c-1:
   custodian_agency: International Telecommunication Union (ITU)
   definition: Proportion of population covered by a mobile network, broken down by
     technology, refers to the percentage of inhabitants living within range of a mobile-cellular

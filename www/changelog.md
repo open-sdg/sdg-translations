@@ -6,6 +6,23 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## 0.6.0
+
+### Breaking changes
+
+* The keys for global_indicators and global_targets have changed from dot-delimited (eg, 1.1) to dash-delimited (eg, 1-1).
+
+**NOTE** If you are using this liibrary with Open SDG, keep in mind that this version requires open-sdg@0.6.2 or higher, and jekyll-open-sdg-plugins@0.0.12 or higher.
+
+### Translations
+
+* Missing Russian targets added (#91)
+* English contrast-related phrases added (#85)
+* English global titles corrected from UN sources (#84)
+* Goal icons reduced in size (#83)
+* Kazakh language added (#79, #81)
+* Russian updates (#80, #81)
+
 ## 0.5.0
 
 ### Translations
@@ -15,7 +32,7 @@ Numbers in parenthesis below refer to Github issues or pull-requests.
 
 ## 0.4.0
 
-## Breaking changes
+### Breaking changes
 
 * Include token for country name in translations of frontpage.header (#56)
 

@@ -12,7 +12,7 @@ Numbers in parenthesis below refer to Github issues or pull-requests.
 
 * The keys for global_indicators and global_targets have changed from dot-delimited (eg, 1.1) to dash-delimited (eg, 1-1).
 
-**NOTE** If you are using this liibrary with Open SDG, keep in mind that this version requires open-sdg@0.6.2 or higher, and jekyll-open-sdg-plugins@0.0.12 or higher.
+**NOTE** If you are using this liibrary with Open SDG, keep in mind that this version requires open-sdg@0.6.3 or higher, and jekyll-open-sdg-plugins@0.0.12 or higher.
 
 ### Translations
 

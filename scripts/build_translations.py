@@ -58,9 +58,6 @@ def main():
         # Switch to the tag and build another version.
         repo.git.checkout(tag)
         build_translations('translations-' + str(tag) + '.json')
-    # Also compile a "develop" branch to allow testing of big changes.
-    repo.git.checkout('develop')
-    build_translations('translations-develop.json')
     # Go back to the current branch.
     if branch:
         repo.git.checkout(branch)

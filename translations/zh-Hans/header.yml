@@ -2,5 +2,4 @@ alpha: Alpha
 disclaimer: 这是一个发展中的网站。欢迎您向我们发送反馈意见。
 skip_link: 跳到主要内容
 tag_line: 变革世界的17个目标
-enable_high_contrast: ''
-disable_high_contrast: ''
+high_contrast: ''

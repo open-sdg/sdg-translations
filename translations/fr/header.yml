@@ -2,5 +2,4 @@ alpha: Alpha
 disclaimer: Ceci est un site de développement. Nous apprécions vos commentaires.
 skip_link: Passer au contenu principal
 tag_line: 17 objectifs pour transformer notre monde
-enable_high_contrast: ''
-disable_high_contrast: ''
+enable_high_contrast: 'contraste élevé'

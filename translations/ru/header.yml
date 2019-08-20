@@ -4,3 +4,5 @@ skip_link: Перейти к главному содержанию
 tag_line: 17 Целей, чтобы преобразовать наш мир
 high_contrast: 'высокий контраст'
 default_contrast: 'стандартный контраст'
+enable_high_contrast: Включить высокую контрастность
+disable_high_contrast: Отключить высокую контрастность

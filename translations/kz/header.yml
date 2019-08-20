@@ -3,5 +3,4 @@ disclaimer: Бұл сайт әзірленуде. Біз сіздердің пі
 skip_link: Басты мазмұнына өту
 tag_line: Біздің өмірді көркейту үшін 17 мақсат
 high_contrast: 'жоғары контраст'
-enable_high_contrast: Жоғары контрастты қосыңыз
-disable_high_contrast: Жоғары контрастты ажыратыңыз
+default_contrast: 'әдепкі контраст'

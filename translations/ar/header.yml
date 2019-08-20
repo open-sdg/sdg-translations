@@ -3,5 +3,4 @@ disclaimer: هذا موقع تطوير. نرحب <a href="mailto:%email_address"
 skip_link: انتقل الى المحتويات الرئيسية
 tag_line: 17 اهداف لتحويل عالمنا
 high_contrast: 'تباين عالي'
-enable_high_contrast: تمكين التباين العالي
-disable_high_contrast: تعطيل التباين العالي
+default_contrast: 'النقيض الافتراضي'

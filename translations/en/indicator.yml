@@ -11,6 +11,8 @@ download_chart: Download Chart CSV
 download_table: Download Table CSV
 download_csv: Download CSV
 download_csv_title: Download as CSV
+download_chart_image: Download Chart Image
+download_chart_image_title: Download chart as image
 source: Source
 sources: Sources
 geographical_area: Geographical Area

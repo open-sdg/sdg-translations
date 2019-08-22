@@ -11,6 +11,8 @@ download_headline_title: Télécharger les données de titre au format CSV
 download_source: Télécharger Source CSV
 download_source_title: Télécharger les données source au format CSV
 download_table: Télécharger le tableau CSV
+download_chart_image: Télécharger l'image graphique
+download_chart_image_title: Télécharger le graphique en image
 edit: modifier
 edit_data: Modifier les données
 edit_metadata: Modifier les métadonnées

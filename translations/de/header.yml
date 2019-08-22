@@ -3,6 +3,7 @@ disclaimer: Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns übe
   Kommentare.
 skip_link: ' Zum Hauptinhalt springen'
 tag_line: ''
-high_contrast: 'Hoher Kontrast'
+high_contrast: 'Hoher kontrast'
+default_contrast: 'Standard kontrast'
 enable_high_contrast: Aktivieren Sie hohen Kontrast
 disable_high_contrast: Hoher Kontrast deaktivieren

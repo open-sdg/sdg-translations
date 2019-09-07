@@ -1,68 +1,51 @@
-'1':
-  short: Pas de pauvreté
-  title: Éliminer la pauvreté sous toutes ses formes et partout dans le monde
-'10':
-  short: Inégalités réduites
-  title: Réduire les inégalités dans les pays et d’un pays à l’autre
-'11':
-  short: Villes et communautés durables
-  title: Faire en sorte que les villes et les établissements humains soient ouverts
-    à tous, sûrs, résilients et durables
-'12':
-  short: Consommation et production responsables
-  title: Établir des modes de consommation et de production durables
-'13':
-  short: Mesures relatives à la lutte contre les changements climatiques
-  title: Prendre d’urgence des mesures pour lutter contre les changements climatiques
-    et leurs répercussions
-'14':
-  short: Vie aquatique
-  title: Conserver et exploiter de manière durable les océans, les mers et les ressources
-    marines aux fins du développement durable
-'15':
-  short: Vie terrestre
-  title: Préserver et restaurer les écosystèmes terrestres, en veillant à les
-    exploiter de façon durable, gérer durablement les forêts, lutter contre la
-    désertification, enrayer et inverser le processus de dégradation des terres
-    et mettre fin à l’appauvrissement de la biodiversité
-'16':
-  short: Paix, justice et institutions efficaces
-  title: Promouvoir l’avènement de sociétés pacifiques et inclusives aux fins du
-    développement durable, assurer l’accès de tous à la justice et mettre en place,
-    à tous les niveaux, des institutions efficaces, responsables et ouvertes à tous
-'17':
-  short: Partenariats pour la réalisation des objectifs
-  title: Renforcer les moyens de mettre en œuvre le Partenariat mondial pour le développement
-    durable et le revitaliser
-'2':
-  short: Faim "zéro"
-  title: Éliminer la faim, assurer la sécurité alimentaire, améliorer la nutrition
-    et promouvoir l’agriculture durable
-'3':
-  short: Bonne santé et bien-être
-  title: Permettre à tous de vivre en bonne santé et promouvoir le bien-être de
-    tous à tout âge
-'4':
-  short: Éducation de qualité
-  title: Assurer à tous une éducation équitable, inclusive et de qualité et des
-    possibilités d’apprentissage    tout au long de la vie
-'5':
-  short: Égalité entre les sexes
-  title: Parvenir à l’égalité des sexes et autonomiser toutes les femmes et les
-    filles
-'6':
-  short: Eau propre et assainissement
-  title: Garantir l’accès de tous à des services d’alimentation en eau et d’assainissement
-    gérés de façon durable
-'7':
-  short: Energies propres et d'un coût abordable
-  title: Garantir l’accès de tous à des services énergétiques fiables, durables
-    et modernes, à un coût abordable
-'8':
-  short: Travaux décent et croissance économique
-  title: Promouvoir une croissance économique soutenue, partagée et durable, le
-    plein emploi productif et un travail décent pour tous
-'9':
-  short: Industrie, innovation et infrastructure
-  title: Bâtir une infrastructure résiliente, promouvoir une industrialisation durable
-    qui profite à tous et encourager l’innovation
+1-short: Pas de pauvreté
+1-title: Éliminer la pauvreté sous toutes ses formes et partout dans le monde
+10-short: Inégalités réduites
+10-title: Réduire les inégalités dans les pays et d’un pays à l’autre
+11-short: Villes et communautés durables
+11-title: Faire en sorte que les villes et les établissements humains soient ouverts
+  à tous, sûrs, résilients et durables
+12-short: Consommation et production responsables
+12-title: Établir des modes de consommation et de production durables
+13-short: Mesures relatives à la lutte contre les changements climatiques
+13-title: Prendre d’urgence des mesures pour lutter contre les changements climatiques
+  et leurs répercussions
+14-short: Vie aquatique
+14-title: Conserver et exploiter de manière durable les océans, les mers et les
+  ressources marines aux fins du développement durable
+15-short: Vie terrestre
+15-title: Préserver et restaurer les écosystèmes terrestres, en veillant à les
+  exploiter de façon durable, gérer durablement les forêts, lutter contre la désertification,
+  enrayer et inverser le processus de dégradation des terres et mettre fin à l’appauvrissement
+  de la biodiversité
+16-short: Paix, justice et institutions efficaces
+16-title: Promouvoir l’avènement de sociétés pacifiques et inclusives aux fins
+  du développement durable, assurer l’accès de tous à la justice et mettre en place,
+  à tous les niveaux, des institutions efficaces, responsables et ouvertes à tous
+17-short: Partenariats pour la réalisation des objectifs
+17-title: Renforcer les moyens de mettre en œuvre le Partenariat mondial pour le développement
+  durable et le revitaliser
+2-short: Faim "zéro"
+2-title: Éliminer la faim, assurer la sécurité alimentaire, améliorer la nutrition
+  et promouvoir l’agriculture durable
+3-short: Bonne santé et bien-être
+3-title: Permettre à tous de vivre en bonne santé et promouvoir le bien-être de
+  tous à tout âge
+4-short: Éducation de qualité
+4-title: Assurer à tous une éducation équitable, inclusive et de qualité et des
+  possibilités d’apprentissage    tout au long de la vie
+5-short: Égalité entre les sexes
+5-title: Parvenir à l’égalité des sexes et autonomiser toutes les femmes et les
+  filles
+6-short: Eau propre et assainissement
+6-title: Garantir l’accès de tous à des services d’alimentation en eau et d’assainissement
+  gérés de façon durable
+7-short: Energies propres et d'un coût abordable
+7-title: Garantir l’accès de tous à des services énergétiques fiables, durables
+  et modernes, à un coût abordable
+8-short: Travaux décent et croissance économique
+8-title: Promouvoir une croissance économique soutenue, partagée et durable, le
+  plein emploi productif et un travail décent pour tous
+9-short: Industrie, innovation et infrastructure
+9-title: Bâtir une infrastructure résiliente, promouvoir une industrialisation durable
+  qui profite à tous et encourager l’innovation

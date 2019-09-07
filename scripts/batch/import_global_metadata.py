@@ -94,18 +94,18 @@ def main():
         goal_number = sdg_number_from_text(row['target'])
         if goal_number and goal_number not in global_goals[language]:
           goal_text = sdg_text_without_number(row['target'], goal_number)
-          global_goals[language][goal_number] = {'title': goal_text}
+          global_goals[language][goal_number + '-title'] = goal_text
       else:
         # Otherwise it is a target and indicator.
         #print(row)
         target_number = sdg_number_from_text(row['target'])
         if target_number and target_number not in global_targets[language]:
           target_text = sdg_text_without_number(row['target'], target_number)
-          global_targets[language][target_number] = {'title': target_text}
+          global_targets[language][target_number + '-title'] = target_text
         indicator_number = sdg_number_from_text(row['indicator'])
         if indicator_number and indicator_number not in global_indicators[language]:
           indicator_text = sdg_text_without_number(row['indicator'], indicator_number)
-          global_indicators[language][indicator_number] = {'title': indicator_text}
+          global_indicators[language][indicator_number + '-title' = indicator_text
 
   # Next get the (Engish only, currently) metadata.
   zip_filename = 'SDG-indicator-metadata.zip'
@@ -124,7 +124,7 @@ def main():
     indicator = '.'.join(map(lambda x: x.lstrip('0').lower(), indicator_parts))
 
     if indicator not in global_indicators['en']:
-      global_indicators['en'][indicator] = {}
+      global_indicators['en'][indicator] = ''
 
     pdfFileObject = open(filepath, 'rb')
     pdfReader = PyPDF2.PdfFileReader(pdfFileObject)
@@ -142,19 +142,19 @@ def main():
       organizations = list(map(lambda x: x.replace('\n', ''), organizations))
       organization = ', '.join(organizations)
       organization = organization.strip()
-    if organization and organization != '':
-      global_indicators['en'][indicator]['custodian_agency'] = organization
+    #if organization and organization != '':
+    #  global_indicators['en'][indicator]['custodian_agency'] = organization
 
     description = find_between(pdfContent, 'Definition:', 'Rationale:')
     if description:
       description = description.replace('\n', '').strip()
-    if description and description != '':
-      global_indicators['en'][indicator]['definition'] = description
+    #if description and description != '':
+    #  global_indicators['en'][indicator]['definition'] = description
 
     # Just guess at the remote link from the filepath.
     remote_folder = 'https://unstats.un.org/sdgs/metadata/files/'
     remote_link = filepath.replace(unzip_folder + os.sep, remote_folder)
-    global_indicators['en'][indicator]['metadata_link'] = remote_link
+    #global_indicators['en'][indicator]['metadata_link'] = remote_link
 
   # Finally merge the results into the YAML files.
   all_results = {

@@ -1,25 +1,25 @@
 sex: جنس
-female: إناثا
-male: الذكر
+female: انثى
+male: ذكر
 other: آخر
 unknown: غير معروف
-age: الفئة العمرية
+age: عمر
 urbanisation: درجة التحضر
 rural: ريفي
-urban: الحضاري
-income: الدخل أو الثروة الكمية
-quintile1: Quintile 1 (أفقر)
+urban: حضاري
+income: دخل
+quintile1: (خماسي 1 (أفقر
 quintile2: خماسي 2
 quintile3: خماسي 3
 quintile4: خماسي 4
-quintile5: خمس كوين (أغنى)
+quintile5: (خماسي 5 (أغنى
 disability: حالة العجز
-disabled: الأشخاص ذوو الإعاقة
+disabled: أشخاص ذوو إعاقة
 nondisabled: أشخاص بدون إعاقة
-education: مستوى التعليم
-primary: تعليم ابتدائي
-secondary: التعليم الثانوي
-tertiary: التعليم العالي
+education: تعليم
+primary: ابتدائي
+secondary: ثانوي
+tertiary: بعد الثانوي
 occupation: الاحتلال
 unit: وحدة القياس
 percent: نسبه مئويه

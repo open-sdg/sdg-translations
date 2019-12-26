@@ -4,7 +4,7 @@
 
 **DEPRECATED**: This repository has been split up into:
 
-1. UN-controlled metadata: [translations-un-sdg](https://github.com/open-sdg/translations-un-sdg)
+1. UN-created metadata: [translations-un-sdg](https://github.com/open-sdg/translations-un-sdg)
 2. Open SDG translations: [translations-open-sdg](https://github.com/open-sdg/translations-open-sdg)
 
 This repository will be left here to support implementations of Open SDG prior to 1.0.0, and any other platforms using it.

@@ -2108,7 +2108,7 @@
     },
     "global_indicators":{
         "1.1.1":{
-            "title":"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)"
+            "title":"Proporția populației sub pragul sărăciei internaționale, în funcție de sex, vârstă, statut de angajare și locație geografică (urban / rural)"
         },
         "1.1.1a":{
             "custodian_agency":"World Bank (WB)",
@@ -3880,9 +3880,9 @@
     },
     "header":{
         "alpha":"Alpha",
-        "disclaimer":"This is a development website. We welcome your <a href=\"mailto:%email_address\">feedback</a>.",
-        "skip_link":"Skip to main content",
-        "tag_line":"17 Goals to Transform our World"
+        "disclaimer":"Acesta este un site web de dezvoltare. Vă salutăm <a href=\"mailto:%email_address\">feedback</a>.",
+        "skip_link":"Salt la conținutul principal",
+        "tag_line":"17 Obiective pentru transformarea lumii noastre"
     },
     "indicator":{
         "chart":"Chart",
@@ -3897,12 +3897,12 @@
         "download_source":"Download Source CSV",
         "download_source_title":"Download source data as CSV",
         "download_table":"Download Table CSV",
-        "edit":"Edit",
-        "edit_data":"Edit Data",
-        "edit_metadata":"Edit Metadata",
-        "footnote":"Footnote",
+        "edit":"Editează",
+        "edit_data":"Editează Date",
+        "edit_metadata":"Editează Metadate",
+        "footnote":"Notă de subsol",
         "geographical_area":"Geographical Area",
-        "global_metadata":"Global Metadata",
+        "global_metadata":"Metadate Globale",
         "global_metadata_blurb":"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=\"https://unstats.un.org/sdgs/metadata/\">Complete global metadata</a> is provided by the UN Statistics Division.",
         "legend_help":"Click on the legend to remove individual lines from the chart.",
         "loading_map":"Loading map",

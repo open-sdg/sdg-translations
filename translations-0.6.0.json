@@ -3926,13 +3926,13 @@
         "ro":"Română"
     },
     "menu":{
-        "about":"About",
-        "contact_us":"Contact us",
+        "about":"Despre",
+        "contact_us":"Contacte",
         "cookies":"Cookies",
         "faq":"FAQ",
         "guidance":"Guidance",
         "menu":"Menu",
-        "publications":"Publications",
+        "publications":"Publicații",
         "reporting_status":"Reporting Status"
     },
     "metadata_fields":{

@@ -3,7 +3,7 @@ title: SDG Translations
 description: >-
   A project to compile and translate text related to the United Nation's
   Sustainable Development Goals, and then provide those translations as JSON.
-baseurl: "/sdg-translations"
+baseurl: "statisticamd/sdg-translations"
 url: "https://open-sdg.github.io"
 repo: "https://github.com/open-sdg/sdg-translations"
 

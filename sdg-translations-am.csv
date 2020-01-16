@@ -181,6 +181,8 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Դյուրացնել կայուն և դիմակայուն ենթակառուցվածքների զարգացումը զարգացող երկրներում՝ ցուցաբերելով ընդլայնված ֆինանսական, տեխնոլոգիական և փորձագիտական օժանդակություն  աֆրիկյան երկրներին, առավել թույլ զարգացած երկրներին, դեպի ծով ելք չունեցող զարգացող երկրներին և զարգացող փոքր կղզի-պետություններին "
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Օժանդակել հայրենական տեխնոլոգիաների զարգացմանը, գիտահետազոտական աշխատանքներին և նորարարությանը զարգացող երկրներում, այդ թվում՝ ապահովելով քաղաքականությունների առումով նպաստավոր միջավայր, ի թիվս այլոց, արդյունաբերության բազմազանեցման և հումքային ապրանքներին արժեքի ավելացման համար "
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,Զգալիորեն մեծացնել տեղեկատվական և հաղորդակցման տեխնոլոգիաների հասանելիությունը և ձգտել տրամադրել համացանցի համընդհանուր և մատչելի հասանելիություն առավել թույլ զարգացած երկրներին մինչև 2020թ. 
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
 global_goals:1-short,No poverty,Ոչ աղքատությանը
 global_goals:1-title,End poverty in all its forms everywhere,Ամենուրեք վերացնել աղքատությունը՝ իր բոլոր ձևերով ու դրսևորումներով
 global_goals:10-short,Reduced inequalities,Կրճատված անհավասարություն
@@ -218,12 +220,113 @@ global_goals:8-short,Decent jobs and economic growth,Արժանապատիվ աշ
 global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Խթանել կայացած, ներառական և կայուն տնտեսական աճ, լիարժեք և արտադրողական զբաղվածություն և արժանապատիվ աշխատանք բոլորի համար"
 global_goals:9-short,"Industry, innovation and infrastructure","Արդյունաբերություն, նորարարություն և ենթակառուցվածքներ"
 global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Ստեղծել դիմակայուն ենթակառուցվածքներ, աջակցել ներառական և կայուն արդյունաբերության զարգացմանը և խթանել նորարարությունը"
-search:found_in,found in,Գտնված է
-search:indicator_search,Indicator search,Ցուցանիշների որոնում
-search:keywords,Keywords,Հիմնաբառեր
-search:no_results,No results,Արդյունքներ չկան
-search:search,Search,Որոնում
-search:search_results_for,Search results for,Որոնման արդյունքներ
+metadata_fields:comments_limitations,Other information,Այլ տեղեկություններ 
+metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
+metadata_fields:computation_definitions,Definitions,Սահմանումներ 
+metadata_fields:computation_units,Unit of measurement,Չափման միավորը 
+metadata_fields:goal_meta_link,Link to UN metadata,Հղում ՄԱԿ-ի մետատվյալների
+metadata_fields:indicator,Indicator number,Ցուցանիշի համարը 
+metadata_fields:indicator_definition,Global indicator description,Գլոբալ ցուցանիշի նկարագրությունը 
+metadata_fields:indicator_name,Indicator name,Ցուցանիշի անվանումը 
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Ցուցանիշի ցուցադրման կարգը (Նպատակների էջում) 
+metadata_fields:national_data_update_url,Data last updated,Տվյալները վերջին անգամ թարմացվել են 
+metadata_fields:national_geographical_coverage,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:national_indicator_available,Indicator available,Առկա ցուցանիշ
+metadata_fields:national_indicator_description,Indicator description,Ցուցանիշի նկարագիր 
+metadata_fields:national_metadata_update_url,Metadata last updated,Մետատվյալները վերջին անգան թարմացվել են 
+metadata_fields:source_contact_1,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_2,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_3,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_4,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_5,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_6,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_earliest_available_1,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_2,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_3,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_4,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_5,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_6,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_next_release_1,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_2,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_3,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_4,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_5,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_6,Next release,Հաջորդ թողարկումը
+metadata_fields:source_organisation_1,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_2,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_3,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_4,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_5,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_6,Organisation,Կազմակերպություն 
+metadata_fields:source_other_info_1,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_2,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_3,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_4,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_5,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_6,Other information,Այլ տեղեկություններ 
+metadata_fields:source_periodicity_1,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_2,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_3,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_4,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_5,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_6,Periodicity,Պարբերականությունը 
+metadata_fields:source_release_date_1,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_2,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_3,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_4,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_5,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_6,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_statistical_classification_1,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_2,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_3,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_4,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_5,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_6,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_url_1,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_2,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_3,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_4,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_5,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_6,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:target,Target name,Թիրախի անվանումը
+metadata_fields:target_id,Target number,Թիրախի համարը 
+metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
+metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
+general:facebook,Facebook,Ֆեյսբուք
+general:goal,Goal,Նպատակը
+general:goals,Goals,Նպատակները
+general:home,Home,Գլխավոր էջ
+general:indicator,Indicator,Ցուցանիշ
+general:indicators,Indicators,Ցուցանիշներ
+general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
+general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
+general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
+general:target,Target,Թիրախը
+general:targets,Targets,Թիրախներ
+general:twitter,Twitter,Թվիթերի
+menu:about,About,Վերաբերյալ
+menu:contact_us,Contact us,Կապ մեզ հետ
+menu:cookies,Cookies,Քուկիներ 
+menu:faq,FAQ,ՀՏՀ
+menu:guidance,Guidance,Ուղեցույց
+menu:menu,Menu,Ցանկ
+menu:publications,Publications,Հրապարակումներ
+menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+menu:updates,Updates,
+header:alpha,Alpha,Ալֆա
+header:default_contrast,Default contrast,լռելյայն հակադրություն
+header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
+header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
+header:high_contrast,High contrast,բարձր հակադրություն
+header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
+header:tag_line,17 Goals to Transform our World,17 նպատակներ մեր աշխարհը փոխակերպելու համար
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Աղքատության միջազգային շեմից ցած ապրող բնակչության համամասնությունը՝ ըստ սեռի, տարիքային խմբի, զբաղվածության կարգավիճակի և աշխարհագրական վայրի (քաղաքային/գյուղական)"
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age",Աղքատության ազգային շեմից ցած ապրող բնակչության համամասնությունը՝ ըստ սեռի և տարիքային խմբի 
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Ըստ ազգային սահմանումների աղքատության բոլոր ձևերի մեջ ապրող բոլոր տարիքների տղամարդկանց, կանանց և երեխաների համամասնությունը "
@@ -374,7 +477,7 @@ global_indicators:2-c-1-title,Indicator of food price anomalies,Պարենի գ�
 global_indicators:3-1-1-title,Maternal mortality ratio,Մայրական մահերը 100 հազար կենդանածնի հաշվով 
 global_indicators:3-1-2-title,Proportion of births attended by skilled health personnel,Հմուտ բժշկական անձնակազմի կողմից ընդունվող ծնունդների համամասնությունը 
 global_indicators:3-2-1-title,Under‐five mortality rate,Մինչև 5 տարեկան երեխաների մահացության ցուցանիշը 
-global_indicators:3-2-2-title,Neonatal mortality rate,Վաղ նորածնային մահացության ցուցանիշը
+global_indicators:3-2-2-title,Neonatal mortality rate,Նորածնային մահացության ցուցանիշը
 global_indicators:3-3-1-title,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations","Նոր ՄԻԱՎ վարակների թիվը 1000 չվարակված բնակչի հաշվով ըստ սեռի, տարիքի և բնակչության հիմնական խմբերի "
 global_indicators:3-3-2-title,"Tuberculosis incidence per 100,000 population",Տուբերկուլյոզի 1000 մարդու հաշվով նոր դեպքերի թիվը մեկ տարվա ընթացքում 
 global_indicators:3-3-3-title,"Malaria incidence per 1,000 population",Մալարիայի 1000 մարդու հաշվով նոր դեպքերի թիվը մեկ տարվա ընթացքում 
@@ -469,8 +572,15 @@ global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,Ընդհանուր միջազգային պաշտոնական օժանդակություն (զարգացմանն ուղղված պաշտոնական օգնություն՝ գումարած այլ պաշտոնական հոսքեր) ենթակառուցվածքներին 
 global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,Միջին և բարձր տեխնոլոգիաների ճյուղի ավելացված արժեքի համամասնությունը ընդհանուր ավելացված արժեքի մեջ 
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology",Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի 
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
+status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
+status:not_applicable,Not applicable,ոչ կիրառելի
+status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
+status:reported_online,Reported online,Առցանց հաշվետվություն 
+status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
+status:status_by_goal,Status by goal,Գոլի կարգավիճակ
+post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
+post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
 indicator:chart,Chart,Գծապատկեր
 indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
 indicator:clear_selections,Clear selections,Մաքրել նշվածները 
@@ -508,119 +618,9 @@ indicator:unit_of_measurement,Unit of Measurement,Չափման  միավոր
 indicator:units_type,Units type,Միավորների տեսակը
 indicator:variable_hint,Available when '%field' is selected,"Հասանելի է, երբ ընտրված է դաշտը '%field' "
 indicator:view_indicator_list,View this goal's indicator list,Տեսնել այս նպատակի ցուցանիշների ցանկը
-general:facebook,Facebook,Ֆեյսբուք
-general:goal,Goal,Նպատակը
-general:goals,Goals,Նպատակները
-general:home,Home,Գլխավոր էջ
-general:indicator,Indicator,Ցուցանիշ
-general:indicators,Indicators,Ցուցանիշներ
-general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
-general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
-general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
-general:target,Target,Թիրախը
-general:targets,Targets,Թիրախներ
-general:twitter,Twitter,Թվիթերի
-menu:about,About,Վերաբերյալ
-menu:contact_us,Contact us,Կապ մեզ հետ
-menu:cookies,Cookies,Քուկիներ 
-menu:faq,FAQ,ՀՏՀ
-menu:guidance,Guidance,Ուղեցույց
-menu:menu,Menu,Ցանկ
-menu:publications,Publications,Հրապարակումներ
-menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-menu:updates,Updates,
-header:alpha,Alpha,Ալֆա
-header:default_contrast,Default contrast,լռելյայն հակադրություն
-header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
-header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
-header:high_contrast,High contrast,բարձր հակադրություն
-header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
-header:tag_line,17 Goals to Transform our World,17 նպատակներ մեր աշխարհը փոխակերպելու համար
-status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
-status:not_applicable,Not applicable,ոչ կիրառելի
-status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
-status:reported_online,Reported online,Առցանց հաշվետվություն 
-status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
-status:status_by_goal,Status by goal,Գոլի կարգավիճակ
-metadata_fields:comments_limitations,Other information,Այլ տեղեկություններ 
-metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
-metadata_fields:computation_definitions,Definitions,Սահմանումներ 
-metadata_fields:computation_units,Unit of measurement,Չափման միավորը 
-metadata_fields:goal_meta_link,Link to UN metadata,Հղում ՄԱԿ-ի մետատվյալների
-metadata_fields:indicator,Indicator number,Ցուցանիշի համարը 
-metadata_fields:indicator_definition,Global indicator description,Գլոբալ ցուցանիշի նկարագրությունը 
-metadata_fields:indicator_name,Indicator name,Ցուցանիշի անվանումը 
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Ցուցանիշի ցուցադրման կարգը (Նպատակների էջում) 
-metadata_fields:national_data_update_url,Data last updated,Տվյալները վերջին անգամ թարմացվել են 
-metadata_fields:national_geographical_coverage,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:national_indicator_available,Indicator available,Առկա ցուցանիշ
-metadata_fields:national_indicator_description,Indicator description,Ցուցանիշի նկարագիր 
-metadata_fields:national_metadata_update_url,Metadata last updated,Մետատվյալները վերջին անգան թարմացվել են 
-metadata_fields:source_contact_1,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_2,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_3,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_4,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_5,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_6,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_earliest_available_1,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_2,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_3,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_4,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_5,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_6,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_next_release_1,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_2,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_3,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_4,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_5,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_6,Next release,Հաջորդ թողարկումը
-metadata_fields:source_organisation_1,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_2,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_3,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_4,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_5,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_6,Organisation,Կազմակերպություն 
-metadata_fields:source_other_info_1,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_2,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_3,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_4,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_5,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_6,Other information,Այլ տեղեկություններ 
-metadata_fields:source_periodicity_1,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_2,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_3,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_4,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_5,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_6,Periodicity,Պարբերականությունը 
-metadata_fields:source_release_date_1,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_2,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_3,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_4,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_5,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_6,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_statistical_classification_1,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_2,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_3,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_4,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_5,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_6,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_url_1,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_2,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_3,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_4,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_5,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_6,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:target,Target name,Թիրախի անվանումը
-metadata_fields:target_id,Target number,Թիրախի համարը 
-metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
-metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
-post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
-post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
+search:found_in,found in,Գտնված է
+search:indicator_search,Indicator search,Ցուցանիշների որոնում
+search:keywords,Keywords,Հիմնաբառեր
+search:no_results,No results,Արդյունքներ չկան
+search:search,Search,Որոնում
+search:search_results_for,Search results for,Որոնման արդյունքներ

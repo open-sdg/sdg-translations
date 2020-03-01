@@ -1,7 +1,8 @@
-exploring_data_sources: В процессе разработки 
+exploring_data_sources: В процессе разработки
 not_applicable: Непригодный
 overall_reporting_status: Общее состояние отчётности
 reported_online: Опубликован
 reporting_status: Статус отчётности
 statistics_in_progress: Статистика в процессе выполнения
 status_by_goal: Статус по цели
+status_by_field: Статус по %field

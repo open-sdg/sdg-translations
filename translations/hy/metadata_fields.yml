@@ -1,4 +1,4 @@
-comments_limitations: 'Այլ տեղեկություններ '
+other_info: 'Այլ տեղեկություններ '
 computation_calculations: 'Հաշվարկներ '
 computation_definitions: 'Սահմանումներ '
 computation_units: 'Չափման միավորը '
@@ -76,3 +76,7 @@ target: Թիրախի անվանումը
 target_id: 'Թիրախի համարը '
 un_custodian_agency: ՄԱԿ -ի պահառու գործակալություն
 un_designated_tier: 'ՄԱԿ-ի կողմից նշանակված աստիճան '
+quality_assurance: Որակի ապահովում
+international_comparability: Համեմատելիություն միջազգային տվյալների / ստանդարտների հետ
+comments_limitations: Մեկնաբանություններ և սահմանափակումներ
+rational_interpretation: Ռացիոնալ և մեկնաբանություն

@@ -5,3 +5,4 @@ reporting_status: 上报状况
 statistics_in_progress: 统计在进行中
 not_applicable: 不适用
 status_by_goal: 目标状况
+status_by_field: 状态%field

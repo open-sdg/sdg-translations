@@ -1,65 +1,83 @@
-comments_limitations: Other information
+# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
+other_info: Other information
+# A label describing information - any calculations that were used in the production of a dataset
 computation_calculations: Calculations
+# A label describing information - a list of definitions of terms used within other metadata fields
 computation_definitions: Definitions
+# A label describing information - the unit of measurement that is being represented in a dataset
 computation_units: Unit of measurement
+# A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
 goal_meta_link: Link to UN metadata
+# A label describing information - the numeric code for a particular indicator
 indicator: Indicator number
+# A label describing information - the definition for a particular indicator - as provided by the United Nations
 indicator_definition: Global indicator description
+# A label describing information - the name of a particular indicator
 indicator_name: Indicator name
 indicator_sort_order: Indicator display order (within Goal page)
 national_data_update_url: Data last updated
+# A label describing information - the geographical area covered by a dataset
 national_geographical_coverage: Geographical coverage
 national_indicator_available: Indicator available
 national_indicator_description: Indicator description
 national_metadata_update_url: Metadata last updated
+# A label describing information - contact information for the person or agency that provided data
 source_contact_1: Contact details
 source_contact_2: Contact details
 source_contact_3: Contact details
 source_contact_4: Contact details
 source_contact_5: Contact details
 source_contact_6: Contact details
+# A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
 source_earliest_available_1: Earliest available data
 source_earliest_available_2: Earliest available data
 source_earliest_available_3: Earliest available data
 source_earliest_available_4: Earliest available data
 source_earliest_available_5: Earliest available data
 source_earliest_available_6: Earliest available data
+# A label describing information - the geographical area covered in the data provided by a particular person or agency
 source_geographical_coverage_1: Geographical coverage
 source_geographical_coverage_2: Geographical coverage
 source_geographical_coverage_3: Geographical coverage
 source_geographical_coverage_4: Geographical coverage
 source_geographical_coverage_5: Geographical coverage
 source_geographical_coverage_6: Geographical coverage
+# A label describing information - the date at which a particular person or agency plans to update their provided data
 source_next_release_1: Next release
 source_next_release_2: Next release
 source_next_release_3: Next release
 source_next_release_4: Next release
 source_next_release_5: Next release
 source_next_release_6: Next release
+# A label describing information - the name of any organization associated with some provided data
 source_organisation_1: Organisation
 source_organisation_2: Organisation
 source_organisation_3: Organisation
 source_organisation_4: Organisation
 source_organisation_5: Organisation
 source_organisation_6: Organisation
+# A label describing information - any other information about a particular source of data for a particular indicator
 source_other_info_1: Other information
 source_other_info_2: Other information
 source_other_info_3: Other information
 source_other_info_4: Other information
 source_other_info_5: Other information
 source_other_info_6: Other information
+# A label describing information - the frequency with which a particular source of data will provide updates
 source_periodicity_1: Periodicity
 source_periodicity_2: Periodicity
 source_periodicity_3: Periodicity
 source_periodicity_4: Periodicity
 source_periodicity_5: Periodicity
 source_periodicity_6: Periodicity
+# A label describing information - The date at which a particular source provided their data
 source_release_date_1: Release date
 source_release_date_2: Release date
 source_release_date_3: Release date
 source_release_date_4: Release date
 source_release_date_5: Release date
 source_release_date_6: Release date
+# A label describing information - some classification of a particular source of data for a particular indicator
 source_statistical_classification_1: Statistical classification
 source_statistical_classification_2: Statistical classification
 source_statistical_classification_3: Statistical classification
@@ -72,7 +90,15 @@ source_url_3: Link to data source
 source_url_4: Link to data source
 source_url_5: Link to data source
 source_url_6: Link to data source
+# A label describing information - the overall SDG target associated with a particular indicator
 target: Target name
+# A label describing information - the numeric id for the overall SDG target associated with a particular indicator
 target_id: Target number
+# A label describing information - the United Nations custodian agency associated with a particular indicator
 un_custodian_agency: UN custodian agency
+# A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
 un_designated_tier: UN designated tier
+quality_assurance: Quality assurance
+international_comparability: Comparability with international data/standards
+comments_limitations: Comments and limitations
+rational_interpretation: Rational and interpretation

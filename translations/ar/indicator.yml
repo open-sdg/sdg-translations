@@ -13,6 +13,8 @@ download_source_title: تحميل بيانات مصدر الCSV
 download_table: تحميل جدول CSV
 download_chart_image:  تحميل الرسم البياني الصورة
 download_chart_image_title: تحميل الرسم البياني كصورة
+download_geojson: تحميل الGeoJSON
+download_geojson_title: تحميل كGeoJSON
 edit: تغيير
 edit_data: تغيير البيانات
 edit_metadata: تغيير البيانات الوصفية

@@ -1,4 +1,4 @@
-comments_limitations: معلومات اخرى
+other_info: معلومات اخرى
 computation_calculations: عمليات حسابية
 computation_definitions: تعريفات
 computation_units: وحدة قياس
@@ -76,3 +76,7 @@ target: اسم الهدف
 target_id: رقم الهدف
 un_custodian_agency: وكالة الوصاية للأم المتحدة
 un_designated_tier: الطبقة المعينة من الأمم المتحدة
+quality_assurance: ضمان الجودة
+international_comparability: المقارنة مع البيانات / المعايير الدولية
+comments_limitations: التعليقات والقيود
+rational_interpretation: العقلاني والتفسير

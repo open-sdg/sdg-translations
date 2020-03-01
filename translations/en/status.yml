@@ -4,4 +4,6 @@ reported_online: Reported online
 statistics_in_progress: Statistics in progress
 exploring_data_sources: Exploring data sources
 not_applicable: Not applicable
+# Describing a section where the status is reported for each goal
 status_by_goal: Status by goal
+status_by_field: Status by %field

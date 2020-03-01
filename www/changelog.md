@@ -6,6 +6,50 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## 1.0.0
+
+### Translations
+
+* Armenian fixes (#107, #115, #117)
+* Change language codes
+
+## 0.8.0
+
+### Translations
+
+* New translation keys to support Open SDG version 1 (TBD)
+
+### Breaking changes
+
+* Changed Armenian and Kazakh language codes (TBD)
+
+### Breaking changes
+
+* Flatten global translations (#105)
+
+    The global translations (goals, targets, and indicators) have changed from a "nested" structure to a flat structure. For example, instead of the previous structure of:
+
+    ```
+    '1':
+      short: Keine Armut
+      title: Armut in allen ihren Formen und überall beenden
+    ```
+
+    The new flattened structure is:
+
+    ```
+    1-short: Keine Armut
+    1-title: Armut in allen ihren Formen und überall beenden
+    ```
+
+## 0.7.0
+
+### Translations
+
+* Add translations for Twitter and Facebook (#99)
+* Translations for enabling/disabling high contrast (#100, #102)
+* Translations for download chart image button (#103)
+
 ## 0.6.0
 
 ### Breaking changes

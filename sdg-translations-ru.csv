@@ -1,6 +1,4 @@
 ﻿key,en,ru
-post:posts_by_category,Posts by Category,Посты по категории
-post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Доля населения, живущего за международной
 чертой бедности, в разбивке по полу, возрасту,
 статусу занятости и месту проживания (городское/сельское)
@@ -868,6 +866,143 @@ global_indicators:9-b-1-title,Proportion of medium and high-tech industry value 
 в общем объеме добавленной стоимости"
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Доля населения, охваченного мобильными
 сетями, в разбивке по технологиям"
+menu:about,About,О нас
+menu:contact_us,Contact us,Свяжитесь с нами
+menu:cookies,Cookies,Cookies
+menu:faq,FAQ,Часто задаваемые вопросы
+menu:guidance,Guidance,Руководство
+menu:menu,Menu,Меню
+menu:publications,Publications,Публикации
+menu:reporting_status,Reporting Status,Состояние отчётности
+menu:updates,Updates,
+general:facebook,Facebook,Facebook
+general:goal,Goal,Цель
+general:goals,Goals,Цели
+general:home,Home,Главная
+general:indicator,Indicator,Показатель
+general:indicators,Indicators,Показатели
+general:loading,Loading search results,Загрузка результатов поиска
+general:opens_new_window,opens in a new window,открывается в новой вкладке
+general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
+general:target,Target,Задача
+general:targets,Targets,Задачи
+general:twitter,Twitter,Твиттеру
+global_goals:1-short,No poverty,Ликвидация нищеты
+global_goals:1-title,End poverty in all its forms everywhere,Повсеместная ликвидация нищеты во всех ее формах
+global_goals:10-short,Reduced inequalities,Уменьшение неравенства
+global_goals:10-title,Reduce inequality within and among countries,Сокращение неравенства внутри стран и между ними
+global_goals:11-short,Sustainable cities & communities,Устойчивые города и населенные пункты
+global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Обеспечение открытости, безопасности, жизнестойкости и экологической
+устойчивости городов и населенных пунктов"
+global_goals:12-short,Responsible consumption and production,Ответственное потребление и производство
+global_goals:12-title,Ensure sustainable consumption and production patterns,Обеспечение перехода к рациональным моделям потребления и производства
+global_goals:13-short,Climate action,Борьба с изменением климата
+global_goals:13-title,Take urgent action to combat climate change and its impacts,Принятие срочных мер по борьбе с изменением климата и его последствиями
+global_goals:14-short,Life below water,Сохранение морских экосистем
+global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Сохранение и рациональное использование океанов, морей и морских ресурсов
+в интересах устойчивого развития
+"
+global_goals:15-short,Life on land,Сохранение экосистем суши
+global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Защита и восстановление экосистем суши и содействие их рациональному
+использованию, рациональное лесопользование, борьба с опустыниванием,
+прекращение и обращение вспять процесса деградации земель и прекращение
+процесса утраты биологического разнообразия
+"
+global_goals:16-short,Peace and justice - strong institutions,"Мир, правосудие и эффективные институты"
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Содействие построению миролюбивого и открытого общества в интересах устойчивого
+развития, обеспечение доступа к правосудию для всех и создание эффективных,
+подотчетных и основанных на широком участии учреждений на всех уровнях
+"
+global_goals:17-short,Partnerships for the goals,Партнерство в интересах устойчивого развития
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,"Укрепление средств осуществления и активизация работы в рамках Глобального
+партнерства в интересах устойчивого развития"
+global_goals:2-short,Zero hunger,Ликвидация голода
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Ликвидация голода, обеспечение продовольственной безопасности и улучшение питания
+и содействие устойчивому развитию сельского хозяйства"
+global_goals:3-short,Good health and well-being,Хорошее здоровье и благополучие
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,"Обеспечение здорового образа жизни и содействие благополучию для всех
+в любом возрасте"
+global_goals:4-short,Quality education,Качественное образование
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Обеспечение всеохватного и справедливого качественного образования и поощрение
+возможности обучения на протяжении всей жизни для всех"
+global_goals:5-short,Gender equality,Гендерное равенство
+global_goals:5-title,Achieve gender equality and empower all women and girls,"Обеспечение гендерного равенства и расширение прав и возможностей всех
+женщин и девочек"
+global_goals:6-short,Clean water and sanitation,Чистая вода и санитария
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,"Обеспечение наличия и рационального использования водных ресурсов и санитарии
+для всех
+"
+global_goals:7-short,Affordable and clean energy,Недорогостоящая и чистая энергия
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Обеспечение доступа к недорогим, надежным, устойчивым и современным источникам
+энергии для всех"
+global_goals:8-short,Decent jobs and economic growth,Достойна работа и экономический рост
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Содействие поступательному, всеохватному и устойчивому экономическому росту,
+полной и производительной занятости и достойной работе для всех"
+global_goals:9-short,"Industry, innovation and infrastructure","Индустриализация, инновации и инфраструктура"
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Создание стойкой инфраструктуры, содействие всеохватной и устойчивой
+индустриализации и инновациям"
+indicator:chart,Chart,График
+indicator:clear_all,Clear all,Очистить всё
+indicator:clear_selections,Clear selections,Очистить выделенное
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"В таблице слишком много данных, чтобы показать в графике. Чтобы увидеть все, удалите выделенное."
+indicator:download_chart,Download Chart CSV,Скачать график CSV
+indicator:download_chart_image,Download Chart Image,Загрузить изображение диаграммы
+indicator:download_chart_image_title,Download chart as image,Скачать диаграмму как изображение
+indicator:download_csv,Download CSV,Скачать CSV
+indicator:download_csv_title,Download as CSV,Скачать в формате CSV
+indicator:download_headline,Download Headline CSV,Скачать заголовки CSV
+indicator:download_headline_title,Download headline data as CSV,Скачать данные заголовков в формате CSV
+indicator:download_source,Download Source CSV,Скачать исходные CSV
+indicator:download_source_title,Download source data as CSV,Скачать исходные данные в формате CSV
+indicator:download_table,Download Table CSV,Скачать табличные CSV
+indicator:edit,Edit,Редактировать
+indicator:edit_data,Edit Data,Редактировать данные
+indicator:edit_metadata,Edit Metadata,Редактировать метаданные
+indicator:footnote,Footnote,Сноска
+indicator:geographical_area,Geographical Area,Географический район
+indicator:global_metadata,Global Metadata,Глобальные метаданные
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","В этой таблице представлена информация для метаданных показателей ЦУР, определенных Статистической комиссией ООН. Полные глобальные метаданные представлены Статистическим отделом ООН."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,"Нажмите на легенду, чтобы убрать линии из графика."
+indicator:loading_map,Loading map,Загрузка карты
+indicator:map,Map,Карта
+indicator:national_metadata,National Metadata,Национальные метаданные
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","В этой таблице представлены метаданные для фактического показателя, доступного из статистики ближайшей к соответствующему глобальному индикатору ЦУР. Обратите внимание, что даже если глобальный индикатор ЦУР полностью доступен из статистики, по этой таблице следует проконсультироваться для получения информации о национальной методологии и других специфичных метаданных."
+indicator:no_data_hint,No options available because of filters above,Нет имеющихся вариантов из-за фильтров наверху.
+indicator:select_all,Select all,Выделить всё
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Выберите категории из выпадающего меню внизу, чтобы увидеть разные разбивки данных. Несколько не будет доступно, пока более высокий уровень не выбран. "
+indicator:source,Source,Источник
+indicator:sources,Sources,Источники
+indicator:sub_categories,Sub-categories,Субкатегории
+indicator:table,Table,Таблица
+indicator:unit_of_measurement,Unit of Measurement,Единица измерения
+indicator:units_type,Units type,Вид единиц
+indicator:variable_hint,Available when '%field' is selected,"Доступно, когда выбрано"
+indicator:view_indicator_list,View this goal's indicator list,Посмотреть список индикаторов этой цели
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
+search:found_in,found in,найдено в
+search:indicator_search,Indicator search,Поиск показателя
+search:keywords,Keywords,Ключевые слова
+search:no_results,No results,Результатов не найдено
+search:search,Search,Поиск
+search:search_results_for,Search results for,Результаты поиска по вашему запросу
+post:posts_by_category,Posts by Category,Посты по категории
+post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
+header:alpha,Alpha,Альфа
+header:default_contrast,Default contrast,стандартный контраст
+header:disable_high_contrast,Disable high contrast,Отключить высокую контрастность
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.
+header:enable_high_contrast,Enable high contrast,Включить высокую контрастность
+header:high_contrast,High contrast,высокий контраст
+header:skip_link,Skip to main content,Перейти к главному содержанию
+header:tag_line,17 Goals to Transform our World,"17 Целей, чтобы преобразовать наш мир"
+status:exploring_data_sources,Exploring data sources,В процессе разработки
+status:not_applicable,Not applicable,Непригодный
+status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
+status:reported_online,Reported online,Опубликован
+status:reporting_status,Reporting Status,Статус отчётности
+status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
+status:status_by_goal,Status by goal,Статус по цели
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","К 2030 году ликвидировать крайнюю нищету
 для всех людей во всем мире (в настоящее время
 крайняя нищета определяется как проживание на
@@ -1828,132 +1963,6 @@ global_targets:9-c-title,Significantly increase access to information and commun
 технологиям и стремиться
 к обеспечению всеобщего и недорогого доступа к
 Интернету в наименее развитых странах к 2020 году"
-header:alpha,Alpha,Альфа
-header:default_contrast,Default contrast,стандартный контраст
-header:disable_high_contrast,Disable high contrast,Отключить высокую контрастность
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.
-header:enable_high_contrast,Enable high contrast,Включить высокую контрастность
-header:high_contrast,High contrast,высокий контраст
-header:skip_link,Skip to main content,Перейти к главному содержанию
-header:tag_line,17 Goals to Transform our World,"17 Целей, чтобы преобразовать наш мир"
-global_goals:1-short,No poverty,Ликвидация нищеты
-global_goals:1-title,End poverty in all its forms everywhere,Повсеместная ликвидация нищеты во всех ее формах
-global_goals:10-short,Reduced inequalities,Уменьшение неравенства
-global_goals:10-title,Reduce inequality within and among countries,Сокращение неравенства внутри стран и между ними
-global_goals:11-short,Sustainable cities & communities,Устойчивые города и населенные пункты
-global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Обеспечение открытости, безопасности, жизнестойкости и экологической
-устойчивости городов и населенных пунктов"
-global_goals:12-short,Responsible consumption and production,Ответственное потребление и производство
-global_goals:12-title,Ensure sustainable consumption and production patterns,Обеспечение перехода к рациональным моделям потребления и производства
-global_goals:13-short,Climate action,Борьба с изменением климата
-global_goals:13-title,Take urgent action to combat climate change and its impacts,Принятие срочных мер по борьбе с изменением климата и его последствиями
-global_goals:14-short,Life below water,Сохранение морских экосистем
-global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Сохранение и рациональное использование океанов, морей и морских ресурсов
-в интересах устойчивого развития
-"
-global_goals:15-short,Life on land,Сохранение экосистем суши
-global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Защита и восстановление экосистем суши и содействие их рациональному
-использованию, рациональное лесопользование, борьба с опустыниванием,
-прекращение и обращение вспять процесса деградации земель и прекращение
-процесса утраты биологического разнообразия
-"
-global_goals:16-short,Peace and justice - strong institutions,"Мир, правосудие и эффективные институты"
-global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Содействие построению миролюбивого и открытого общества в интересах устойчивого
-развития, обеспечение доступа к правосудию для всех и создание эффективных,
-подотчетных и основанных на широком участии учреждений на всех уровнях
-"
-global_goals:17-short,Partnerships for the goals,Партнерство в интересах устойчивого развития
-global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,"Укрепление средств осуществления и активизация работы в рамках Глобального
-партнерства в интересах устойчивого развития"
-global_goals:2-short,Zero hunger,Ликвидация голода
-global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Ликвидация голода, обеспечение продовольственной безопасности и улучшение питания
-и содействие устойчивому развитию сельского хозяйства"
-global_goals:3-short,Good health and well-being,Хорошее здоровье и благополучие
-global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,"Обеспечение здорового образа жизни и содействие благополучию для всех
-в любом возрасте"
-global_goals:4-short,Quality education,Качественное образование
-global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Обеспечение всеохватного и справедливого качественного образования и поощрение
-возможности обучения на протяжении всей жизни для всех"
-global_goals:5-short,Gender equality,Гендерное равенство
-global_goals:5-title,Achieve gender equality and empower all women and girls,"Обеспечение гендерного равенства и расширение прав и возможностей всех
-женщин и девочек"
-global_goals:6-short,Clean water and sanitation,Чистая вода и санитария
-global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,"Обеспечение наличия и рационального использования водных ресурсов и санитарии
-для всех
-"
-global_goals:7-short,Affordable and clean energy,Недорогостоящая и чистая энергия
-global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Обеспечение доступа к недорогим, надежным, устойчивым и современным источникам
-энергии для всех"
-global_goals:8-short,Decent jobs and economic growth,Достойна работа и экономический рост
-global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Содействие поступательному, всеохватному и устойчивому экономическому росту,
-полной и производительной занятости и достойной работе для всех"
-global_goals:9-short,"Industry, innovation and infrastructure","Индустриализация, инновации и инфраструктура"
-global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Создание стойкой инфраструктуры, содействие всеохватной и устойчивой
-индустриализации и инновациям"
-indicator:chart,Chart,График
-indicator:clear_all,Clear all,Очистить всё
-indicator:clear_selections,Clear selections,Очистить выделенное
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"В таблице слишком много данных, чтобы показать в графике. Чтобы увидеть все, удалите выделенное."
-indicator:download_chart,Download Chart CSV,Скачать график CSV
-indicator:download_chart_image,Download Chart Image,Загрузить изображение диаграммы
-indicator:download_chart_image_title,Download chart as image,Скачать диаграмму как изображение
-indicator:download_csv,Download CSV,Скачать CSV
-indicator:download_csv_title,Download as CSV,Скачать в формате CSV
-indicator:download_headline,Download Headline CSV,Скачать заголовки CSV
-indicator:download_headline_title,Download headline data as CSV,Скачать данные заголовков в формате CSV
-indicator:download_source,Download Source CSV,Скачать исходные CSV
-indicator:download_source_title,Download source data as CSV,Скачать исходные данные в формате CSV
-indicator:download_table,Download Table CSV,Скачать табличные CSV
-indicator:edit,Edit,Редактировать
-indicator:edit_data,Edit Data,Редактировать данные
-indicator:edit_metadata,Edit Metadata,Редактировать метаданные
-indicator:footnote,Footnote,Сноска
-indicator:geographical_area,Geographical Area,Географический район
-indicator:global_metadata,Global Metadata,Глобальные метаданные
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","В этой таблице представлена информация для метаданных показателей ЦУР, определенных Статистической комиссией ООН. Полные глобальные метаданные представлены Статистическим отделом ООН."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,"Нажмите на легенду, чтобы убрать линии из графика."
-indicator:loading_map,Loading map,Загрузка карты
-indicator:map,Map,Карта
-indicator:national_metadata,National Metadata,Национальные метаданные
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","В этой таблице представлены метаданные для фактического показателя, доступного из статистики ближайшей к соответствующему глобальному индикатору ЦУР. Обратите внимание, что даже если глобальный индикатор ЦУР полностью доступен из статистики, по этой таблице следует проконсультироваться для получения информации о национальной методологии и других специфичных метаданных."
-indicator:no_data_hint,No options available because of filters above,Нет имеющихся вариантов из-за фильтров наверху.
-indicator:select_all,Select all,Выделить всё
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Выберите категории из выпадающего меню внизу, чтобы увидеть разные разбивки данных. Несколько не будет доступно, пока более высокий уровень не выбран. "
-indicator:source,Source,Источник
-indicator:sources,Sources,Источники
-indicator:sub_categories,Sub-categories,Субкатегории
-indicator:table,Table,Таблица
-indicator:unit_of_measurement,Unit of Measurement,Единица измерения
-indicator:units_type,Units type,Вид единиц
-indicator:variable_hint,Available when '%field' is selected,"Доступно, когда выбрано"
-indicator:view_indicator_list,View this goal's indicator list,Посмотреть список индикаторов этой цели
-status:exploring_data_sources,Exploring data sources,В процессе разработки
-status:not_applicable,Not applicable,Непригодный
-status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
-status:reported_online,Reported online,Опубликован
-status:reporting_status,Reporting Status,Статус отчётности
-status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
-status:status_by_goal,Status by goal,Статус по цели
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
-search:found_in,found in,найдено в
-search:indicator_search,Indicator search,Поиск показателя
-search:keywords,Keywords,Ключевые слова
-search:no_results,No results,Результатов не найдено
-search:search,Search,Поиск
-search:search_results_for,Search results for,Результаты поиска по вашему запросу
-general:facebook,Facebook,Facebook
-general:goal,Goal,Цель
-general:goals,Goals,Цели
-general:home,Home,Главная
-general:indicator,Indicator,Показатель
-general:indicators,Indicators,Показатели
-general:loading,Loading search results,Загрузка результатов поиска
-general:opens_new_window,opens in a new window,открывается в новой вкладке
-general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
-general:target,Target,Задача
-general:targets,Targets,Задачи
-general:twitter,Twitter,Твиттеру
 metadata_fields:comments_limitations,Other information,Другая информация
 metadata_fields:computation_calculations,Calculations,Расчёты
 metadata_fields:computation_definitions,Definitions,Определения
@@ -2032,12 +2041,3 @@ metadata_fields:target,Target name,Название задачи
 metadata_fields:target_id,Target number,Номер задачи
 metadata_fields:un_custodian_agency,UN custodian agency,Депозитарное учреждение ООН 
 metadata_fields:un_designated_tier,UN designated tier,Назначенный ООН уровень
-menu:about,About,О нас
-menu:contact_us,Contact us,Свяжитесь с нами
-menu:cookies,Cookies,Cookies
-menu:faq,FAQ,Часто задаваемые вопросы
-menu:guidance,Guidance,Руководство
-menu:menu,Menu,Меню
-menu:publications,Publications,Публикации
-menu:reporting_status,Reporting Status,Состояние отчётности
-menu:updates,Updates,

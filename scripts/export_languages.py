@@ -13,8 +13,9 @@ def main():
     'zh-Hans',
     'ar',
     'ru',
-    'am',
+    'hy',
     'de',
+    'kk',
   ]
 
   folder = 'www'

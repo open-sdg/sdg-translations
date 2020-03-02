@@ -1,897 +1,4 @@
 ﻿key,en,ru
-global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Доля населения, живущего за международной
-чертой бедности, в разбивке по полу, возрасту,
-статусу занятости и месту проживания (городское/сельское)
-"
-global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age","Доля населения страны, живущего за официальной
-чертой бедности, в разбивке по полу и возрасту
-"
-global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Доля мужчин, женщин и детей всех возрастов,
-живущих в нищете во всех ее проявлениях, согласно
-национальным определениям
-"
-global_indicators:1-3-1-title,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable","Доля населения, охватываемого минимальным
-уровнем/системами социальной защиты, в разбивке
-по полу, с выделением детей, безработных, пожилых,
-инвалидов, беременных, новорожденных,
-лиц, получивших трудовое увечье, и бедных и уязвимых"
-global_indicators:1-4-1-title,Proportion of population living in households with access to basic services,"Доля населения, живущего в домохозяйствах
-с доступом к базовым услугам
-"
-global_indicators:1-4-2-title,"Proportion of total adult population with secure tenure rights to land, with legally recognized documentation, and who perceive their rights to land as secure, by sex and by type of tenure","Доля совокупного взрослого населения, обладающего
-гарантированными правами землевладения,
-a) которые подтверждены признанными законом
-документами, и b) считающего свои права на землю
-гарантированными, в разбивке по полу и по формам
-землевладения"
-global_indicators:1-5-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","Число погибших, пропавших без вести и пострадавших
-непосредственно в результате бедствий
-на 100 000 человек"
-global_indicators:1-5-2-title,Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),"Прямые экономические потери от бедствий в
-процентном отношении к мировому валовому внутреннему
-продукту (ВВП)
-"
-global_indicators:1-5-3-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,"Число стран, принявших и осуществляющих
-национальные стратегии снижения риска бедствий в
-соответствии с Сендайской рамочной программой по
-снижению риска бедствий на 2015–2030 годы"
-global_indicators:1-5-4-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,"Доля местных органов власти, принявших и
-осуществляющих местные стратегии снижения риска
-бедствий в соответствии с национальными стратегиями
-снижения риска бедствий"
-global_indicators:1-a-1-title,Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes,"Доля ресурсов, выделенных правительством
-непосредственно на программы по сокращению масштабов
-нищеты "
-global_indicators:1-a-2-title,"Proportion of total government spending on essential services (education, health and social protection)","Доля расходов на основные услуги (образование,
-здравоохранение и социальную защиту) в общей
-сумме государственных расходов"
-global_indicators:1-a-3-title,Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP,"Суммарный объем субсидий и не образующего
-задолженности притока средств, непосредственно
-выделяемых на программы сокращения масштабов
-нищеты, в процентном отношении к ВВП
-"
-global_indicators:1-b-1-title,"Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups","Доля текущих и капитальных государственных
-расходов в секторах, которые приносят преимущественную
-выгоду женщинам, бедным и уязвимым
-группам населения"
-global_indicators:10-1-1-title,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,"Темпы роста расходов домохозяйств или доходов
-на душу населения среди наименее обеспеченных
-40 процентов населения и среди населения в целом
-"
-global_indicators:10-2-1-title,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities","Доля людей с доходом ниже 50 процентов
-медианного дохода в разбивке по полу, возрасту и
-признаку инвалидности"
-global_indicators:10-3-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,"Доля людей, сообщивших об испытанных
-ими лично в последние 12 месяцев проявлениях дискриминации
-или преследованиях на основании, дискриминация
-на котором запрещена международным
-правом прав человека"
-global_indicators:10-4-1-title,"Labour share of GDP, comprising wages and social protection transfers","Доля доходов трудящихся в ВВП, в том
-числе заработная плата и выплаты по линии социальной
-защиты"
-global_indicators:10-5-1-title,Financial Soundness Indicators (FSIs),Показатели финансовой устойчивости
-global_indicators:10-6-1-title,Proportion of members and voting rights of developing countries in international organizations,"Доля развивающихся стран в членском составе
-международных организаций и удельный вес
-их голосов
-"
-global_indicators:10-7-1-title,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination,"Затраты работника на трудоустройство в процентах
-от его годового дохода в стране назначения"
-global_indicators:10-7-2-title,Number of countries that have implemented well-managed migration policies,"Число стран, проводящих хорошо продуманную
-миграционную политику"
-global_indicators:10-a-1-title,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,"Доля товарных позиций наименее развитых
-стран и развивающихся стран, к которым применяются
-нулевые тарифы"
-global_indicators:10-b-1-title,"Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)","Совокупный объем потоков ресурсов в целях
-развития в разбивке по странам-получателям и странам-донорам
-и видам потоков (например, официальная
-помощь в целях развития, прямые иностранные
-инвестиции и прочие финансовые потоки)"
-global_indicators:10-c-1-title,Remittance costs as a proportion of the amount remitted,"Стоимость перевода в процентном отношении
-к переводимой сумме
-"
-global_indicators:11-1-1-title,"Proportion of urban population living in slums, informal settlements or inadequate housing","Доля городского населения, проживающего в
-трущобах, неформальных поселениях или в неудовлетворительных
-жилищных условиях
-"
-global_indicators:11-2-1-title,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities","Доля населения, имеющего удобный доступ
-к общественному транспорту, в разбивке по полу,
-возрасту и признаку инвалидности"
-global_indicators:11-3-1-title,Ratio of land consumption rate to population growth rate,"Соотношение темпов застройки и темпов роста
-населения"
-global_indicators:11-3-2-title,Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically,"Доля городов, в которых регулярно и на демократической
-основе функционируют структуры,
-обеспечивающие прямое участие гражданского общества
-в градостроительном планировании и управлении
-городским хозяйством
-"
-global_indicators:11-4-1-title,"Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)","Общая сумма расходов (государственных и
-частных) в расчете на душу населения на цели сохранения
-и защиты всего культурного и природного
-наследия в разбивке по видам наследия (культурное,
-природное, смешанного характера и признанное объектом
-всемирного наследия Центром всемирного
-наследия), уровню государственной подведомственности
-(национальный, региональный и местный/ муниципальный),
-видам расходов (эксплуатационные расходы/капиталовложения) и видам частного финансирования
-(пожертвования в натуральной форме,
-частный некоммерческий сектор и спонсорство)
-"
-global_indicators:11-5-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","Число погибших, пропавших без вести и пострадавших
-непосредственно в результате бедствий на 100 000 человек"
-global_indicators:11-5-2-title,"Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters","Прямые экономические потери в процентном
-отношении к общемировому ВВП, ущерб важнейшим
-объектам инфраструктуры и число обусловленных
-бедствиями сбоев в работе основных служб"
-global_indicators:11-6-1-title,"Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities","Доля твердых бытовых отходов, которые регулярно
-собираются и надлежащим образом удаляются,
-в общей массе городских отходов"
-global_indicators:11-6-2-title,Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted),"Среднегодовой уровень содержания мелких
-твердых частиц (например, класса PM2.5 и PM10) в
-атмосфере городов (в пересчете на численность населения)
-"
-global_indicators:11-7-1-title,"Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities","Средняя доля застроенной городской территории,
-относящейся к открытым для всех общественным
-местам, с указанием доступности в разбивке по
-полу, возрасту и признаку инвалидности"
-global_indicators:11-7-2-title,"Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months","Доля лиц, подвергшихся физическим или
-сексуальным домогательствам, в разбивке по полу,
-возрасту, признаку инвалидности и месту происшествия
-за последние 12 месяцев"
-global_indicators:11-a-1-title,"Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city","Доля населения, живущего в городах, осуществляющих
-городские и региональные планы застройки,
-в которых учитываются прогнозы роста
-населения и потребности в ресурсах, в разбивке по
-размерам городов"
-global_indicators:11-b-1-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,"Число стран, принявших и осуществляющих
-национальные стратегии снижения риска бедствий в
-соответствии с Сендайской рамочной программой по
-снижению риска бедствий на 2015–2030 годы "
-global_indicators:11-b-2-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,"Доля местных органов власти, принявших и
-осуществляющих местные стратегии снижения риска
-бедствий в соответствии с национальными стратегиями
-снижения риска бедствий"
-global_indicators:11-c-1-title,"Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials","Доля финансовой поддержки наименее развитых
-стран, выделяемой на строительство экологичных,
-прочных и ресурсосберегающих зданий и переоборудование зданий для обеспечения их экологичности,
-прочности и экономии ресурсов с использованием
-местных материалов"
-global_indicators:12-1-1-title,Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies,"Число стран, имеющих национальный план
-действий по переходу к рациональным моделям потребления
-и производства или включивших рациональное
-потребление и производство в качестве приоритета
-или задачи в национальную стратегию"
-global_indicators:12-2-1-title,"Material footprint, material footprint per capita, and material footprint per GDP","Совокупные ресурсозатраты и ресурсозатраты
-на душу населения и в процентном отношении
-к ВВП"
-global_indicators:12-2-2-title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP","Совокупное внутреннее материальное потребление
-и внутреннее материальное потребление
-на душу населения и в процентном отношении к
-ВВП
-"
-global_indicators:12-3-1-title,Global food loss index,Глобальный индекс потерь продовольствия
-global_indicators:12-4-1-title,"Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement","Число сторон международных многосторонних
-экологических соглашений по опасным и иным
-химических веществам и отходам, выполняющих
-свои обязательства и обязанности по передаче информации
-в соответствии с требованиями каждого
-соглашения"
-global_indicators:12-4-2-title,"Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment","Образование опасных отходов на душу населения
-и доля обрабатываемых опасных отходов в разбивке
-по видам обработки"
-global_indicators:12-5-1-title,"National recycling rate, tons of material recycled","Национальный уровень переработки отходов,
-масса утилизированных материалов в тоннах
-"
-global_indicators:12-6-1-title,Number of companies publishing sustainability reports,"Число компаний, публикующих отчеты о рациональном
-использовании ресурсов"
-global_indicators:12-7-1-title,Number of countries implementing sustainable public procurement policies and action plans,"Число стран, осуществляющих стратегии и
-планы действий по экологизации государственных
-закупок"
-global_indicators:12-8-1-title,Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,"Статус i) воспитания в духе всемирной гражданственности
-и ii) пропаганды устойчивого развития
-(включая просвещение по проблеме изменения
-климата) a) в национальной политике в сфере образования;
-b) в учебных программах; c) в программах
-подготовки учителей; и d) в системе аттестации учащихся"
-global_indicators:12-a-1-title,Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies,"Объем помощи развивающимся странам в
-сфере научно-исследовательских и опытно-конструкторских
-работ в интересах обеспечения рационального
-потребления и производства и внедрения экологически
-безопасных технологий"
-global_indicators:12-b-1-title,Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools,"Число стратегий или директив и осуществляемых
-планов действий в области устойчивого туризма
-с согласованными инструментами мониторинга
-и оценки"
-global_indicators:12-c-1-title,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels,"Сумма субсидий на ископаемое топливо на
-единицу ВВП (производство и потребление) и их
-доля в совокупных национальных расходах на ископаемое
-топливо"
-global_indicators:13-1-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","Число погибших, пропавших без вести и пострадавших
-непосредственно в результате бедствий
-на 100 000 человек"
-global_indicators:13-1-2-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,"Число стран, принявших и осуществляющих
-национальные стратегии снижения риска бедствий в
-соответствии с Сендайской рамочной программой по
-снижению риска бедствий на 2015–2030 годы"
-global_indicators:13-1-3-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,"Доля местных органов власти, принявших и
-осуществляющих местные стратегии снижения риска
-бедствий в соответствии с национальными стратегиями
-снижения риска бедствий "
-global_indicators:13-2-1-title,"Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)","Число стран, сообщивших о создании или
-введении в действие комплексной политики/
-стратегии/плана, повышающих их способность адаптироваться
-к неблагоприятным последствиям изменения
-климата и содействующих развитию их потенциала
-противодействия климатическим изменениям и
-снижению выбросов парниковых газов таким образом,
-чтобы это не ставило под угрозу производство
-продовольствия (включая национальный адаптационный
-план, определяемый на национальном уровне
-вклад, национальную систему информирования населения,
-подготовку двухгодичного обновленного доклада
-или другое)
-"
-global_indicators:13-3-1-title,"Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula","Число стран, включивших вопросы смягчения
-остроты и ослабления последствий изменения
-климата, адаптации к ним и раннего предупреждения
-в учебные программы начальной и средней школы и
-высших учебных заведений"
-global_indicators:13-3-2-title,"Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions","Число стран, сообщивших об укреплении
-институциональных, системных и индивидуальных
-возможностей для осуществления мер в области
-адаптации к климатическим изменениям, смягчения
-их последствий и передачи и развития технологии"
-global_indicators:13-a-1-title,Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment,"Сумма (в долл. США), мобилизованная
-за год с 2020 по 2025 год в соответствии с обязательством
-по мобилизации 100 млрд. долл. США"
-global_indicators:13-b-1-title,"Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities","Число наименее развитых стран и малых
-островных развивающихся государств, которые получают
-специализированную поддержку, в том числе
-ориентированную на женщин, молодежь и местные и
-маргинализированные общины, и величина такой
-поддержки, включая финансирование, технологии и
-укрепление потенциала, предоставляемой для создания
-механизмов, расширяющих возможности в части
-планирования и управления, связанных с изменением климата"
-global_indicators:14-1-1-title,Index of coastal eutrophication and floating plastic debris density,"Индекс прибрежной эвтрофикации и плотность
-плавающего лома пластмасс"
-global_indicators:14-2-1-title,Proportion of national exclusive economic zones managed using ecosystem-based approaches,"Доля национальных исключительных экономических
-зон, в управлении которыми применяются
-экосистемные подходы"
-global_indicators:14-3-1-title,Average marine acidity (pH) measured at agreed suite of representative sampling stations,"Средняя кислотность (pH) морской воды, измеряемая
-в согласованной группе репрезентативных
-станций отбора проб"
-global_indicators:14-4-1-title,Proportion of fish stocks within biologically sustainable levels,"Доля рыбных запасов, находящихся в биологически
-устойчивых пределах"
-global_indicators:14-5-1-title,Coverage of protected areas in relation to marine areas,Доля охраняемых морских районов
-global_indicators:14-6-1-title,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing","Достигнутый странами прогресс с точки зрения
-степени соблюдения международно-правовых
-документов по борьбе с незаконным, несообщаемым
-и нерегулируемым рыбным промыслом"
-global_indicators:14-7-1-title,"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries","Экологически рациональный рыбный промысел
-в процентах от ВВП в малых островных развивающихся
-государствах, в наименее развитых странах
-и во всех странах"
-global_indicators:14-a-1-title,Proportion of total research budget allocated to research in the field of marine technology,"Доля бюджетных ассигнований на научные
-исследования в области морских технологий в общем
-объеме бюджетных ассигнований на научные исследования
-"
-global_indicators:14-b-1-title,Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries,"Достигнутый странами прогресс с точки зрения
-степени применения нормативно-правовых/ стратегических/институциональных
-рамок, обеспечивающих
-признание и защиту прав доступа мелких рыбопромысловых
-предприятий"
-global_indicators:14-c-1-title,"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources","Число стран, добившихся прогресса в ратификации,
-принятии и осуществлении, по линии правовых,
-стратегических и институциональных рамок,
-правовых документов по вопросам Мирового океана,
-направленных на осуществление закрепленных в
-Конвенции Организации Объединенных Наций по
-морскому праву норм международного права, касающихся
-сохранения и рационального использования
-Мирового океана и его ресурсов"
-global_indicators:15-1-1-title,Forest area as a proportion of total land area,"Площадь лесов в процентном отношении к
-общей площади суши"
-global_indicators:15-1-2-title,"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type","Доля важных с точки зрения биологического разнообразия районов суши и пресноводных районов,
-находящихся под охраной, в разбивке по видам
-экосистем"
-global_indicators:15-2-1-title,Progress towards sustainable forest management,"Прогресс в переходе на неистощительное ведение
-лесного хозяйства"
-global_indicators:15-3-1-title,Proportion of land that is degraded over total land area,"Площадь деградировавших земель в процентном
-отношении к общей площади суши
-"
-global_indicators:15-4-1-title,Coverage by protected areas of important sites for mountain biodiversity,"Доля охраняемых районов среди важных для
-горного биоразнообразия участков"
-global_indicators:15-4-2-title,Mountain Green Cover Index,Индекс растительного покрова гор
-global_indicators:15-5-1-title,Red List Index,Индекс Красного списка
-global_indicators:15-6-1-title,"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits","Число стран, принявших комплексы законодательных,
-административных и директивных мер,
-обеспечивающих справедливое и недискриминационное
-распределение благ
-"
-global_indicators:15-7-1-title,Proportion of traded wildlife that was poached or illicitly trafficked,"Доля диких животных, являющихся объектом
-браконьерства или незаконного оборота, среди
-видов, которыми ведется торговля
-"
-global_indicators:15-8-1-title,Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,"Доля стран, принимающих соответствующее
-национальное законодательство и выделяющих достаточные
-ресурсы для предотвращения проникновения
-или регулирования численности чужеродных инвазивных
-видов"
-global_indicators:15-9-1-title,Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020,"Прогресс в достижении национальных целевых
-показателей, установленных в соответствии с
-Айтинской целевой задачей 2 по биоразнообразию в
-рамках Стратегического плана по биоразнообразию
-на 2011–2020 годы"
-global_indicators:15-a-1-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,"Объем официальной помощи в целях развития
-и государственных средств, выделяемых на сохранение
-и рациональное использование биоразнообразия
-и экосистем"
-global_indicators:15-b-1-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,"Объем официальной помощи в целях развития
-и государственных средств, выделяемых на сохранение
-и рациональное использование биоразнообразия
-и экосистем"
-global_indicators:15-c-1-title,Proportion of traded wildlife that was poached or illicitly trafficked,"Доля диких животных, являющихся объектом
-браконьерства или незаконного оборота, среди
-видов, которыми ведется торговля"
-global_indicators:16-1-1-title,"Number of victims of intentional homicide per 100,000 population, by sex and age","Число жертв умышленных убийств на
-100 000 человек в разбивке по возрастной группе и
-полу"
-global_indicators:16-1-2-title,"Conflict-related deaths per 100,000 population, by sex, age and cause","Число связанных с конфликтами смертей на
-100 000 человек (в разбивке по возрастной группе,
-полу и причине)
-"
-global_indicators:16-1-3-title,"Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months","Доля населения, в последние 12 месяцев
-подвергшегося a) физическому, b) психологическому
-и c) сексуальному насилию"
-global_indicators:16-1-4-title,Proportion of population that feel safe walking alone around the area they live,"Доля людей, чувствующих себя в безопасности,
-когда они идут одни по улице в своем районе"
-global_indicators:16-10-1-title,"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months","Число подтвержденных случаев убийства,
-похищения, насильственного исчезновения, произвольного
-задержания и пыток журналистов и связанных
-с ними представителей средств массовой информации,
-профсоюзных деятелей и правозащитников в
-последние 12 месяцев"
-global_indicators:16-10-2-title,"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information","Число стран, в которых приняты и действуют
-конституционные, законодательные и/или политические
-гарантии доступа граждан к информации"
-global_indicators:16-2-1-title,Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,"Доля детей в возрасте от 1 года до 17 лет, в
-последний месяц подвергшихся любому физическому
-наказанию и/или психологической агрессии со
-стороны тех, кто обеспечивает уход за ними"
-global_indicators:16-2-2-title,"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation","Число жертв торговли людьми на 100 000 человек
-в разбивке по полу, возрасту и форме эксплуатации"
-global_indicators:16-2-3-title,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,"Доля молодых женщин и мужчин в возрасте
-от 18 до 24 лет, подвергшихся сексуальному насилию
-до достижения 18 лет"
-global_indicators:16-3-1-title,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,"Доля жертв насилия, которые в последние
-12 месяцев подали соответствующую жалобу в компетентные
-органы или другие официально признанные
-механизмы урегулирования конфликтов"
-global_indicators:16-3-2-title,Unsentenced detainees as a proportion of overall prison population,"Доля лиц, задерживаемых до вынесения приговора,
-в общей численности лиц, содержащихся под стражей"
-global_indicators:16-4-1-title,Total value of inward and outward illicit financial flows (in current United States dollars),"Общий объем входящих и исходящих незаконных
-финансовых потоков (в долларах США в текущих
-ценах)"
-global_indicators:16-4-2-title,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments","Доля изъятого, обнаруженного или сданного
-оружия, незаконное происхождение или обстоятельства
-приобретения которого было отслежено или
-установлено компетентным органом в соответствии с
-международными документами"
-global_indicators:16-5-1-title,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months","Доля лиц, которые в предыдущие 12 месяцев
-хотя бы один раз имели контакт с государственным
-должностным лицом и которые заплатили взятку государственному
-должностному лицу или от которых
-это государственное должностное лицо требовало
-взятку"
-global_indicators:16-5-2-title,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months","Доля коммерческих компаний, которые в
-предыдущие 12 месяцев хотя бы один раз имели контакт
-с государственным должностным лицом и которые
-заплатили взятку государственному должностному
-лицу или от которых это государственное должностное
-лицо требовало взятку"
-global_indicators:16-6-1-title,"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)","Первичные расходы правительства в процентном
-отношении к первоначальному утвержденному
-бюджету в разбивке по секторам (по кодам бюджетной
-классификации или аналогичным категориям)"
-global_indicators:16-6-2-title,Proportion of population satisfied with their last experience of public services,"Доля населения, удовлетворенного последним
-опытом использования государственных услуг"
-global_indicators:16-7-1-title,"Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions","Доля должностей (в разбивке по возрастной
-группе, полу, признаку инвалидности и группе населения)
-в государственных учреждениях (национальных
-и местных законодательных собраниях, государственной
-службе и судебных органах) в сравнении с
-национальным распределением"
-global_indicators:16-7-2-title,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group","Доля населения, считающего процесс принятия
-решений всеохватывающим и оперативным, в
-разбивке по полу, возрасту, признаку инвалидности и
-группе населения
-"
-global_indicators:16-8-1-title,Proportion of members and voting rights of developing countries in international organizations,"Доля развивающихся стран в членском составе
-международных организаций и удельный вес
-их голосов
-"
-global_indicators:16-9-1-title,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age","Доля детей в возрасте до пяти лет, рождение
-которых было зарегистрировано в гражданских органах,
-в разбивке по возрасту"
-global_indicators:16-a-1-title,Existence of independent national human rights institutions in compliance with the Paris Principles,"Наличие независимых национальных правозащитных
-институтов, действующих в соответствии
-с Парижскими принципами"
-global_indicators:16-b-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,"Доля людей, сообщивших об испытанных
-ими лично в последние 12 месяцев проявлениях дискриминации
-или преследованиях на основании, дискриминация
-на котором запрещена международным
-правом прав человека
-"
-global_indicators:17-1-1-title,"Total government revenue as a proportion of GDP, by source","Общий объем государственных доходов в
-процентном отношении к ВВП в разбивке по источникам"
-global_indicators:17-1-2-title,Proportion of domestic budget funded by domestic taxes,"Доля национального бюджета, финансируемая
-внутренними налогами"
-global_indicators:17-10-1-title,Worldwide weighted tariff-average,"Средневзвешенный мировой уровень тарифов
-"
-global_indicators:17-11-1-title,Developing countries’ and least developed countries’ share of global exports," Доля развивающихся стран и наименее развитых
-стран в мировом экспорте"
-global_indicators:17-12-1-title,"Average tariffs faced by developing countries, least developed countries and small island developing States","Средний уровень тарифов, применяемых в
-отношении развивающихся стран, наименее развитых
-стран и малых островных развивающихся государств"
-global_indicators:17-13-1-title,Macroeconomic Dashboard,"Единый набор контрольных макроэкономических
-показателей"
-global_indicators:17-14-1-title,Number of countries with mechanisms in place to enhance policy coherence of sustainable development,"Число стран, в которых созданы механизмы
-для повышения согласованности политики в области
-устойчивого развития
-"
-global_indicators:17-15-1-title,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation,"Масштабы использования подготовленных
-странами ориентировочных перечней результатов и
-инструментов планирования участниками процесса
-сотрудничества в целях развития
-"
-global_indicators:17-16-1-title,Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,"Число стран, сообщающих о прогрессе в
-деле применения механизмов контроля за эффективностью
-развития с участием многих заинтересованных
-сторон, которые служат подспорьем в достижении
-целей устойчивого развития"
-global_indicators:17-17-1-title,Amount of United States dollars committed to public-private and civil society partnerships,"Сумма (в долларах США), выделяемая на a)
-государственно-частные партнерства и b) партнерства
-организаций гражданского общества"
-global_indicators:17-18-1-title,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics","Доля показателей устойчивого развития, разработанных
-на национальном уровне с полной дезагрегацией
-по соответствующим признакам согласно
-Основополагающим принципам официальной статистики"
-global_indicators:17-18-2-title,Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics," Число, стран, имеющих национальное статистическое
-законодательство, соответствующее Основополагающим
-принципам официальной статистики"
-global_indicators:17-18-3-title,"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding","Число стран, имеющих полностью финансированный
-и осуществляемый национальный статистический
-план, в разбивке по источникам финансирования
-"
-global_indicators:17-19-1-title,Dollar value of all resources made available to strengthen statistical capacity in developing countries,"Долларовая стоимость всех ресурсов, выделенных
-на наращивание потенциала развивающихся
-стран в области статистики
-"
-global_indicators:17-19-2-title,Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,"Доля стран, которые a) провели хотя бы одну
-перепись населения и жилищного фонда в течение
-последних 10 лет; и b) достигли цели регистрации
-рождений в 100 процентах случаев и регистрации
-смерти в 80 процентах случаев"
-global_indicators:17-2-1-title,"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)","Чистый объем официальной помощи в целях
-развития (как суммарной, так и выделяемой наименее
-развитым странам) в процентном отношении к
-валовому национальному доходу доноров — членов
-Комитета содействия развитию ОЭСР"
-global_indicators:17-3-1-title,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget","Прямые иностранные инвестиции (ПИИ),
-официальная помощь в целях развития и сотрудничество
-Юг-Юг в процентном отношении к совокупному национальному бюджету"
-global_indicators:17-3-2-title,Volume of remittances (in United States dollars) as a proportion of total GDP,"Объем переводов (в долларах США) в процентном
-отношении к ВВП"
-global_indicators:17-4-1-title,Debt service as a proportion of exports of goods and services,"Расходы на обслуживание долга в процентном
-отношении к экспорту товаров и услуг"
-global_indicators:17-5-1-title,Number of countries that adopt and implement investment promotion regimes for least developed countries,"Число стран, в которых приняты и действуют
-режимы поощрения инвестиций в интересах
-наименее развитых стран"
-global_indicators:17-6-1-title,"Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation","Число соглашений и программ научного
-и/или технического сотрудничества между странами
-в разбивке по видам сотрудничества"
-global_indicators:17-6-2-title,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed","Число стационарных абонентов широкополосного
-Интернета в разбивке по скорости"
-global_indicators:17-7-1-title,"Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies","Общая сумма утвержденного финансирования
-для развивающихся стран в целях содействия
-разработке, передаче, распространению и освоению
-экологически безопасных технологий
-"
-global_indicators:17-8-1-title,Proportion of individuals using the Internet,"Доля населения, пользующегося Интернетом"
-global_indicators:17-9-1-title,"Dollar value of financial and technical assistance (including through North-South, South‐South and triangular cooperation) committed to developing countries","Долларовый объем финансовой и технической
-помощи развивающимся странам(в том числе
-оказываемой по линии Север — Юг, Юг — Юг и в
-рамках трехстороннего сотрудничества)"
-global_indicators:2-1-1-title,Prevalence of undernourishment,Распространенность недоедания
-global_indicators:2-1-2-title,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)","Уровень умеренного или острого отсутствия
-продовольственной безопасности населения (по
-«Шкале восприятия отсутствия продовольственной
-безопасности»)"
-global_indicators:2-2-1-title,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,"Распространенность задержки роста среди
-детей в возрасте до пяти лет (среднеквадратичное отклонение
-от медианного показателя роста к возрасту
-ребенка в соответствии с нормами роста детей, установленными
-Всемирной организацией здравоохранения
-(ВОЗ), <-2) "
-global_indicators:2-2-2-title,"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)","Распространенность неполноценного питания
-среди детей в возрасте до пяти лет в разбивке по
-виду (истощение или ожирение) (среднеквадратичное
-отклонение от медианного показателя веса к возрасту
-в соответствии с нормами роста детей, установленными
-ВОЗ, >+2 или <-2)
-"
-global_indicators:2-3-1-title,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,"Объем производства на производственную
-единицу в разбивке по классам размера предприятий фермерского хозяйства/скотоводства/лесного хозяйства
-"
-global_indicators:2-3-2-title,"Average income of small-scale food producers, by sex and indigenous status","Средний доход мелких производителей продовольственной
-продукции в разбивке по полу и статусу
-принадлежности к коренным народам"
-global_indicators:2-4-1-title,Proportion of agricultural area under productive and sustainable agriculture,"Доля площади сельскохозяйственных угодий,
-на которых применяются продуктивные и неистощительные
-методы ведения сельского хозяйства"
-global_indicators:2-5-1-title,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,"Количество генетических ресурсов растительного
-и зоологического происхождения, предназначенных
-для производства продовольствия и сельского
-хозяйства, которые хранятся на специальных
-объектах либо среднесрочного, либо долгосрочного
-хранения"
-global_indicators:2-5-2-title,"Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction","Доля местных пород, относимых к следующим
-категориям: находящиеся под угрозой исчезновения;
-не находящиеся под угрозой исчезновения;
-уровень угрозы исчезновения не известен
-"
-global_indicators:2-a-1-title,The agriculture orientation index for government expenditures,"Индекс ориентированности на сельское хозяйство,
-определяемый по структуре государственных
-расходов "
-global_indicators:2-a-2-title,Total official flows (official development assistance plus other official flows) to the agriculture sector,"Совокупный приток официальных средств
-(официальная помощь в целях развития плюс прочие
-потоки официальных средств) в сельское хозяйство
-"
-global_indicators:2-b-1-title,Agricultural export subsidies,
-global_indicators:2-b-2-title,Agricultural export subsidies,"Субсидирование экспорта сельскохозяйственной
-продукции"
-global_indicators:2-c-1-title,Indicator of food price anomalies,Показатель ценовых аномалий на рынке продовольствия
-global_indicators:3-1-1-title,Maternal mortality ratio,Коэффициент материнской смертности 
-global_indicators:3-1-2-title,Proportion of births attended by skilled health personnel,"Доля родов, принятых квалифицированными
-медицинскими работниками"
-global_indicators:3-2-1-title,Under‐five mortality rate,"Коэффициент смертности детей в возрасте
-до пяти лет"
-global_indicators:3-2-2-title,Neonatal mortality rate,Коэффициент неонатальной смертности
-global_indicators:3-3-1-title,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations","Число новых заражений ВИЧ на 1000 неинфицированных
-в разбивке по полу, возрасту и принадлежности
-к основным группам населения"
-global_indicators:3-3-2-title,"Tuberculosis incidence per 100,000 population",Заболеваемость туберкулезом на 100 000 человек
-global_indicators:3-3-3-title,"Malaria incidence per 1,000 population",Заболеваемость малярией на 1000 человек
-global_indicators:3-3-4-title,"Hepatitis B incidence per 100,000 population",Заболеваемость гепатитом B на 100 000 человек
-global_indicators:3-3-5-title,Number of people requiring interventions against neglected tropical diseases,"Число людей, нуждающихся в лечении от
-«забытых» тропических болезней
-"
-global_indicators:3-4-1-title,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease","Смертность от сердечно-сосудистых заболеваний,
-рака, диабета, хронических респираторных заболеваний"
-global_indicators:3-4-2-title,Suicide mortality rate,Смертность от самоубийств
-global_indicators:3-5-1-title,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders","Охват лечением расстройств, вызванных
-употреблением психоактивных веществ (медикаментозные,
-психосоциальные и реабилитационные
-услуги и услуги по последующему уходу)"
-global_indicators:3-5-2-title,"Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol","Злоупотребление алкоголем (определяемое в соответствии с национальными особенностями употребление
-алкоголя на душу населения в возрасте от
-15 лет) в литрах чистого спирта в календарный год"
-global_indicators:3-6-1-title,Death rate due to road traffic injuries,"Смертность в результате дорожно-транспортных
-происшествий
-"
-global_indicators:3-7-1-title,Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods,"Доля женщин репродуктивного возраста (от
-15 до 49 лет), чьи потребности по планированию семьи
-удовлетворяются современными методами"
-global_indicators:3-7-2-title,"Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group","Показатель рождаемости среди девушек-подростков
-(в возрасте от 10 до 14 лет; в возрасте от 15
-до 19 лет) на 1000 женщин в данной возрастной
-группе"
-global_indicators:3-8-1-title,"Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)","Охват основными медико-санитарными
-услугами (определяемый как средний охват основными
-услугами по отслеживаемым процедурам, к которым
-относятся охрана репродуктивного здоровья,
-охрана здоровья матери и ребенка, лечение инфекционных
-заболеваний, лечение неинфекционных заболеваний
-и масштабы и доступность услуг для широких
-слоев населения и для находящихся в наиболее
-неблагоприятном положении групп населения) "
-global_indicators:3-8-2-title,Proportion of population with large household expenditures on health as a share of total household expenditure or income,"Доля населения с большим удельным весом
-семейных расходов на медицинскую помощь в общем
-объеме расходов или доходов домохозяйств"
-global_indicators:3-9-1-title,Mortality rate attributed to household and ambient air pollution,"Смертность от загрязнения воздуха в жилых
-помещениях и атмосферного воздуха"
-global_indicators:3-9-2-title,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)","Смертность от отсутствия безопасной воды,
-безопасной санитарии и гигиены (от отсутствия безопасных
-услуг в области водоснабжения, санитарии
-и гигиены (ВССГ) для всех)
-"
-global_indicators:3-9-3-title,Mortality rate attributed to unintentional poisoning,"Смертность от неумышленного отравления
-"
-global_indicators:3-a-1-title,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"Стандартизированная по возрасту распространенность
-употребления табака лицами в возрасте
-от 15 лет"
-global_indicators:3-b-1-title,Proportion of the target population covered by all vaccines included in their national programme,"Доля целевой группы населения, охваченная
-иммунизацией всеми вакцинами, включенными в
-национальные программы"
-global_indicators:3-b-2-title,Total net official development assistance to medical research and basic health sectors,"Общий чистый объем официальной помощи
-в целях развития, направленной на медицинские исследования
-и в основные отрасли здравоохранения"
-global_indicators:3-b-3-title,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,"Доля медицинских учреждений, постоянно
-располагающих набором основных необходимых и
-доступных лекарственных средств"
-global_indicators:3-c-1-title,Health worker density and distribution,"Число медицинских работников на душу
-населения и их распределение"
-global_indicators:3-d-1-title,International Health Regulations (IHR) capacity and health emergency preparedness,"Способность соблюдать Международные медико-санитарные
-правила (ММСП) и готовность к
-чрезвычайным ситуациям в области общественного
-здравоохранения"
-global_indicators:4-1-1-title,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex","Доля детей и молодежи, приходящаяся на
-a) учащихся 2/3 классов; b) выпускников начальной
-школы; и c) выпускников младшей средней школы,
-которые достигли по меньшей мере минимального
-уровня владения навыками i) чтения и ii) математики"
-global_indicators:4-2-1-title,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex","Доля детей в возрасте до пяти лет, которые
-развиваются без отклонений в плане здоровья, обучения
-и психосоциального благополучия, в разбивке по
-полу "
-global_indicators:4-2-2-title,"Participation rate in organized learning (one year before the official primary entry age), by sex","Уровень участия в организованных видах
-обучения (за один год до достижения официального
-возраста поступления в школу) в разбивке по полу"
-global_indicators:4-3-1-title,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex","Уровень участия взрослых и молодежи в
-формальных и неформальных видах обучения и профессиональной
-подготовки в последние 12 месяцев в
-разбивке по полу"
-global_indicators:4-4-1-title,"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill","Доля молодежи/взрослых, обладающей/ обладающих
-навыками в области информационно-коммуникационных
-технологий, в разбивке по видам
-навыков"
-global_indicators:4-5-1-title,"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated","Индексы равенства (женщин и мужчин, городских
-и сельских жителей, нижней и верхней
-квинтили достатка и других групп, например инвалидов,
-коренных народов и людей, затронутых конфликтом,
-в зависимости от наличия данных) по всем
-касающимся образования показателям в настоящем
-перечне, которые могут быть дезагрегированы"
-global_indicators:4-6-1-title,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex","Доля населения в данной возрастной группе,
-достигшая, по меньшей мере, установленного уровня
-функциональной a) грамотности и b) математической
-грамотности, в разбивке по полу."
-global_indicators:4-7-1-title,"Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment","Статус i) воспитания в духе всемирной гражданственности
-и ii) пропаганды устойчивого развития,
-включая гендерное равенство и права человека,
-на всех уровнях в a) национальной политике в сфере
-образования; b) учебных программах; c) программах
-подготовки учителей; и d) системе аттестации учащихся
-"
-global_indicators:4-a-1-title,Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions),"Доля школ, обеспеченных a) электроэнергией;
-b) доступом к Интернету для учебных целей;
-c) компьютерами для учебных целей; d) адаптированной
-инфраструктурой и материалами для учащихсяинвалидов;
-e) базовыми источниками питьевой воды;
-f) раздельными минимально оборудованными туалетами;
-и g) базовыми средствами для мытья рук (согласно
-определениям показателей инициативы
-ВССГ)"
-global_indicators:4-b-1-title,Volume of official development assistance flows for scholarships by sector and type of study,"Объем официальной помощи в целях развития,
-направляемой на выплату стипендий, в разбивке
-по отраслям и видам обучения"
-global_indicators:4-c-1-title,Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country,"Доля учителей в a) дошкольных учреждениях;
-b) начальной школе; c) младшей средней
-школе; и d) старшей средней школе, прошедших до
-начала или во время работы по меньшей мере минимальную
-организованную профессиональную учительскую
-подготовку (например, педагогическую) на
-соответствующем уровне в данной стране"
-global_indicators:5-1-1-title,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex","Наличие нормативно-правовой базы для поощрения
-и обеспечения равенства и недискриминации
-по признаку пола и наблюдения за положением в
-этой области"
-global_indicators:5-2-1-title,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age","Доля когда-либо имевших партнера женщин
-и девочек в возрасте от 15 лет, подвергавшихся физическому,
-сексуальному или психологическому насилию
-со стороны нынешнего или бывшего интимного
-партнера в последние 12 месяцев, в разбивке по формам
-насилия и возрасту "
-global_indicators:5-2-2-title,"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence","Доля женщин и девочек в возрасте от 15 лет,
-подвергавшихся сексуальному насилию со стороны
-кого-либо, кроме интимных партнеров, в последние
-12 месяцев, в разбивке по возрасту и месту происшествия"
-global_indicators:5-3-1-title,Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18,"Доля женщин в возрасте от 20 до 24 лет,
-вступивших в брак или союз до 15 лет и до 18 лет"
-global_indicators:5-3-2-title,"Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age","Доля девочек и женщин в возрасте от 15 до
-49 лет, подвергшихся калечащим операциям на женских
-половых органах/обрезанию, в разбивке по возрасту"
-global_indicators:5-4-1-title,"Proportion of time spent on unpaid domestic and care work, by sex, age and location","Доля времени, затрачиваемого на неоплачиваемый
-труд по уходу и работу по дому, в разбивке
-по полу, возрасту и месту проживания"
-global_indicators:5-5-1-title,Proportion of seats held by women in (a) national parliaments and (b) local governments,"Доля мест, занимаемых женщинами в
-a) национальных парламентах и b) местных органах
-власти"
-global_indicators:5-5-2-title,Proportion of women in managerial positions,Доля женщин на руководящих должностях
-global_indicators:5-6-1-title,"Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care","Доля женщин в возрасте от 15 до 49 лет, самостоятельно
-принимающих обдуманные решения о
-сексуальных отношениях, применении противозачаточных
-средств и обращении за услугами по охране
-репродуктивного здоровья"
-global_indicators:5-6-2-title,"Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education","Число стран, где действуют законы и нормативные
-акты, гарантирующие женщинам и мужчинам
-в возрасте от 15 лет полный и равный доступ к услугам
-по охране сексуального и репродуктивного здоровья
-и информации и просвещению в этой сфере"
-global_indicators:5-a-1-title,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure","a) Доля людей, владеющих сельскохозяйственной
-землей или имеющих гарантированное
-право пользования ею, в общей численности населения,
-занимающегося сельским хозяйством, в разбивке
-по полу; и b) доля женщин, владеющих сельскохозяйственной
-землей или являющихся носителями
-права владения ею, в разбивке по формам землевладения"
-global_indicators:5-a-2-title,Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control,"Доля стран, в которых правовая база (в том
-числе обычное право) гарантирует женщинам равные
-права на владение и/или распоряжение землей
-"
-global_indicators:5-b-1-title,"Proportion of individuals who own a mobile telephone, by sex","Доля людей, имеющих мобильный телефон,
-в разбивке по полу"
-global_indicators:5-c-1-title,Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,"Доля стран, обладающих механизмами отслеживания
-государственных ассигнований на обеспечение
-гендерного равенства и расширение прав и
-возможностей женщин и обнародования данных о
-них"
-global_indicators:6-1-1-title,Proportion of population using safely managed drinking water services,"Доля населения, пользующегося услугами
-водоснабжения, организованного с соблюдением требований
-безопасности"
-global_indicators:6-2-1-title,"Proportion of population using safely managed sanitation services, including a handwashing facility with soap and water","Доля населения, использующего a) организованные
-с соблюдением требований безопасности
-услуги санитарии и b) устройства для мытья рук с
-мылом и водой"
-global_indicators:6-3-1-title,Proportion of wastewater safely treated,Доля безопасно очищаемых сточных вод
-global_indicators:6-3-2-title,Proportion of bodies of water with good ambient water quality,Доля водоемов с хорошим качеством воды
-global_indicators:6-4-1-title,Change in water-use efficiency over time,Динамика изменения эффективности водопользования
-global_indicators:6-4-2-title,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,"Уровень нагрузки на водные ресурсы: забор
-пресной воды в процентном отношении к имеющимся
-запасам пресной воды"
-global_indicators:6-5-1-title,Degree of integrated water resources management implementation (0 to 100),"Степень внедрения комплексного управления
-водными ресурсами (от 0 до 100)"
-global_indicators:6-5-2-title,Proportion of transboundary basin area with an operational arrangement for water cooperation,"Доля трансграничных водных бассейнов,
-охваченных действующими договоренностями о сотрудничестве
-в области водопользования"
-global_indicators:6-6-1-title,Change in the extent of water-related ecosystems over time,"Динамика изменения площади связанных с
-водой экосистем"
-global_indicators:6-a-1-title,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,"Объем официальной помощи в целях развития,
-выделенной на водоснабжение и санитарию в
-рамках координируемой государственной программы
-расходов"
-global_indicators:6-b-1-title,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,"Доля местных административных единиц, в
-которых действуют правила и процедуры участия
-граждан в управлении водными ресурсами и санитарией
-"
-global_indicators:7-1-1-title,Proportion of population with access to electricity,"Доля населения, имеющего доступ к электроэнергии"
-global_indicators:7-1-2-title,Proportion of population with primary reliance on clean fuels and technology,"Доля населения, использующего в основном
-чистые виды топлива и технологии"
-global_indicators:7-2-1-title,Renewable energy share in the total final energy consumption,"Доля возобновляемых источников энергии в
-общем объеме конечного энергопотребления"
-global_indicators:7-3-1-title,Energy intensity measured in terms of primary energy and GDP,"Энергоемкость, рассчитываемая как отношение
-расхода первичной энергии к ВВП"
-global_indicators:7-a-1-title,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems","Объем международных финансовых потоков,
-поступающих в развивающиеся страны для поддержки
-исследований и разработок в области «чистой»
-энергии и развития энергетики на возобновляемых
-источниках, включая комбинированные системы"
-global_indicators:7-b-1-title,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services,"Капиталовложения в обеспечение энергоэффективности
-в процентном отношении к ВВП и доля прямых иностранных инвестиций в финансовых
-средствах, поступающих в отрасли обслуживания,
-обеспечивающие устойчивое развитие, на цели расширения
-их инфраструктуры и модернизации технологии
-"
-global_indicators:8-1-1-title,Annual growth rate of real GDP per capita,"Ежегодные темпы роста реального ВВП на
-душу населения"
-global_indicators:8-10-1-title,"(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults","Число a) филиалов коммерческих банков и
-b) банкоматов на 100 000 взрослых"
-global_indicators:8-10-2-title,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,"Доля взрослых (от 15 лет), имеющих счет в
-банке или ином финансовом учреждении или пользующихся
-услугами операторов мобильных финансовых
-услуг"
-global_indicators:8-2-1-title,Annual growth rate of real GDP per employed person,"Ежегодные темпы роста реального ВВП на
-каждого занятого"
-global_indicators:8-3-1-title,"Proportion of informal employment in non‐agriculture employment, by sex","Доля неформальной занятости в несельскохозяйственных
-секторах в разбивке по полу"
-global_indicators:8-4-1-title,"Material footprint, material footprint per capita, and material footprint per GDP","Совокупные ресурсозатраты и ресурсозатраты
-на душу населения и в процентном отношении
-к ВВП"
-global_indicators:8-4-2-title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP","Совокупное внутреннее материальное потребление
-и внутреннее материальное потребление
-на душу населения и в процентном отношении к
-ВВП
-"
-global_indicators:8-5-1-title,"Average hourly earnings of female and male employees, by occupation, age and persons with disabilities","Средний почасовой заработок женщин и
-мужчин в разбивке по роду занятий, возрасту и признаку
-инвалидности"
-global_indicators:8-5-2-title,"Unemployment rate, by sex, age and persons with disabilities","Уровень безработицы в разбивке по полу,
-возрасту и признаку инвалидности
-"
-global_indicators:8-6-1-title,"Proportion of youth (aged 15–24 years) not in education, employment or training","Доля молодежи (в возрасте от 15 до 24 лет),
-которая не учится, не работает и не приобретает профессиональных
-навыков"
-global_indicators:8-7-1-title,"Proportion and number of children aged 5–17 years engaged in child labour, by sex and age","Доля и число детей в возрасте от 5 до 17 лет,
-занятых детским трудом, в разбивке по полу и возрасту
-"
-global_indicators:8-8-1-title,"Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status","Производственный травматизм со смертельным
-и несмертельным исходом в разбивке по полу и
-миграционному статусу"
-global_indicators:8-8-2-title,"Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status","Ситуация с соблюдением трудовых прав на
-национальном уровне (свобода объединений и заключение
-коллективных трудовых договоров) на основе
-документальных источников Международной
-организации труда (МОТ) и национального законодательства
-в разбивке по полу и миграционному статусу
-"
-global_indicators:8-9-1-title,Tourism direct GDP as a proportion of total GDP and in growth rate,"Непосредственный вклад туризма в ВВП в
-процентном отношении к совокупному ВВП и по
-темпам роста"
-global_indicators:8-9-2-title,Proportion of jobs in sustainable tourism industries out of total tourism jobs,"Доля занятых в индустрии устойчивого туризма
-в общем числе рабочих мест в отрасли"
-global_indicators:8-a-1-title,Aid for Trade commitments and disbursements,"Объем обязательств и выплат в рамках инициативы
-«Помощь в торговле»"
-global_indicators:8-b-1-title,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy","Наличие разработанной и осуществляемой
-национальной стратегии молодежной занятости в качестве
-отдельной стратегии или в рамках национальной
-стратегии в области занятости
-"
-global_indicators:9-1-1-title,Proportion of the rural population who live within 2 km of an all-season road,"Доля сельского населения, проживающего в
-пределах 2 км от круглогодичной дороги"
-global_indicators:9-1-2-title,"Passenger and freight volumes, by mode of transport","Объем пассажирских и грузовых перевозок в
-разбивке по видам транспорта"
-global_indicators:9-2-1-title,Manufacturing value added as a proportion of GDP and per capita,"Добавленная стоимость, создаваемая в обрабатывающей
-промышленности, в процентном отношении
-к ВВП и на душу населения
-"
-global_indicators:9-2-2-title,Manufacturing employment as a proportion of total employment,"Занятость в обрабатывающей промышленности
-в процентах от общей занятости
-"
-global_indicators:9-3-1-title,Proportion of small-scale industries in total industry value added,"Доля мелких предприятий в совокупном объеме
-чистой продукции промышленности"
-global_indicators:9-3-2-title,Proportion of small-scale industries with a loan or line of credit,"Доля мелких предприятий, имеющих кредит
-или кредитную линию
-"
-global_indicators:9-4-1-title,CO2 emission per unit of value added,Выбросы CO2 на единицу добавленной стоимости
-global_indicators:9-5-1-title,Research and development expenditure as a proportion of GDP,"Доля расходов на научно-исследовательские
-и опытно-конструкторские работы в ВВП"
-global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million inhabitants,"Количество исследователей (в эквиваленте
-полной занятости) на миллион жителей"
-global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,"Совокупный объем официальной международной
-поддержки (официальной помощи в целях
-развития и других потоков официального финансирования),
-направляемой на инфраструктуру"
-global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,"Доля добавленной стоимости продукции
-среднетехнологичных и высокотехнологичных отраслей
-в общем объеме добавленной стоимости"
-global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Доля населения, охваченного мобильными
-сетями, в разбивке по технологиям"
-post:posts_by_category,Posts by Category,Посты по категории
-post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
-header:alpha,Alpha,Альфа
-header:default_contrast,Default contrast,стандартный контраст
-header:disable_high_contrast,Disable high contrast,Отключить высокую контрастность
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.
-header:enable_high_contrast,Enable high contrast,Включить высокую контрастность
-header:high_contrast,High contrast,высокий контраст
-header:skip_link,Skip to main content,Перейти к главному содержанию
-header:tag_line,17 Goals to Transform our World,"17 Целей, чтобы преобразовать наш мир"
-frontpage:download_all,Download all data,Скачать все данные
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
-frontpage:zip_file,ZIP file,ZIP файл
-calendar:April,April,апрель
-calendar:August,August,августейший
-calendar:December,December,Декабрь
-calendar:February,February,февраль
-calendar:January,January,январь
-calendar:July,July,июль
-calendar:June,June,июнь
-calendar:March,March,марш
-calendar:May,May,май
-calendar:November,November,ноябрь
-calendar:October,October,октября
-calendar:September,September,сентябрь
 global_goals:1-short,No poverty,Ликвидация нищеты
 global_goals:1-title,End poverty in all its forms everywhere,Повсеместная ликвидация нищеты во всех ее формах
 global_goals:10-short,Reduced inequalities,Уменьшение неравенства
@@ -946,111 +53,14 @@ global_goals:8-title,"Promote sustained, inclusive and sustainable economic grow
 global_goals:9-short,"Industry, innovation and infrastructure","Индустриализация, инновации и инфраструктура"
 global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Создание стойкой инфраструктуры, содействие всеохватной и устойчивой
 индустриализации и инновациям"
-metadata_fields:comments_limitations,Comments and limitations,Комментарии и ограничения
-metadata_fields:computation_calculations,Calculations,Расчёты
-metadata_fields:computation_definitions,Definitions,Определения
-metadata_fields:computation_units,Unit of measurement,Единица измерения
-metadata_fields:goal_meta_link,Link to UN metadata,Ссылка на метаданные ООН
-metadata_fields:indicator,Indicator number,Номер показателя
-metadata_fields:indicator_definition,Global indicator description,Описание глобального показателя
-metadata_fields:indicator_name,Indicator name,Название показателя
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Порядок отображения показателей (на странице целей)
-metadata_fields:international_comparability,Comparability with international data/standards,Сопоставимость с международными данными / стандартами
-metadata_fields:national_data_update_url,Data last updated,Последний раз данные обновлялись
-metadata_fields:national_geographical_coverage,Geographical coverage,Географический охват
-metadata_fields:national_indicator_available,Indicator available,Показатель доступен
-metadata_fields:national_indicator_description,Indicator description,Описание показателя
-metadata_fields:national_metadata_update_url,Metadata last updated, Последний раз метаданные обновлялись
-metadata_fields:other_info,Other information,Другая информация
-metadata_fields:quality_assurance,Quality assurance,Гарантия качества
-metadata_fields:rational_interpretation,Rational and interpretation,Рациональное и интерпретация
-metadata_fields:source_contact_1,Contact details,Контактные данные
-metadata_fields:source_contact_2,Contact details,Контактные данные
-metadata_fields:source_contact_3,Contact details,Контактные данные
-metadata_fields:source_contact_4,Contact details,Контактные данные
-metadata_fields:source_contact_5,Contact details,Контактные данные
-metadata_fields:source_contact_6,Contact details,Контактные данные
-metadata_fields:source_earliest_available_1,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_earliest_available_2,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_earliest_available_3,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_earliest_available_4,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_earliest_available_5,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_earliest_available_6,Earliest available data,Самые ранние доступные данные
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Географический охват
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Географический охват
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Географический охват
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Географический охват
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Географический охват
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Географический охват
-metadata_fields:source_next_release_1,Next release,Следующий  выпуск
-metadata_fields:source_next_release_2,Next release,Следующий  выпуск
-metadata_fields:source_next_release_3,Next release,Следующий  выпуск
-metadata_fields:source_next_release_4,Next release,Следующий  выпуск
-metadata_fields:source_next_release_5,Next release,Следующий  выпуск
-metadata_fields:source_next_release_6,Next release,Следующий  выпуск
-metadata_fields:source_organisation_1,Organisation,Организация
-metadata_fields:source_organisation_2,Organisation,Организация
-metadata_fields:source_organisation_3,Organisation,Организация
-metadata_fields:source_organisation_4,Organisation,Организация
-metadata_fields:source_organisation_5,Organisation,Организация
-metadata_fields:source_organisation_6,Organisation,Организация
-metadata_fields:source_other_info_1,Other information,Другая информация
-metadata_fields:source_other_info_2,Other information,Другая информация
-metadata_fields:source_other_info_3,Other information,Другая информация
-metadata_fields:source_other_info_4,Other information,Другая информация
-metadata_fields:source_other_info_5,Other information,Другая информация
-metadata_fields:source_other_info_6,Other information,Другая информация
-metadata_fields:source_periodicity_1,Periodicity,Периодичность
-metadata_fields:source_periodicity_2,Periodicity,Периодичность
-metadata_fields:source_periodicity_3,Periodicity,Периодичность
-metadata_fields:source_periodicity_4,Periodicity,Периодичность
-metadata_fields:source_periodicity_5,Periodicity,Периодичность
-metadata_fields:source_periodicity_6,Periodicity,Периодичность
-metadata_fields:source_release_date_1,Release date,Дата выпуска
-metadata_fields:source_release_date_2,Release date,Дата выпуска
-metadata_fields:source_release_date_3,Release date,Дата выпуска
-metadata_fields:source_release_date_4,Release date,Дата выпуска
-metadata_fields:source_release_date_5,Release date,Дата выпуска
-metadata_fields:source_release_date_6,Release date,Дата выпуска
-metadata_fields:source_statistical_classification_1,Statistical classification,Статистическая классификация
-metadata_fields:source_statistical_classification_2,Statistical classification,Статистическая классификация
-metadata_fields:source_statistical_classification_3,Statistical classification,Статистическая классификация
-metadata_fields:source_statistical_classification_4,Statistical classification,Статистическая классификация
-metadata_fields:source_statistical_classification_5,Statistical classification,Статистическая классификация
-metadata_fields:source_statistical_classification_6,Statistical classification,Статистическая классификация
-metadata_fields:source_url_1,Link to data source,Ссылка на источник данных
-metadata_fields:source_url_2,Link to data source,Ссылка на источник данных
-metadata_fields:source_url_3,Link to data source,Ссылка на источник данных
-metadata_fields:source_url_4,Link to data source,Ссылка на источник данных
-metadata_fields:source_url_5,Link to data source,Ссылка на источник данных
-metadata_fields:source_url_6,Link to data source,Ссылка на источник данных
-metadata_fields:target,Target name,Название задачи
-metadata_fields:target_id,Target number,Номер задачи
-metadata_fields:un_custodian_agency,UN custodian agency,Депозитарное учреждение ООН 
-metadata_fields:un_designated_tier,UN designated tier,Назначенный ООН уровень
-status:exploring_data_sources,Exploring data sources,В процессе разработки
-status:not_applicable,Not applicable,Непригодный
-status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
-status:reported_online,Reported online,Опубликован
-status:reporting_status,Reporting Status,Статус отчётности
-status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
-status:status_by_field,Status by %field,Статус по %field
-status:status_by_goal,Status by goal,Статус по цели
-search:did_you_mean,did you mean,вы имеете в виду
-search:found_in,found in,найдено в
-search:indicator_search,Indicator search,Поиск показателя
-search:keywords,Keywords,Ключевые слова
-search:no_results,No results,Результатов не найдено
-search:search,Search,Поиск
-search:search_results_for,Search results for,Результаты поиска по вашему запросу
+menu:menu,Menu,Меню
+menu:reporting_status,Reporting Status,Состояние отчётности
 menu:about,About,О нас
+menu:publications,Publications,Публикации
+menu:guidance,Guidance,Руководство
+menu:faq,FAQ,Часто задаваемые вопросы
 menu:contact_us,Contact us,Свяжитесь с нами
 menu:cookies,Cookies,Cookies
-menu:faq,FAQ,Часто задаваемые вопросы
-menu:guidance,Guidance,Руководство
-menu:menu,Menu,Меню
-menu:publications,Publications,Публикации
-menu:reporting_status,Reporting Status,Состояние отчётности
 menu:updates,Updates,
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","К 2030 году ликвидировать крайнюю нищету
 для всех людей во всем мире (в настоящее время
@@ -2012,57 +1022,1022 @@ global_targets:9-c-title,Significantly increase access to information and commun
 технологиям и стремиться
 к обеспечению всеобщего и недорогого доступа к
 Интернету в наименее развитых странах к 2020 году"
-general:built_using_open_sdg,Built using Open SDG,Построен с использованием Open SDG
-general:facebook,Facebook,Facebook
-general:goal,Goal,Цель
-general:goals,Goals,Цели
-general:home,Home,Главная
-general:indicator,Indicator,Показатель
-general:indicators,Indicators,Показатели
-general:loading,Loading search results,Загрузка результатов поиска
-general:opens_new_window,opens in a new window,открывается в новой вкладке
-general:page,Page,веб-страница
-general:pages,Pages,веб-страница
-general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
-general:target,Target,Задача
-general:targets,Targets,Задачи
-general:twitter,Twitter,Твиттеру
-indicator:chart,Chart,График
+search:search,Search,Поиск
+search:indicator_search,Indicator search,Поиск показателя
+search:search_results_for,Search results for,Результаты поиска по вашему запросу
+search:found_in,found in,найдено в
+search:keywords,Keywords,Ключевые слова
+search:no_results,No results,Результатов не найдено
+status:reporting_status,Reporting Status,Статус отчётности
+status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
+status:reported_online,Reported online,Опубликован
+status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
+status:exploring_data_sources,Exploring data sources,В процессе разработки
+status:not_applicable,Not applicable,Непригодный
+status:status_by_goal,Status by goal,Статус по цели
+indicator:select_all,Select all,Выделить всё
 indicator:clear_all,Clear all,Очистить всё
 indicator:clear_selections,Clear selections,Очистить выделенное
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"В таблице слишком много данных, чтобы показать в графике. Чтобы увидеть все, удалите выделенное."
-indicator:download_chart,Download Chart CSV,Скачать график CSV
-indicator:download_chart_image,Download Chart Image,Загрузить изображение диаграммы
-indicator:download_chart_image_title,Download chart as image,Скачать диаграмму как изображение
-indicator:download_csv,Download CSV,Скачать CSV
-indicator:download_csv_title,Download as CSV,Скачать в формате CSV
-indicator:download_geojson,Download GeoJSON,Скачать GeoJSON
-indicator:download_geojson_title,Download as GeoJSON,Скачать в формате GeoJSON
+indicator:variable_hint,Available when '%field' is selected,"Доступно, когда выбрано"
+indicator:no_data_hint,No options available because of filters above,Нет имеющихся вариантов из-за фильтров наверху.
 indicator:download_headline,Download Headline CSV,Скачать заголовки CSV
 indicator:download_headline_title,Download headline data as CSV,Скачать данные заголовков в формате CSV
 indicator:download_source,Download Source CSV,Скачать исходные CSV
 indicator:download_source_title,Download source data as CSV,Скачать исходные данные в формате CSV
+indicator:download_chart,Download Chart CSV,Скачать график CSV
 indicator:download_table,Download Table CSV,Скачать табличные CSV
+indicator:download_csv,Download CSV,Скачать CSV
+indicator:download_csv_title,Download as CSV,Скачать в формате CSV
+indicator:download_chart_image,Download Chart Image,Загрузить изображение диаграммы
+indicator:download_chart_image_title,Download chart as image,Скачать диаграмму как изображение
+indicator:source,Source,Источник
+indicator:sources,Sources,Источники
+indicator:geographical_area,Geographical Area,Географический район
+indicator:unit_of_measurement,Unit of Measurement,Единица измерения
+indicator:footnote,Footnote,Сноска
+indicator:units_type,Units type,Вид единиц
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"В таблице слишком много данных, чтобы показать в графике. Чтобы увидеть все, удалите выделенное."
+indicator:view_indicator_list,View this goal's indicator list,Посмотреть список индикаторов этой цели
+indicator:sub_categories,Sub-categories,Субкатегории
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Выберите категории из выпадающего меню внизу, чтобы увидеть разные разбивки данных. Несколько не будет доступно, пока более высокий уровень не выбран. "
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,"Нажмите на легенду, чтобы убрать линии из графика."
+indicator:chart,Chart,График
+indicator:table,Table,Таблица
+indicator:map,Map,Карта
+indicator:loading_map,Loading map,Загрузка карты
+indicator:national_metadata,National Metadata,Национальные метаданные
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","В этой таблице представлены метаданные для фактического показателя, доступного из статистики ближайшей к соответствующему глобальному индикатору ЦУР. Обратите внимание, что даже если глобальный индикатор ЦУР полностью доступен из статистики, по этой таблице следует проконсультироваться для получения информации о национальной методологии и других специфичных метаданных."
+indicator:global_metadata,Global Metadata,Глобальные метаданные
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","В этой таблице представлена информация для метаданных показателей ЦУР, определенных Статистической комиссией ООН. Полные глобальные метаданные представлены Статистическим отделом ООН."
 indicator:edit,Edit,Редактировать
 indicator:edit_data,Edit Data,Редактировать данные
 indicator:edit_metadata,Edit Metadata,Редактировать метаданные
-indicator:footnote,Footnote,Сноска
-indicator:geographical_area,Geographical Area,Географический район
-indicator:global_metadata,Global Metadata,Глобальные метаданные
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","В этой таблице представлена информация для метаданных показателей ЦУР, определенных Статистической комиссией ООН. Полные глобальные метаданные представлены Статистическим отделом ООН."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,"Нажмите на легенду, чтобы убрать линии из графика."
-indicator:loading_map,Loading map,Загрузка карты
-indicator:map,Map,Карта
-indicator:national_metadata,National Metadata,Национальные метаданные
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","В этой таблице представлены метаданные для фактического показателя, доступного из статистики ближайшей к соответствующему глобальному индикатору ЦУР. Обратите внимание, что даже если глобальный индикатор ЦУР полностью доступен из статистики, по этой таблице следует проконсультироваться для получения информации о национальной методологии и других специфичных метаданных."
-indicator:no_data_hint,No options available because of filters above,Нет имеющихся вариантов из-за фильтров наверху.
-indicator:select_all,Select all,Выделить всё
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Выберите категории из выпадающего меню внизу, чтобы увидеть разные разбивки данных. Несколько не будет доступно, пока более высокий уровень не выбран. "
-indicator:source,Source,Источник
-indicator:sources,Sources,Источники
-indicator:sub_categories,Sub-categories,Субкатегории
-indicator:table,Table,Таблица
-indicator:unit_of_measurement,Unit of Measurement,Единица измерения
-indicator:units_type,Units type,Вид единиц
-indicator:variable_hint,Available when '%field' is selected,"Доступно, когда выбрано"
-indicator:view_indicator_list,View this goal's indicator list,Посмотреть список индикаторов этой цели
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
+global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Доля населения, живущего за международной
+чертой бедности, в разбивке по полу, возрасту,
+статусу занятости и месту проживания (городское/сельское)
+"
+global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age","Доля населения страны, живущего за официальной
+чертой бедности, в разбивке по полу и возрасту
+"
+global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Доля мужчин, женщин и детей всех возрастов,
+живущих в нищете во всех ее проявлениях, согласно
+национальным определениям
+"
+global_indicators:1-3-1-title,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable","Доля населения, охватываемого минимальным
+уровнем/системами социальной защиты, в разбивке
+по полу, с выделением детей, безработных, пожилых,
+инвалидов, беременных, новорожденных,
+лиц, получивших трудовое увечье, и бедных и уязвимых"
+global_indicators:1-4-1-title,Proportion of population living in households with access to basic services,"Доля населения, живущего в домохозяйствах
+с доступом к базовым услугам
+"
+global_indicators:1-4-2-title,"Proportion of total adult population with secure tenure rights to land, with legally recognized documentation, and who perceive their rights to land as secure, by sex and by type of tenure","Доля совокупного взрослого населения, обладающего
+гарантированными правами землевладения,
+a) которые подтверждены признанными законом
+документами, и b) считающего свои права на землю
+гарантированными, в разбивке по полу и по формам
+землевладения"
+global_indicators:1-5-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","Число погибших, пропавших без вести и пострадавших
+непосредственно в результате бедствий
+на 100 000 человек"
+global_indicators:1-5-2-title,Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),"Прямые экономические потери от бедствий в
+процентном отношении к мировому валовому внутреннему
+продукту (ВВП)
+"
+global_indicators:1-5-3-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,"Число стран, принявших и осуществляющих
+национальные стратегии снижения риска бедствий в
+соответствии с Сендайской рамочной программой по
+снижению риска бедствий на 2015–2030 годы"
+global_indicators:1-5-4-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,"Доля местных органов власти, принявших и
+осуществляющих местные стратегии снижения риска
+бедствий в соответствии с национальными стратегиями
+снижения риска бедствий"
+global_indicators:1-a-1-title,Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes,"Доля ресурсов, выделенных правительством
+непосредственно на программы по сокращению масштабов
+нищеты "
+global_indicators:1-a-2-title,"Proportion of total government spending on essential services (education, health and social protection)","Доля расходов на основные услуги (образование,
+здравоохранение и социальную защиту) в общей
+сумме государственных расходов"
+global_indicators:1-a-3-title,Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP,"Суммарный объем субсидий и не образующего
+задолженности притока средств, непосредственно
+выделяемых на программы сокращения масштабов
+нищеты, в процентном отношении к ВВП
+"
+global_indicators:1-b-1-title,"Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups","Доля текущих и капитальных государственных
+расходов в секторах, которые приносят преимущественную
+выгоду женщинам, бедным и уязвимым
+группам населения"
+global_indicators:10-1-1-title,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,"Темпы роста расходов домохозяйств или доходов
+на душу населения среди наименее обеспеченных
+40 процентов населения и среди населения в целом
+"
+global_indicators:10-2-1-title,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities","Доля людей с доходом ниже 50 процентов
+медианного дохода в разбивке по полу, возрасту и
+признаку инвалидности"
+global_indicators:10-3-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,"Доля людей, сообщивших об испытанных
+ими лично в последние 12 месяцев проявлениях дискриминации
+или преследованиях на основании, дискриминация
+на котором запрещена международным
+правом прав человека"
+global_indicators:10-4-1-title,"Labour share of GDP, comprising wages and social protection transfers","Доля доходов трудящихся в ВВП, в том
+числе заработная плата и выплаты по линии социальной
+защиты"
+global_indicators:10-5-1-title,Financial Soundness Indicators (FSIs),Показатели финансовой устойчивости
+global_indicators:10-6-1-title,Proportion of members and voting rights of developing countries in international organizations,"Доля развивающихся стран в членском составе
+международных организаций и удельный вес
+их голосов
+"
+global_indicators:10-7-1-title,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination,"Затраты работника на трудоустройство в процентах
+от его годового дохода в стране назначения"
+global_indicators:10-7-2-title,Number of countries that have implemented well-managed migration policies,"Число стран, проводящих хорошо продуманную
+миграционную политику"
+global_indicators:10-a-1-title,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,"Доля товарных позиций наименее развитых
+стран и развивающихся стран, к которым применяются
+нулевые тарифы"
+global_indicators:10-b-1-title,"Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)","Совокупный объем потоков ресурсов в целях
+развития в разбивке по странам-получателям и странам-донорам
+и видам потоков (например, официальная
+помощь в целях развития, прямые иностранные
+инвестиции и прочие финансовые потоки)"
+global_indicators:10-c-1-title,Remittance costs as a proportion of the amount remitted,"Стоимость перевода в процентном отношении
+к переводимой сумме
+"
+global_indicators:11-1-1-title,"Proportion of urban population living in slums, informal settlements or inadequate housing","Доля городского населения, проживающего в
+трущобах, неформальных поселениях или в неудовлетворительных
+жилищных условиях
+"
+global_indicators:11-2-1-title,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities","Доля населения, имеющего удобный доступ
+к общественному транспорту, в разбивке по полу,
+возрасту и признаку инвалидности"
+global_indicators:11-3-1-title,Ratio of land consumption rate to population growth rate,"Соотношение темпов застройки и темпов роста
+населения"
+global_indicators:11-3-2-title,Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically,"Доля городов, в которых регулярно и на демократической
+основе функционируют структуры,
+обеспечивающие прямое участие гражданского общества
+в градостроительном планировании и управлении
+городским хозяйством
+"
+global_indicators:11-4-1-title,"Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)","Общая сумма расходов (государственных и
+частных) в расчете на душу населения на цели сохранения
+и защиты всего культурного и природного
+наследия в разбивке по видам наследия (культурное,
+природное, смешанного характера и признанное объектом
+всемирного наследия Центром всемирного
+наследия), уровню государственной подведомственности
+(национальный, региональный и местный/ муниципальный),
+видам расходов (эксплуатационные расходы/капиталовложения) и видам частного финансирования
+(пожертвования в натуральной форме,
+частный некоммерческий сектор и спонсорство)
+"
+global_indicators:11-5-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","Число погибших, пропавших без вести и пострадавших
+непосредственно в результате бедствий на 100 000 человек"
+global_indicators:11-5-2-title,"Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters","Прямые экономические потери в процентном
+отношении к общемировому ВВП, ущерб важнейшим
+объектам инфраструктуры и число обусловленных
+бедствиями сбоев в работе основных служб"
+global_indicators:11-6-1-title,"Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities","Доля твердых бытовых отходов, которые регулярно
+собираются и надлежащим образом удаляются,
+в общей массе городских отходов"
+global_indicators:11-6-2-title,Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted),"Среднегодовой уровень содержания мелких
+твердых частиц (например, класса PM2.5 и PM10) в
+атмосфере городов (в пересчете на численность населения)
+"
+global_indicators:11-7-1-title,"Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities","Средняя доля застроенной городской территории,
+относящейся к открытым для всех общественным
+местам, с указанием доступности в разбивке по
+полу, возрасту и признаку инвалидности"
+global_indicators:11-7-2-title,"Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months","Доля лиц, подвергшихся физическим или
+сексуальным домогательствам, в разбивке по полу,
+возрасту, признаку инвалидности и месту происшествия
+за последние 12 месяцев"
+global_indicators:11-a-1-title,"Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city","Доля населения, живущего в городах, осуществляющих
+городские и региональные планы застройки,
+в которых учитываются прогнозы роста
+населения и потребности в ресурсах, в разбивке по
+размерам городов"
+global_indicators:11-b-1-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,"Число стран, принявших и осуществляющих
+национальные стратегии снижения риска бедствий в
+соответствии с Сендайской рамочной программой по
+снижению риска бедствий на 2015–2030 годы "
+global_indicators:11-b-2-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,"Доля местных органов власти, принявших и
+осуществляющих местные стратегии снижения риска
+бедствий в соответствии с национальными стратегиями
+снижения риска бедствий"
+global_indicators:11-c-1-title,"Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials","Доля финансовой поддержки наименее развитых
+стран, выделяемой на строительство экологичных,
+прочных и ресурсосберегающих зданий и переоборудование зданий для обеспечения их экологичности,
+прочности и экономии ресурсов с использованием
+местных материалов"
+global_indicators:12-1-1-title,Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies,"Число стран, имеющих национальный план
+действий по переходу к рациональным моделям потребления
+и производства или включивших рациональное
+потребление и производство в качестве приоритета
+или задачи в национальную стратегию"
+global_indicators:12-2-1-title,"Material footprint, material footprint per capita, and material footprint per GDP","Совокупные ресурсозатраты и ресурсозатраты
+на душу населения и в процентном отношении
+к ВВП"
+global_indicators:12-2-2-title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP","Совокупное внутреннее материальное потребление
+и внутреннее материальное потребление
+на душу населения и в процентном отношении к
+ВВП
+"
+global_indicators:12-3-1-title,Global food loss index,Глобальный индекс потерь продовольствия
+global_indicators:12-4-1-title,"Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement","Число сторон международных многосторонних
+экологических соглашений по опасным и иным
+химических веществам и отходам, выполняющих
+свои обязательства и обязанности по передаче информации
+в соответствии с требованиями каждого
+соглашения"
+global_indicators:12-4-2-title,"Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment","Образование опасных отходов на душу населения
+и доля обрабатываемых опасных отходов в разбивке
+по видам обработки"
+global_indicators:12-5-1-title,"National recycling rate, tons of material recycled","Национальный уровень переработки отходов,
+масса утилизированных материалов в тоннах
+"
+global_indicators:12-6-1-title,Number of companies publishing sustainability reports,"Число компаний, публикующих отчеты о рациональном
+использовании ресурсов"
+global_indicators:12-7-1-title,Number of countries implementing sustainable public procurement policies and action plans,"Число стран, осуществляющих стратегии и
+планы действий по экологизации государственных
+закупок"
+global_indicators:12-8-1-title,Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,"Статус i) воспитания в духе всемирной гражданственности
+и ii) пропаганды устойчивого развития
+(включая просвещение по проблеме изменения
+климата) a) в национальной политике в сфере образования;
+b) в учебных программах; c) в программах
+подготовки учителей; и d) в системе аттестации учащихся"
+global_indicators:12-a-1-title,Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies,"Объем помощи развивающимся странам в
+сфере научно-исследовательских и опытно-конструкторских
+работ в интересах обеспечения рационального
+потребления и производства и внедрения экологически
+безопасных технологий"
+global_indicators:12-b-1-title,Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools,"Число стратегий или директив и осуществляемых
+планов действий в области устойчивого туризма
+с согласованными инструментами мониторинга
+и оценки"
+global_indicators:12-c-1-title,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels,"Сумма субсидий на ископаемое топливо на
+единицу ВВП (производство и потребление) и их
+доля в совокупных национальных расходах на ископаемое
+топливо"
+global_indicators:13-1-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","Число погибших, пропавших без вести и пострадавших
+непосредственно в результате бедствий
+на 100 000 человек"
+global_indicators:13-1-2-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,"Число стран, принявших и осуществляющих
+национальные стратегии снижения риска бедствий в
+соответствии с Сендайской рамочной программой по
+снижению риска бедствий на 2015–2030 годы"
+global_indicators:13-1-3-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,"Доля местных органов власти, принявших и
+осуществляющих местные стратегии снижения риска
+бедствий в соответствии с национальными стратегиями
+снижения риска бедствий "
+global_indicators:13-2-1-title,"Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)","Число стран, сообщивших о создании или
+введении в действие комплексной политики/
+стратегии/плана, повышающих их способность адаптироваться
+к неблагоприятным последствиям изменения
+климата и содействующих развитию их потенциала
+противодействия климатическим изменениям и
+снижению выбросов парниковых газов таким образом,
+чтобы это не ставило под угрозу производство
+продовольствия (включая национальный адаптационный
+план, определяемый на национальном уровне
+вклад, национальную систему информирования населения,
+подготовку двухгодичного обновленного доклада
+или другое)
+"
+global_indicators:13-3-1-title,"Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula","Число стран, включивших вопросы смягчения
+остроты и ослабления последствий изменения
+климата, адаптации к ним и раннего предупреждения
+в учебные программы начальной и средней школы и
+высших учебных заведений"
+global_indicators:13-3-2-title,"Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions","Число стран, сообщивших об укреплении
+институциональных, системных и индивидуальных
+возможностей для осуществления мер в области
+адаптации к климатическим изменениям, смягчения
+их последствий и передачи и развития технологии"
+global_indicators:13-a-1-title,Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment,"Сумма (в долл. США), мобилизованная
+за год с 2020 по 2025 год в соответствии с обязательством
+по мобилизации 100 млрд. долл. США"
+global_indicators:13-b-1-title,"Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities","Число наименее развитых стран и малых
+островных развивающихся государств, которые получают
+специализированную поддержку, в том числе
+ориентированную на женщин, молодежь и местные и
+маргинализированные общины, и величина такой
+поддержки, включая финансирование, технологии и
+укрепление потенциала, предоставляемой для создания
+механизмов, расширяющих возможности в части
+планирования и управления, связанных с изменением климата"
+global_indicators:14-1-1-title,Index of coastal eutrophication and floating plastic debris density,"Индекс прибрежной эвтрофикации и плотность
+плавающего лома пластмасс"
+global_indicators:14-2-1-title,Proportion of national exclusive economic zones managed using ecosystem-based approaches,"Доля национальных исключительных экономических
+зон, в управлении которыми применяются
+экосистемные подходы"
+global_indicators:14-3-1-title,Average marine acidity (pH) measured at agreed suite of representative sampling stations,"Средняя кислотность (pH) морской воды, измеряемая
+в согласованной группе репрезентативных
+станций отбора проб"
+global_indicators:14-4-1-title,Proportion of fish stocks within biologically sustainable levels,"Доля рыбных запасов, находящихся в биологически
+устойчивых пределах"
+global_indicators:14-5-1-title,Coverage of protected areas in relation to marine areas,Доля охраняемых морских районов
+global_indicators:14-6-1-title,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing","Достигнутый странами прогресс с точки зрения
+степени соблюдения международно-правовых
+документов по борьбе с незаконным, несообщаемым
+и нерегулируемым рыбным промыслом"
+global_indicators:14-7-1-title,"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries","Экологически рациональный рыбный промысел
+в процентах от ВВП в малых островных развивающихся
+государствах, в наименее развитых странах
+и во всех странах"
+global_indicators:14-a-1-title,Proportion of total research budget allocated to research in the field of marine technology,"Доля бюджетных ассигнований на научные
+исследования в области морских технологий в общем
+объеме бюджетных ассигнований на научные исследования
+"
+global_indicators:14-b-1-title,Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries,"Достигнутый странами прогресс с точки зрения
+степени применения нормативно-правовых/ стратегических/институциональных
+рамок, обеспечивающих
+признание и защиту прав доступа мелких рыбопромысловых
+предприятий"
+global_indicators:14-c-1-title,"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources","Число стран, добившихся прогресса в ратификации,
+принятии и осуществлении, по линии правовых,
+стратегических и институциональных рамок,
+правовых документов по вопросам Мирового океана,
+направленных на осуществление закрепленных в
+Конвенции Организации Объединенных Наций по
+морскому праву норм международного права, касающихся
+сохранения и рационального использования
+Мирового океана и его ресурсов"
+global_indicators:15-1-1-title,Forest area as a proportion of total land area,"Площадь лесов в процентном отношении к
+общей площади суши"
+global_indicators:15-1-2-title,"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type","Доля важных с точки зрения биологического разнообразия районов суши и пресноводных районов,
+находящихся под охраной, в разбивке по видам
+экосистем"
+global_indicators:15-2-1-title,Progress towards sustainable forest management,"Прогресс в переходе на неистощительное ведение
+лесного хозяйства"
+global_indicators:15-3-1-title,Proportion of land that is degraded over total land area,"Площадь деградировавших земель в процентном
+отношении к общей площади суши
+"
+global_indicators:15-4-1-title,Coverage by protected areas of important sites for mountain biodiversity,"Доля охраняемых районов среди важных для
+горного биоразнообразия участков"
+global_indicators:15-4-2-title,Mountain Green Cover Index,Индекс растительного покрова гор
+global_indicators:15-5-1-title,Red List Index,Индекс Красного списка
+global_indicators:15-6-1-title,"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits","Число стран, принявших комплексы законодательных,
+административных и директивных мер,
+обеспечивающих справедливое и недискриминационное
+распределение благ
+"
+global_indicators:15-7-1-title,Proportion of traded wildlife that was poached or illicitly trafficked,"Доля диких животных, являющихся объектом
+браконьерства или незаконного оборота, среди
+видов, которыми ведется торговля
+"
+global_indicators:15-8-1-title,Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,"Доля стран, принимающих соответствующее
+национальное законодательство и выделяющих достаточные
+ресурсы для предотвращения проникновения
+или регулирования численности чужеродных инвазивных
+видов"
+global_indicators:15-9-1-title,Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020,"Прогресс в достижении национальных целевых
+показателей, установленных в соответствии с
+Айтинской целевой задачей 2 по биоразнообразию в
+рамках Стратегического плана по биоразнообразию
+на 2011–2020 годы"
+global_indicators:15-a-1-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,"Объем официальной помощи в целях развития
+и государственных средств, выделяемых на сохранение
+и рациональное использование биоразнообразия
+и экосистем"
+global_indicators:15-b-1-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,"Объем официальной помощи в целях развития
+и государственных средств, выделяемых на сохранение
+и рациональное использование биоразнообразия
+и экосистем"
+global_indicators:15-c-1-title,Proportion of traded wildlife that was poached or illicitly trafficked,"Доля диких животных, являющихся объектом
+браконьерства или незаконного оборота, среди
+видов, которыми ведется торговля"
+global_indicators:16-1-1-title,"Number of victims of intentional homicide per 100,000 population, by sex and age","Число жертв умышленных убийств на
+100 000 человек в разбивке по возрастной группе и
+полу"
+global_indicators:16-1-2-title,"Conflict-related deaths per 100,000 population, by sex, age and cause","Число связанных с конфликтами смертей на
+100 000 человек (в разбивке по возрастной группе,
+полу и причине)
+"
+global_indicators:16-1-3-title,"Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months","Доля населения, в последние 12 месяцев
+подвергшегося a) физическому, b) психологическому
+и c) сексуальному насилию"
+global_indicators:16-1-4-title,Proportion of population that feel safe walking alone around the area they live,"Доля людей, чувствующих себя в безопасности,
+когда они идут одни по улице в своем районе"
+global_indicators:16-10-1-title,"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months","Число подтвержденных случаев убийства,
+похищения, насильственного исчезновения, произвольного
+задержания и пыток журналистов и связанных
+с ними представителей средств массовой информации,
+профсоюзных деятелей и правозащитников в
+последние 12 месяцев"
+global_indicators:16-10-2-title,"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information","Число стран, в которых приняты и действуют
+конституционные, законодательные и/или политические
+гарантии доступа граждан к информации"
+global_indicators:16-2-1-title,Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,"Доля детей в возрасте от 1 года до 17 лет, в
+последний месяц подвергшихся любому физическому
+наказанию и/или психологической агрессии со
+стороны тех, кто обеспечивает уход за ними"
+global_indicators:16-2-2-title,"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation","Число жертв торговли людьми на 100 000 человек
+в разбивке по полу, возрасту и форме эксплуатации"
+global_indicators:16-2-3-title,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,"Доля молодых женщин и мужчин в возрасте
+от 18 до 24 лет, подвергшихся сексуальному насилию
+до достижения 18 лет"
+global_indicators:16-3-1-title,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,"Доля жертв насилия, которые в последние
+12 месяцев подали соответствующую жалобу в компетентные
+органы или другие официально признанные
+механизмы урегулирования конфликтов"
+global_indicators:16-3-2-title,Unsentenced detainees as a proportion of overall prison population,"Доля лиц, задерживаемых до вынесения приговора,
+в общей численности лиц, содержащихся под стражей"
+global_indicators:16-4-1-title,Total value of inward and outward illicit financial flows (in current United States dollars),"Общий объем входящих и исходящих незаконных
+финансовых потоков (в долларах США в текущих
+ценах)"
+global_indicators:16-4-2-title,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments","Доля изъятого, обнаруженного или сданного
+оружия, незаконное происхождение или обстоятельства
+приобретения которого было отслежено или
+установлено компетентным органом в соответствии с
+международными документами"
+global_indicators:16-5-1-title,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months","Доля лиц, которые в предыдущие 12 месяцев
+хотя бы один раз имели контакт с государственным
+должностным лицом и которые заплатили взятку государственному
+должностному лицу или от которых
+это государственное должностное лицо требовало
+взятку"
+global_indicators:16-5-2-title,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months","Доля коммерческих компаний, которые в
+предыдущие 12 месяцев хотя бы один раз имели контакт
+с государственным должностным лицом и которые
+заплатили взятку государственному должностному
+лицу или от которых это государственное должностное
+лицо требовало взятку"
+global_indicators:16-6-1-title,"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)","Первичные расходы правительства в процентном
+отношении к первоначальному утвержденному
+бюджету в разбивке по секторам (по кодам бюджетной
+классификации или аналогичным категориям)"
+global_indicators:16-6-2-title,Proportion of population satisfied with their last experience of public services,"Доля населения, удовлетворенного последним
+опытом использования государственных услуг"
+global_indicators:16-7-1-title,"Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions","Доля должностей (в разбивке по возрастной
+группе, полу, признаку инвалидности и группе населения)
+в государственных учреждениях (национальных
+и местных законодательных собраниях, государственной
+службе и судебных органах) в сравнении с
+национальным распределением"
+global_indicators:16-7-2-title,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group","Доля населения, считающего процесс принятия
+решений всеохватывающим и оперативным, в
+разбивке по полу, возрасту, признаку инвалидности и
+группе населения
+"
+global_indicators:16-8-1-title,Proportion of members and voting rights of developing countries in international organizations,"Доля развивающихся стран в членском составе
+международных организаций и удельный вес
+их голосов
+"
+global_indicators:16-9-1-title,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age","Доля детей в возрасте до пяти лет, рождение
+которых было зарегистрировано в гражданских органах,
+в разбивке по возрасту"
+global_indicators:16-a-1-title,Existence of independent national human rights institutions in compliance with the Paris Principles,"Наличие независимых национальных правозащитных
+институтов, действующих в соответствии
+с Парижскими принципами"
+global_indicators:16-b-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,"Доля людей, сообщивших об испытанных
+ими лично в последние 12 месяцев проявлениях дискриминации
+или преследованиях на основании, дискриминация
+на котором запрещена международным
+правом прав человека
+"
+global_indicators:17-1-1-title,"Total government revenue as a proportion of GDP, by source","Общий объем государственных доходов в
+процентном отношении к ВВП в разбивке по источникам"
+global_indicators:17-1-2-title,Proportion of domestic budget funded by domestic taxes,"Доля национального бюджета, финансируемая
+внутренними налогами"
+global_indicators:17-10-1-title,Worldwide weighted tariff-average,"Средневзвешенный мировой уровень тарифов
+"
+global_indicators:17-11-1-title,Developing countries’ and least developed countries’ share of global exports," Доля развивающихся стран и наименее развитых
+стран в мировом экспорте"
+global_indicators:17-12-1-title,"Average tariffs faced by developing countries, least developed countries and small island developing States","Средний уровень тарифов, применяемых в
+отношении развивающихся стран, наименее развитых
+стран и малых островных развивающихся государств"
+global_indicators:17-13-1-title,Macroeconomic Dashboard,"Единый набор контрольных макроэкономических
+показателей"
+global_indicators:17-14-1-title,Number of countries with mechanisms in place to enhance policy coherence of sustainable development,"Число стран, в которых созданы механизмы
+для повышения согласованности политики в области
+устойчивого развития
+"
+global_indicators:17-15-1-title,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation,"Масштабы использования подготовленных
+странами ориентировочных перечней результатов и
+инструментов планирования участниками процесса
+сотрудничества в целях развития
+"
+global_indicators:17-16-1-title,Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,"Число стран, сообщающих о прогрессе в
+деле применения механизмов контроля за эффективностью
+развития с участием многих заинтересованных
+сторон, которые служат подспорьем в достижении
+целей устойчивого развития"
+global_indicators:17-17-1-title,Amount of United States dollars committed to public-private and civil society partnerships,"Сумма (в долларах США), выделяемая на a)
+государственно-частные партнерства и b) партнерства
+организаций гражданского общества"
+global_indicators:17-18-1-title,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics","Доля показателей устойчивого развития, разработанных
+на национальном уровне с полной дезагрегацией
+по соответствующим признакам согласно
+Основополагающим принципам официальной статистики"
+global_indicators:17-18-2-title,Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics," Число, стран, имеющих национальное статистическое
+законодательство, соответствующее Основополагающим
+принципам официальной статистики"
+global_indicators:17-18-3-title,"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding","Число стран, имеющих полностью финансированный
+и осуществляемый национальный статистический
+план, в разбивке по источникам финансирования
+"
+global_indicators:17-19-1-title,Dollar value of all resources made available to strengthen statistical capacity in developing countries,"Долларовая стоимость всех ресурсов, выделенных
+на наращивание потенциала развивающихся
+стран в области статистики
+"
+global_indicators:17-19-2-title,Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,"Доля стран, которые a) провели хотя бы одну
+перепись населения и жилищного фонда в течение
+последних 10 лет; и b) достигли цели регистрации
+рождений в 100 процентах случаев и регистрации
+смерти в 80 процентах случаев"
+global_indicators:17-2-1-title,"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)","Чистый объем официальной помощи в целях
+развития (как суммарной, так и выделяемой наименее
+развитым странам) в процентном отношении к
+валовому национальному доходу доноров — членов
+Комитета содействия развитию ОЭСР"
+global_indicators:17-3-1-title,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget","Прямые иностранные инвестиции (ПИИ),
+официальная помощь в целях развития и сотрудничество
+Юг-Юг в процентном отношении к совокупному национальному бюджету"
+global_indicators:17-3-2-title,Volume of remittances (in United States dollars) as a proportion of total GDP,"Объем переводов (в долларах США) в процентном
+отношении к ВВП"
+global_indicators:17-4-1-title,Debt service as a proportion of exports of goods and services,"Расходы на обслуживание долга в процентном
+отношении к экспорту товаров и услуг"
+global_indicators:17-5-1-title,Number of countries that adopt and implement investment promotion regimes for least developed countries,"Число стран, в которых приняты и действуют
+режимы поощрения инвестиций в интересах
+наименее развитых стран"
+global_indicators:17-6-1-title,"Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation","Число соглашений и программ научного
+и/или технического сотрудничества между странами
+в разбивке по видам сотрудничества"
+global_indicators:17-6-2-title,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed","Число стационарных абонентов широкополосного
+Интернета в разбивке по скорости"
+global_indicators:17-7-1-title,"Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies","Общая сумма утвержденного финансирования
+для развивающихся стран в целях содействия
+разработке, передаче, распространению и освоению
+экологически безопасных технологий
+"
+global_indicators:17-8-1-title,Proportion of individuals using the Internet,"Доля населения, пользующегося Интернетом"
+global_indicators:17-9-1-title,"Dollar value of financial and technical assistance (including through North-South, South‐South and triangular cooperation) committed to developing countries","Долларовый объем финансовой и технической
+помощи развивающимся странам(в том числе
+оказываемой по линии Север — Юг, Юг — Юг и в
+рамках трехстороннего сотрудничества)"
+global_indicators:2-1-1-title,Prevalence of undernourishment,Распространенность недоедания
+global_indicators:2-1-2-title,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)","Уровень умеренного или острого отсутствия
+продовольственной безопасности населения (по
+«Шкале восприятия отсутствия продовольственной
+безопасности»)"
+global_indicators:2-2-1-title,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,"Распространенность задержки роста среди
+детей в возрасте до пяти лет (среднеквадратичное отклонение
+от медианного показателя роста к возрасту
+ребенка в соответствии с нормами роста детей, установленными
+Всемирной организацией здравоохранения
+(ВОЗ), <-2) "
+global_indicators:2-2-2-title,"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)","Распространенность неполноценного питания
+среди детей в возрасте до пяти лет в разбивке по
+виду (истощение или ожирение) (среднеквадратичное
+отклонение от медианного показателя веса к возрасту
+в соответствии с нормами роста детей, установленными
+ВОЗ, >+2 или <-2)
+"
+global_indicators:2-3-1-title,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,"Объем производства на производственную
+единицу в разбивке по классам размера предприятий фермерского хозяйства/скотоводства/лесного хозяйства
+"
+global_indicators:2-3-2-title,"Average income of small-scale food producers, by sex and indigenous status","Средний доход мелких производителей продовольственной
+продукции в разбивке по полу и статусу
+принадлежности к коренным народам"
+global_indicators:2-4-1-title,Proportion of agricultural area under productive and sustainable agriculture,"Доля площади сельскохозяйственных угодий,
+на которых применяются продуктивные и неистощительные
+методы ведения сельского хозяйства"
+global_indicators:2-5-1-title,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,"Количество генетических ресурсов растительного
+и зоологического происхождения, предназначенных
+для производства продовольствия и сельского
+хозяйства, которые хранятся на специальных
+объектах либо среднесрочного, либо долгосрочного
+хранения"
+global_indicators:2-5-2-title,"Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction","Доля местных пород, относимых к следующим
+категориям: находящиеся под угрозой исчезновения;
+не находящиеся под угрозой исчезновения;
+уровень угрозы исчезновения не известен
+"
+global_indicators:2-a-1-title,The agriculture orientation index for government expenditures,"Индекс ориентированности на сельское хозяйство,
+определяемый по структуре государственных
+расходов "
+global_indicators:2-a-2-title,Total official flows (official development assistance plus other official flows) to the agriculture sector,"Совокупный приток официальных средств
+(официальная помощь в целях развития плюс прочие
+потоки официальных средств) в сельское хозяйство
+"
+global_indicators:2-b-1-title,Agricultural export subsidies,
+global_indicators:2-b-2-title,Agricultural export subsidies,"Субсидирование экспорта сельскохозяйственной
+продукции"
+global_indicators:2-c-1-title,Indicator of food price anomalies,Показатель ценовых аномалий на рынке продовольствия
+global_indicators:3-1-1-title,Maternal mortality ratio,Коэффициент материнской смертности 
+global_indicators:3-1-2-title,Proportion of births attended by skilled health personnel,"Доля родов, принятых квалифицированными
+медицинскими работниками"
+global_indicators:3-2-1-title,Under‐five mortality rate,"Коэффициент смертности детей в возрасте
+до пяти лет"
+global_indicators:3-2-2-title,Neonatal mortality rate,Коэффициент неонатальной смертности
+global_indicators:3-3-1-title,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations","Число новых заражений ВИЧ на 1000 неинфицированных
+в разбивке по полу, возрасту и принадлежности
+к основным группам населения"
+global_indicators:3-3-2-title,"Tuberculosis incidence per 100,000 population",Заболеваемость туберкулезом на 100 000 человек
+global_indicators:3-3-3-title,"Malaria incidence per 1,000 population",Заболеваемость малярией на 1000 человек
+global_indicators:3-3-4-title,"Hepatitis B incidence per 100,000 population",Заболеваемость гепатитом B на 100 000 человек
+global_indicators:3-3-5-title,Number of people requiring interventions against neglected tropical diseases,"Число людей, нуждающихся в лечении от
+«забытых» тропических болезней
+"
+global_indicators:3-4-1-title,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease","Смертность от сердечно-сосудистых заболеваний,
+рака, диабета, хронических респираторных заболеваний"
+global_indicators:3-4-2-title,Suicide mortality rate,Смертность от самоубийств
+global_indicators:3-5-1-title,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders","Охват лечением расстройств, вызванных
+употреблением психоактивных веществ (медикаментозные,
+психосоциальные и реабилитационные
+услуги и услуги по последующему уходу)"
+global_indicators:3-5-2-title,"Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol","Злоупотребление алкоголем (определяемое в соответствии с национальными особенностями употребление
+алкоголя на душу населения в возрасте от
+15 лет) в литрах чистого спирта в календарный год"
+global_indicators:3-6-1-title,Death rate due to road traffic injuries,"Смертность в результате дорожно-транспортных
+происшествий
+"
+global_indicators:3-7-1-title,Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods,"Доля женщин репродуктивного возраста (от
+15 до 49 лет), чьи потребности по планированию семьи
+удовлетворяются современными методами"
+global_indicators:3-7-2-title,"Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group","Показатель рождаемости среди девушек-подростков
+(в возрасте от 10 до 14 лет; в возрасте от 15
+до 19 лет) на 1000 женщин в данной возрастной
+группе"
+global_indicators:3-8-1-title,"Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)","Охват основными медико-санитарными
+услугами (определяемый как средний охват основными
+услугами по отслеживаемым процедурам, к которым
+относятся охрана репродуктивного здоровья,
+охрана здоровья матери и ребенка, лечение инфекционных
+заболеваний, лечение неинфекционных заболеваний
+и масштабы и доступность услуг для широких
+слоев населения и для находящихся в наиболее
+неблагоприятном положении групп населения) "
+global_indicators:3-8-2-title,Proportion of population with large household expenditures on health as a share of total household expenditure or income,"Доля населения с большим удельным весом
+семейных расходов на медицинскую помощь в общем
+объеме расходов или доходов домохозяйств"
+global_indicators:3-9-1-title,Mortality rate attributed to household and ambient air pollution,"Смертность от загрязнения воздуха в жилых
+помещениях и атмосферного воздуха"
+global_indicators:3-9-2-title,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)","Смертность от отсутствия безопасной воды,
+безопасной санитарии и гигиены (от отсутствия безопасных
+услуг в области водоснабжения, санитарии
+и гигиены (ВССГ) для всех)
+"
+global_indicators:3-9-3-title,Mortality rate attributed to unintentional poisoning,"Смертность от неумышленного отравления
+"
+global_indicators:3-a-1-title,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"Стандартизированная по возрасту распространенность
+употребления табака лицами в возрасте
+от 15 лет"
+global_indicators:3-b-1-title,Proportion of the target population covered by all vaccines included in their national programme,"Доля целевой группы населения, охваченная
+иммунизацией всеми вакцинами, включенными в
+национальные программы"
+global_indicators:3-b-2-title,Total net official development assistance to medical research and basic health sectors,"Общий чистый объем официальной помощи
+в целях развития, направленной на медицинские исследования
+и в основные отрасли здравоохранения"
+global_indicators:3-b-3-title,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,"Доля медицинских учреждений, постоянно
+располагающих набором основных необходимых и
+доступных лекарственных средств"
+global_indicators:3-c-1-title,Health worker density and distribution,"Число медицинских работников на душу
+населения и их распределение"
+global_indicators:3-d-1-title,International Health Regulations (IHR) capacity and health emergency preparedness,"Способность соблюдать Международные медико-санитарные
+правила (ММСП) и готовность к
+чрезвычайным ситуациям в области общественного
+здравоохранения"
+global_indicators:4-1-1-title,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex","Доля детей и молодежи, приходящаяся на
+a) учащихся 2/3 классов; b) выпускников начальной
+школы; и c) выпускников младшей средней школы,
+которые достигли по меньшей мере минимального
+уровня владения навыками i) чтения и ii) математики"
+global_indicators:4-2-1-title,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex","Доля детей в возрасте до пяти лет, которые
+развиваются без отклонений в плане здоровья, обучения
+и психосоциального благополучия, в разбивке по
+полу "
+global_indicators:4-2-2-title,"Participation rate in organized learning (one year before the official primary entry age), by sex","Уровень участия в организованных видах
+обучения (за один год до достижения официального
+возраста поступления в школу) в разбивке по полу"
+global_indicators:4-3-1-title,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex","Уровень участия взрослых и молодежи в
+формальных и неформальных видах обучения и профессиональной
+подготовки в последние 12 месяцев в
+разбивке по полу"
+global_indicators:4-4-1-title,"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill","Доля молодежи/взрослых, обладающей/ обладающих
+навыками в области информационно-коммуникационных
+технологий, в разбивке по видам
+навыков"
+global_indicators:4-5-1-title,"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated","Индексы равенства (женщин и мужчин, городских
+и сельских жителей, нижней и верхней
+квинтили достатка и других групп, например инвалидов,
+коренных народов и людей, затронутых конфликтом,
+в зависимости от наличия данных) по всем
+касающимся образования показателям в настоящем
+перечне, которые могут быть дезагрегированы"
+global_indicators:4-6-1-title,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex","Доля населения в данной возрастной группе,
+достигшая, по меньшей мере, установленного уровня
+функциональной a) грамотности и b) математической
+грамотности, в разбивке по полу."
+global_indicators:4-7-1-title,"Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment","Статус i) воспитания в духе всемирной гражданственности
+и ii) пропаганды устойчивого развития,
+включая гендерное равенство и права человека,
+на всех уровнях в a) национальной политике в сфере
+образования; b) учебных программах; c) программах
+подготовки учителей; и d) системе аттестации учащихся
+"
+global_indicators:4-a-1-title,Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions),"Доля школ, обеспеченных a) электроэнергией;
+b) доступом к Интернету для учебных целей;
+c) компьютерами для учебных целей; d) адаптированной
+инфраструктурой и материалами для учащихсяинвалидов;
+e) базовыми источниками питьевой воды;
+f) раздельными минимально оборудованными туалетами;
+и g) базовыми средствами для мытья рук (согласно
+определениям показателей инициативы
+ВССГ)"
+global_indicators:4-b-1-title,Volume of official development assistance flows for scholarships by sector and type of study,"Объем официальной помощи в целях развития,
+направляемой на выплату стипендий, в разбивке
+по отраслям и видам обучения"
+global_indicators:4-c-1-title,Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country,"Доля учителей в a) дошкольных учреждениях;
+b) начальной школе; c) младшей средней
+школе; и d) старшей средней школе, прошедших до
+начала или во время работы по меньшей мере минимальную
+организованную профессиональную учительскую
+подготовку (например, педагогическую) на
+соответствующем уровне в данной стране"
+global_indicators:5-1-1-title,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex","Наличие нормативно-правовой базы для поощрения
+и обеспечения равенства и недискриминации
+по признаку пола и наблюдения за положением в
+этой области"
+global_indicators:5-2-1-title,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age","Доля когда-либо имевших партнера женщин
+и девочек в возрасте от 15 лет, подвергавшихся физическому,
+сексуальному или психологическому насилию
+со стороны нынешнего или бывшего интимного
+партнера в последние 12 месяцев, в разбивке по формам
+насилия и возрасту "
+global_indicators:5-2-2-title,"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence","Доля женщин и девочек в возрасте от 15 лет,
+подвергавшихся сексуальному насилию со стороны
+кого-либо, кроме интимных партнеров, в последние
+12 месяцев, в разбивке по возрасту и месту происшествия"
+global_indicators:5-3-1-title,Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18,"Доля женщин в возрасте от 20 до 24 лет,
+вступивших в брак или союз до 15 лет и до 18 лет"
+global_indicators:5-3-2-title,"Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age","Доля девочек и женщин в возрасте от 15 до
+49 лет, подвергшихся калечащим операциям на женских
+половых органах/обрезанию, в разбивке по возрасту"
+global_indicators:5-4-1-title,"Proportion of time spent on unpaid domestic and care work, by sex, age and location","Доля времени, затрачиваемого на неоплачиваемый
+труд по уходу и работу по дому, в разбивке
+по полу, возрасту и месту проживания"
+global_indicators:5-5-1-title,Proportion of seats held by women in (a) national parliaments and (b) local governments,"Доля мест, занимаемых женщинами в
+a) национальных парламентах и b) местных органах
+власти"
+global_indicators:5-5-2-title,Proportion of women in managerial positions,Доля женщин на руководящих должностях
+global_indicators:5-6-1-title,"Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care","Доля женщин в возрасте от 15 до 49 лет, самостоятельно
+принимающих обдуманные решения о
+сексуальных отношениях, применении противозачаточных
+средств и обращении за услугами по охране
+репродуктивного здоровья"
+global_indicators:5-6-2-title,"Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education","Число стран, где действуют законы и нормативные
+акты, гарантирующие женщинам и мужчинам
+в возрасте от 15 лет полный и равный доступ к услугам
+по охране сексуального и репродуктивного здоровья
+и информации и просвещению в этой сфере"
+global_indicators:5-a-1-title,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure","a) Доля людей, владеющих сельскохозяйственной
+землей или имеющих гарантированное
+право пользования ею, в общей численности населения,
+занимающегося сельским хозяйством, в разбивке
+по полу; и b) доля женщин, владеющих сельскохозяйственной
+землей или являющихся носителями
+права владения ею, в разбивке по формам землевладения"
+global_indicators:5-a-2-title,Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control,"Доля стран, в которых правовая база (в том
+числе обычное право) гарантирует женщинам равные
+права на владение и/или распоряжение землей
+"
+global_indicators:5-b-1-title,"Proportion of individuals who own a mobile telephone, by sex","Доля людей, имеющих мобильный телефон,
+в разбивке по полу"
+global_indicators:5-c-1-title,Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,"Доля стран, обладающих механизмами отслеживания
+государственных ассигнований на обеспечение
+гендерного равенства и расширение прав и
+возможностей женщин и обнародования данных о
+них"
+global_indicators:6-1-1-title,Proportion of population using safely managed drinking water services,"Доля населения, пользующегося услугами
+водоснабжения, организованного с соблюдением требований
+безопасности"
+global_indicators:6-2-1-title,"Proportion of population using safely managed sanitation services, including a handwashing facility with soap and water","Доля населения, использующего a) организованные
+с соблюдением требований безопасности
+услуги санитарии и b) устройства для мытья рук с
+мылом и водой"
+global_indicators:6-3-1-title,Proportion of wastewater safely treated,Доля безопасно очищаемых сточных вод
+global_indicators:6-3-2-title,Proportion of bodies of water with good ambient water quality,Доля водоемов с хорошим качеством воды
+global_indicators:6-4-1-title,Change in water-use efficiency over time,Динамика изменения эффективности водопользования
+global_indicators:6-4-2-title,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,"Уровень нагрузки на водные ресурсы: забор
+пресной воды в процентном отношении к имеющимся
+запасам пресной воды"
+global_indicators:6-5-1-title,Degree of integrated water resources management implementation (0 to 100),"Степень внедрения комплексного управления
+водными ресурсами (от 0 до 100)"
+global_indicators:6-5-2-title,Proportion of transboundary basin area with an operational arrangement for water cooperation,"Доля трансграничных водных бассейнов,
+охваченных действующими договоренностями о сотрудничестве
+в области водопользования"
+global_indicators:6-6-1-title,Change in the extent of water-related ecosystems over time,"Динамика изменения площади связанных с
+водой экосистем"
+global_indicators:6-a-1-title,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,"Объем официальной помощи в целях развития,
+выделенной на водоснабжение и санитарию в
+рамках координируемой государственной программы
+расходов"
+global_indicators:6-b-1-title,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,"Доля местных административных единиц, в
+которых действуют правила и процедуры участия
+граждан в управлении водными ресурсами и санитарией
+"
+global_indicators:7-1-1-title,Proportion of population with access to electricity,"Доля населения, имеющего доступ к электроэнергии"
+global_indicators:7-1-2-title,Proportion of population with primary reliance on clean fuels and technology,"Доля населения, использующего в основном
+чистые виды топлива и технологии"
+global_indicators:7-2-1-title,Renewable energy share in the total final energy consumption,"Доля возобновляемых источников энергии в
+общем объеме конечного энергопотребления"
+global_indicators:7-3-1-title,Energy intensity measured in terms of primary energy and GDP,"Энергоемкость, рассчитываемая как отношение
+расхода первичной энергии к ВВП"
+global_indicators:7-a-1-title,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems","Объем международных финансовых потоков,
+поступающих в развивающиеся страны для поддержки
+исследований и разработок в области «чистой»
+энергии и развития энергетики на возобновляемых
+источниках, включая комбинированные системы"
+global_indicators:7-b-1-title,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services,"Капиталовложения в обеспечение энергоэффективности
+в процентном отношении к ВВП и доля прямых иностранных инвестиций в финансовых
+средствах, поступающих в отрасли обслуживания,
+обеспечивающие устойчивое развитие, на цели расширения
+их инфраструктуры и модернизации технологии
+"
+global_indicators:8-1-1-title,Annual growth rate of real GDP per capita,"Ежегодные темпы роста реального ВВП на
+душу населения"
+global_indicators:8-10-1-title,"(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults","Число a) филиалов коммерческих банков и
+b) банкоматов на 100 000 взрослых"
+global_indicators:8-10-2-title,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,"Доля взрослых (от 15 лет), имеющих счет в
+банке или ином финансовом учреждении или пользующихся
+услугами операторов мобильных финансовых
+услуг"
+global_indicators:8-2-1-title,Annual growth rate of real GDP per employed person,"Ежегодные темпы роста реального ВВП на
+каждого занятого"
+global_indicators:8-3-1-title,"Proportion of informal employment in non‐agriculture employment, by sex","Доля неформальной занятости в несельскохозяйственных
+секторах в разбивке по полу"
+global_indicators:8-4-1-title,"Material footprint, material footprint per capita, and material footprint per GDP","Совокупные ресурсозатраты и ресурсозатраты
+на душу населения и в процентном отношении
+к ВВП"
+global_indicators:8-4-2-title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP","Совокупное внутреннее материальное потребление
+и внутреннее материальное потребление
+на душу населения и в процентном отношении к
+ВВП
+"
+global_indicators:8-5-1-title,"Average hourly earnings of female and male employees, by occupation, age and persons with disabilities","Средний почасовой заработок женщин и
+мужчин в разбивке по роду занятий, возрасту и признаку
+инвалидности"
+global_indicators:8-5-2-title,"Unemployment rate, by sex, age and persons with disabilities","Уровень безработицы в разбивке по полу,
+возрасту и признаку инвалидности
+"
+global_indicators:8-6-1-title,"Proportion of youth (aged 15–24 years) not in education, employment or training","Доля молодежи (в возрасте от 15 до 24 лет),
+которая не учится, не работает и не приобретает профессиональных
+навыков"
+global_indicators:8-7-1-title,"Proportion and number of children aged 5–17 years engaged in child labour, by sex and age","Доля и число детей в возрасте от 5 до 17 лет,
+занятых детским трудом, в разбивке по полу и возрасту
+"
+global_indicators:8-8-1-title,"Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status","Производственный травматизм со смертельным
+и несмертельным исходом в разбивке по полу и
+миграционному статусу"
+global_indicators:8-8-2-title,"Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status","Ситуация с соблюдением трудовых прав на
+национальном уровне (свобода объединений и заключение
+коллективных трудовых договоров) на основе
+документальных источников Международной
+организации труда (МОТ) и национального законодательства
+в разбивке по полу и миграционному статусу
+"
+global_indicators:8-9-1-title,Tourism direct GDP as a proportion of total GDP and in growth rate,"Непосредственный вклад туризма в ВВП в
+процентном отношении к совокупному ВВП и по
+темпам роста"
+global_indicators:8-9-2-title,Proportion of jobs in sustainable tourism industries out of total tourism jobs,"Доля занятых в индустрии устойчивого туризма
+в общем числе рабочих мест в отрасли"
+global_indicators:8-a-1-title,Aid for Trade commitments and disbursements,"Объем обязательств и выплат в рамках инициативы
+«Помощь в торговле»"
+global_indicators:8-b-1-title,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy","Наличие разработанной и осуществляемой
+национальной стратегии молодежной занятости в качестве
+отдельной стратегии или в рамках национальной
+стратегии в области занятости
+"
+global_indicators:9-1-1-title,Proportion of the rural population who live within 2 km of an all-season road,"Доля сельского населения, проживающего в
+пределах 2 км от круглогодичной дороги"
+global_indicators:9-1-2-title,"Passenger and freight volumes, by mode of transport","Объем пассажирских и грузовых перевозок в
+разбивке по видам транспорта"
+global_indicators:9-2-1-title,Manufacturing value added as a proportion of GDP and per capita,"Добавленная стоимость, создаваемая в обрабатывающей
+промышленности, в процентном отношении
+к ВВП и на душу населения
+"
+global_indicators:9-2-2-title,Manufacturing employment as a proportion of total employment,"Занятость в обрабатывающей промышленности
+в процентах от общей занятости
+"
+global_indicators:9-3-1-title,Proportion of small-scale industries in total industry value added,"Доля мелких предприятий в совокупном объеме
+чистой продукции промышленности"
+global_indicators:9-3-2-title,Proportion of small-scale industries with a loan or line of credit,"Доля мелких предприятий, имеющих кредит
+или кредитную линию
+"
+global_indicators:9-4-1-title,CO2 emission per unit of value added,Выбросы CO2 на единицу добавленной стоимости
+global_indicators:9-5-1-title,Research and development expenditure as a proportion of GDP,"Доля расходов на научно-исследовательские
+и опытно-конструкторские работы в ВВП"
+global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million inhabitants,"Количество исследователей (в эквиваленте
+полной занятости) на миллион жителей"
+global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,"Совокупный объем официальной международной
+поддержки (официальной помощи в целях
+развития и других потоков официального финансирования),
+направляемой на инфраструктуру"
+global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,"Доля добавленной стоимости продукции
+среднетехнологичных и высокотехнологичных отраслей
+в общем объеме добавленной стоимости"
+global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Доля населения, охваченного мобильными
+сетями, в разбивке по технологиям"
+general:indicator,Indicator,Показатель
+general:indicators,Indicators,Показатели
+general:goal,Goal,Цель
+general:goals,Goals,Цели
+general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
+general:home,Home,Главная
+general:loading,Loading search results,Загрузка результатов поиска
+general:opens_new_window,opens in a new window,открывается в новой вкладке
+general:target,Target,Задача
+general:targets,Targets,Задачи
+general:twitter,Twitter,Твиттеру
+general:facebook,Facebook,Facebook
+post:posts_by_category,Posts by Category,Посты по категории
+post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
+metadata_fields:comments_limitations,Other information,Другая информация
+metadata_fields:computation_calculations,Calculations,Расчёты
+metadata_fields:computation_definitions,Definitions,Определения
+metadata_fields:computation_units,Unit of measurement,Единица измерения
+metadata_fields:goal_meta_link,Link to UN metadata,Ссылка на метаданные ООН
+metadata_fields:indicator,Indicator number,Номер показателя
+metadata_fields:indicator_definition,Global indicator description,Описание глобального показателя
+metadata_fields:indicator_name,Indicator name,Название показателя
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Порядок отображения показателей (на странице целей)
+metadata_fields:national_data_update_url,Data last updated,Последний раз данные обновлялись
+metadata_fields:national_geographical_coverage,Geographical coverage,Географический охват
+metadata_fields:national_indicator_available,Indicator available,Показатель доступен
+metadata_fields:national_indicator_description,Indicator description,Описание показателя
+metadata_fields:national_metadata_update_url,Metadata last updated, Последний раз метаданные обновлялись
+metadata_fields:source_contact_1,Contact details,Контактные данные
+metadata_fields:source_contact_2,Contact details,Контактные данные
+metadata_fields:source_contact_3,Contact details,Контактные данные
+metadata_fields:source_contact_4,Contact details,Контактные данные
+metadata_fields:source_contact_5,Contact details,Контактные данные
+metadata_fields:source_contact_6,Contact details,Контактные данные
+metadata_fields:source_earliest_available_1,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_earliest_available_2,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_earliest_available_3,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_earliest_available_4,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_earliest_available_5,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_earliest_available_6,Earliest available data,Самые ранние доступные данные
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Географический охват
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Географический охват
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Географический охват
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Географический охват
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Географический охват
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Географический охват
+metadata_fields:source_next_release_1,Next release,Следующий  выпуск
+metadata_fields:source_next_release_2,Next release,Следующий  выпуск
+metadata_fields:source_next_release_3,Next release,Следующий  выпуск
+metadata_fields:source_next_release_4,Next release,Следующий  выпуск
+metadata_fields:source_next_release_5,Next release,Следующий  выпуск
+metadata_fields:source_next_release_6,Next release,Следующий  выпуск
+metadata_fields:source_organisation_1,Organisation,Организация
+metadata_fields:source_organisation_2,Organisation,Организация
+metadata_fields:source_organisation_3,Organisation,Организация
+metadata_fields:source_organisation_4,Organisation,Организация
+metadata_fields:source_organisation_5,Organisation,Организация
+metadata_fields:source_organisation_6,Organisation,Организация
+metadata_fields:source_other_info_1,Other information,Другая информация
+metadata_fields:source_other_info_2,Other information,Другая информация
+metadata_fields:source_other_info_3,Other information,Другая информация
+metadata_fields:source_other_info_4,Other information,Другая информация
+metadata_fields:source_other_info_5,Other information,Другая информация
+metadata_fields:source_other_info_6,Other information,Другая информация
+metadata_fields:source_periodicity_1,Periodicity,Периодичность
+metadata_fields:source_periodicity_2,Periodicity,Периодичность
+metadata_fields:source_periodicity_3,Periodicity,Периодичность
+metadata_fields:source_periodicity_4,Periodicity,Периодичность
+metadata_fields:source_periodicity_5,Periodicity,Периодичность
+metadata_fields:source_periodicity_6,Periodicity,Периодичность
+metadata_fields:source_release_date_1,Release date,Дата выпуска
+metadata_fields:source_release_date_2,Release date,Дата выпуска
+metadata_fields:source_release_date_3,Release date,Дата выпуска
+metadata_fields:source_release_date_4,Release date,Дата выпуска
+metadata_fields:source_release_date_5,Release date,Дата выпуска
+metadata_fields:source_release_date_6,Release date,Дата выпуска
+metadata_fields:source_statistical_classification_1,Statistical classification,Статистическая классификация
+metadata_fields:source_statistical_classification_2,Statistical classification,Статистическая классификация
+metadata_fields:source_statistical_classification_3,Statistical classification,Статистическая классификация
+metadata_fields:source_statistical_classification_4,Statistical classification,Статистическая классификация
+metadata_fields:source_statistical_classification_5,Statistical classification,Статистическая классификация
+metadata_fields:source_statistical_classification_6,Statistical classification,Статистическая классификация
+metadata_fields:source_url_1,Link to data source,Ссылка на источник данных
+metadata_fields:source_url_2,Link to data source,Ссылка на источник данных
+metadata_fields:source_url_3,Link to data source,Ссылка на источник данных
+metadata_fields:source_url_4,Link to data source,Ссылка на источник данных
+metadata_fields:source_url_5,Link to data source,Ссылка на источник данных
+metadata_fields:source_url_6,Link to data source,Ссылка на источник данных
+metadata_fields:target,Target name,Название задачи
+metadata_fields:target_id,Target number,Номер задачи
+metadata_fields:un_custodian_agency,UN custodian agency,Депозитарное учреждение ООН 
+metadata_fields:un_designated_tier,UN designated tier,Назначенный ООН уровень
+header:skip_link,Skip to main content,Перейти к главному содержанию
+header:alpha,Alpha,Альфа
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.
+header:tag_line,17 Goals to Transform our World,"17 Целей, чтобы преобразовать наш мир"
+header:high_contrast,High contrast,высокий контраст
+header:default_contrast,Default contrast,стандартный контраст
+header:enable_high_contrast,Enable high contrast,Включить высокую контрастность
+header:disable_high_contrast,Disable high contrast,Отключить высокую контрастность

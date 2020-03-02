@@ -25,7 +25,11 @@ jobs:
         pip install -r requirements.txt
         bundle install
     - name: Build the data and site
-      run: make build_data && make build_site
+      run: |
+        make build_data
+        make build_site
+        ls www
+        cat _site/translators/index.html
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:

@@ -54,7 +54,10 @@ def main():
         branch = repo.active_branch.name
         print('Starting branch was ' + branch)
     except:
-        branch = False
+        print('No starting branch - creating one')
+        branch = 'my-temporary-branch'
+        temp_branch = repo.create_head(branch)
+        temp_branch.checkout()
     for tag in repo.tags:
         # Switch to the tag and build another version.
         repo.git.checkout(tag)

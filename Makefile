@@ -4,12 +4,12 @@ clean:
 	rm -fr _site
 
 test:
-	pipenv run python scripts/check_translations.py
+	python scripts/check_translations.py
 
 build_data:
-	pipenv run python scripts/build_translations.py
-	pipenv run python scripts/build_contexts.py
-	pipenv run python scripts/export_languages.py
+	python scripts/build_translations.py
+	python scripts/build_contexts.py
+	python scripts/export_languages.py
 
 build_site:
 	bundle exec jekyll build

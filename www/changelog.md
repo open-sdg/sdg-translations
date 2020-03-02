@@ -6,7 +6,7 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
-## 1.0.0
+## Unreleased
 
 ### Translations
 

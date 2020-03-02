@@ -28,8 +28,6 @@ jobs:
       run: |
         make build_data
         make build_site
-        ls www
-        cat _site/translators/index.html
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:

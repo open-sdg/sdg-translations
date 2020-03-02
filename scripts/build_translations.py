@@ -51,11 +51,9 @@ def main():
     repo = Repo(os.getcwd())
     # Save the current branch for later.
     try:
-        branch = repo.active_branch.name
         print('Starting branch was ' + branch)
     except:
-        print('No starting branch - creating one')
-        branch = 'my-temporary-branch'
+        branch = 'my-temporary-branch-that-is-hopefully-not-being-used'
         temp_branch = repo.create_head(branch)
         temp_branch.checkout()
     for tag in repo.tags:
@@ -64,7 +62,6 @@ def main():
         build_translations('translations-' + str(tag) + '.json')
     # Go back to the current branch.
     if branch:
-        print('Switching back to ' + branch)
         repo.git.checkout(branch)
 
     return status

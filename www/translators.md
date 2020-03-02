@@ -7,13 +7,14 @@ permalink: translators/
 ## Exports for translation audits
 
 The translations for the current languages are available in spreadsheet form for ease of translation audits. The spreadsheets available include:
-* [Spanish]({{ site.baseurl }}/sdg-translations-es.csv)
-* [French]({{ site.baseurl }}/sdg-translations-fr.csv)
-* [Chinese]({{ site.baseurl }}/sdg-translations-zh-Hans.csv)
 * [Arabic]({{ site.baseurl }}/sdg-translations-ar.csv)
-* [Russian]({{ site.baseurl }}/sdg-translations-ru.csv)
-* [Armenian]({{ site.baseurl }}/sdg-translations-am.csv)
+* [Armenian]({{ site.baseurl }}/sdg-translations-hy.csv)
+* [Chinese]({{ site.baseurl }}/sdg-translations-zh-Hans.csv)
+* [French]({{ site.baseurl }}/sdg-translations-fr.csv)
 * [German]({{ site.baseurl }}/sdg-translations-de.csv)
+* [Kazakh]({{ site.baseurl }}/sdg-translations-kk.csv)
+* [Russian]({{ site.baseurl }}/sdg-translations-ru.csv)
+* [Spanish]({{ site.baseurl }}/sdg-translations-es.csv)
 
 In these spreadsheets the English translations sit in a column alongside the translations for the target language, if any.
 

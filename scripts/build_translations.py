@@ -52,6 +52,7 @@ def main():
     # Save the current branch for later.
     try:
         branch = repo.active_branch.name
+        print('Starting branch was ' + branch)
     except:
         branch = False
     for tag in repo.tags:
@@ -60,6 +61,7 @@ def main():
         build_translations('translations-' + str(tag) + '.json')
     # Go back to the current branch.
     if branch:
+        print('Switching back to ' + branch)
         repo.git.checkout(branch)
 
     return status

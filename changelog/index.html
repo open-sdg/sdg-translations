@@ -175,9 +175,63 @@
   
   <p>Numbers in parenthesis below refer to Github issues or pull-requests.</p>
 
-<h2 id="060">0.6.0</h2>
+<h2 id="unreleased">Unreleased</h2>
+
+<h3 id="translations">Translations</h3>
+
+<ul>
+  <li>Armenian fixes (#107, #115, #117)</li>
+  <li>Change language codes</li>
+</ul>
+
+<h2 id="080">0.8.0</h2>
+
+<h3 id="translations-1">Translations</h3>
+
+<ul>
+  <li>New translation keys to support Open SDG version 1 (TBD)</li>
+</ul>
 
 <h3 id="breaking-changes">Breaking changes</h3>
+
+<ul>
+  <li>Changed Armenian and Kazakh language codes (TBD)</li>
+</ul>
+
+<h3 id="breaking-changes-1">Breaking changes</h3>
+
+<ul>
+  <li>
+    <p>Flatten global translations (#105)</p>
+
+    <p>The global translations (goals, targets, and indicators) have changed from a “nested” structure to a flat structure. For example, instead of the previous structure of:</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  '1':
+    short: Keine Armut
+    title: Armut in allen ihren Formen und überall beenden
+</code></pre></div>    </div>
+
+    <p>The new flattened structure is:</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  1-short: Keine Armut
+  1-title: Armut in allen ihren Formen und überall beenden
+</code></pre></div>    </div>
+  </li>
+</ul>
+
+<h2 id="070">0.7.0</h2>
+
+<h3 id="translations-2">Translations</h3>
+
+<ul>
+  <li>Add translations for Twitter and Facebook (#99)</li>
+  <li>Translations for enabling/disabling high contrast (#100, #102)</li>
+  <li>Translations for download chart image button (#103)</li>
+</ul>
+
+<h2 id="060">0.6.0</h2>
+
+<h3 id="breaking-changes-2">Breaking changes</h3>
 
 <ul>
   <li>The keys for global_indicators and global_targets have changed from dot-delimited (eg, 1.1) to dash-delimited (eg, 1-1).</li>
@@ -185,7 +239,7 @@
 
 <p><strong>NOTE</strong> If you are using this liibrary with Open SDG, keep in mind that this version requires open-sdg@0.6.3 or higher, and jekyll-open-sdg-plugins@0.0.12 or higher.</p>
 
-<h3 id="translations">Translations</h3>
+<h3 id="translations-3">Translations</h3>
 
 <ul>
   <li>Missing Russian targets added (#91)</li>
@@ -198,7 +252,7 @@
 
 <h2 id="050">0.5.0</h2>
 
-<h3 id="translations-1">Translations</h3>
+<h3 id="translations-4">Translations</h3>
 
 <ul>
   <li>“Not applicable”</li>
@@ -207,7 +261,7 @@
 
 <h2 id="040">0.4.0</h2>
 
-<h3 id="breaking-changes-1">Breaking changes</h3>
+<h3 id="breaking-changes-3">Breaking changes</h3>
 
 <ul>
   <li>Include token for country name in translations of frontpage.header (#56)</li>
@@ -220,7 +274,7 @@
   <li>Add goal images to this project for all languages (#58)</li>
 </ul>
 
-<h3 id="translations-2">Translations</h3>
+<h3 id="translations-5">Translations</h3>
 
 <ul>
   <li>Fix placement of tokens in frontpage.instructions (#34, #53)</li>
@@ -240,7 +294,7 @@
   <li>Trigger builds on tagging (#29)</li>
 </ul>
 
-<h3 id="translations-3">Translations</h3>
+<h3 id="translations-6">Translations</h3>
 
 <ul>
   <li>Arabic fixes. (#24)</li>
@@ -249,7 +303,7 @@
 
 <h2 id="030">0.3.0</h2>
 
-<h3 id="breaking-changes-2">Breaking changes</h3>
+<h3 id="breaking-changes-4">Breaking changes</h3>
 
 <ul>
   <li>Change Chinese code from “zh” to “zh-Hans” (d217b4b6)</li>
@@ -265,7 +319,7 @@
   <li>Bug fix: import script preserves existing data (3968aa20)</li>
 </ul>
 
-<h3 id="translations-4">Translations</h3>
+<h3 id="translations-7">Translations</h3>
 
 <ul>
   <li>Added context about some translations (#17)</li>
@@ -277,7 +331,7 @@
 
 <h2 id="020">0.2.0</h2>
 
-<h3 id="translations-5">Translations</h3>
+<h3 id="translations-8">Translations</h3>
 
 <ul>
   <li>Ran a script to import official Spanish, French, and Chinese translations from UN sources. This changed some existing Spanish and French translations (slightly) and added new Chinese translations. (#6)</li>

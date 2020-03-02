@@ -1,4 +1,4 @@
-comments_limitations: Les autres informations
+other_info: Les autres informations
 computation_calculations: Calculs
 computation_definitions: Définitions
 computation_units: Unité de mesure
@@ -76,3 +76,7 @@ target: Nom de la cible
 target_id: Numéro cible
 un_custodian_agency: Agence dépositaire des Nations Unies
 un_designated_tier: Niveau désigné par les Nations Unies
+quality_assurance: Assurance qualité
+international_comparability: Comparabilité avec les données / normes internationales
+comments_limitations: Commentaires et limitations
+rational_interpretation: Rationnel et interprétation

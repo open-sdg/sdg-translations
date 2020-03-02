@@ -1,4 +1,4 @@
-comments_limitations: Другая информация
+other_info: Другая информация
 computation_calculations: Расчёты
 computation_definitions: Определения
 computation_units: Единица измерения
@@ -76,3 +76,7 @@ target: Название задачи
 target_id: Номер задачи
 un_custodian_agency: 'Депозитарное учреждение ООН '
 un_designated_tier: Назначенный ООН уровень
+quality_assurance: Гарантия качества
+international_comparability: Сопоставимость с международными данными / стандартами
+comments_limitations: Комментарии и ограничения
+rational_interpretation: Рациональное и интерпретация

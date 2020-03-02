@@ -1,4 +1,4 @@
-comments_limitations: Otra información
+other_info: Otra información
 computation_calculations: Cálculos
 computation_definitions: Definiciones
 computation_units: Unidad de medida
@@ -77,3 +77,7 @@ target: Nombre de destino
 target_id: Número objetivo
 un_custodian_agency: Agencia de custodia de la ONU
 un_designated_tier: Nivel designado por la ONU
+quality_assurance: Seguro de calidad
+international_comparability: Comparabilidad con datos / estándares internacionales
+comments_limitations: Comentarios y limitaciones
+rational_interpretation: Racionalidad e interpretación

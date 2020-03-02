@@ -1,3 +1,5 @@
 heading: "Datos %name para los indicadores de los Objetivos de Desarrollo Sostenible"
 instructions: Haga clic en cada objetivo, o %before_link busque, %after_link para
   las estadísticas %name para Objetivo de desarrollo sostenible global indicadores.
+download_all: Descargar todos los datos
+zip_file: archivo zip

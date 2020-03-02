@@ -1,4 +1,4 @@
-comments_limitations: 其他资料
+other_info: 其他资料
 computation_calculations: 计算
 computation_definitions: 定义
 computation_units: 计量单位
@@ -76,3 +76,7 @@ target: 目标名称
 target_id: 目标数字
 un_custodian_agency: 联合国托管机构
 un_designated_tier: 联合国指定层
+quality_assurance: 质量保证
+international_comparability: 与国际数据/标准的可比性
+comments_limitations: 评论和限制
+rational_interpretation: 理性与解释

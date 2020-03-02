@@ -217,6 +217,7 @@ search:search_results_for,Search results for,نتائج البحث عن
 search:found_in,found in,موجود في
 search:keywords,Keywords,الكلمات الدالة
 search:no_results,No results,لا يوجد نتائج
+search:did_you_mean,did you mean,هل تعني
 status:reporting_status,Reporting Status,وضع الاعلان
 status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
 status:reported_online,Reported online,اعلن على الانترنت
@@ -224,6 +225,7 @@ status:statistics_in_progress,Statistics in progress,الاحصائيات دائ
 status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
 status:not_applicable,Not applicable,لايمكن تطبيقه
 status:status_by_goal,Status by goal,الحالة حسب الهدف
+status:status_by_field,Status by %field,الحالة بواسطة %field
 indicator:select_all,Select all,اختيار الكل
 indicator:clear_all,Clear all,ازالة الكل
 indicator:clear_selections,Clear selections,إزالة المحدد
@@ -239,6 +241,8 @@ indicator:download_csv,Download CSV,تحميل الCSV
 indicator:download_csv_title,Download as CSV,تحميل كCSV
 indicator:download_chart_image,Download Chart Image,تحميل الرسم البياني الصورة
 indicator:download_chart_image_title,Download chart as image,تحميل الرسم البياني كصورة
+indicator:download_geojson,Download GeoJSON,تحميل الGeoJSON
+indicator:download_geojson_title,Download as GeoJSON,تحميل كGeoJSON
 indicator:source,Source,مصدر
 indicator:sources,Sources,مصادر
 indicator:geographical_area,Geographical Area,المنطقة الجغرافية
@@ -263,6 +267,8 @@ indicator:edit_data,Edit Data,تغيير البيانات
 indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
 frontpage:heading,%name data for Sustainable Development Goal indicators,%name بيانات لمؤشرات اهداف التنمية المستدامة
+frontpage:download_all,Download all data,تنزيل جميع البيانات
+frontpage:zip_file,ZIP file,ملف مضغوط
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)",نسبة السكان الذين يعيشون دون خط الفقر الدولي، بحسب الجنس، والعمر، والوضع الوظيفي، والموقع الجغرافي (حضري/ريفي)
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age",نسبة السكان الذين يعيشون دون خط الفقر الوطني، بحسب الجنس والعمر 
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",نسبة الرجال والنساء والأطفال من جميع الاعمار الذين يعانون الفقر بجميع ابعاده وفقا للتعريفات الوطنية
@@ -520,9 +526,24 @@ general:target,Target,استهداف
 general:targets,Targets,أهداف
 general:twitter,Twitter,تويتر
 general:facebook,Facebook,فيسبوك
+general:built_using_open_sdg,Built using Open SDG,بنيت باستخدام Open SDG
+general:page,Page,صفحة ويب
+general:pages,Pages,صفحات الانترنت
+calendar:January,January,كانون الثاني
+calendar:February,February,شهر فبراير
+calendar:March,March,مارس
+calendar:April,April,أبريل
+calendar:May,May,قد
+calendar:June,June,يونيو
+calendar:July,July,يوليو
+calendar:August,August,أغسطس
+calendar:September,September,سبتمبر
+calendar:October,October,اكتوبر
+calendar:November,November,شهر نوفمبر
+calendar:December,December,ديسمبر
 post:posts_by_category,Posts by Category,المنشورات حسب الفئة
 post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
-metadata_fields:comments_limitations,Other information,معلومات اخرى
+metadata_fields:other_info,Other information,معلومات اخرى
 metadata_fields:computation_calculations,Calculations,عمليات حسابية
 metadata_fields:computation_definitions,Definitions,تعريفات
 metadata_fields:computation_units,Unit of measurement,وحدة قياس
@@ -600,6 +621,10 @@ metadata_fields:target,Target name,اسم الهدف
 metadata_fields:target_id,Target number,رقم الهدف
 metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
 metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
+metadata_fields:quality_assurance,Quality assurance,ضمان الجودة
+metadata_fields:international_comparability,Comparability with international data/standards,المقارنة مع البيانات / المعايير الدولية
+metadata_fields:comments_limitations,Comments and limitations,التعليقات والقيود
+metadata_fields:rational_interpretation,Rational and interpretation,العقلاني والتفسير
 header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
 header:alpha,Alpha,ألفا
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","هذا موقع تطوير. نرحب <a href=""mailto:%email_address""> بتعليقاتكم </a>"

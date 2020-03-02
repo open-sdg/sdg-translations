@@ -1,4 +1,4 @@
-﻿key,en,am
+﻿key,en,hy
 global_goals:1-short,No poverty,Ոչ աղքատությանը
 global_goals:1-title,End poverty in all its forms everywhere,Ամենուրեք վերացնել աղքատությունը՝ իր բոլոր ձևերով ու դրսևորումներով
 global_goals:10-short,Reduced inequalities,Կրճատված անհավասարություն
@@ -233,6 +233,7 @@ search:search_results_for,Search results for,Որոնման արդյունքնե
 search:found_in,found in,Գտնված է
 search:keywords,Keywords,Հիմնաբառեր
 search:no_results,No results,Արդյունքներ չկան
+search:did_you_mean,did you mean,դու ի նկատի ունեիր
 status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
 status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
 status:reported_online,Reported online,Առցանց հաշվետվություն 
@@ -240,6 +241,7 @@ status:statistics_in_progress,Statistics in progress,Վիճակագրությո�
 status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
 status:not_applicable,Not applicable,ոչ կիրառելի
 status:status_by_goal,Status by goal,Գոլի կարգավիճակ
+status:status_by_field,Status by %field,Կարգավիճակը %field
 indicator:select_all,Select all,Ընտրել ամբողջը
 indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
 indicator:clear_selections,Clear selections,Մաքրել նշվածները 
@@ -255,6 +257,8 @@ indicator:download_csv,Download CSV,Ներբեռնել CSV
 indicator:download_csv_title,Download as CSV,Ներբեռնել որպես CSV
 indicator:download_chart_image,Download Chart Image,Ներբեռնեք գծապատկերի պատկերը
 indicator:download_chart_image_title,Download chart as image,Ներբեռնեք աղյուսակը որպես պատկեր
+indicator:download_geojson,Download GeoJSON,Ներբեռնել GeoJSON
+indicator:download_geojson_title,Download as GeoJSON,Ներբեռնել որպես GeoJSON
 indicator:source,Source,Աղբյուր
 indicator:sources,Sources,Աղբյուրներ
 indicator:geographical_area,Geographical Area,Աշխարհագրական դիրք
@@ -279,6 +283,8 @@ indicator:edit_data,Edit Data,Խմբագրել տվյալները
 indicator:edit_metadata,Edit Metadata,Խմբագրել մետատվյալները
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
 frontpage:heading,%name data for Sustainable Development Goal indicators,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
+frontpage:download_all,Download all data,Ներբեռնեք բոլոր տվյալները
+frontpage:zip_file,ZIP file,ZIP ֆայլ
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Աղքատության միջազգային շեմից ցած ապրող բնակչության համամասնությունը՝ ըստ սեռի, տարիքային խմբի, զբաղվածության կարգավիճակի և աշխարհագրական վայրի (քաղաքային/գյուղական)"
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age",Աղքատության ազգային շեմից ցած ապրող բնակչության համամասնությունը՝ ըստ սեռի և տարիքային խմբի 
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Ըստ ազգային սահմանումների աղքատության բոլոր ձևերի մեջ ապրող բոլոր տարիքների տղամարդկանց, կանանց և երեխաների համամասնությունը "
@@ -536,9 +542,24 @@ general:target,Target,Թիրախը
 general:targets,Targets,Թիրախներ
 general:twitter,Twitter,Թվիթերի
 general:facebook,Facebook,Ֆեյսբուք
+general:built_using_open_sdg,Built using Open SDG,Կառուցվել է Open SDG օգտագործմամբ
+general:page,Page,ինտերնետային էջ
+general:pages,Pages,վեբ էջեր
+calendar:January,January,Հունվար
+calendar:February,February,Փետրվար
+calendar:March,March,Մարտ
+calendar:April,April,Ապրիլ
+calendar:May,May,Մայիս
+calendar:June,June,Հունիս
+calendar:July,July,Հուլիս
+calendar:August,August,Օգոստոս
+calendar:September,September,Սեպտեմբեր
+calendar:October,October,Հոկտեմբեր
+calendar:November,November,Նոյեմբեր
+calendar:December,December,Դեկտեմբեր
 post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
 post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
-metadata_fields:comments_limitations,Other information,Այլ տեղեկություններ 
+metadata_fields:other_info,Other information,Այլ տեղեկություններ 
 metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
 metadata_fields:computation_definitions,Definitions,Սահմանումներ 
 metadata_fields:computation_units,Unit of measurement,Չափման միավորը 
@@ -616,6 +637,10 @@ metadata_fields:target,Target name,Թիրախի անվանումը
 metadata_fields:target_id,Target number,Թիրախի համարը 
 metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
 metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
+metadata_fields:quality_assurance,Quality assurance,Որակի ապահովում
+metadata_fields:international_comparability,Comparability with international data/standards,Համեմատելիություն միջազգային տվյալների / ստանդարտների հետ
+metadata_fields:comments_limitations,Comments and limitations,Մեկնաբանություններ և սահմանափակումներ
+metadata_fields:rational_interpretation,Rational and interpretation,Ռացիոնալ և մեկնաբանություն
 header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
 header:alpha,Alpha,Ալֆա
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "

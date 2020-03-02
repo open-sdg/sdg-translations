@@ -31,6 +31,7 @@ search:search_results_for,Search results for,Résultats de recherche pour
 search:found_in,found in,trouvé dans
 search:keywords,Keywords,Mots clés
 search:no_results,No results,Aucun résultat
+search:did_you_mean,did you mean,vouliez-vous dire
 status:reporting_status,Reporting Status,Statut de rapport
 status:overall_reporting_status,Overall Reporting Status,Statut général de rapport
 status:reported_online,Reported online,Signalé en ligne
@@ -38,6 +39,7 @@ status:statistics_in_progress,Statistics in progress,Statistiques en cours
 status:exploring_data_sources,Exploring data sources,Explorer les sources de données
 status:not_applicable,Not applicable,Non applicable
 status:status_by_goal,Status by goal,Statut par but
+status:status_by_field,Status by %field,Statut par %field
 indicator:select_all,Select all,Tout sélectionner
 indicator:clear_all,Clear all,Tout effacer
 indicator:clear_selections,Clear selections,Effacer les sélections
@@ -53,6 +55,8 @@ indicator:download_csv,Download CSV,Télécharger CSV
 indicator:download_csv_title,Download as CSV,Télécharger en format CSV
 indicator:download_chart_image,Download Chart Image,Télécharger l'image graphique
 indicator:download_chart_image_title,Download chart as image,Télécharger le graphique en image
+indicator:download_geojson,Download GeoJSON,Télécharger GeoJSON
+indicator:download_geojson_title,Download as GeoJSON,Télécharger en format GeoJSON
 indicator:source,Source,La source
 indicator:sources,Sources,Sources
 indicator:geographical_area,Geographical Area,Zone géographique
@@ -77,6 +81,8 @@ indicator:edit_data,Edit Data,Modifier les données
 indicator:edit_metadata,Edit Metadata,Modifier les métadonnées
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
 frontpage:heading,%name data for Sustainable Development Goal indicators,Données %name pour les indicateurs des objectifs de développement durable
+frontpage:download_all,Download all data,Téléchargez toutes les données
+frontpage:zip_file,ZIP file,fichier zip
 general:indicator,Indicator,Indicateur
 general:indicators,Indicators,Indicateurs
 general:goal,Goal,Objectif
@@ -89,9 +95,24 @@ general:target,Target,Cible
 general:targets,Targets,Les cibles
 general:twitter,Twitter,Twitter
 general:facebook,Facebook,Facebook
+general:built_using_open_sdg,Built using Open SDG,Construit en utilisant Open SDG
+general:page,Page,page Web
+general:pages,Pages,les pages Web
+calendar:January,January,janvier
+calendar:February,February,février
+calendar:March,March,Mars
+calendar:April,April,avril
+calendar:May,May,Mai
+calendar:June,June,juin
+calendar:July,July,juillet
+calendar:August,August,août
+calendar:September,September,septembre
+calendar:October,October,octobre
+calendar:November,November,novembre
+calendar:December,December,décembre
 post:posts_by_category,Posts by Category,Messages par catégorie
 post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
-metadata_fields:comments_limitations,Other information,Les autres informations
+metadata_fields:other_info,Other information,Les autres informations
 metadata_fields:computation_calculations,Calculations,Calculs
 metadata_fields:computation_definitions,Definitions,Définitions
 metadata_fields:computation_units,Unit of measurement,Unité de mesure
@@ -169,6 +190,10 @@ metadata_fields:target,Target name,Nom de la cible
 metadata_fields:target_id,Target number,Numéro cible
 metadata_fields:un_custodian_agency,UN custodian agency,Agence dépositaire des Nations Unies
 metadata_fields:un_designated_tier,UN designated tier,Niveau désigné par les Nations Unies
+metadata_fields:quality_assurance,Quality assurance,Assurance qualité
+metadata_fields:international_comparability,Comparability with international data/standards,Comparabilité avec les données / normes internationales
+metadata_fields:comments_limitations,Comments and limitations,Commentaires et limitations
+metadata_fields:rational_interpretation,Rational and interpretation,Rationnel et interprétation
 header:skip_link,Skip to main content,Passer au contenu principal
 header:alpha,Alpha,Alpha
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Ceci est un site de développement. Nous apprécions vos commentaires.

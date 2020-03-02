@@ -1028,6 +1028,7 @@ search:search_results_for,Search results for,Результаты поиска �
 search:found_in,found in,найдено в
 search:keywords,Keywords,Ключевые слова
 search:no_results,No results,Результатов не найдено
+search:did_you_mean,did you mean,вы имеете в виду
 status:reporting_status,Reporting Status,Статус отчётности
 status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
 status:reported_online,Reported online,Опубликован
@@ -1035,6 +1036,7 @@ status:statistics_in_progress,Statistics in progress,Статистика в п�
 status:exploring_data_sources,Exploring data sources,В процессе разработки
 status:not_applicable,Not applicable,Непригодный
 status:status_by_goal,Status by goal,Статус по цели
+status:status_by_field,Status by %field,Статус по %field
 indicator:select_all,Select all,Выделить всё
 indicator:clear_all,Clear all,Очистить всё
 indicator:clear_selections,Clear selections,Очистить выделенное
@@ -1050,6 +1052,8 @@ indicator:download_csv,Download CSV,Скачать CSV
 indicator:download_csv_title,Download as CSV,Скачать в формате CSV
 indicator:download_chart_image,Download Chart Image,Загрузить изображение диаграммы
 indicator:download_chart_image_title,Download chart as image,Скачать диаграмму как изображение
+indicator:download_geojson,Download GeoJSON,Скачать GeoJSON
+indicator:download_geojson_title,Download as GeoJSON,Скачать в формате GeoJSON
 indicator:source,Source,Источник
 indicator:sources,Sources,Источники
 indicator:geographical_area,Geographical Area,Географический район
@@ -1074,6 +1078,8 @@ indicator:edit_data,Edit Data,Редактировать данные
 indicator:edit_metadata,Edit Metadata,Редактировать метаданные
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
 frontpage:heading,%name data for Sustainable Development Goal indicators,%name данные для целей в области устойчивого развития
+frontpage:download_all,Download all data,Скачать все данные
+frontpage:zip_file,ZIP file,ZIP файл
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Доля населения, живущего за международной
 чертой бедности, в разбивке по полу, возрасту,
 статусу занятости и месту проживания (городское/сельское)
@@ -1953,9 +1959,24 @@ general:target,Target,Задача
 general:targets,Targets,Задачи
 general:twitter,Twitter,Твиттеру
 general:facebook,Facebook,Facebook
+general:built_using_open_sdg,Built using Open SDG,Построен с использованием Open SDG
+general:page,Page,веб-страница
+general:pages,Pages,веб-страница
+calendar:January,January,январь
+calendar:February,February,февраль
+calendar:March,March,марш
+calendar:April,April,апрель
+calendar:May,May,май
+calendar:June,June,июнь
+calendar:July,July,июль
+calendar:August,August,августейший
+calendar:September,September,сентябрь
+calendar:October,October,октября
+calendar:November,November,ноябрь
+calendar:December,December,Декабрь
 post:posts_by_category,Posts by Category,Посты по категории
 post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
-metadata_fields:comments_limitations,Other information,Другая информация
+metadata_fields:other_info,Other information,Другая информация
 metadata_fields:computation_calculations,Calculations,Расчёты
 metadata_fields:computation_definitions,Definitions,Определения
 metadata_fields:computation_units,Unit of measurement,Единица измерения
@@ -2033,6 +2054,10 @@ metadata_fields:target,Target name,Название задачи
 metadata_fields:target_id,Target number,Номер задачи
 metadata_fields:un_custodian_agency,UN custodian agency,Депозитарное учреждение ООН 
 metadata_fields:un_designated_tier,UN designated tier,Назначенный ООН уровень
+metadata_fields:quality_assurance,Quality assurance,Гарантия качества
+metadata_fields:international_comparability,Comparability with international data/standards,Сопоставимость с международными данными / стандартами
+metadata_fields:comments_limitations,Comments and limitations,Комментарии и ограничения
+metadata_fields:rational_interpretation,Rational and interpretation,Рациональное и интерпретация
 header:skip_link,Skip to main content,Перейти к главному содержанию
 header:alpha,Alpha,Альфа
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.

@@ -217,6 +217,7 @@ search:search_results_for,Search results for,Ergebnisse zu
 search:found_in,found in,gefunden unter
 search:keywords,Keywords,Schlagworte
 search:no_results,No results,Keine Ergebnisse
+search:did_you_mean,did you mean,meintest du
 status:reporting_status,Reporting Status,Berichtsstatus
 status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
 status:reported_online,Reported online,Daten verfügbar
@@ -224,6 +225,7 @@ status:statistics_in_progress,Statistics in progress,in Bearbeitung
 status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
 status:not_applicable,Not applicable,Nicht zutreffend
 status:status_by_goal,Status by goal,Status nach Ziel
+status:status_by_field,Status by %field,Status von %field
 indicator:select_all,Select all,Alle auswählen
 indicator:clear_all,Clear all,Auswahl aufheben
 indicator:clear_selections,Clear selections,Auswahl aufheben
@@ -239,6 +241,8 @@ indicator:download_csv,Download CSV,im CSV-Format speichern
 indicator:download_csv_title,Download as CSV,im CSV-Format speichern
 indicator:download_chart_image,Download Chart Image,Grafik herunterladen
 indicator:download_chart_image_title,Download chart as image,Grafik als Bild herunterladen
+indicator:download_geojson,Download GeoJSON,im GeoJSON-Format speichern
+indicator:download_geojson_title,Download as GeoJSON,im GeoJSON-Format speichern
 indicator:source,Source,Datenquelle
 indicator:sources,Sources,Datenquellen
 indicator:geographical_area,Geographical Area,Geographische Abdeckung
@@ -263,6 +267,8 @@ indicator:edit_data,Edit Data,Daten bearbeiten
 indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für %name zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
 frontpage:heading,%name data for Sustainable Development Goal indicators,%name daten zu den Indikatoren der Ziele für nachhaltige Entwicklung
+frontpage:download_all,Download all data,Laden Sie alle Daten herunter
+frontpage:zip_file,ZIP file,zip-Datei
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)"
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age","Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben"
@@ -520,9 +526,24 @@ general:target,Target,Unterziel
 general:targets,Targets,Unterziele
 general:twitter,Twitter,Twitter
 general:facebook,Facebook,Facebook
+general:built_using_open_sdg,Built using Open SDG,Erstellt mit Open SDG
+general:page,Page,Website
+general:pages,Pages,Webseiten
+calendar:January,January,Januar
+calendar:February,February,Februar
+calendar:March,March,März
+calendar:April,April,April
+calendar:May,May,Kann
+calendar:June,June,Juni
+calendar:July,July,Juli
+calendar:August,August,August
+calendar:September,September,September
+calendar:October,October,Oktober
+calendar:November,November,November
+calendar:December,December,Dezember
 post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
 post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
-metadata_fields:comments_limitations,Other information,Weitere Informationen
+metadata_fields:other_info,Other information,Weitere Informationen
 metadata_fields:computation_calculations,Calculations,Methodik
 metadata_fields:computation_definitions,Definitions,Definitionen
 metadata_fields:computation_units,Unit of measurement,Einheit
@@ -600,6 +621,10 @@ metadata_fields:target,Target name,Unterziel
 metadata_fields:target_id,Target number,Unterzielnummerierung
 metadata_fields:un_custodian_agency,UN custodian agency,VN Custodian Agency
 metadata_fields:un_designated_tier,UN designated tier,VN Tier Klassifikation
+metadata_fields:quality_assurance,Quality assurance,Qualitätssicherung
+metadata_fields:international_comparability,Comparability with international data/standards,Vergleichbarkeit mit internationalen Daten / Standards
+metadata_fields:comments_limitations,Comments and limitations,Kommentare und Einschränkungen
+metadata_fields:rational_interpretation,Rational and interpretation,Vernunft und Interpretation
 header:skip_link,Skip to main content, Zum Hauptinhalt springen
 header:alpha,Alpha,Alpha-Version
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.

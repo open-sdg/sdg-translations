@@ -83,6 +83,8 @@ frontpage:instructions,"Click on each goal, or %before_link search, %after_link 
 frontpage:heading,%name data for Sustainable Development Goal indicators,Données %name pour les indicateurs des objectifs de développement durable
 frontpage:download_all,Download all data,Téléchargez toutes les données
 frontpage:zip_file,ZIP file,fichier zip
+frontpage:intro_title,17 goals to transform our world,17 objectifs pour transformer notre monde
+frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","Les <a href=""https://www.un.org/sustainabledevelopment/fr"">objectifs de développement durable (SDG)</a> sont un appel universel à l'action pour mettre fin à la pauvreté, protéger la planète et améliorer la vie et les perspectives de chacun, partout. Les 17 objectifs ont été adoptés par tous les États membres des Nations unies en 2015, dans le cadre du <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=F"">programme pour le développement durable de 2030</a>."
 general:indicator,Indicator,Indicateur
 general:indicators,Indicators,Indicateurs
 general:goal,Goal,Objectif

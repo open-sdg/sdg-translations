@@ -83,6 +83,8 @@ frontpage:instructions,"Click on each goal, or %before_link search, %after_link 
 frontpage:heading,%name data for Sustainable Development Goal indicators,%name可持续发展目标指标的数据
 frontpage:download_all,Download all data,下载所有数据
 frontpage:zip_file,ZIP file,ZIP文件
+frontpage:intro_title,17 goals to transform our world,改变世界的17个目标
+frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","<a href=""https://www.un.org/sustainabledevelopment/zh"">可持续发展目标</a>是消除贫困，保护地球和 改善世界各地每个人的生活和前景。 作为<a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=C""> 2030年可持续发展议程</a>。"
 general:indicator,Indicator,指标
 general:indicators,Indicators,指标
 general:goal,Goal,目标

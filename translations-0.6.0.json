@@ -1923,6 +1923,7 @@
         "reporting_status":"Reporting Status"
     },
     "metadata_fields":{
+        "comparison_sdg":"Comparability with UN metadata",
         "comments_limitations":"Other information",
         "computation_calculations":"Calculations",
         "computation_definitions":"Definitions",
@@ -3948,6 +3949,7 @@
         "reporting_status":"Reporting Status"
     },
     "metadata_fields":{
+        "comparison_sdg":"Comparabilitatea cu metadatele ONU",
         "comments_limitations":"Other information",
         "computation_calculations":"Calculations",
         "computation_definitions":"Definitions",

@@ -2029,14 +2029,14 @@
         "instructions":"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators."
     },
     "general":{
-        "goal":"Goal",
-        "goals":"Goals",
-        "home":"Home",
+        "goal":"Obiectiv",
+        "goals":"Obiective",
+        "home":"Acasa",
         "indicator":"Indicator",
-        "indicators":"Indicators",
-        "loading":"Loading search results",
-        "opens_new_window":"opens in a new window",
-        "sdg":"Sustainable Development Goals",
+        "indicators":"Indicatori",
+        "loading":"Se încarcă rezultatele căutării",
+        "opens_new_window":"deschide într-o fereastră nouă",
+        "sdg":"Obiective de Dezvoltare Durabilă",
         "target":"Țintă",
         "targets":"Ținte",
         "prev_goal": "Obiectivul precedent",
@@ -2050,8 +2050,8 @@
             "title":"Pune capăt sărăciei în toate formele sale peste tot"
         },
         "10":{
-            "short":"Reduced inequalities",
-            "title":"Reduce inequality within and among countries"
+            "short":"Reducerea inegalităților",
+            "title":"Reducerea inegalității în interiorul și între țări"
         },
         "11":{
             "short":"Sustainable cities & communities",

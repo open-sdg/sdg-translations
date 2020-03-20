@@ -16,8 +16,10 @@
         "sdg":"Sustainable Development Goals",
         "target":"Target",
         "targets":"Targets",
-        "prev_goal": "Prev Goal",
-        "next_goal": "Next Goal"
+        "prev_goal": "Previous Goal",
+        "next_goal": "Next Goal",
+        "target_link_dns": "National indicators on",
+        "target_link_sdg": "Global indicators on"
     },
     "global_goals":{
         "1":{
@@ -2038,7 +2040,9 @@
         "target":"Țintă",
         "targets":"Ținte",
         "prev_goal": "Obiectivul precedent",
-        "next_goal": "Următorul Obiectiv"
+        "next_goal": "Următorul Obiectiv",
+        "target_link_dns": "Indicatori naționali la",
+        "target_link_sdg": "Indicatori globali la"
     },
     "global_goals":{
         "1":{

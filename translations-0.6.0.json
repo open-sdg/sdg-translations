@@ -17,7 +17,9 @@
         "target":"Target",
         "targets":"Targets",
         "prev_goal": "Previous Goal",
+        "prev_indicator":	"Previous indicator",
         "next_goal": "Next Goal",
+        "next_indicator":	"Next indicator",
         "target_link_dns": "National indicators on",
         "target_link_sdg": "Global indicators on"
     },
@@ -2040,7 +2042,9 @@
         "target":"Țintă",
         "targets":"Ținte",
         "prev_goal": "Obiectivul precedent",
+        "prev_indicator":	"Indicatorul precedent",
         "next_goal": "Următorul Obiectiv",
+        "next_indicator":	"Următorul indicator",
         "target_link_dns": "Indicatori naționali la",
         "target_link_sdg": "Indicatori globali la"
     },

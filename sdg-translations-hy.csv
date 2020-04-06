@@ -81,6 +81,7 @@ metadata_fields:quality_assurance,Quality assurance,Որակի ապահովու�
 metadata_fields:international_comparability,Comparability with international data/standards,Համեմատելիություն միջազգային տվյալների / ստանդարտների հետ
 metadata_fields:comments_limitations,Comments and limitations,Մեկնաբանություններ և սահմանափակումներ
 metadata_fields:rational_interpretation,Rational and interpretation,Ռացիոնալ և մեկնաբանություն
+metadata_fields:copyright,Copyright,Հեղինակային իրավունք
 indicator:select_all,Select all,Ընտրել ամբողջը
 indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
 indicator:clear_selections,Clear selections,Մաքրել նշվածները 

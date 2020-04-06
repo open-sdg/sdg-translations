@@ -81,6 +81,7 @@ metadata_fields:quality_assurance,Quality assurance,Сапа кепілдігі
 metadata_fields:international_comparability,Comparability with international data/standards,Халықаралық деректермен / стандарттармен салыстыру
 metadata_fields:comments_limitations,Comments and limitations,Пікірлер мен шектеулер
 metadata_fields:rational_interpretation,Rational and interpretation,Рационалды және түсіндіру
+metadata_fields:copyright,Copyright,Авторлық құқық
 indicator:select_all,Select all,Барлығын белгілеу
 indicator:clear_all,Clear all,Барлығын тазарту
 indicator:clear_selections,Clear selections,Белгіленгенді тазарту

@@ -81,6 +81,7 @@ metadata_fields:quality_assurance,Quality assurance,质量保证
 metadata_fields:international_comparability,Comparability with international data/standards,与国际数据/标准的可比性
 metadata_fields:comments_limitations,Comments and limitations,评论和限制
 metadata_fields:rational_interpretation,Rational and interpretation,理性与解释
+metadata_fields:copyright,Copyright,版权
 indicator:select_all,Select all,全选
 indicator:clear_all,Clear all,全部清除
 indicator:clear_selections,Clear selections,清除选项

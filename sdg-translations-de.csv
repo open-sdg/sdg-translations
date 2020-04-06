@@ -81,6 +81,7 @@ metadata_fields:quality_assurance,Quality assurance,Qualitätssicherung
 metadata_fields:international_comparability,Comparability with international data/standards,Vergleichbarkeit mit internationalen Daten / Standards
 metadata_fields:comments_limitations,Comments and limitations,Kommentare und Einschränkungen
 metadata_fields:rational_interpretation,Rational and interpretation,Vernunft und Interpretation
+metadata_fields:copyright,Copyright,Urheberrechte
 indicator:select_all,Select all,Alle auswählen
 indicator:clear_all,Clear all,Auswahl aufheben
 indicator:clear_selections,Clear selections,Auswahl aufheben

@@ -1923,11 +1923,11 @@
         "reporting_status":"Reporting Status"
     },
     "metadata_fields":{
-        "test_meta":"The testing metadata",
         "comments_limitations":"Other information",
         "computation_calculations":"Calculations",
         "computation_definitions":"Definitions",
         "computation_units":"Unit of measurement",
+        "test_meta":"The testing metadata",
         "goal_meta_link":"Link to UN metadata",
         "indicator":"Indicator number",
         "indicator_definition":"Global indicator description",
@@ -3949,11 +3949,11 @@
         "reporting_status":"Reporting Status"
     },
     "metadata_fields":{
-        "test_meta":"The testing metadata",
         "comments_limitations":"Other information",
         "computation_calculations":"Calculations",
         "computation_definitions":"Definitions",
         "computation_units":"Unit of measurement",
+        "test_meta":"The testing metadata",
         "goal_meta_link":"Link to UN metadata",
         "indicator":"Indicator number",
         "indicator_definition":"Global indicator description",

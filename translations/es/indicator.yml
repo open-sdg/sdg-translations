@@ -6,8 +6,8 @@ dataset_size_warning: Hay demasiados conjuntos de datos para mostrar en el gráf
 download_chart: Descargar CSV de gráfico
 download_csv: Descargar CSV
 download_csv_title: Descargar como CSV
-download_headline: Descargar CSV de titular
-download_headline_title: Descargar los datos del titular como CSV
+download_headline: Descargar CSV global
+download_headline_title: Descargar datos globales como CSV
 download_source: Descargar CSV fuente
 download_source_title: Descargar los datos fuente como CSV
 download_table: Descargar la tabla CSV

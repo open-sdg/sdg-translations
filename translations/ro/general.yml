@@ -2,11 +2,11 @@ indicator: Indicator
 indicators: Indicatori
 goal: Obiectiv
 goals: Obiective
-sdg: Obiective de dezvoltare durabilă
-home: Acasa
+sdg: Obiective de Dezvoltare Durabilă
+home: Acasă
 loading: Se încarcă rezultatele căutării
-opens_new_window: deschide in fereastră nouă
-target: Tintă
-targets: Tinte
+opens_new_window: Fereastră nouă
+target: Țintă
+targets: Ținte
 prev_goal: Obiectivul precedent
-next_goal: Urmatorul obiectivul 
+next_goal: Următorul obiectiv

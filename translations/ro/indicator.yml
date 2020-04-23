@@ -1,46 +1,46 @@
-select_all: Select all
-clear_all: Clear all
-clear_selections: Clear selections
-variable_hint: Available when '%field' is selected
-no_data_hint: No options available because of filters above
-download_headline: Download Headline CSV
-download_headline_title: Download headline data as CSV
-download_source: Download Source CSV
-download_source_title: Download source data as CSV
-download_chart: Download Chart CSV
-download_table: Download Table CSV
-download_csv: Download CSV
-download_csv_title: Download as CSV
-source: Source
-sources: Sources
-geographical_area: Geographical Area
-unit_of_measurement: Unit of Measurement
-footnote: Footnote
-units_type: Units type
-dataset_size_warning: There are too many datasets to show on the chart. Not all
-  will be shown until you remove some selections.
-view_indicator_list: View this goal's indicator list
-sub_categories: Sub-categories
-series_help: Choose categories from the dropdowns below to see different
-  breakdowns of the data. Some will not be available until a higher level is
-  chosen.
-legend_help: Click on the legend to remove individual lines from the chart.
-chart: Chart
-table: Table
-map: Map
-loading_map: Loading map
-national_metadata: National Metadata
-national_metadata_blurb: This table provides metadata for the actual indicator
-  available from %country_name statistics closest to the corresponding
-  global SDG indicator. Please note that even when the global SDG indicator is
-  fully available from %country_adjective statistics, this table
-  should be consulted for information on national methodology and other
-  %country_adjective-specific metadata information.
-global_metadata: Global Metadata
-global_metadata_blurb: This table provides information on metadata for SDG
-  indicators as defined by the UN Statistical Commission.
+select_all: Selectare tot
+clear_all: Ștergere tot
+clear_selections: Ștergere selecții
+variable_hint: Disponibil când '%field' este selectat
+no_data_hint: Nu există opțiuni disponibile din cauza filtrelor de mai sus
+download_headline: Descărcați Headline CSV
+download_headline_title: Descărcați datele headline ca CSV
+download_source: Descărcați sursa CSV
+download_source_title: Descărcați datele sursă ca CSV
+download_chart: Descarcă Graficul CSV
+download_table: Descărcați tabelul CSV
+download_csv: Descărcați CSV
+download_csv_title: Descărcați ca CSV
+source: Sursă
+sources: Surse
+geographical_area: Aria geografică
+unit_of_measurement: Unitatea de măsură
+footnote: Note
+units_type: Tipuri de unități
+dataset_size_warning: Există prea multe seturi de date pentru afișare în grafic. Nu toate
+  vor fi afișate până când nu eliminați unele selecții.
+view_indicator_list: Vizualizați lista indicatorilor acestui obiectiv
+sub_categories: Sub-categorii
+series_help: Alegeți categoriile din listele de mai jos pentru a vedea diferite
+  dezagregări ale datelor. Unele nu vor fi disponibile dacă un nivel superior nu 
+  va fi ales.
+legend_help: Faceți clic pe legendă pentru a șterge liniile individuale din grafic.
+chart: Grafic
+table: Tabel
+map: Hartă
+loading_map: Se încarcă harta
+national_metadata: Metadate naționale
+national_metadata_blurb: Acest tabel furnizează metadate pentru indicatorul actual
+  disponibil din %country_name statisticile cele mai apropiate de indicatorul
+  global ODD corespunzător. Vă rugăm să rețineți că, chiar și atunci când indicatorul global ODD este
+  complet disponibil %country_adjective, acest tabel 
+  trebuie consultat pentru informații despre metodologia națională și alte 
+  %country_adjective- metadate specifice.
+global_metadata: Metadate globale
+global_metadata_blurb: Acest tabel oferă informații despre metadatele pentru indicatorii ODD,
+  astfel cum sunt definiți de Comisia de statistică a ONU.
   <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
-  is provided by the UN Statistics Division.
-edit: Edit
-edit_data: Edit Data
-edit_metadata: Edit Metadata
+  este furnizat de Direcția de Statistică a ONU.
+edit: Editare
+edit_data: Editare date
+edit_metadata: Editare metadate

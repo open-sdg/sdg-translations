@@ -93,11 +93,11 @@ indicator:clear_all,Clear all,Limpiar todo
 indicator:clear_selections,Clear selections,Borrar selecciones
 indicator:variable_hint,Available when '%field' is selected,Disponible cuando se selecciona '%field'
 indicator:no_data_hint,No options available because of filters above,No hay opciones disponibles debido a los filtros anteriores
-indicator:download_headline,Download Headline CSV,Descargar Headline CSV
-indicator:download_headline_title,Download headline data as CSV,Descargar los datos del titular como CSV
-indicator:download_source,Download Source CSV,Descargar Source CSV
+indicator:download_headline,Download Headline CSV,Descargar CSV global
+indicator:download_headline_title,Download headline data as CSV,Descargar datos globales como CSV
+indicator:download_source,Download Source CSV,Descargar CSV fuente
 indicator:download_source_title,Download source data as CSV,Descargar los datos fuente como CSV
-indicator:download_chart,Download Chart CSV,Descargar Chart CSV
+indicator:download_chart,Download Chart CSV,Descargar CSV de gráfico
 indicator:download_table,Download Table CSV,Descargar la tabla CSV
 indicator:download_csv,Download CSV,Descargar CSV
 indicator:download_csv_title,Download as CSV,Descargar como CSV
@@ -117,7 +117,7 @@ indicator:sub_categories,Sub-categories,Subcategorías
 indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,Elija categorías de las listas desplegables a continuación para ver diferentes desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel superior.
 indicator:legend_help,Click on the legend to remove individual lines from the chart.,Haga clic en la leyenda para eliminar líneas individuales del gráfico.
 indicator:chart,Chart,Gráfico
-indicator:table,Table,Mesa
+indicator:table,Table,Tabla
 indicator:map,Map,Mapa
 indicator:loading_map,Loading map,Cargando mapa
 indicator:national_metadata,National Metadata,Metadatos nacionales

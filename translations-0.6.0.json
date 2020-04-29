@@ -2028,100 +2028,100 @@
 "ro":{
 
     "frontpage":{
-        "heading":"%name data for Sustainable Development Goal indicators",
-        "instructions":"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators."
+        "heading":"%name date pentru indicatorii Obiectivului de Dezvoltare Durabilă",
+        "instructions":"Faceți click pe fiecare obiectiv, sau %before_link căutare, %after_link pentru %name indicatori statistici globali pentru Obiectivul de Dezvoltare Durabilă"
     },
     "general":{
         "goal":"Obiectiv",
         "goals":"Obiective",
-        "home":"Acasa",
+        "home":"Acasă",
         "indicator":"Indicator",
         "indicators":"Indicatori",
         "loading":"Se încarcă rezultatele căutării",
-        "opens_new_window":"deschide într-o fereastră nouă",
+        "opens_new_window":"Fereastră nouă",
         "sdg":"Obiective de Dezvoltare Durabilă",
         "target":"Țintă",
         "targets":"Ținte",
         "prev_goal": "Obiectivul precedent",
         "prev_indicator":	"Indicatorul precedent",
-        "next_goal": "Următorul Obiectiv",
+        "next_goal": "Următorul obiectiv",
         "next_indicator":	"Următorul indicator",
         "target_link_dns": "Indicatori naționali la",
         "target_link_sdg": "Indicatori globali la"
     },
     "global_goals":{
         "1":{
-            "short":"Fară sărăcie",
-            "title":"Pune capăt sărăciei în toate formele sale peste tot"
+            "short":"Fără sărăcie",
+            "title":"Eradicarea sărăciei în toate formele sale şi în orice context"
         },
         "10":{
-            "short":"Reducerea inegalităților",
-            "title":"Reducerea inegalității în interiorul și între țări"
+            "short":"Inegalități reduse",
+            "title":"Reducerea inegalităţilor în interiorul ţărilor şi de la o ţară la alta"
         },
         "11":{
-            "short":"Sustainable cities & communities",
-            "title":"Make cities and human settlements inclusive, safe, resilient and sustainable"
+            "short":"Orașe și comunități durabile",
+            "title":"Dezvoltarea oraşelor şi a aşezărilor umane pentru ca ele să fie deschise tuturor, sigure, reziliențe şi durabile"
         },
         "12":{
-            "short":"Responsible consumption and production",
-            "title":"Ensure sustainable consumption and production patterns"
+            "short":"Consum și producție responsabile",
+            "title":"Asigurarea unor tipare de consum şi producţie durabile"
         },
         "13":{
-            "short":"Climate action",
-            "title":"Take urgent action to combat climate change and its impacts"
+            "short":"Acţiune asupra climei",
+            "title":"Luarea unor măsuri urgente de combatere a schimbărilor climatice şi a impactului lor"
         },
         "14":{
-            "short":"Life below water",
-            "title":"Conserve and sustainably use the oceans, seas and marine resources for sustainable development"
+            "short":"Viața sub apă",
+            "title":"Conservarea şi utilizarea durabilă a oceanelor, mărilor şi a resurselor marine pentru o dezvoltare durabilă"
         },
         "15":{
-            "short":"Life on land",
-            "title":"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss"
+            "short":"Viața pe pământ",
+            "title":"Protejarea, restaurarea şi promovarea utilizării durabile a ecosistemelor terestre, gestionarea durabilă a pădurilor, combaterea deșertificării, stoparea şi repararea degradării solului și stoparea pierderilor de biodiversitate"
         },
         "16":{
-            "short":"Peace and justice - strong institutions",
-            "title":"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels"
+            "short":"Pace, justiție și instituții puternice",
+            "title":"Promovarea unor societăți pașnice și incluzive pentru o dezvoltare durabilă, a accesului la justiție pentru toţi şi crearea unor instituţii eficiente, responsabile şi incluzive la toate nivelurile"
         },
         "17":{
-            "short":"Partnerships for the goals",
-            "title":"Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development"
+            "short":"Parteneriate pentru obiective",
+            "title":"Consolidarea mijloacelor de implementare și revitalizarea parteneriatului global pentru dezvoltare durabilă"
         },
         "2":{
-            "short":"Zero hunger",
-            "title":"End hunger, achieve food security and improved nutrition and promote sustainable agriculture"
+            "short":"Zero foame",
+            "title":"Eradicarea foametei, asigurarea securităţii alimentare, îmbunătăţirea nutriţiei şi promovarea unei agriculturi durabile"
         },
         "3":{
-            "short":"Good health and well-being",
-            "title":"Ensure healthy lives and promote well-being for all at all ages"
+            "short":"Sănătate și stare de bine",
+            "title":"Asigurarea unei vieţi sănătoase şi promovarea bunăstării tuturor la orice vârstă"
         },
         "4":{
-            "short":"Quality education",
-            "title":"Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all"
+            "short":"Educație de calitate",
+            "title":"Garantarea unei educaţii de calitate şi promovarea oportunităţilor de învăţare de-a lungul vieţii pentru toţi"
         },
         "5":{
-            "short":"Gender equality",
-            "title":"Achieve gender equality and empower all women and girls"
+            "short":"Egalitate de gen",
+            "title":"Realizarea egalităţii de gen şi împuternicirea tuturor femeilor şi a fetelor"
         },
         "6":{
-            "short":"Clean water and sanitation",
-            "title":"Ensure availability and sustainable management of water and sanitation for all"
+            "short":"Apă curată și igienă",
+            "title":"Asigurarea disponibilităţii şi managementului durabil al apei şi sanitaţie pentru toţi"
         },
         "7":{
-            "short":"Affordable and clean energy",
-            "title":"Ensure access to affordable, reliable, sustainable and modern energy for all"
+            "short":"Energie accesibilă și curată",
+            "title":"Asigurarea accesului tuturor la energie la preţuri accesibile, într-un mod sigur, durabil şi modern"
         },
         "8":{
-            "short":"Decent jobs and economic growth",
-            "title":"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all"
+            "short":"Muncă decentă și creștere economică",
+            "title":"Promovarea unei creşteri economice susţinute, deschise tuturor şi durabile, a ocupării depline şi productive a forţei de muncă şi a unei munci decente pentru toţi"
         },
         "9":{
-            "short":"Industry, innovation and infrastructure",
-            "title":"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"
+            "short":"Industrie, inovație și infrastructură",
+            "title":"Construirea unor infrastructuri rezistente, promovarea industrializării durabile şi încurajarea inovaţiei"
         }
     },
     "global_indicators":{
         "1.1.1":{
-            "title":"Proporția populației sub pragul sărăciei internaționale, în funcție de sex, vârstă, statut de angajare și locație geografică (urban / rural)"
+            "title":"Ponderea populației aflate sub pragul internațional al sărăciei, pe sexe, grupe de vârstă, statut ocupațional și mediu de reședință (urban/rural)"
         },
         "1.1.1a":{
             "custodian_agency":"World Bank (WB)",
@@ -2135,14 +2135,14 @@
         },
         "1.2.1":{
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf",
-            "title":"Proportion of population living below the national poverty line, by sex and age"
+            "title":"Rata sărăciei absolute, pe sexe și vârste"
         },
         "1.2.2":{
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf",
-            "title":"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+            "title":"Indicele sărăciei multidimensionale, pe sexe şi copii "
         },
         "1.3.1":{
-            "title":"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+            "title":"Ponderea populației care beneficiază de sistemul de protecție socială, pe sexe,  copii, șomeri, persoane în vârstă, persoane cu dizabilități, femei însărcinate, nou-născuți, victime ale accidentelor de muncă, săracii și persoanele vulnerabile"
         },
         "1.3.1a":{
             "custodian_agency":"International Labour Organization (ILO)",
@@ -2154,21 +2154,21 @@
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-03-01b.pdf"
         },
         "1.4.1":{
-            "title":"Proportion of population living in households with access to basic services"
+            "title":"Ponderea populației care locuiește în gospodării casnice cu acces la servicii de bază"
         },
         "1.4.2":{
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-02.pdf",
-            "title":"Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+            "title":"Ponderea populației adulte cu drepturi sigure, legal recunoscute, de proprietate asupra terenurilor, care își percepe drepturile sale asupra pământului ca fiind sigure, pe sexe și tipul drepturilor"
         },
         "1.5.1":{
-            "custodian_agency":"United Nations Office for Disaster Reduction (UNISDR)",
-            "definition":"Death: The number of people who died during the disaster, or directly after, as a direct result of the hazardous event Missing: The number of people whose whereabouts is unknown since the hazardous event. It includes people who are presumed dead although there is no physical evidence. The data on number of deaths and number of missing are mutually exclusive. Affected: People who are affected, either directly or indirectly, by a hazardous event. Directly affected: People who have suffered injury, illness or other health effects; who were evacuated, displaced, relocated or have suffered direct damage to their livelihoods, economic, physical, social, cultural and environmental assets. Indirectly affected: People who have suffered consequences, other than or in addition to direct effects, over time due to disruption or changes in economy, critical infrastructures, basic services, commerce, work or social, health and psychological consequences. * In this indicator, given the difficulties in assessing the full range of all affected (directly and indirectly), number of affected. This indicator, while not perfect, comes from data widely available and could be used consistently across countries and over time to measure the achievement of the Target B of the Sendai Framework. [a] An open-ended intergovernmental expert working group on indicators and terminology relating to disaster risk reduction established by the General Assembly (resolution 69/284) is developing a set of indicators to measure global progress in the implementation of the Sendai Framework. These indicators will eventually reflect the agreements on the Sendai Framework indicators.",
+            "custodian_agency":"Biroul Organizației Națiunilor Unite pentru reducerea riscurilor de dezastre (UNISDR)",
+            "definition":"Moarte: numărul de persoane care au murit în timpul dezastrului sau direct after, as a direct result of the hazardous event  Missing: Numărul persoanelor al cărui loc nu este cunoscut de la evenimentul periculos. Include persoanele    care sunt prezumți morți, deși nu există dovezi fizice. Datele referitoare la numărul de deaths and number of missing are mutually exclusive.  Affected: Persoanele care sunt affected, either directly or indirectly, by a hazardous event.  Directly affected: Persoanele care au suferit răni, boli sau alte efecte asupra sănătății; care au fost evacuati, strămutați, relocați sau au suferit daune directe asupra mijloacelor lor de trai, economice, physical, social, cultural and environmental assets.   Indirectly affected: Persoanele care au suferit consecințe, altele sau pe lângă efectele directe, peste timp datorită perturbării sau schimbărilor în economie, infrastructurii critice, servicii  de bază, comerț, muncă sau consecințe sociale, de sănătate și psihologice.* În acest indicator, având în vedere dificultățile de evaluare a gamei complete a tuturor celor afectați (direct și indirect), numărul celor afectați. Acest indicator, deși nu este perfect, provine de la informații disponibile pe scară largă și ar putea fi utilizate în mod constant în toate țările și de-a lungul timpului pentru a măsura realizarea țintei B din cadrul Sendai.  [a] Un grup de lucru cu experți interguvernamentali pentru indicatori și terminologie referitor la reducerea riscului de dezastru stabilit de Adunarea Generală (rezoluție 69/284) dezvoltă un set de indicatori pentru a măsura progresul global în implementare din Cadrul Sendai. Acești indicatori vor reflecta acordurile pe indicatorii Cadrului Sendai.",
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf",
-            "title":"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+            "title":"Număr de persoane decedate, dispărute și persoane direct afectate în urma situațiilor excepționale, la 100.000 de locuitori"
         },
         "1.5.2":{
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf",
-            "title":"Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+            "title":"Valoarea pierderilor economice directe în urma situațiilor excepționale raportate la PIB"
         },
         "1.5.3":{
             "custodian_agency":"United Nations Office for Disaster Reduction (UNISDR)",

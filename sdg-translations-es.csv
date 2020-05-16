@@ -1,4 +1,12 @@
 ﻿key,en,es
+status:reporting_status,Reporting Status,Estado de informes
+status:overall_reporting_status,Overall Reporting Status,Estado general de informes
+status:reported_online,Reported online,Reportado en línea
+status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
+status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
+status:not_applicable,Not applicable,No aplicable
+status:status_by_goal,Status by goal,Estados por objetivos
+status:status_by_field,Status by %field,Estado por %field
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Haga clic en cada objetivo, o %before_link busque, %after_link para las estadísticas %name para Objetivo de desarrollo sostenible global indicadores."
 frontpage:heading,%name data for Sustainable Development Goal indicators,Datos %name para los indicadores de los Objetivos de Desarrollo Sostenible
 frontpage:download_all,Download all data,Descargar todos los datos
@@ -88,6 +96,21 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Comentarios y limitaciones
 metadata_fields:rational_interpretation,Rational and interpretation,Racionalidad e interpretación
 metadata_fields:copyright,Copyright,Derechos de autor
+general:indicator,Indicator,Indicador
+general:indicators,Indicators,Indicadores
+general:goal,Goal,Meta
+general:goals,Goals,Metas
+general:sdg,Sustainable Development Goals,Objetivos de Desarrollo Sostenible
+general:home,Home,Inicio
+general:loading,Loading search results,Cargando resultados de búsqueda
+general:opens_new_window,opens in a new window,Se abre en una nueva ventana
+general:target,Target,Objetivo
+general:targets,Targets,Objetivos
+general:twitter,Twitter,Twitter
+general:facebook,Facebook,Facebook
+general:built_using_open_sdg,Built using Open SDG,Construido usando Open SDG
+general:page,Page,página web
+general:pages,Pages,páginas web
 indicator:select_all,Select all,Seleccionar todo
 indicator:clear_all,Clear all,Limpiar todo
 indicator:clear_selections,Clear selections,Borrar selecciones
@@ -111,6 +134,7 @@ indicator:geographical_area,Geographical Area,Área geográfica
 indicator:unit_of_measurement,Unit of Measurement,Unidad de medida
 indicator:footnote,Footnote,Nota
 indicator:units_type,Units type,Tipo de unidades
+indicator:series,Series,Serie
 indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Hay demasiados conjuntos de datos para mostrar en el gráfico. No todo se mostrará hasta que elimine algunas selecciones.
 indicator:view_indicator_list,View this goal's indicator list,Ver la lista de indicadores de este objetivo
 indicator:sub_categories,Sub-categories,Subcategorías
@@ -127,14 +151,6 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,Editar
 indicator:edit_data,Edit Data,Editar datos
 indicator:edit_metadata,Edit Metadata,Editar metadatos
-header:skip_link,Skip to main content,Saltar al contenido principal
-header:alpha,Alpha,Alfa
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Este es un sitio web de desarrollo. Agradecemos sus comentarios.
-header:tag_line,17 Goals to Transform our World,17 Metas para transformar nuestro mundo
-header:high_contrast,High contrast,alto contraste
-header:default_contrast,Default contrast,estándar contraste
-header:enable_high_contrast,Enable high contrast,Habilitar alto contraste
-header:disable_high_contrast,Disable high contrast,Desactivar alto contraste
 calendar:January,January,enero
 calendar:February,February,febrero
 calendar:March,March,marzo
@@ -156,23 +172,14 @@ search:found_in,found in,encontrado en
 search:keywords,Keywords,Palabras clave
 search:no_results,No results,No hay resultados
 search:did_you_mean,did you mean,querías decir
-status:reporting_status,Reporting Status,Estado de informes
-status:overall_reporting_status,Overall Reporting Status,Estado general de informes
-status:reported_online,Reported online,Reportado en línea
-status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
-status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
-status:not_applicable,Not applicable,No aplicable
-status:status_by_goal,Status by goal,Estados por objetivos
-status:status_by_field,Status by %field,Estado por %field
-menu:menu,Menu,Menú
-menu:reporting_status,Reporting Status,Estado de informes
-menu:about,About,Acerca de
-menu:publications,Publications,Publicaciones
-menu:guidance,Guidance,Dirección
-menu:faq,FAQ,FAQ
-menu:contact_us,Contact us,Contáctenos
-menu:cookies,Cookies,Galletas
-menu:updates,Updates,
+header:skip_link,Skip to main content,Saltar al contenido principal
+header:alpha,Alpha,Alfa
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Este es un sitio web de desarrollo. Agradecemos sus comentarios.
+header:tag_line,17 Goals to Transform our World,17 Metas para transformar nuestro mundo
+header:high_contrast,High contrast,alto contraste
+header:default_contrast,Default contrast,estándar contraste
+header:enable_high_contrast,Enable high contrast,Habilitar alto contraste
+header:disable_high_contrast,Disable high contrast,Desactivar alto contraste
 global_goals:1-short,No poverty,Fin de la Pobreza
 global_goals:10-short,Reduced inequalities,Reducción de las Desigualdades
 global_goals:11-short,Sustainable cities & communities,Cuidades y Comunidades Sostenibles
@@ -190,18 +197,12 @@ global_goals:6-short,Clean water and sanitation,Agua Limpia y Saneamiento
 global_goals:7-short,Affordable and clean energy,Energía Asequible y No Contaminante
 global_goals:8-short,Decent jobs and economic growth,Trabajo Decente y Crecimiento Económico
 global_goals:9-short,"Industry, innovation and infrastructure","Industria, Innovación e Infraestructura"
-general:indicator,Indicator,Indicador
-general:indicators,Indicators,Indicadores
-general:goal,Goal,Meta
-general:goals,Goals,Metas
-general:sdg,Sustainable Development Goals,Objetivos de Desarrollo Sostenible
-general:home,Home,Inicio
-general:loading,Loading search results,Cargando resultados de búsqueda
-general:opens_new_window,opens in a new window,Se abre en una nueva ventana
-general:target,Target,Objetivo
-general:targets,Targets,Objetivos
-general:twitter,Twitter,Twitter
-general:facebook,Facebook,Facebook
-general:built_using_open_sdg,Built using Open SDG,Construido usando Open SDG
-general:page,Page,página web
-general:pages,Pages,páginas web
+menu:menu,Menu,Menú
+menu:reporting_status,Reporting Status,Estado de informes
+menu:about,About,Acerca de
+menu:publications,Publications,Publicaciones
+menu:guidance,Guidance,Dirección
+menu:faq,FAQ,FAQ
+menu:contact_us,Contact us,Contáctenos
+menu:cookies,Cookies,Galletas
+menu:updates,Updates,

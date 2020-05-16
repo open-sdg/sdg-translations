@@ -1,4 +1,12 @@
 ﻿key,en,fr
+status:reporting_status,Reporting Status,Statut de rapport
+status:overall_reporting_status,Overall Reporting Status,Statut général de rapport
+status:reported_online,Reported online,Signalé en ligne
+status:statistics_in_progress,Statistics in progress,Statistiques en cours
+status:exploring_data_sources,Exploring data sources,Explorer les sources de données
+status:not_applicable,Not applicable,Non applicable
+status:status_by_goal,Status by goal,Statut par but
+status:status_by_field,Status by %field,Statut par %field
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
 frontpage:heading,%name data for Sustainable Development Goal indicators,Données %name pour les indicateurs des objectifs de développement durable
 frontpage:download_all,Download all data,Téléchargez toutes les données
@@ -88,6 +96,21 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Commentaires et limitations
 metadata_fields:rational_interpretation,Rational and interpretation,Rationnel et interprétation
 metadata_fields:copyright,Copyright,Droits d'auteur
+general:indicator,Indicator,Indicateur
+general:indicators,Indicators,Indicateurs
+general:goal,Goal,Objectif
+general:goals,Goals,Buts
+general:sdg,Sustainable Development Goals,Objectifs de développement durable
+general:home,Home,Accueil
+general:loading,Loading search results,Chargement des résultats de recherche
+general:opens_new_window,opens in a new window,Ouvre dans une nouvelle fenêtre
+general:target,Target,Cible
+general:targets,Targets,Les cibles
+general:twitter,Twitter,Twitter
+general:facebook,Facebook,Facebook
+general:built_using_open_sdg,Built using Open SDG,Construit en utilisant Open SDG
+general:page,Page,page Web
+general:pages,Pages,les pages Web
 indicator:select_all,Select all,Tout sélectionner
 indicator:clear_all,Clear all,Tout effacer
 indicator:clear_selections,Clear selections,Effacer les sélections
@@ -111,6 +134,7 @@ indicator:geographical_area,Geographical Area,Zone géographique
 indicator:unit_of_measurement,Unit of Measurement,Unité de mesure
 indicator:footnote,Footnote,note de bas de page
 indicator:units_type,Units type,Type d&#39;unités
+indicator:series,Series,Séries
 indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Il y a trop de jeux de données à afficher sur le graphique. Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
 indicator:view_indicator_list,View this goal's indicator list,Voir la liste des indicateurs de cet objectif
 indicator:sub_categories,Sub-categories,Sous-catégories
@@ -127,14 +151,6 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,modifier
 indicator:edit_data,Edit Data,Modifier les données
 indicator:edit_metadata,Edit Metadata,Modifier les métadonnées
-header:skip_link,Skip to main content,Passer au contenu principal
-header:alpha,Alpha,Alpha
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Ceci est un site de développement. Nous apprécions vos commentaires.
-header:tag_line,17 Goals to Transform our World,17 objectifs pour transformer notre monde
-header:high_contrast,High contrast,contraste élevé
-header:default_contrast,Default contrast,contraste standard
-header:enable_high_contrast,Enable high contrast,Activer le contraste élevé
-header:disable_high_contrast,Disable high contrast,Désactiver le contraste élevé
 calendar:January,January,janvier
 calendar:February,February,février
 calendar:March,March,Mars
@@ -156,23 +172,14 @@ search:found_in,found in,trouvé dans
 search:keywords,Keywords,Mots clés
 search:no_results,No results,Aucun résultat
 search:did_you_mean,did you mean,vouliez-vous dire
-status:reporting_status,Reporting Status,Statut de rapport
-status:overall_reporting_status,Overall Reporting Status,Statut général de rapport
-status:reported_online,Reported online,Signalé en ligne
-status:statistics_in_progress,Statistics in progress,Statistiques en cours
-status:exploring_data_sources,Exploring data sources,Explorer les sources de données
-status:not_applicable,Not applicable,Non applicable
-status:status_by_goal,Status by goal,Statut par but
-status:status_by_field,Status by %field,Statut par %field
-menu:menu,Menu,Menu
-menu:reporting_status,Reporting Status,Statut de rapport
-menu:about,About,Sur
-menu:publications,Publications,Publications
-menu:guidance,Guidance,Orientation
-menu:faq,FAQ,FAQ
-menu:contact_us,Contact us,Contactez nous
-menu:cookies,Cookies,Biscuits
-menu:updates,Updates,
+header:skip_link,Skip to main content,Passer au contenu principal
+header:alpha,Alpha,Alpha
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Ceci est un site de développement. Nous apprécions vos commentaires.
+header:tag_line,17 Goals to Transform our World,17 objectifs pour transformer notre monde
+header:high_contrast,High contrast,contraste élevé
+header:default_contrast,Default contrast,contraste standard
+header:enable_high_contrast,Enable high contrast,Activer le contraste élevé
+header:disable_high_contrast,Disable high contrast,Désactiver le contraste élevé
 global_goals:1-short,No poverty,Pas de pauvreté
 global_goals:10-short,Reduced inequalities,Inégalités réduites
 global_goals:11-short,Sustainable cities & communities,Villes et communautés durables
@@ -190,18 +197,12 @@ global_goals:6-short,Clean water and sanitation,Eau propre et assainissement
 global_goals:7-short,Affordable and clean energy,Energies propres et d'un coût abordable
 global_goals:8-short,Decent jobs and economic growth,Travaux décent et croissance économique
 global_goals:9-short,"Industry, innovation and infrastructure","Industrie, innovation et infrastructure"
-general:indicator,Indicator,Indicateur
-general:indicators,Indicators,Indicateurs
-general:goal,Goal,Objectif
-general:goals,Goals,Buts
-general:sdg,Sustainable Development Goals,Objectifs de développement durable
-general:home,Home,Accueil
-general:loading,Loading search results,Chargement des résultats de recherche
-general:opens_new_window,opens in a new window,Ouvre dans une nouvelle fenêtre
-general:target,Target,Cible
-general:targets,Targets,Les cibles
-general:twitter,Twitter,Twitter
-general:facebook,Facebook,Facebook
-general:built_using_open_sdg,Built using Open SDG,Construit en utilisant Open SDG
-general:page,Page,page Web
-general:pages,Pages,les pages Web
+menu:menu,Menu,Menu
+menu:reporting_status,Reporting Status,Statut de rapport
+menu:about,About,Sur
+menu:publications,Publications,Publications
+menu:guidance,Guidance,Orientation
+menu:faq,FAQ,FAQ
+menu:contact_us,Contact us,Contactez nous
+menu:cookies,Cookies,Biscuits
+menu:updates,Updates,

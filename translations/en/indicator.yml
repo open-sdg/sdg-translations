@@ -27,6 +27,8 @@ unit_of_measurement: Unit of Measurement
 footnote: Footnote
 # The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
 units_type: Units type
+# The label of a widget that allows the user to change the series that is being represented in a data visualization
+series: Series
 dataset_size_warning: There are too many datasets to show on the chart. Not all
   will be shown until you remove some selections.
 view_indicator_list: View this goal's indicator list

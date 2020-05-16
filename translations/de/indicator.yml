@@ -37,6 +37,7 @@ national_metadata_blurb: Im Folgenden werden Metadaten zu den national verfügba
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
   verfügbar.
 select_all: Alle auswählen
+series: Reihe
 series_help: Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien
   angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt
   wird.

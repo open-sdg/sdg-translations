@@ -37,6 +37,7 @@ national_metadata_blurb: Cette table fournit des métadonnées pour l&#39;indica
   nationale et d&#39;autres informations sur les métadonnées spécifiques à un pays_adjectif.
 no_data_hint: Aucune option disponible en raison des filtres ci-dessus
 select_all: Tout sélectionner
+series: Séries
 series_help: Choisissez des catégories dans les listes déroulantes ci-dessous pour
   voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à
   ce qu&#39;un niveau supérieur soit choisi.

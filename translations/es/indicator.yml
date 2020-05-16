@@ -38,6 +38,7 @@ national_metadata_blurb: Esta tabla proporciona metadatos para el indicador real
   información de metadatos específicos de %country_adjective.
 no_data_hint: No hay opciones disponibles debido a los filtros anteriores
 select_all: Seleccionar todo
+series: Serie
 series_help: Elija categorías de las listas desplegables a continuación para ver diferentes
   desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel
   superior.

@@ -2135,14 +2135,14 @@
         },
         "1.2.1":{
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf",
-            "title":"Rata sărăciei absolute, pe sexe și vârste"
+            "title":"Ponderea populației  aflate sub pragul național al sărăciei, pe sexe și vârste"
         },
         "1.2.2":{
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf",
-            "title":"Indicele sărăciei multidimensionale, pe sexe şi copii "
+            "title":"Ponderea bărbaților, femeilor și copiilor de toate vârstele care trăiesc în sărăcie, în toate dimensiunile acesteia, conform definițiilor naționale"
         },
         "1.3.1":{
-            "title":"Ponderea populației care beneficiază de sistemul de protecție socială, pe sexe,  copii, șomeri, persoane în vârstă, persoane cu dizabilități, femei însărcinate, nou-născuți, victime ale accidentelor de muncă, săracii și persoanele vulnerabile"
+            "title":"Ponderea populației care beneficiază de sistemul de protecție socială, pe sexe, copii, șomeri, persoane în vârstă, persoane cu dizabilități, femei însărcinate, nou-născuți, victime ale accidentelor de muncă, săracii și persoanele vulnerabile"
         },
         "1.3.1a":{
             "custodian_agency":"International Labour Organization (ILO)",
@@ -2158,93 +2158,93 @@
         },
         "1.4.2":{
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-02.pdf",
-            "title":"Ponderea populației adulte cu drepturi sigure, legal recunoscute, de proprietate asupra terenurilor, care își percepe drepturile sale asupra pământului ca fiind sigure, pe sexe și tipul drepturilor"
+            "title":"Ponderea populației adulte cu drepturi garantate de proprietate asupra terenurilor, cu documente (a) legal recunoscute și (b) care își percepe drepturile sale asupra pământului ca fiind sigure, pe sexe și tipul de proprietate funciară"
         },
         "1.5.1":{
             "custodian_agency":"Biroul Organizației Națiunilor Unite pentru reducerea riscurilor de dezastre (UNISDR)",
-            "definition":"Moarte: numărul de persoane care au murit în timpul dezastrului sau direct after, as a direct result of the hazardous event  Missing: Numărul persoanelor al cărui loc nu este cunoscut de la evenimentul periculos. Include persoanele    care sunt prezumți morți, deși nu există dovezi fizice. Datele referitoare la numărul de deaths and number of missing are mutually exclusive.  Affected: Persoanele care sunt affected, either directly or indirectly, by a hazardous event.  Directly affected: Persoanele care au suferit răni, boli sau alte efecte asupra sănătății; care au fost evacuati, strămutați, relocați sau au suferit daune directe asupra mijloacelor lor de trai, economice, physical, social, cultural and environmental assets.   Indirectly affected: Persoanele care au suferit consecințe, altele sau pe lângă efectele directe, peste timp datorită perturbării sau schimbărilor în economie, infrastructurii critice, servicii  de bază, comerț, muncă sau consecințe sociale, de sănătate și psihologice.* În acest indicator, având în vedere dificultățile de evaluare a gamei complete a tuturor celor afectați (direct și indirect), numărul celor afectați. Acest indicator, deși nu este perfect, provine de la informații disponibile pe scară largă și ar putea fi utilizate în mod constant în toate țările și de-a lungul timpului pentru a măsura realizarea țintei B din cadrul Sendai.  [a] Un grup de lucru cu experți interguvernamentali pentru indicatori și terminologie referitor la reducerea riscului de dezastru stabilit de Adunarea Generală (rezoluție 69/284) dezvoltă un set de indicatori pentru a măsura progresul global în implementare din Cadrul Sendai. Acești indicatori vor reflecta acordurile pe indicatorii Cadrului Sendai.",
+            "definition":"Moarte: numărul de persoane care au murit în timpul dezastrului sau direct after, as a direct result of the hazardous event  Missing: Numărul persoanelor al cărui loc nu este cunoscut de la evenimentul periculos. Include persoanele care sunt prezumți morți, deși nu există dovezi fizice. Datele referitoare la numărul de deaths and number of missing are mutually exclusive.  Affected: Persoanele care sunt affected, either directly or indirectly, by a hazardous event.  Directly affected: Persoanele care au suferit răni, boli sau alte efecte asupra sănătății; care au fost evacuati, strămutați, relocați sau au suferit daune directe asupra mijloacelor lor de trai, economice, physical, social, cultural and environmental assets.   Indirectly affected: Persoanele care au suferit consecințe, altele sau pe lângă efectele directe, peste timp datorită perturbării sau schimbărilor în economie, infrastructurii critice, servicii de bază, comerț, muncă sau consecințe sociale, de sănătate și psihologice.* În acest indicator, având în vedere dificultățile de evaluare a gamei complete a tuturor celor afectați (direct și indirect), numărul celor afectați. Acest indicator, deși nu este perfect, provine de la informații disponibile pe scară largă și ar putea fi utilizate în mod constant în toate țările și de-a lungul timpului pentru a măsura realizarea țintei B din cadrul Sendai.  [a] Un grup de lucru cu experți interguvernamentali pentru indicatori și terminologie referitor la reducerea riscului de dezastru stabilit de Adunarea Generală (rezoluție 69/284) dezvoltă un set de indicatori pentru a măsura progresul global în implementare din Cadrul Sendai. Acești indicatori vor reflecta acordurile pe indicatorii Cadrului Sendai.",
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-01.pdf",
-            "title":"Număr de persoane decedate, dispărute și persoane direct afectate în urma situațiilor excepționale, la 100.000 de locuitori"
+            "title":"Numărul de persoane decedate, dispărute și persoane direct afectate în urma situațiilor excepționale, la 100.000 de locuitori"
         },
         "1.5.2":{
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-02.pdf",
             "title":"Valoarea pierderilor economice directe în urma situațiilor excepționale raportate la PIB"
         },
         "1.5.3":{
-            "custodian_agency":"United Nations Office for Disaster Reduction (UNISDR)",
-            "definition":"NA [a] An open-ended intergovernmental expert working group on indicators and terminology relating to disaster risk reduction established by the General Assembly (resolution 69/284) is developing a set of indicators to measure global progress in the implementation of the Sendai Framework. These indicators will eventually reflect the agreements on the Sendai Framework indicators.",
+            "custodian_agency":"Biroul Organizației Națiunilor Unite pentru reducerea riscurilor de dezastre (UNISDR)",
+            "definition":"NA  [a] Un grup de lucru specializat interguvernamental de experți privind indicatorii și terminologia referitoare la reducerea riscului în caz de dezastre stabilit de Adunarea Generală (rezoluția 69/284) dezvoltă un set de indicatori pentru a măsura progresul global în implementarea cadrului Sendai. Acești indicatori vor reflecta acordurile privind indicatorii Cadrului Sendai.",
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-03.pdf",
-            "title":"Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015\u20132030"
+            "title":"Număr de țări care adoptă și implementează strategii naționale de reducerea a riscurilor de dezastre, aliniat la Cadrul de la Sendai privind reducerea riscurilor de dezastre pentru 2015-2030"
         },
         "1.5.4":{
-            "custodian_agency":"United Nations Office for Disaster Reduction (UNISDR)",
-            "definition":"NA [a] An open-ended intergovernmental expert working group on indicators and terminology relating to disaster risk reduction established by the General Assembly (resolution 69/284) is developing a set of indicators to measure global progress in the implementation of the Sendai Framework. These indicators will eventually reflect the agreements on the Sendai Framework indicators.",
+            "custodian_agency":"Biroul Organizației Națiunilor Unite pentru reducerea riscurilor de dezastre (UNISDR)",
+            "definition":"NA  [a] Un grup deschis de experți interguvernamentali privind indicatorii și terminologia referitoare la reducerea riscului de dezastre instituit de Adunarea Generală (rezoluția 69/284) elaborează un set de indicatori pentru a măsura progresul global în implementarea Cadrului Sendai. Acești indicatori vor reflecta în cele din urmă acordurile privind indicatorii Cadrului Sendai.",
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-05-04.pdf",
-            "title":"Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+            "title":"Proporția autoritatilor publice locale care adoptă și implementează strategii locale de reducere a riscurilor de dezastre în conformitate cu strategiile naționale de reducere a riscurilor de dezastre"
         },
         "1.a.1":{
-            "title":"Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
+            "title":"Ponderea mijoacelor alocate din bugetul public național pentru programele de reducere a sărăciei"
         },
         "1.a.2":{
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-01-0a-02.pdf",
-            "title":"Proportion of total government spending on essential services (education, health and social protection)"
+            "title":"Ponderea cheltuielilor publice pentru servicii esențiale (educație, sănătate și protecție socială)"
         },
         "1.a.3":{
-            "title":"Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP"
+            "title":"Suma granturilor totale și intrărilor financiare care nu creează datorii, alocate programelor de reducere a sărăciei ca proporție din PIB"
         },
         "1.b.1":{
-            "title":"Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups"
+            "title":"Ponderea cheltuielilor publice recurente și capitale pentru sectoarele care induc beneficii în mod disproporțional pentru femei, săraci și grupurile vulnerabile"
         },
         "10.1.1":{
             "custodian_agency":"World Bank (WB)",
             "definition":"The growth rate in the welfare aggregate of bottom 40% is computed as the annualized average growth rate in per capita real consumption or income of the bottom 40% of the income distribution in a country from household surveys over a roughly 5-year period. The national average growth rate in the welfare aggregate is computed as the annualized average growth rate in per capita real consumption or income of the total population in a country from household surveys over a roughly 5-year period.",
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-10-01-01.pdf",
-            "title":"Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+            "title":"Ritmul de creștere a cheltuielilor de consum sau veniturilor gospodăriilor pe o persoană ale 40% din populația cel mai puțin asigurată și populației și per total țară"
         },
         "10.2.1":{
-            "title":"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+            "title":"Proporția de persoane care trăiesc sub 50% din venitul mediu, pe sexe, vârstă, persoane cu dizabilități"
         },
         "10.3.1":{
-            "title":"Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+            "title":"Ponderea populației care a comunicat că în ultimele 12 luni s-a simțit vreodată discriminată sau hărțuită în baza unui motiv interzis de dreptul internațional al drepturilor omului"
         },
         "10.4.1":{
             "custodian_agency":"International Labour Organization (ILO)",
             "definition":"Labour share of Gross Domestic Product (GDP) is the total compensation of employees given as a percent of GDP, which is a measure of total output. It provides information about the relative share of output which is paid as compensation to employees as compared with the share paid to capital in the production process for a given reference period.",
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-10-04-01.pdf",
-            "title":"Labour share of GDP, comprising wages and social protection transfers"
+            "title":"Ponderea costului forței de muncă în PIB, cuprinzând salariile și transferurile de protecție socială"
         },
         "10.5.1":{
-            "title":"Financial Soundness Indicators"
+            "title":"Indicatorii de stabilitate financiară"
         },
         "10.6.1":{
             "custodian_agency":"Financing for Development Office, DESA (FFDO)",
             "definition":"The proportion of members and voting rights of developing countries in international organizations has two components, the developing country proportion of voting rights and the developing country proportion of membership in international organisations. In some institutions these two components are identical.",
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-10-06-01.pdf",
-            "title":"Proportion of members and voting rights of developing countries in international organizations"
+            "title":"Proporția  membrilor și drepturile de vot ale țărilor în curs de dezvoltare în cadrul organizațiilor internaționale"
         },
         "10.7.1":{
-            "title":"Recruitment cost borne by employee as a proportion of yearly income earned in country of destination"
+            "title":"Ponderea costurilor de angajare la muncă peste hotare în veniturile lunare în țara de destinație"
         },
         "10.7.2":{
-            "title":"Number of countries that have implemented well-managed migration policies"
+            "title":"Numărul țărilor cu politici naționale eficiente  privind migrația, care facilitează migrația și mobilitatea reglementată, în siguranță, ordonată și responsabilă a populației"
         },
         "10.a.1":{
             "custodian_agency":"International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD), The, World Trade Organization (WTO)",
             "definition":"Proportion of total number of tariff lines (in per cent) applied to products imported from least developed countries and developing countries corresponding to a 0% tariff rate in HS chapter 01-97.",
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-10-0A-01.pdf",
-            "title":"Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
+            "title":"Proporția liniilor tarifare aplicate la „cota zero” la importurile de mărfuri din țările subdezvoltate și celor în curs de dezvoltare"
         },
         "10.b.1":{
             "custodian_agency":"Organisation for Economic Co-operation and Development (OECD)",
             "definition":"Total resource flows for development, by recipient and donor countries and type of flow comprises of Official Development Assistance (ODA), other official flows (OOF) and private flows.",
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-10-0B-01.pdf",
-            "title":"Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+            "title":"Fluxurile totale de resurse pentru dezvoltare, pe țări beneficiare și țări donatoare și tip de fluxuri (de ex. asistența oficială pentru dezvoltare, investiții străine directe și alte fluxuri)"
         },
         "10.c.1":{
             "custodian_agency":"World Bank",
             "definition":"The target includes two components. The first component is that transaction costs for migrant remittances should be 3% or less by 2030. This transaction cost should be intended as Global average total cost of sending $200 (or equivalent in local sending currency) and expressed as % of amount . This indicator is readily available and published on a quarterly basis by the World Bank in the Remittance Prices Worldwide database, which covers 365 country corridors, from 48 sending to 105 receiving countries. The second component is to eliminate corridor where cost is 5% or higher. This should be intended in the sense that it should be possible for remittance senders to send money to the beneficiary for an average cost of 5% or less of the amount sent. For this purpose, it should suffice that in each corridor there are at least 3 services, meeting a defined set of service requirements (including service quality, reach etc.), for which the average is 5% or less.",
             "metadata_link":"https://unstats.un.org/sdgs/metadata/files/Metadata-10-0c-01.pdf",
-            "title":"Remittance costs as a proportion of the amount remitted"
+            "title":"Costurile de remitere ca proporție din suma încasată"
         },
         "11.1.1":{
             "custodian_agency":"United Nations Human Settlements Programme (UN-Habitat)",

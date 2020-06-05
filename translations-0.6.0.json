@@ -3898,14 +3898,14 @@
         "tag_line":"17 Obiective pentru transformarea lumii noastre"
     },
     "indicator":{
-        "chart":"Chart",
-        "clear_all":"Clear all",
-        "clear_selections":"Clear selections",
-        "dataset_size_warning":"There are too many datasets to show on the chart. Not all will be shown until you remove some selections.",
-        "download_chart":"Download Chart CSV",
-        "download_csv":"Download CSV",
-        "download_csv_title":"Download as CSV",
-        "download_headline":"Download Headline CSV",
+        "chart":"Diagramă",
+        "clear_all":"Curață tot",
+        "clear_selections":"Ștergeți selecțiile",
+        "dataset_size_warning":"Există prea multe seturi de date pentru afișare în grafic. Nu toate vor fi afișate până când nu eliminați unele selecții.",
+        "download_chart":"Descarcă diagramă CSV",
+        "download_csv":"Descarcă CSV",
+        "download_csv_title":"Descarca ca CSV",
+        "download_headline":"Descărcați titlul CSV",
         "download_headline_title":"Download headline data as CSV",
         "download_source":"Download Source CSV",
         "download_source_title":"Download source data as CSV",
@@ -4034,12 +4034,12 @@
         "view_all_in_category":"View all posts in the %category_name category"
     },
     "search":{
-        "found_in":"found in",
-        "indicator_search":"Indicator search",
+        "found_in":"gasit in",
+        "indicator_search":"Cauta indicator",
         "keywords":"Keywords",
-        "no_results":"No results",
-        "search":"Search",
-        "search_results_for":"Search results for"
+        "no_results":"Fara rezultat",
+        "search":"Cauta",
+        "search_results_for":"Cauta rezultat pentru"
     },
     "status":{
         "exploring_data_sources":"Exploring data sources",

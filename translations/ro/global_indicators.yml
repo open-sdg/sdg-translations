@@ -3,12 +3,10 @@
      statut ocupațional și mediu de reședință (urban/rural)
 1.2.1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-01.pdf
-  title: Rata sărăciei absolute, pe sexe și vârste
-     
+  title: Rata sărăciei absolute, pe sexe și vârste     
 1.2.2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-02-02.pdf
-  title: Indicele sărăciei multidimensionale, pe sexe şi copii 
-    
+  title: Indicele sărăciei multidimensionale, pe sexe şi copii    
 1.3.1:
   title: Ponderea populației care beneficiază de sistemul de protecție socială,
     pe sexe,  copii, șomeri, persoane în vârstă, persoane cu dizabilități, femei 
@@ -97,8 +95,7 @@
   title: Ritmul de creștere a cheltuielilor de consum sau veniturilor gospodăriilor  pe o persoană ale
     40% din populația cel mai puțin asigurată și populației și per total țară
 10.2.1:
-  title: Rata sărăciei relative, sex, vârstă, persoane cu dizabilități
-    
+  title: Rata sărăciei relative, sex, vârstă, persoane cu dizabilități    
 10.3.1:
   title: Ponderea populației care a comunicat că în ultimele 12 luni s-a simțit vreodată
     discriminată sau hărțuită în baza unui motiv interzis de dreptul internațional al
@@ -144,8 +141,6 @@
     flows (OOF) and private flows.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-10-0B-01.pdf
   title: Volumul asistenței externe pentru dezvoltare de care a beneficiat țara
-    
-    
 10.c.1:
   custodian_agency: World Bank
   definition: The target includes two components. The first component is that transaction
@@ -201,10 +196,6 @@
 11.4.1:
   title: Ponderea cheltuielilor pentru conservarea și protejarea patrimoniului
     cultural și natural în total cheltuieli ale Bugetului Public Național
-    
-    
-    
-    
 11.5.1:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: 'Death: The number of people who died during the disaster, or directly
@@ -252,8 +243,7 @@
     is a population-weighted average for urban population in a country, and is expressed
     in micrograms per cubic meter [g/m3].
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-11-06-02.pdf
-  title: Concentraţia medie anuală a suspensiilor solide în urbe  (PM2.5 și PM10)
-    
+  title: Concentraţia medie anuală a suspensiilor solide în urbe  (PM2.5 și PM10)    
 11.7.1:
   custodian_agency: United Nations Human Settlements Programme (UN-Habitat)
   definition: Average share of the built-up area of cities that is open space for
@@ -444,9 +434,6 @@
   title: Numărul de țări care au comunicat acțiuni privind elaborarea și operaționalizarea de politici,
     strategii, planuri de acțiuni privind adaptarea și rezistența la schimbările climatice,
     reducerea emisiilor cu efect de sera
-    
-    
-    
 13.3.1:
   title: Număr de țări care au acțiuni privind  integrarea subiectelor vizind efectele schimbării de climă (atenuarea,
     adaptarea, reducerea impactului și avertizarea timpurie) în curricula învățământului primar, secundar și terțiar
@@ -653,8 +640,7 @@
   definition: This indicator refers to the proportion of the population (adults) who
     feel safe walking alone in their neighbourhood.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-01-04.pdf
-  title: Ponderea persoanelor care se simt în siguranță în regiunea de reședință
-    
+  title: Ponderea persoanelor care se simt în siguranță în regiunea de reședință    
 16.10.1:
   definition: 'This indicator is defined as the number of verified cases of killing,
     enforced disappearance, torture, arbitrary detention, kidnapping and other harmful
@@ -802,8 +788,6 @@
     previous 12 months
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-03-01.pdf
   title: Rata de adresabilitate a victimelor violenței
-    
-    
 16.3.2:
   definition: The total number of persons held in detention who have not yet been
     sentenced, as a percentage of the total number of persons held in detention, on
@@ -812,11 +796,8 @@
   title: Ponderea persoanelor aflate în arest preventiv în total persoane deținute în instituții penitenciare, pe sexe, vîrstă, durata arestării
 16.4.1:
   title: Valoarea fluxurilor financiare intrate și ieșite din țară ilegal ($ SUA)
-    
 16.4.2:
   title: Ponderea armelor deținute ilegal confiscate
-    
-    
 16.5.1:
   custodian_agency: United Nations Office on Drugs and Crime (UNODC)
   definition: This indicator is defined as the percentage of persons who paid at least
@@ -827,7 +808,6 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-01.pdf
   title: Ponderea persoanelor care au efectuat plăți neoficiale (mită) în ultimele
     12 luni
-    
 16.5.2:
   custodian_agency: World Bank (WB)
   definition: Proportion of firms asked for a gift or informal payment when meeting
@@ -842,7 +822,6 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-16-05-02.pdf
   title: Ponderea antreprenorilor care au efectuat plăți neoficiale (mită) în
     ultimele 12 luni
-    
 16.6.1:
   custodian_agency: World Bank (WB)
   definition: Primary government expenditures as a proportion of original approved
@@ -1083,20 +1062,15 @@
     standard established by FAO through the application of the Food Insecurity Experience
     Scale in more than 140 countries worldwide, starting in 2014.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-01-02.pdf
-  title: Prevalența insecurității alimentare moderate sau severe
-    
+  title: Prevalența insecurității alimentare moderate sau severe    
 2.2.1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-01.pdf
   title: Prevalența retardului statural printre copii în vârstă de până la 5 ani
-   
-   
 2.2.2:
   title:  Prevalența malnutriției printre copii în vârstă de până la 5 ani, pe tipuri  
     (supraponderal și retard ponderal)
-    
 2.3.1:
   title: Productivitatea muncii în agricultură
-    
 2.3.2:
   title: Venitul mediu a micilor producători agricoli, pe sexe și statut indigen
 2.4.1:
@@ -1155,8 +1129,7 @@
   definition: Gross disbursements of total ODA and other official flows from all donors
     to the agriculture sector.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-0A-02.pdf
-  title: Volumul asistenței externe oficiale pentru dezvoltarea sectorului agricol
-    
+  title: Volumul asistenței externe oficiale pentru dezvoltarea sectorului agricol    
 2.b.1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-02-0B-01.pdf
   title: Subvenții pentru exportul agricol
@@ -1288,8 +1261,6 @@
     and data are provided by IHME.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-05-02.pdf
   title: Consumul anual de alcool pe o persoană (15+ ani), litri 
-    
-    
 3.6.1:
   custodian_agency: World Health Organization (WHO)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-06-01.pdf
@@ -1318,9 +1289,6 @@
     coverage.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-08-01.pdf
   title: Acoperirea cu servicii esențiale de sănătate
-    
-    
-    
 3.8.2:
   definition: Proportion of the population with large household expenditure on health
     as a share of total household expenditure or income.   greater than 25% of total
@@ -1352,7 +1320,6 @@
     population, and multiplied by 100,000.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-09-02.pdf
   title: Rata mortalității determinate de surse nesigure de apă, sanitație și igienă
-    
 3.9.3:
   custodian_agency: World Health Organization (WHO)
   definition: The mortality rate attributed to unintentional poisoning as defined
@@ -1417,8 +1384,7 @@
     in at least three of the following four domains: literacy-numeracy, physical,
     socio-emotional and learning.'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-02-01.pdf
-  title: Indicele de dezvoltare timpurie a copilului până la 5 ani, pe sexe
-    
+  title: Indicele de dezvoltare timpurie a copilului până la 5 ani, pe sexe    
 4.2.2:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: The participation rate in organized learning (one year before the official
@@ -1445,8 +1411,7 @@
     (aged 15-24 years) and adults (aged 15 years and above) that have undertaken certain
     computer-related activities in a given time period (e.g. last three months).
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-04-01.pdf
-  title: Ponderea tinerilor și adulților cu cunoștințe TIC, după tipul acestora
-    
+  title: Ponderea tinerilor și adulților cu cunoștințe TIC, după tipul acestora    
 4.5.1:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: Parity indices require data for the specific groups of interest. They
@@ -1455,8 +1420,7 @@
     of exactly 1 indicates parity between the two groups.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-05-01.pdf
   title: Indicele parității în învătământul primar calculat în baza ratei brute de
-    cuprindere în învățământul primar
-    
+    cuprindere în învățământul primar    
 4.6.1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-06-01.pdf
   title: Ponderea populației cu un anumit nivel de competențe funcționale de scriere și
@@ -1470,8 +1434,7 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-07-01.pdf
   title: Module privind i) dezvoltarea durabilă, ii) drepturile omului, iii) egalitate de gen,
     iv) educația sexuală etc., în politici educaționale, curricula, perfecționarea
-    profesorilor, evaluarea studenților
-    
+    profesorilor, evaluarea studenților    
 4.a.1:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: The percentage of schools by level of education (primary education)
@@ -1495,9 +1458,7 @@
     required for teaching at the relevant level in a given country
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-0C-01.pdf
   title: Ponderea personalului pedagogic cu studii în domeniul pedagogiei în nivelul
-    preșcolar, în nivelul primar, secundar general
-    
-    
+    preșcolar, în nivelul primar, secundar general  
 5.1.1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-01-01.pdf
   title: Existența cadrului legal pentru  promovarea, punerea în aplicare și  monitorizarea
@@ -1528,7 +1489,6 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-02-02.pdf
   title: Prevalența violenței sexuale față de femei și fete de 15-65 ani din partea
     altor persoane decît partenerul/soțul, în ultimele 12 luni, pe vârste
-    
 5.3.1:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: Proportion of women aged 20-24 years who were married or in a union
@@ -1551,7 +1511,6 @@
     și medii de reședință
 5.5.1:
   title: Ponderea femeilor alese în parlament, administrația publică locală
-    
 5.5.2:
   custodian_agency: ILO
   definition: 'This indicator refers to the proportion of females in the total number
@@ -1714,7 +1673,6 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-06-0B-01.pdf
   title: Ponderea APL care dispun de programe/strategii, proceduri de implicare a
     comunității în managementul apei și a sanitației
-    
 7.1.1:
   custodian_agency: World Bank (WB)
   definition: Proportion of population with access to electricity is the percentage
@@ -1788,11 +1746,9 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-07-0a-01.pdf
   title: Volumul asistenței externe oficiale către țările în curs de dezvoltare pentru
     dezvoltarea eficienței energetice, inclusiv în sistemele hibride
-    
 7.b.1:
   title: Volumul investițiilor străine directe în dezvoltarea durabilă a infrastructurii 
     și tehnologiilor
-    
 8.1.1:
   custodian_agency: United Nations Statistics Division (UNSD)
   definition: Annual growth rate of real Gross Domestic Product (GDP) per capita is
@@ -1816,7 +1772,6 @@
     institution or personally using a mobile money service in the past 12 months.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-10-02.pdf
   title:  Procentul populației (15+) care dispune de cont bancar 
-    
 8.2.1:
   custodian_agency: ILO
   definition: Annual growth rate of real GDP per employed person conveys the annual
@@ -1837,7 +1792,6 @@
     ores.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-04-01.pdf
   title: Resurse naturale pe o persoană, raportate la PIB
-    
 8.4.2:
   custodian_agency: United Nations Environment Programme (UNEP)
   definition: Domestic Material Consumption (DMC) is a standard material flow accounting
@@ -1895,7 +1849,6 @@
     rates.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-08-01.pdf
   title: Rata accidentelor de muncă, pe sexe și statut migrațional
-    
 8.8.2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-08-02.pdf
   title: Nivelul de respectare la nivel național a drepturilor de muncă (libertatea de
@@ -1991,7 +1944,6 @@
     in support of infrastructure.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-0A-01.pdf
   title: Volumul asistenței externe oficiale acordate pentru dezvoltarea infrastructurii
-    
 9.b.1:
   custodian_agency: United Nations Industrial Development Organization (UNIDO)
   definition: The proportion of medium and high-tech industry (MHT hereafter) value

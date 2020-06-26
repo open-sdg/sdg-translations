@@ -1,0 +1,84 @@
+other_info: Otra información
+computation_calculations: Cálculos
+computation_definitions: Definiciones
+computation_units: Unidad de medida
+goal_meta_link: Enlace a los metadatos de la ONU
+indicator: Número del indicador
+indicator_definition: Descripción del indicador global
+indicator_name: Nombre del indicador
+indicator_sort_order: Orden de visualización del indicador (dentro de la página de
+  Goal)
+national_data_update_url: Datos actualizados por última vez
+national_geographical_coverage: Cobertura geográfica
+national_indicator_available: Indicador disponible
+national_indicator_description: Descripción del indicador
+national_metadata_update_url: Metadatos actualizados por última vez
+source_contact_1: Detalles de contacto
+source_contact_2: Detalles de contacto
+source_contact_3: Detalles de contacto
+source_contact_4: Detalles de contacto
+source_contact_5: Detalles de contacto
+source_contact_6: Detalles de contacto
+source_earliest_available_1: Los datos disponibles más antiguos
+source_earliest_available_2: Los datos disponibles más antiguos
+source_earliest_available_3: Los datos disponibles más antiguos
+source_earliest_available_4: Los datos disponibles más antiguos
+source_earliest_available_5: Los datos disponibles más antiguos
+source_earliest_available_6: Los datos disponibles más antiguos
+source_geographical_coverage_1: Cobertura geográfica
+source_geographical_coverage_2: Cobertura geográfica
+source_geographical_coverage_3: Cobertura geográfica
+source_geographical_coverage_4: Cobertura geográfica
+source_geographical_coverage_5: Cobertura geográfica
+source_geographical_coverage_6: Cobertura geográfica
+source_next_release_1: Siguiente lanzamiento
+source_next_release_2: Siguiente lanzamiento
+source_next_release_3: Siguiente lanzamiento
+source_next_release_4: Siguiente lanzamiento
+source_next_release_5: Siguiente lanzamiento
+source_next_release_6: Siguiente lanzamiento
+source_organisation_1: Organización
+source_organisation_2: Organización
+source_organisation_3: Organización
+source_organisation_4: Organización
+source_organisation_5: Organización
+source_organisation_6: Organización
+source_other_info_1: Otra información
+source_other_info_2: Otra información
+source_other_info_3: Otra información
+source_other_info_4: Otra información
+source_other_info_5: Otra información
+source_other_info_6: Otra información
+source_periodicity_1: Periodicidad
+source_periodicity_2: Periodicidad
+source_periodicity_3: Periodicidad
+source_periodicity_4: Periodicidad
+source_periodicity_5: Periodicidad
+source_periodicity_6: Periodicidad
+source_release_date_1: Fecha de lanzamiento
+source_release_date_2: Fecha de lanzamiento
+source_release_date_3: Fecha de lanzamiento
+source_release_date_4: Fecha de lanzamiento
+source_release_date_5: Fecha de lanzamiento
+source_release_date_6: Fecha de lanzamiento
+source_statistical_classification_1: Clasificación estadística
+source_statistical_classification_2: Clasificación estadística
+source_statistical_classification_3: Clasificación estadística
+source_statistical_classification_4: Clasificación estadística
+source_statistical_classification_5: Clasificación estadística
+source_statistical_classification_6: Clasificación estadística
+source_url_1: Enlace a la fuente de datos
+source_url_2: Enlace a la fuente de datos
+source_url_3: Enlace a la fuente de datos
+source_url_4: Enlace a la fuente de datos
+source_url_5: Enlace a la fuente de datos
+source_url_6: Enlace a la fuente de datos
+target: Nombre de destino
+target_id: Número objetivo
+un_custodian_agency: Agencia de custodia de la ONU
+un_designated_tier: Nivel designado por la ONU
+quality_assurance: Seguro de calidad
+international_comparability: Comparabilidad con datos / estándares internacionales
+comments_limitations: Comentarios y limitaciones
+rational_interpretation: Racionalidad e interpretación
+copyright: Derechos de autor

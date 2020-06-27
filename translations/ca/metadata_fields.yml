@@ -8,11 +8,11 @@ indicator_definition: Descripción del indicador global
 indicator_name: Nombre del indicador
 indicator_sort_order: Orden de visualización del indicador (dentro de la página de
   Goal)
-national_data_update_url: Datos actualizados por última vez
+national_data_update_url: Dades actualitzades per darrera vegada
 national_geographical_coverage: Cobertura geográfica
 national_indicator_available: Indicador disponible
 national_indicator_description: Descripción del indicador
-national_metadata_update_url: Metadatos actualizados por última vez
+national_metadata_update_url: Metadades actualitzades per darrera vegada
 source_contact_1: Detalles de contacto
 source_contact_2: Detalles de contacto
 source_contact_3: Detalles de contacto

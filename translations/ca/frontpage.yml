@@ -1,6 +1,5 @@
-heading: "Dades %name per als indicadors dels Objetius de Desenvolupament Sostenible"
-instructions: Haga clic en cada objetivo, o %before_link busque, %after_link para
-  las estadísticas %name para Objetivo de desarrollo sostenible global indicadores.
+heading: "Dades de Catalunya per als indicadors dels Objetius de Desenvolupament Sostenible"
+instructions: Feu clic a cada objectiu, o %before_link busqueu %after_link .
 download_all: Descarregar totes les dades
 zip_file: arxiu zip
 intro_title: 17 objectius per a transformar el nostre món

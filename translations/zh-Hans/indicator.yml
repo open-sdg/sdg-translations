@@ -22,6 +22,7 @@ geographical_area: 地理区域
 global_metadata: 全球元数据
 global_metadata_blurb: 此表格提供的资料是由联合国统计委员会所界定的可持续发展目标指标的元数据。完整的全球元数据是由联合国统计司提供的。
 legend_help: 点击图例来移除图表中的线条。
+loading: 正在加载
 loading_map: 载入地图
 map: 地图
 national_metadata: 国家元数据

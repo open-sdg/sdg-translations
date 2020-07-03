@@ -25,6 +25,7 @@ global_metadata_blurb: 'Այս աղյուսակը տեղեկատվություն
   կոմիտեի սահմանած ԿԶՆ ցուցանիշների մետատվյալի մասին <a href="https://unstats.un.org/sdgs/metadata/">Complete
   global metadata</a> '
 legend_help: 'Սեղմեք նկարագրությանը գծապատկերից անհատական գծերը հեռացնելու համար:'
+loading: Բեռնում
 loading_map: Քարտեզը բեռնվում է։
 map: Քարտեզ
 national_metadata: Ազգային մետատվյալներ

@@ -26,6 +26,7 @@ global_metadata_blurb: Ce tableau fournit des informations sur les métadonnées
   <a href="https://unstats.un.org/sdgs/metadata/">Les métadonnées globales complètes</a>
   sont fournies par la Division de statistique de l&#39;ONU.
 legend_help: Cliquez sur la légende pour supprimer les lignes individuelles du graphique.
+loading: Chargement
 loading_map: Chargement de la carte
 map: Carte
 national_metadata: Métadonnées nationales

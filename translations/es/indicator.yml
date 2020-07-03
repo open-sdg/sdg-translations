@@ -27,6 +27,7 @@ global_metadata_blurb: Esta tabla proporciona información sobre los metadatos p
   de las Naciones Unidas proporciona <a href="https://unstats.un.org/sdgs/metadata/">los
   metadatos globales completos</a> .
 legend_help: Haga clic en la leyenda para eliminar líneas individuales del gráfico.
+loading: Cargando
 loading_map: Cargando mapa
 map: Mapa
 national_metadata: Metadatos nacionales

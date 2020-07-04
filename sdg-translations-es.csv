@@ -1,18 +1,43 @@
 ﻿key,en,es
-status:reporting_status,Reporting Status,Estado de informes
-status:overall_reporting_status,Overall Reporting Status,Estado general de informes
-status:reported_online,Reported online,Reportado en línea
-status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
-status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
-status:not_applicable,Not applicable,No aplicable
-status:status_by_goal,Status by goal,Estados por objetivos
-status:status_by_field,Status by %field,Estado por %field
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Haga clic en cada objetivo, o %before_link busque, %after_link para las estadísticas %name para Objetivo de desarrollo sostenible global indicadores."
-frontpage:heading,%name data for Sustainable Development Goal indicators,Datos %name para los indicadores de los Objetivos de Desarrollo Sostenible
-frontpage:download_all,Download all data,Descargar todos los datos
-frontpage:zip_file,ZIP file,archivo zip
-frontpage:intro_title,17 goals to transform our world,17 objetivos para transformar nuestro mundo
-frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","Los <a href=""https://www.un.org/sustainabledevelopment/es"">Objetivos de Desarrollo Sostenible (SDG)</a> son un llamado universal a la acción para terminar con la pobreza, proteger el planeta y mejorar las vidas y perspectivas de todos, en todas partes. Los 17 Objetivos fueron adoptados por todos los Estados Miembros de las Naciones Unidas en 2015, como parte de la <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=S"">2030 Agenda para el Desarrollo Sostenible</a>."
+general:indicator,Indicator,Indicador
+general:indicators,Indicators,Indicadores
+general:goal,Goal,Meta
+general:goals,Goals,Metas
+general:sdg,Sustainable Development Goals,Objetivos de Desarrollo Sostenible
+general:home,Home,Inicio
+general:loading,Loading search results,Cargando resultados de búsqueda
+general:opens_new_window,opens in a new window,Se abre en una nueva ventana
+general:target,Target,Objetivo
+general:targets,Targets,Objetivos
+general:twitter,Twitter,Twitter
+general:facebook,Facebook,Facebook
+general:built_using_open_sdg,Built using Open SDG,Construido usando Open SDG
+general:page,Page,página web
+general:pages,Pages,páginas web
+header:skip_link,Skip to main content,Saltar al contenido principal
+header:alpha,Alpha,Alfa
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Este es un sitio web de desarrollo. Agradecemos sus comentarios.
+header:tag_line,17 Goals to Transform our World,17 Metas para transformar nuestro mundo
+header:high_contrast,High contrast,alto contraste
+header:default_contrast,Default contrast,estándar contraste
+header:enable_high_contrast,Enable high contrast,Habilitar alto contraste
+header:disable_high_contrast,Disable high contrast,Desactivar alto contraste
+search:search,Search,Buscar
+search:indicator_search,Indicator search,Búsqueda de indicador
+search:search_results_for,Search results for,Resultados de búsqueda para
+search:found_in,found in,encontrado en
+search:keywords,Keywords,Palabras clave
+search:no_results,No results,No hay resultados
+search:did_you_mean,did you mean,querías decir
+menu:menu,Menu,Menú
+menu:reporting_status,Reporting Status,Estado de informes
+menu:about,About,Acerca de
+menu:publications,Publications,Publicaciones
+menu:guidance,Guidance,Dirección
+menu:faq,FAQ,FAQ
+menu:contact_us,Contact us,Contáctenos
+menu:cookies,Cookies,Galletas
+menu:updates,Updates,
 metadata_fields:other_info,Other information,Otra información
 metadata_fields:computation_calculations,Calculations,Cálculos
 metadata_fields:computation_definitions,Definitions,Definiciones
@@ -96,21 +121,23 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Comentarios y limitaciones
 metadata_fields:rational_interpretation,Rational and interpretation,Racionalidad e interpretación
 metadata_fields:copyright,Copyright,Derechos de autor
-general:indicator,Indicator,Indicador
-general:indicators,Indicators,Indicadores
-general:goal,Goal,Meta
-general:goals,Goals,Metas
-general:sdg,Sustainable Development Goals,Objetivos de Desarrollo Sostenible
-general:home,Home,Inicio
-general:loading,Loading search results,Cargando resultados de búsqueda
-general:opens_new_window,opens in a new window,Se abre en una nueva ventana
-general:target,Target,Objetivo
-general:targets,Targets,Objetivos
-general:twitter,Twitter,Twitter
-general:facebook,Facebook,Facebook
-general:built_using_open_sdg,Built using Open SDG,Construido usando Open SDG
-general:page,Page,página web
-general:pages,Pages,páginas web
+global_goals:1-short,No poverty,Fin de la Pobreza
+global_goals:10-short,Reduced inequalities,Reducción de las Desigualdades
+global_goals:11-short,Sustainable cities & communities,Cuidades y Comunidades Sostenibles
+global_goals:12-short,Responsible consumption and production,Producción y Consumo Responsables
+global_goals:13-short,Climate action,Acción por el Clima
+global_goals:14-short,Life below water,Vida Submarina
+global_goals:15-short,Life on land,Vida de Ecosistemas Terrestres
+global_goals:16-short,Peace and justice - strong institutions,"Paz, Justicia e Instituciones Sólidas"
+global_goals:17-short,Partnerships for the goals,Alianzas para Lograr los Objetivos
+global_goals:2-short,Zero hunger,Hambre Cero
+global_goals:3-short,Good health and well-being,Salud y Bienestar
+global_goals:4-short,Quality education,Educación de Calidad
+global_goals:5-short,Gender equality,Igualdad de Género
+global_goals:6-short,Clean water and sanitation,Agua Limpia y Saneamiento
+global_goals:7-short,Affordable and clean energy,Energía Asequible y No Contaminante
+global_goals:8-short,Decent jobs and economic growth,Trabajo Decente y Crecimiento Económico
+global_goals:9-short,"Industry, innovation and infrastructure","Industria, Innovación e Infraestructura"
 indicator:select_all,Select all,Seleccionar todo
 indicator:clear_all,Clear all,Limpiar todo
 indicator:clear_selections,Clear selections,Borrar selecciones
@@ -143,6 +170,7 @@ indicator:legend_help,Click on the legend to remove individual lines from the ch
 indicator:chart,Chart,Gráfico
 indicator:table,Table,Tabla
 indicator:map,Map,Mapa
+indicator:loading,Loading,Cargando
 indicator:loading_map,Loading map,Cargando mapa
 indicator:national_metadata,National Metadata,Metadatos nacionales
 indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Esta tabla proporciona metadatos para el indicador real disponible a partir de las estadísticas de %country_name más cercanas al correspondiente indicador global de SDG. Tenga en cuenta que incluso cuando el indicador global de ODS esté totalmente disponible a partir de las estadísticas de %country_adjective, se debe consultar esta tabla para obtener información sobre la metodología nacional y otra información de metadatos específicos de %country_adjective."
@@ -151,6 +179,22 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,Editar
 indicator:edit_data,Edit Data,Editar datos
 indicator:edit_metadata,Edit Metadata,Editar metadatos
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Haga clic en cada objetivo, o %before_link busque, %after_link para las estadísticas %name para Objetivo de desarrollo sostenible global indicadores."
+frontpage:heading,%name data for Sustainable Development Goal indicators,Datos %name para los indicadores de los Objetivos de Desarrollo Sostenible
+frontpage:download_all,Download all data,Descargar todos los datos
+frontpage:zip_file,ZIP file,archivo zip
+frontpage:intro_title,17 goals to transform our world,17 objetivos para transformar nuestro mundo
+frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","Los <a href=""https://www.un.org/sustainabledevelopment/es"">Objetivos de Desarrollo Sostenible (SDG)</a> son un llamado universal a la acción para terminar con la pobreza, proteger el planeta y mejorar las vidas y perspectivas de todos, en todas partes. Los 17 Objetivos fueron adoptados por todos los Estados Miembros de las Naciones Unidas en 2015, como parte de la <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=S"">2030 Agenda para el Desarrollo Sostenible</a>."
+post:posts_by_category,Posts by Category,Publicaciones por categoría
+post:view_all_in_category,View all posts in the %category_name category,Ver todas las publicaciones en la categoría %category_name
+status:reporting_status,Reporting Status,Estado de informes
+status:overall_reporting_status,Overall Reporting Status,Estado general de informes
+status:reported_online,Reported online,Reportado en línea
+status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
+status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
+status:not_applicable,Not applicable,No aplicable
+status:status_by_goal,Status by goal,Estados por objetivos
+status:status_by_field,Status by %field,Estado por %field
 calendar:January,January,enero
 calendar:February,February,febrero
 calendar:March,March,marzo
@@ -163,46 +207,3 @@ calendar:September,September,septiembre
 calendar:October,October,octubre
 calendar:November,November,noviembre
 calendar:December,December,diciembre
-post:posts_by_category,Posts by Category,Publicaciones por categoría
-post:view_all_in_category,View all posts in the %category_name category,Ver todas las publicaciones en la categoría %category_name
-search:search,Search,Buscar
-search:indicator_search,Indicator search,Búsqueda de indicador
-search:search_results_for,Search results for,Resultados de búsqueda para
-search:found_in,found in,encontrado en
-search:keywords,Keywords,Palabras clave
-search:no_results,No results,No hay resultados
-search:did_you_mean,did you mean,querías decir
-header:skip_link,Skip to main content,Saltar al contenido principal
-header:alpha,Alpha,Alfa
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Este es un sitio web de desarrollo. Agradecemos sus comentarios.
-header:tag_line,17 Goals to Transform our World,17 Metas para transformar nuestro mundo
-header:high_contrast,High contrast,alto contraste
-header:default_contrast,Default contrast,estándar contraste
-header:enable_high_contrast,Enable high contrast,Habilitar alto contraste
-header:disable_high_contrast,Disable high contrast,Desactivar alto contraste
-global_goals:1-short,No poverty,Fin de la Pobreza
-global_goals:10-short,Reduced inequalities,Reducción de las Desigualdades
-global_goals:11-short,Sustainable cities & communities,Cuidades y Comunidades Sostenibles
-global_goals:12-short,Responsible consumption and production,Producción y Consumo Responsables
-global_goals:13-short,Climate action,Acción por el Clima
-global_goals:14-short,Life below water,Vida Submarina
-global_goals:15-short,Life on land,Vida de Ecosistemas Terrestres
-global_goals:16-short,Peace and justice - strong institutions,"Paz, Justicia e Instituciones Sólidas"
-global_goals:17-short,Partnerships for the goals,Alianzas para Lograr los Objetivos
-global_goals:2-short,Zero hunger,Hambre Cero
-global_goals:3-short,Good health and well-being,Salud y Bienestar
-global_goals:4-short,Quality education,Educación de Calidad
-global_goals:5-short,Gender equality,Igualdad de Género
-global_goals:6-short,Clean water and sanitation,Agua Limpia y Saneamiento
-global_goals:7-short,Affordable and clean energy,Energía Asequible y No Contaminante
-global_goals:8-short,Decent jobs and economic growth,Trabajo Decente y Crecimiento Económico
-global_goals:9-short,"Industry, innovation and infrastructure","Industria, Innovación e Infraestructura"
-menu:menu,Menu,Menú
-menu:reporting_status,Reporting Status,Estado de informes
-menu:about,About,Acerca de
-menu:publications,Publications,Publicaciones
-menu:guidance,Guidance,Dirección
-menu:faq,FAQ,FAQ
-menu:contact_us,Contact us,Contáctenos
-menu:cookies,Cookies,Galletas
-menu:updates,Updates,

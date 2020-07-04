@@ -44,6 +44,7 @@ chart: Chart
 table: Table
 # A button that displays some data in the form of a map
 map: Map
+loading: Loading
 loading_map: Loading map
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: National Metadata

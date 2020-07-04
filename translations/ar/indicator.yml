@@ -23,6 +23,7 @@ geographical_area: المنطقة الجغرافية
 global_metadata: البيانات الوصفية العالمية
 global_metadata_blurb: رابط الى البيانات الوصفية للأمم المتحدة
 legend_help: انقر على وسيلة الايضاح لازالة أسطر فردية من المخطط
+loading: تحميل
 loading_map: تحميل الخريطة
 map: خريطة
 national_metadata: البيانات الوصفية الوطنية

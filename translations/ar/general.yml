@@ -5,6 +5,7 @@ indicator: مؤشر
 indicators: مؤشرات
 loading: تحميل نتائج البحث
 opens_new_window: تنفتح في نافذة جديدة
+hide: إخفاء
 sdg: اهداف التنمية المستدامة
 target: استهداف
 targets: أهداف

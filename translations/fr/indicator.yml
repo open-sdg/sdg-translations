@@ -1,6 +1,7 @@
 chart: Graphique
 clear_all: Tout effacer
 clear_selections: Effacer les sélections
+data_not_available: Ces données ne sont pas disponibles. Veuillez choisir des données alternatives à afficher.
 dataset_size_warning: Il y a trop de jeux de données à afficher sur le graphique.
   Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
 download_chart: Télécharger le graphique CSV

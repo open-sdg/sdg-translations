@@ -1,6 +1,7 @@
 chart: Grafik
 clear_all: Auswahl aufheben
 clear_selections: Auswahl aufheben
+data_not_available: Diese Daten sind nicht verfügbar. Bitte wählen Sie alternative Daten aus, die angezeigt werden sollen.
 dataset_size_warning: Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen.
   Es können nicht alle Zeitreihen dargestellt werden
 download_chart: Grafik im CSV-Format speichern

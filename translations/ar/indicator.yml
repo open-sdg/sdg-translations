@@ -1,6 +1,7 @@
 chart: مخطط
 clear_all: ازالة الكل
 clear_selections: إزالة المحدد
+data_not_available: هذه البيانات غير متاحة. يرجى اختيار بيانات بديلة لعرضها.
 dataset_size_warning: هناك عدد كبير من البيانات المحددة. لن يتم عرض الكل حتى تزيل
   بعضها.
 download_chart: تحميل المخطط الCSV

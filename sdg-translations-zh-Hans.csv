@@ -1,4 +1,35 @@
 ﻿key,en,zh-Hans
+global_goals:1-short,No poverty,无贫穷
+global_goals:10-short,Reduced inequalities,减少不平等
+global_goals:11-short,Sustainable cities & communities,可持续城市和社区
+global_goals:12-short,Responsible consumption and production,负责任消费和生产
+global_goals:13-short,Climate action,气候行动
+global_goals:14-short,Life below water,水下生物
+global_goals:15-short,Life on land,陆地生物
+global_goals:16-short,Peace and justice - strong institutions,和平、正义与强大机构
+global_goals:17-short,Partnerships for the goals,促进目标现实的伙伴关系
+global_goals:2-short,Zero hunger,零饥饿
+global_goals:3-short,Good health and well-being,良好健康与福祉
+global_goals:4-short,Quality education,优质教育
+global_goals:5-short,Gender equality,性别平等
+global_goals:6-short,Clean water and sanitation,清洁饮水和卫生设施
+global_goals:7-short,Affordable and clean energy,经济适用的清洁能源
+global_goals:8-short,Decent jobs and economic growth,体面工作和经济增长
+global_goals:9-short,"Industry, innovation and infrastructure",创业、创新和基础设施
+header:skip_link,Skip to main content,跳到主要内容
+header:alpha,Alpha,Alpha
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",这是一个发展中的网站。欢迎您向我们发送反馈意见。
+header:tag_line,17 Goals to Transform our World,变革世界的17个目标
+header:high_contrast,High contrast,高对比度
+header:default_contrast,Default contrast,默认对比
+header:enable_high_contrast,Enable high contrast,启用高对比度
+header:disable_high_contrast,Disable high contrast,禁用高对比度
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",点击每一个目标查询或自行%before_link搜索%after_link各个国家的可持续发展目标全球指标统计。
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name可持续发展目标指标的数据
+frontpage:download_all,Download all data,下载所有数据
+frontpage:zip_file,ZIP file,ZIP文件
+frontpage:intro_title,17 goals to transform our world,改变世界的17个目标
+frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","<a href=""https://www.un.org/sustainabledevelopment/zh"">可持续发展目标</a>是消除贫困，保护地球和 改善世界各地每个人的生活和前景。 作为<a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=C""> 2030年可持续发展议程</a>。"
 general:indicator,Indicator,指标
 general:indicators,Indicators,指标
 general:goal,Goal,目标
@@ -15,21 +46,14 @@ general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,使用 Open SDG构建
 general:page,Page,网页
 general:pages,Pages,网页
-header:skip_link,Skip to main content,跳到主要内容
-header:alpha,Alpha,Alpha
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",这是一个发展中的网站。欢迎您向我们发送反馈意见。
-header:tag_line,17 Goals to Transform our World,变革世界的17个目标
-header:high_contrast,High contrast,高对比度
-header:default_contrast,Default contrast,默认对比
-header:enable_high_contrast,Enable high contrast,启用高对比度
-header:disable_high_contrast,Disable high contrast,禁用高对比度
-search:search,Search,搜索
-search:indicator_search,Indicator search,指标搜索
-search:search_results_for,Search results for,搜索结果
-search:found_in,found in,找到
-search:keywords,Keywords,关键字
-search:no_results,No results,无搜索结果
-search:did_you_mean,did you mean,你的意思是
+status:reporting_status,Reporting Status,上报状况
+status:overall_reporting_status,Overall Reporting Status,整体上报状况
+status:reported_online,Reported online,已在线上上报
+status:statistics_in_progress,Statistics in progress,统计在进行中
+status:exploring_data_sources,Exploring data sources,探索数据源
+status:not_applicable,Not applicable,不适用
+status:status_by_goal,Status by goal,目标状况
+status:status_by_field,Status by %field,状态%field
 menu:menu,Menu,目录
 menu:reporting_status,Reporting Status,上报状况
 menu:about,About,关于
@@ -122,23 +146,27 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,评论和限制
 metadata_fields:rational_interpretation,Rational and interpretation,理性与解释
 metadata_fields:copyright,Copyright,版权
-global_goals:1-short,No poverty,无贫穷
-global_goals:10-short,Reduced inequalities,减少不平等
-global_goals:11-short,Sustainable cities & communities,可持续城市和社区
-global_goals:12-short,Responsible consumption and production,负责任消费和生产
-global_goals:13-short,Climate action,气候行动
-global_goals:14-short,Life below water,水下生物
-global_goals:15-short,Life on land,陆地生物
-global_goals:16-short,Peace and justice - strong institutions,和平、正义与强大机构
-global_goals:17-short,Partnerships for the goals,促进目标现实的伙伴关系
-global_goals:2-short,Zero hunger,零饥饿
-global_goals:3-short,Good health and well-being,良好健康与福祉
-global_goals:4-short,Quality education,优质教育
-global_goals:5-short,Gender equality,性别平等
-global_goals:6-short,Clean water and sanitation,清洁饮水和卫生设施
-global_goals:7-short,Affordable and clean energy,经济适用的清洁能源
-global_goals:8-short,Decent jobs and economic growth,体面工作和经济增长
-global_goals:9-short,"Industry, innovation and infrastructure",创业、创新和基础设施
+post:posts_by_category,Posts by Category,按分类发布的帖子
+post:view_all_in_category,View all posts in the %category_name category,显示此分类的所有帖子
+search:search,Search,搜索
+search:indicator_search,Indicator search,指标搜索
+search:search_results_for,Search results for,搜索结果
+search:found_in,found in,找到
+search:keywords,Keywords,关键字
+search:no_results,No results,无搜索结果
+search:did_you_mean,did you mean,你的意思是
+calendar:January,January,一月
+calendar:February,February,二月
+calendar:March,March,游行
+calendar:April,April,四月
+calendar:May,May,可以
+calendar:June,June,六月
+calendar:July,July,七月
+calendar:August,August,八月
+calendar:September,September,九月
+calendar:October,October,十月
+calendar:November,November,十一月
+calendar:December,December,十二月
 indicator:select_all,Select all,全选
 indicator:clear_all,Clear all,全部清除
 indicator:clear_selections,Clear selections,清除选项
@@ -180,31 +208,3 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,编辑
 indicator:edit_data,Edit Data,编辑数据
 indicator:edit_metadata,Edit Metadata,编辑元数据
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",点击每一个目标查询或自行%before_link搜索%after_link各个国家的可持续发展目标全球指标统计。
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name可持续发展目标指标的数据
-frontpage:download_all,Download all data,下载所有数据
-frontpage:zip_file,ZIP file,ZIP文件
-frontpage:intro_title,17 goals to transform our world,改变世界的17个目标
-frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","<a href=""https://www.un.org/sustainabledevelopment/zh"">可持续发展目标</a>是消除贫困，保护地球和 改善世界各地每个人的生活和前景。 作为<a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=C""> 2030年可持续发展议程</a>。"
-post:posts_by_category,Posts by Category,按分类发布的帖子
-post:view_all_in_category,View all posts in the %category_name category,显示此分类的所有帖子
-status:reporting_status,Reporting Status,上报状况
-status:overall_reporting_status,Overall Reporting Status,整体上报状况
-status:reported_online,Reported online,已在线上上报
-status:statistics_in_progress,Statistics in progress,统计在进行中
-status:exploring_data_sources,Exploring data sources,探索数据源
-status:not_applicable,Not applicable,不适用
-status:status_by_goal,Status by goal,目标状况
-status:status_by_field,Status by %field,状态%field
-calendar:January,January,一月
-calendar:February,February,二月
-calendar:March,March,游行
-calendar:April,April,四月
-calendar:May,May,可以
-calendar:June,June,六月
-calendar:July,July,七月
-calendar:August,August,八月
-calendar:September,September,九月
-calendar:October,October,十月
-calendar:November,November,十一月
-calendar:December,December,十二月

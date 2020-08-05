@@ -10,6 +10,8 @@ download_headline: Speichern der Headline im CSV-Format
 download_headline_title: Speichern der Headline im CSV-Format
 download_source: Daten im CSV-Format speichern
 download_source_title: Daten im CSV-Format speichern
+download_source_sdmx: Daten im SDMX-Format speichern
+download_source_sdmx_title: Daten im SDMX-Format speichern
 download_table: Tabelle im CSV-Format speichern
 download_chart_image: Grafik herunterladen
 download_chart_image_title: Grafik als Bild herunterladen

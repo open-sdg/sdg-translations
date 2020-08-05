@@ -10,6 +10,8 @@ download_headline: CSV тақырыптарын жүктеу
 download_headline_title: CSV тақырыптарының деректерін жүктеу
 download_source: Бастапқы CSV жүктеу
 download_source_title: Бастапқы деректерді CSV нысанында жүктеу
+download_source_sdmx: Бастапқы SDMX жүктеу
+download_source_sdmx_title: Бастапқы деректерді SDMX нысанында жүктеу
 download_table: Кестелік CSV жүктеу
 download_chart_image: Диаграмма суретін жүктеу
 download_chart_image_title: Диаграмманы сурет ретінде жүктеңіз

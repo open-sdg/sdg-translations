@@ -10,6 +10,8 @@ download_headline: Ներբեռնել վերնագիրը որպես CSV
 download_headline_title: Ներբեռնել վերնագրի տվյալները որպես CSV
 download_source: Ներբեռնել աղբյուրը CSV
 download_source_title: Ներբեռնել աղբյուրի տվյալները, որպես CSV
+download_source_sdmx: Ներբեռնել աղբյուրը SDMX
+download_source_sdmx_title: Ներբեռնել աղբյուրի տվյալները, որպես SDMX
 download_table: Ներբեռնել CSV աղյուսակը
 download_chart_image: Ներբեռնեք գծապատկերի պատկերը
 download_chart_image_title: Ներբեռնեք աղյուսակը որպես պատկեր

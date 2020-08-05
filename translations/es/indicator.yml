@@ -10,6 +10,8 @@ download_headline: Descargar CSV global
 download_headline_title: Descargar datos globales como CSV
 download_source: Descargar CSV fuente
 download_source_title: Descargar los datos fuente como CSV
+download_source_sdmx: Descargar SDMX fuente
+download_source_sdmx_title: Descargar los datos fuente como SDMX
 download_table: Descargar la tabla CSV
 download_chart_image: Descargar imagen del gráfico
 download_chart_image_title: Descargar gráfico como imagen

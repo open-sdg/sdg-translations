@@ -10,6 +10,8 @@ download_headline: 'تحميل CSV الخط الرئيسي '
 download_headline_title: تحميل بيانات CSV الخط الرئيسي
 download_source: تحميل مصدر الCSV
 download_source_title: تحميل بيانات مصدر الCSV
+download_source_sdmx: تحميل مصدر الSDMX
+download_source_sdmx_title: تحميل بيانات مصدر الSDMX
 download_table: تحميل جدول CSV
 download_chart_image:  تحميل الرسم البياني الصورة
 download_chart_image_title: تحميل الرسم البياني كصورة

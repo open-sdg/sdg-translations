@@ -1,7 +1,7 @@
 chart: 图表
 clear_all: 全部清除
 clear_selections: 清除选项
-data_not_available: 该数据不可用。 请选择要显示的替代数据。
+data_not_available: 该数据不存在。请选择别的数据来显示。
 dataset_size_warning: 由于图表上显示的数据集过多，请删除一些选项来以便展示。
 download_chart: 下载CSV格式的图表
 download_csv: 下载CSV

@@ -1,52 +1,60 @@
 ﻿key,en,de
-global_goals:1-short,No poverty,Keine Armut
-global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
-global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
-global_goals:10-title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
-global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
-global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
-global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
-global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
-global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
-global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
-global_goals:14-short,Life below water,Leben unter Wasser
-global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
-global_goals:15-short,Life on land,Leben an Land
-global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und "
-global_goals:16-short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
-global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
-global_goals:17-short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
-global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
-global_goals:2-short,Zero hunger,Kein Hunger
-global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
-global_goals:3-short,Good health and well-being,Gesundheit und Wohlergehen
-global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
-global_goals:4-short,Quality education,Hochwertige Bildung
-global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
-global_goals:5-short,Gender equality,Geschlechtergleichstellung
-global_goals:5-title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
-global_goals:6-short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
-global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
-global_goals:7-short,Affordable and clean energy,Bezahlbare und saubere Energie
-global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
-global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
-global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
-global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
-global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
-header:skip_link,Skip to main content, Zum Hauptinhalt springen
-header:alpha,Alpha,Alpha-Version
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
-header:tag_line,17 Goals to Transform our World,
-header:high_contrast,High contrast,Hoher kontrast
-header:default_contrast,Default contrast,Standard kontrast
-header:enable_high_contrast,Enable high contrast,Aktivieren Sie hohen Kontrast
-header:disable_high_contrast,Disable high contrast,Hoher Kontrast deaktivieren
+indicator:select_all,Select all,Alle auswählen
+indicator:clear_all,Clear all,Auswahl aufheben
+indicator:clear_selections,Clear selections,Auswahl aufheben
+indicator:variable_hint,Available when '%field' is selected,Verfügbar
+indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
+indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
+indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
+indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
+indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
+indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
+indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
+indicator:download_csv,Download CSV,im CSV-Format speichern
+indicator:download_csv_title,Download as CSV,im CSV-Format speichern
+indicator:download_chart_image,Download Chart Image,Grafik herunterladen
+indicator:download_chart_image_title,Download chart as image,Grafik als Bild herunterladen
+indicator:download_geojson,Download GeoJSON,im GeoJSON-Format speichern
+indicator:download_geojson_title,Download as GeoJSON,im GeoJSON-Format speichern
+indicator:source,Source,Datenquelle
+indicator:sources,Sources,Datenquellen
+indicator:geographical_area,Geographical Area,Geographische Abdeckung
+indicator:unit_of_measurement,Unit of Measurement,Einheit
+indicator:footnote,Footnote,Fußnote
+indicator:units_type,Units type,Einheit
+indicator:series,Series,Reihe
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
+indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
+indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+indicator:chart,Chart,Grafik
+indicator:table,Table,Tabelle
+indicator:map,Map,Karte
+indicator:loading,Loading,Laden
+indicator:loading_map,Loading map,Karte wird geladen
+indicator:national_metadata,National Metadata,Nationale Metadaten
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für %country_name zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
+indicator:global_metadata,Global Metadata,Globale Metadaten
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""""https://unstats.un.org/sdgs/metadata/"""">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
+indicator:edit,Edit,Bearbeiten
+indicator:edit_data,Edit Data,Daten bearbeiten
+indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
+indicator:data_not_available,This data is not available. Please choose alternative data to display.,"Diese Daten sind nicht verfügbar. Bitte wählen Sie alternative Daten aus, die angezeigt werden sollen."
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für %name zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
 frontpage:heading,%name data for Sustainable Development Goal indicators,%name daten zu den Indikatoren der Ziele für nachhaltige Entwicklung
 frontpage:download_all,Download all data,Laden Sie alle Daten herunter
 frontpage:zip_file,ZIP file,zip-Datei
 frontpage:intro_title,17 goals to transform our world,"17 Ziele, um unsere Welt zu verändern"
 frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","Die <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Nachhaltige Entwicklungsziele (SDGs)</a> sind ein universeller Aufruf zum Handeln, um die Armut zu beenden, den Planeten zu schützen und das Leben und die Aussichten aller und überall zu verbessern. Die 17 Ziele wurden 2015 von allen UN-Mitgliedsstaaten als Teil der <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda für nachhaltige Entwicklung</a> angenommen."
+status:reporting_status,Reporting Status,Berichtsstatus
+status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
+status:reported_online,Reported online,Daten verfügbar
+status:statistics_in_progress,Statistics in progress,in Bearbeitung
+status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
+status:not_applicable,Not applicable,Nicht zutreffend
+status:status_by_goal,Status by goal,Status nach Ziel
+status:status_by_field,Status by %field,Status von %field
 general:indicator,Indicator,Indikator
 general:indicators,Indicators,Indikatoren
 general:goal,Goal,Ziel
@@ -63,23 +71,8 @@ general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,Erstellt mit Open SDG
 general:page,Page,Website
 general:pages,Pages,Webseiten
-status:reporting_status,Reporting Status,Berichtsstatus
-status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
-status:reported_online,Reported online,Daten verfügbar
-status:statistics_in_progress,Statistics in progress,in Bearbeitung
-status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
-status:not_applicable,Not applicable,Nicht zutreffend
-status:status_by_goal,Status by goal,Status nach Ziel
-status:status_by_field,Status by %field,Status von %field
-menu:menu,Menu,Menü
-menu:reporting_status,Reporting Status,Berichtsstatus
-menu:about,About,Über uns
-menu:publications,Publications,Veröffentlichungen
-menu:guidance,Guidance,Technische Hinweise
-menu:faq,FAQ,FAQ
-menu:contact_us,Contact us,Kontakt
-menu:cookies,Cookies,Cookies
-menu:updates,Updates,
+post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
+post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","Bis 2030 die extreme Armut - gegenwärtig definiert als der Anteil der Menschen, die mit weniger als 1,25 Dollar pro Tag auskommen müssen - für alle Menschen überall auf der Welt beseitigen"
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Bis 2030 den Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen nach der jeweiligen nationalen Definition leben, mindestens um die Hälfte senken"
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Den nationalen Gegebenheiten entsprechende Sozialschutzsysteme und -maßnahmen für alle umsetzen, einschließlich eines Basisschutzes, und bis 2030 eine breite Versorgung der Armen und Schwachen erreichen"
@@ -332,15 +325,6 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Kommentare und Einschränkungen
 metadata_fields:rational_interpretation,Rational and interpretation,Vernunft und Interpretation
 metadata_fields:copyright,Copyright,Urheberrechte
-post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
-post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
-search:search,Search,Suche
-search:indicator_search,Indicator search,Indikatorensuche
-search:search_results_for,Search results for,Ergebnisse zu
-search:found_in,found in,gefunden unter
-search:keywords,Keywords,Schlagworte
-search:no_results,No results,Keine Ergebnisse
-search:did_you_mean,did you mean,meintest du
 calendar:January,January,Januar
 calendar:February,February,Februar
 calendar:March,March,März
@@ -353,47 +337,64 @@ calendar:September,September,September
 calendar:October,October,Oktober
 calendar:November,November,November
 calendar:December,December,Dezember
-indicator:select_all,Select all,Alle auswählen
-indicator:clear_all,Clear all,Auswahl aufheben
-indicator:clear_selections,Clear selections,Auswahl aufheben
-indicator:variable_hint,Available when '%field' is selected,Verfügbar
-indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
-indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
-indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
-indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
-indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
-indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
-indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
-indicator:download_csv,Download CSV,im CSV-Format speichern
-indicator:download_csv_title,Download as CSV,im CSV-Format speichern
-indicator:download_chart_image,Download Chart Image,Grafik herunterladen
-indicator:download_chart_image_title,Download chart as image,Grafik als Bild herunterladen
-indicator:download_geojson,Download GeoJSON,im GeoJSON-Format speichern
-indicator:download_geojson_title,Download as GeoJSON,im GeoJSON-Format speichern
-indicator:source,Source,Datenquelle
-indicator:sources,Sources,Datenquellen
-indicator:geographical_area,Geographical Area,Geographische Abdeckung
-indicator:unit_of_measurement,Unit of Measurement,Einheit
-indicator:footnote,Footnote,Fußnote
-indicator:units_type,Units type,Einheit
-indicator:series,Series,Reihe
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
-indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
-indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
-indicator:chart,Chart,Grafik
-indicator:table,Table,Tabelle
-indicator:map,Map,Karte
-indicator:loading,Loading,Laden
-indicator:loading_map,Loading map,Karte wird geladen
-indicator:national_metadata,National Metadata,Nationale Metadaten
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für %country_name zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
-indicator:global_metadata,Global Metadata,Globale Metadaten
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""""https://unstats.un.org/sdgs/metadata/"""">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
-indicator:edit,Edit,Bearbeiten
-indicator:edit_data,Edit Data,Daten bearbeiten
-indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
+header:skip_link,Skip to main content, Zum Hauptinhalt springen
+header:alpha,Alpha,Alpha-Version
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
+header:tag_line,17 Goals to Transform our World,
+header:high_contrast,High contrast,Hoher kontrast
+header:default_contrast,Default contrast,Standard kontrast
+header:enable_high_contrast,Enable high contrast,Aktivieren Sie hohen Kontrast
+header:disable_high_contrast,Disable high contrast,Hoher Kontrast deaktivieren
+search:search,Search,Suche
+search:indicator_search,Indicator search,Indikatorensuche
+search:search_results_for,Search results for,Ergebnisse zu
+search:found_in,found in,gefunden unter
+search:keywords,Keywords,Schlagworte
+search:no_results,No results,Keine Ergebnisse
+search:did_you_mean,did you mean,meintest du
+global_goals:1-short,No poverty,Keine Armut
+global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
+global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
+global_goals:10-title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
+global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
+global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
+global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
+global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
+global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
+global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
+global_goals:14-short,Life below water,Leben unter Wasser
+global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
+global_goals:15-short,Life on land,Leben an Land
+global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und "
+global_goals:16-short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
+global_goals:17-short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
+global_goals:2-short,Zero hunger,Kein Hunger
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
+global_goals:3-short,Good health and well-being,Gesundheit und Wohlergehen
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
+global_goals:4-short,Quality education,Hochwertige Bildung
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
+global_goals:5-short,Gender equality,Geschlechtergleichstellung
+global_goals:5-title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
+global_goals:6-short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
+global_goals:7-short,Affordable and clean energy,Bezahlbare und saubere Energie
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
+global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
+global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
+menu:menu,Menu,Menü
+menu:reporting_status,Reporting Status,Berichtsstatus
+menu:about,About,Über uns
+menu:publications,Publications,Veröffentlichungen
+menu:guidance,Guidance,Technische Hinweise
+menu:faq,FAQ,FAQ
+menu:contact_us,Contact us,Kontakt
+menu:cookies,Cookies,Cookies
+menu:updates,Updates,
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)"
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age","Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben"

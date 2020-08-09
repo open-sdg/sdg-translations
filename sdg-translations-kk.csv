@@ -1,52 +1,60 @@
 ﻿key,en,kk
-global_goals:1-short,No poverty,Кедейлікті жою
-global_goals:1-title,End poverty in all its forms everywhere,Кедейлікті оның барлық нысандарында жаппай жою
-global_goals:10-short,Reduced inequalities,Теңсіздікті қысқарту
-global_goals:10-title,Reduce inequality within and among countries,Елдер ішіндегі және олардың арасындағы теңсіздікті қысқарту
-global_goals:11-short,Sustainable cities & communities,Тұрақты қалалар мен елді мекендер
-global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Қалалар мен елді мекендердің ашықтығын, қауіпсіздігін, өміршеңдігін және экологиялық тұрақтылығын қамтамасыз ету"
-global_goals:12-short,Responsible consumption and production,Жауапты тұтыну мен өндіру
-global_goals:12-title,Ensure sustainable consumption and production patterns,Оңтайлы тұтыну мен өндіру үлгілеріне өтуді қамтамасыз ету
-global_goals:13-short,Climate action,Климаттың өзгеруіне қарсы күрес
-global_goals:13-title,Take urgent action to combat climate change and its impacts,Климаттың өзгеруімен және оның салдарларымен күрес бойынша шұғыл шаралар қабылдау
-global_goals:14-short,Life below water,Мұхит экожүйелерін қорғау
-global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Мұхиттарды, теңіздерді және теңіз ресурстарын тұрақты даму мүдделерінде сақтау және оңтайлы пайдалану"
-global_goals:15-short,Life on land,Құрлық экожүйелерін қорғау
-global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Құрлық экожүйелерін қорғау және қалпына келтіру және олардың оңтайлы пайдаланылуына жәрдемдесу, ормандарды оңтайлы пайдалану, шөлейттенумен күрес, жердің азу үдерісін тоқтату және кері бұру және биоәртүрлілікті жоғалту үдерісін тоқтату"
-global_goals:16-short,Peace and justice - strong institutions,"Бейбітшілік, сот әділдігі мен мен мықты институттар"
-global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Тұрақты даму мүдделерінде бейбіт және ашық қоғамның құрылуына жәрдемдесу, барлығы үшін сот әділдігіне қол жеткізу мүмкіндігін қамтамасыз ету және барлық деңгейлерде тиімді, есеп беруге міндетті және кең қатысуға негізделген мекемелерді құру"
-global_goals:17-short,Partnerships for the goals,Тұрақты даму мүдделеріндегі әріптестіктер
-global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Тұрақты даму мүдделеріндегі жаһандық әріптестіктердің шектерінде жүзеге асыру құралдарын нығайту және жұмысты жандандыру
-global_goals:2-short,Zero hunger,Аштықты жою
-global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Аштықты жою, азық-түлік қауіпсіздігін қамтамасыз ету және тамақтануды жақсарту және ауыл шаруашылығын тұрақты дамытуға жәрдемдесу"
-global_goals:3-short,Good health and well-being,Денсаулық пен амандық
-global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Салауатты өмір салтын қамтамасыз ету және кез келген жаста барлығының амандығына жәрдемдесу
-global_goals:4-short,Quality education,Сапалы білім беру
-global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Ауқымды және әділетті сапалы білім беруді қамтамасыз ету және барлығы үшін бүкіл өмір бойы оқу мүмкіндігін көтермелеу
-global_goals:5-short,Gender equality,Гендерлік теңдік
-global_goals:5-title,Achieve gender equality and empower all women and girls,Гендерлік теңдікті қамтамасыз ету және барлық әйелдер мен қыздардың құқықтары мен мүмкіндіктерін кеңейту
-global_goals:6-short,Clean water and sanitation,Таза су мен санитария
-global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Су ресурстары мен санитарияның барлығы үшін болуы мен тиімді пайдаланылуын қамтамасыз ету
-global_goals:7-short,Affordable and clean energy,Қолжетімді әрі таза энергия
-global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Қымбат емес, сенімді, тұрақты және заманауи энергия көздерінің барлығы үшін жаппай қолжетімділігін қамтамасыз ету"
-global_goals:8-short,Decent jobs and economic growth,Лайықты жұмыс пен экономикалық өсу
-global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Барлығы үшін алға бағытталған, ауқымды және тұрақты экономикалық өсуге, толық және өнімді жұмысбастылыққа және лайықты жұмысқа жәрдемдесу"
-global_goals:9-short,"Industry, innovation and infrastructure","Индустриализация, инновациялар мен инфрақұрылым"
-global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Берік инфрақұрылым құру, ауқымды және тұрақты индустриализация мен инновацияларға жәрдемдесу"
-header:skip_link,Skip to main content,Басты мазмұнына өту
-header:alpha,Alpha,Альфа
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Бұл сайт әзірленуде. Біз сіздердің пікірлеріңізге қуаныштымыз
-header:tag_line,17 Goals to Transform our World,Біздің өмірді көркейту үшін 17 мақсат
-header:high_contrast,High contrast,жоғары контраст
-header:default_contrast,Default contrast,әдепкі контраст
-header:enable_high_contrast,Enable high contrast,Жоғары контрастты қосыңыз
-header:disable_high_contrast,Disable high contrast,Жоғары контрастты ажыратыңыз
+indicator:select_all,Select all,Барлығын белгілеу
+indicator:clear_all,Clear all,Барлығын тазарту
+indicator:clear_selections,Clear selections,Белгіленгенді тазарту
+indicator:variable_hint,Available when '%field' is selected,Таңдаған кезде қолжетімді
+indicator:no_data_hint,No options available because of filters above,Жоғарыда фильтрлар бар болғандықтан нұсқалар жоқ
+indicator:download_headline,Download Headline CSV,CSV тақырыптарын жүктеу
+indicator:download_headline_title,Download headline data as CSV,CSV тақырыптарының деректерін жүктеу
+indicator:download_source,Download Source CSV,Бастапқы CSV жүктеу
+indicator:download_source_title,Download source data as CSV,Бастапқы деректерді CSV нысанында жүктеу
+indicator:download_chart,Download Chart CSV,CSV графигін жүктеу
+indicator:download_table,Download Table CSV,Кестелік CSV жүктеу
+indicator:download_csv,Download CSV,CSV жүктеу
+indicator:download_csv_title,Download as CSV,CSV нысанында жүктеу
+indicator:download_chart_image,Download Chart Image,Диаграмма суретін жүктеу
+indicator:download_chart_image_title,Download chart as image,Диаграмманы сурет ретінде жүктеңіз
+indicator:download_geojson,Download GeoJSON,GeoJSON жүктеу
+indicator:download_geojson_title,Download as GeoJSON,GeoJSON нысанында жүктеу
+indicator:source,Source,Көз
+indicator:sources,Sources,Көздер
+indicator:geographical_area,Geographical Area,Географиялық аудан
+indicator:unit_of_measurement,Unit of Measurement,Өлшем бірлігі
+indicator:footnote,Footnote,Ескерту
+indicator:units_type,Units type,Бірліктер түрі
+indicator:series,Series,Қатар
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Графикте көрсету үшін, кестеде тым көп деректер. Барлығын көру ушін белгіленгенді жойыңыздар"
+indicator:view_indicator_list,View this goal's indicator list,Осы мақсаттың көрсеткіштерінің тізімін көру
+indicator:sub_categories,Sub-categories,Субкатегориялар
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Деректерді түрлі бөліністерді көру үшін , төмендегі түсетін менюдан категорияларды таңдаңыз. Бірнешесі қолжетімді болмайды, одан жоғары деңгейді таңдамағанша"
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Графиктен жолдарды алып тастау үшін легендаға басыңыз
+indicator:chart,Chart,График
+indicator:table,Table,Кесте
+indicator:map,Map,Карта
+indicator:loading,Loading,Жүктелуде
+indicator:loading_map,Loading map,Картаны жүктеу
+indicator:national_metadata,National Metadata,Ұлттық метадеректер
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Бұл кестеде статистикада бар, ТДМ-ң тиісті жаһандық көрсеткішіне ен жақын, нақты көрсеткіш үшін метадеректер ұсынылған. Жаһандық көрсеткіш толығымен қолжетімді болған жағдайда бұл кесте бойынша ұлттық әдіснама және спецификалық метадеректер туралы ақпаратты алу үшін консультация жүргізу керек екеніне көңіл бөлу керек"
+indicator:global_metadata,Global Metadata,Жаһандық метадеректер
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",Бұл кестеде БҰҰ Статистикалық комиссиясымен белгіленген ТДМ көрсеткіштерінің метадеректері үшін ақпарат ұсынылған. Толық жаһандық метадеректер БҰҰ Статистикалық бөлімімен ұсынылған.
+indicator:edit,Edit,Редакциялау
+indicator:edit_data,Edit Data,Деректерді редакциялау
+indicator:edit_metadata,Edit Metadata,Метадеректерді редакциялау
+indicator:data_not_available,This data is not available. Please choose alternative data to display.,Бұл деректер қолжетімсіз. Көрсету үшін балама деректерді таңдаңыз
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Әрбір мақсатқа басыңыз, немесе тұрақты даму мақсаттары шеңберінің жаһандық көрсеткіштерінен іздеңіз"
 frontpage:heading,%name data for Sustainable Development Goal indicators,Тұрақты даму мақсаттары шеңбері үшін деректер
 frontpage:download_all,Download all data,Барлық деректерді жүктеп алыңыз
 frontpage:zip_file,ZIP file,ZIP файл
 frontpage:intro_title,17 goals to transform our world,17 мақсат - біздің әлемді өзгерту
 frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","<a href=""https://www.un.org/sustainabledevelopment/ru/"">Тұрақты даму мақсаттары (SDGs)</a> кедейлікті жоюға, планетаны қорғауға және өмірді қорғауға бағытталған әмбебап үндеу. барлық жерде, әркімнің өмірі мен болашағын жақсарту. 17 мақсатты БҰҰ-ға мүше барлық мемлекеттер 2015 жылы <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 тұрақты дамуының күн тәртібі</a>."
+status:reporting_status,Reporting Status,Есептіліктің жағдайы
+status:overall_reporting_status,Overall Reporting Status,Есептіліктің жалпы жағдайы
+status:reported_online,Reported online,Интернетте хабарланған
+status:statistics_in_progress,Statistics in progress,Статистика орындалу барысында
+status:exploring_data_sources,Exploring data sources,Дереккөздерін зерттеу
+status:not_applicable,Not applicable,Жарамсыз
+status:status_by_goal,Status by goal,Мақсат бойынша мәртебе
+status:status_by_field,Status by %field,%field мәртебесі
 general:indicator,Indicator,Көрсеткіш
 general:indicators,Indicators,Көрсеткіштер
 general:goal,Goal,Мақсат
@@ -63,23 +71,8 @@ general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,Open SDG көмегімен салынған
 general:page,Page,веб парақ
 general:pages,Pages,веб-парақтар
-status:reporting_status,Reporting Status,Есептіліктің жағдайы
-status:overall_reporting_status,Overall Reporting Status,Есептіліктің жалпы жағдайы
-status:reported_online,Reported online,Интернетте хабарланған
-status:statistics_in_progress,Statistics in progress,Статистика орындалу барысында
-status:exploring_data_sources,Exploring data sources,Дереккөздерін зерттеу
-status:not_applicable,Not applicable,Жарамсыз
-status:status_by_goal,Status by goal,Мақсат бойынша мәртебе
-status:status_by_field,Status by %field,%field мәртебесі
-menu:menu,Menu,Меню
-menu:reporting_status,Reporting Status,Есептіліктің жағдайы
-menu:about,About,Біз туралы
-menu:publications,Publications,Жарияланымдар
-menu:guidance,Guidance,Басшылық
-menu:faq,FAQ,Жиі қойылатын сұрақтар
-menu:contact_us,Contact us,Бізбен хабарласыңыз
-menu:cookies,Cookies,Cookies
-menu:updates,Updates,
+post:posts_by_category,Posts by Category,Санат бойынша жарияланымдар
+post:view_all_in_category,View all posts in the %category_name category,Барлық жарияланымдарды санаттарда қарастыру
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",2030 жылға дейін бүкіл әлемдегі барша адамзат үшін кедейлікті жою (қазіргі таңда ақырғы кедейлік күніне 1.25 АҚШ долларымен күн көру ретінде анықталады)
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","2030 жылға дейін ұлттық анықтамаларға сәйкес кедейліктің барлық көріністерінде өмір сүріп жатқан еркектер, әйелдер және барлық жастағы балалардың үлесінің кем дегенде жартысын азайту"
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",Барлығына арналған тиісті әлеуметтік қорғау жүйелері мен шараларын ең төменгі деңгейлерді белгілеуді қоса есептеп енгізу және 2030 жылға дейін халықтың кедей әрі осал жігін анағұрлым кең қамту
@@ -332,15 +325,6 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Пікірлер мен шектеулер
 metadata_fields:rational_interpretation,Rational and interpretation,Рационалды және түсіндіру
 metadata_fields:copyright,Copyright,Авторлық құқық
-post:posts_by_category,Posts by Category,Санат бойынша жарияланымдар
-post:view_all_in_category,View all posts in the %category_name category,Барлық жарияланымдарды санаттарда қарастыру
-search:search,Search,Іздеу
-search:indicator_search,Indicator search,Көрсеткішті іздеу
-search:search_results_for,Search results for,Сіздің сұрауыңыз бойынша нәтижелер
-search:found_in,found in,Табылды
-search:keywords,Keywords,Кілтті сөздер
-search:no_results,No results,Нәтижелер табылмаған
-search:did_you_mean,did you mean,айтқыңыз келді ме
 calendar:January,January,Қаңтар
 calendar:February,February,Ақпан
 calendar:March,March,Наурыз
@@ -353,47 +337,64 @@ calendar:September,September,Қыркүйек
 calendar:October,October,Қазан
 calendar:November,November,Қараша
 calendar:December,December,Желтоқсан
-indicator:select_all,Select all,Барлығын белгілеу
-indicator:clear_all,Clear all,Барлығын тазарту
-indicator:clear_selections,Clear selections,Белгіленгенді тазарту
-indicator:variable_hint,Available when '%field' is selected,Таңдаған кезде қолжетімді
-indicator:no_data_hint,No options available because of filters above,Жоғарыда фильтрлар бар болғандықтан нұсқалар жоқ
-indicator:download_headline,Download Headline CSV,CSV тақырыптарын жүктеу
-indicator:download_headline_title,Download headline data as CSV,CSV тақырыптарының деректерін жүктеу
-indicator:download_source,Download Source CSV,Бастапқы CSV жүктеу
-indicator:download_source_title,Download source data as CSV,Бастапқы деректерді CSV нысанында жүктеу
-indicator:download_chart,Download Chart CSV,CSV графигін жүктеу
-indicator:download_table,Download Table CSV,Кестелік CSV жүктеу
-indicator:download_csv,Download CSV,CSV жүктеу
-indicator:download_csv_title,Download as CSV,CSV нысанында жүктеу
-indicator:download_chart_image,Download Chart Image,Диаграмма суретін жүктеу
-indicator:download_chart_image_title,Download chart as image,Диаграмманы сурет ретінде жүктеңіз
-indicator:download_geojson,Download GeoJSON,GeoJSON жүктеу
-indicator:download_geojson_title,Download as GeoJSON,GeoJSON нысанында жүктеу
-indicator:source,Source,Көз
-indicator:sources,Sources,Көздер
-indicator:geographical_area,Geographical Area,Географиялық аудан
-indicator:unit_of_measurement,Unit of Measurement,Өлшем бірлігі
-indicator:footnote,Footnote,Ескерту
-indicator:units_type,Units type,Бірліктер түрі
-indicator:series,Series,Қатар
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Графикте көрсету үшін, кестеде тым көп деректер. Барлығын көру ушін белгіленгенді жойыңыздар"
-indicator:view_indicator_list,View this goal's indicator list,Осы мақсаттың көрсеткіштерінің тізімін көру
-indicator:sub_categories,Sub-categories,Субкатегориялар
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Деректерді түрлі бөліністерді көру үшін , төмендегі түсетін менюдан категорияларды таңдаңыз. Бірнешесі қолжетімді болмайды, одан жоғары деңгейді таңдамағанша"
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Графиктен жолдарды алып тастау үшін легендаға басыңыз
-indicator:chart,Chart,График
-indicator:table,Table,Кесте
-indicator:map,Map,Карта
-indicator:loading,Loading,Жүктелуде
-indicator:loading_map,Loading map,Картаны жүктеу
-indicator:national_metadata,National Metadata,Ұлттық метадеректер
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Бұл кестеде статистикада бар, ТДМ-ң тиісті жаһандық көрсеткішіне ен жақын, нақты көрсеткіш үшін метадеректер ұсынылған. Жаһандық көрсеткіш толығымен қолжетімді болған жағдайда бұл кесте бойынша ұлттық әдіснама және спецификалық метадеректер туралы ақпаратты алу үшін консультация жүргізу керек екеніне көңіл бөлу керек"
-indicator:global_metadata,Global Metadata,Жаһандық метадеректер
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",Бұл кестеде БҰҰ Статистикалық комиссиясымен белгіленген ТДМ көрсеткіштерінің метадеректері үшін ақпарат ұсынылған. Толық жаһандық метадеректер БҰҰ Статистикалық бөлімімен ұсынылған.
-indicator:edit,Edit,Редакциялау
-indicator:edit_data,Edit Data,Деректерді редакциялау
-indicator:edit_metadata,Edit Metadata,Метадеректерді редакциялау
+header:skip_link,Skip to main content,Басты мазмұнына өту
+header:alpha,Alpha,Альфа
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Бұл сайт әзірленуде. Біз сіздердің пікірлеріңізге қуаныштымыз
+header:tag_line,17 Goals to Transform our World,Біздің өмірді көркейту үшін 17 мақсат
+header:high_contrast,High contrast,жоғары контраст
+header:default_contrast,Default contrast,әдепкі контраст
+header:enable_high_contrast,Enable high contrast,Жоғары контрастты қосыңыз
+header:disable_high_contrast,Disable high contrast,Жоғары контрастты ажыратыңыз
+search:search,Search,Іздеу
+search:indicator_search,Indicator search,Көрсеткішті іздеу
+search:search_results_for,Search results for,Сіздің сұрауыңыз бойынша нәтижелер
+search:found_in,found in,Табылды
+search:keywords,Keywords,Кілтті сөздер
+search:no_results,No results,Нәтижелер табылмаған
+search:did_you_mean,did you mean,айтқыңыз келді ме
+global_goals:1-short,No poverty,Кедейлікті жою
+global_goals:1-title,End poverty in all its forms everywhere,Кедейлікті оның барлық нысандарында жаппай жою
+global_goals:10-short,Reduced inequalities,Теңсіздікті қысқарту
+global_goals:10-title,Reduce inequality within and among countries,Елдер ішіндегі және олардың арасындағы теңсіздікті қысқарту
+global_goals:11-short,Sustainable cities & communities,Тұрақты қалалар мен елді мекендер
+global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Қалалар мен елді мекендердің ашықтығын, қауіпсіздігін, өміршеңдігін және экологиялық тұрақтылығын қамтамасыз ету"
+global_goals:12-short,Responsible consumption and production,Жауапты тұтыну мен өндіру
+global_goals:12-title,Ensure sustainable consumption and production patterns,Оңтайлы тұтыну мен өндіру үлгілеріне өтуді қамтамасыз ету
+global_goals:13-short,Climate action,Климаттың өзгеруіне қарсы күрес
+global_goals:13-title,Take urgent action to combat climate change and its impacts,Климаттың өзгеруімен және оның салдарларымен күрес бойынша шұғыл шаралар қабылдау
+global_goals:14-short,Life below water,Мұхит экожүйелерін қорғау
+global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Мұхиттарды, теңіздерді және теңіз ресурстарын тұрақты даму мүдделерінде сақтау және оңтайлы пайдалану"
+global_goals:15-short,Life on land,Құрлық экожүйелерін қорғау
+global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Құрлық экожүйелерін қорғау және қалпына келтіру және олардың оңтайлы пайдаланылуына жәрдемдесу, ормандарды оңтайлы пайдалану, шөлейттенумен күрес, жердің азу үдерісін тоқтату және кері бұру және биоәртүрлілікті жоғалту үдерісін тоқтату"
+global_goals:16-short,Peace and justice - strong institutions,"Бейбітшілік, сот әділдігі мен мен мықты институттар"
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Тұрақты даму мүдделерінде бейбіт және ашық қоғамның құрылуына жәрдемдесу, барлығы үшін сот әділдігіне қол жеткізу мүмкіндігін қамтамасыз ету және барлық деңгейлерде тиімді, есеп беруге міндетті және кең қатысуға негізделген мекемелерді құру"
+global_goals:17-short,Partnerships for the goals,Тұрақты даму мүдделеріндегі әріптестіктер
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Тұрақты даму мүдделеріндегі жаһандық әріптестіктердің шектерінде жүзеге асыру құралдарын нығайту және жұмысты жандандыру
+global_goals:2-short,Zero hunger,Аштықты жою
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Аштықты жою, азық-түлік қауіпсіздігін қамтамасыз ету және тамақтануды жақсарту және ауыл шаруашылығын тұрақты дамытуға жәрдемдесу"
+global_goals:3-short,Good health and well-being,Денсаулық пен амандық
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Салауатты өмір салтын қамтамасыз ету және кез келген жаста барлығының амандығына жәрдемдесу
+global_goals:4-short,Quality education,Сапалы білім беру
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Ауқымды және әділетті сапалы білім беруді қамтамасыз ету және барлығы үшін бүкіл өмір бойы оқу мүмкіндігін көтермелеу
+global_goals:5-short,Gender equality,Гендерлік теңдік
+global_goals:5-title,Achieve gender equality and empower all women and girls,Гендерлік теңдікті қамтамасыз ету және барлық әйелдер мен қыздардың құқықтары мен мүмкіндіктерін кеңейту
+global_goals:6-short,Clean water and sanitation,Таза су мен санитария
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Су ресурстары мен санитарияның барлығы үшін болуы мен тиімді пайдаланылуын қамтамасыз ету
+global_goals:7-short,Affordable and clean energy,Қолжетімді әрі таза энергия
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Қымбат емес, сенімді, тұрақты және заманауи энергия көздерінің барлығы үшін жаппай қолжетімділігін қамтамасыз ету"
+global_goals:8-short,Decent jobs and economic growth,Лайықты жұмыс пен экономикалық өсу
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Барлығы үшін алға бағытталған, ауқымды және тұрақты экономикалық өсуге, толық және өнімді жұмысбастылыққа және лайықты жұмысқа жәрдемдесу"
+global_goals:9-short,"Industry, innovation and infrastructure","Индустриализация, инновациялар мен инфрақұрылым"
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Берік инфрақұрылым құру, ауқымды және тұрақты индустриализация мен инновацияларға жәрдемдесу"
+menu:menu,Menu,Меню
+menu:reporting_status,Reporting Status,Есептіліктің жағдайы
+menu:about,About,Біз туралы
+menu:publications,Publications,Жарияланымдар
+menu:guidance,Guidance,Басшылық
+menu:faq,FAQ,Жиі қойылатын сұрақтар
+menu:contact_us,Contact us,Бізбен хабарласыңыз
+menu:cookies,Cookies,Cookies
+menu:updates,Updates,
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Жынысы, жасы, жұмыспен қамтылу мәртебесі және және тұрғылықты жері бойынша бөліністегі халықаралық кедейлік шегінен тыс өмір сүретін халық үлесі"
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age",Жынысы және жасы бойынша бөлінісінеде  ресми кедейлік шегінен тыс өмір сүретін халық үлесі 
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Ұлттық анықтамаларға сәйкес кедейліктің барлық көріністерінде өмір сүретін еркектер, әйелдер және барлық жастағы балалар үлесі"

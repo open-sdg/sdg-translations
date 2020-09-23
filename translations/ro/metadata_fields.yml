@@ -1,8 +1,9 @@
 comments_limitations: Alte informații
+comparison_global: Comparabilitatea cu metadatele globale
 computation_calculations:
 computation_definitions: Formula și definiții
 computation_units: Unitatea de măsură
-goal_meta_link: Link spre metadatele ONU
+goal_meta_link: Metadatele ONU
 indicator: Numărul indicatorului
 indicator_definition: Descrierea indicatorului global
 indicator_name: Denumire indicator
@@ -18,6 +19,8 @@ source_contact_3: Contacte
 source_contact_4: Contacte
 source_contact_5: Contacte
 source_contact_6: Contacte
+source_data_source_1: Sursa de date
+source_data_supplier_1: Furnizor de date
 source_earliest_available_1: Cele mai recente date disponibile
 source_earliest_available_2: Cele mai recente date disponibile
 source_earliest_available_3: Cele mai recente date disponibile

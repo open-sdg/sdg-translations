@@ -2028,8 +2028,8 @@
 "ro":{
 
     "frontpage":{
-        "heading":"%name date pentru indicatorii Obiectivului de Dezvoltare Durabilă",
-        "instructions":"Faceți click pe fiecare obiectiv, sau %before_link căutare, %after_link pentru %name indicatori statistici globali pentru Obiectivul de Dezvoltare Durabilă"
+        "heading":"Republica %name  - date privind indicatorii Obiectivelor de Dezvoltare Durabilă",
+        "instructions":"Faceți click pe fiecare obiectiv, sau click %before_link Căutare statistici %after_link  privind Obiectivele de Dezvoltare Durabilă pentru Republica %name"
     },
     "general":{
         "goal":"Obiectiv",
@@ -3892,49 +3892,49 @@
         }
     },
     "header":{
-        "alpha":"Alfa",
-        "disclaimer":"Acesta este un site web în dezvoltare. Vă salutăm<a href=\"mailto:%email_address\">feedback</a>.",
-        "skip_link":"Salt la conținutul principal",
+        "alpha":"Alpha",
+        "disclaimer":"Acesta este un site web în dezvoltare. Aici puteți lăsa <a href=\"mailto:%email_address\">sugestiile Dvs.</a>.",
+        "skip_link":"Trecere la conținutul principal",
         "tag_line":"17 Obiective pentru transformarea lumii",
 		"enable_high_contrast": "Activare contrast înalt",
 		"disable_high_contrast": "Dezactivare contrast înalt"
     },
     "indicator":{
         "chart":"Grafic",
-        "clear_all":"Ștergere tot",
-        "clear_selections":"Ștergere selecții",
-        "dataset_size_warning":"Există prea multe seturi de date pentru afișare în grafic. Nu toate vor fi afișate până când nu eliminați unele selecții.",
-        "download_chart":"Descarcă Graficul CSV",
-        "download_csv":"Descărcați CSV",
-        "download_csv_title":"Descărcați ca CSV",
-        "download_headline":"Descărcați Headline CSV",
+        "clear_all":"Deselectează tot",
+        "clear_selections":"Șterge selecțiile",
+        "dataset_size_warning":"Există prea multe seturi de date pentru afișare în grafic. Nu toate vor fi afișate până când nu ștergeți unele selecții.",
+        "download_chart":"Descarcă Graficul, .CSV",
+        "download_csv":"Descărcați .CSV",
+        "download_csv_title":"Descărcați în format .CSV",
+        "download_headline":"Descărcați Headline ca CSV",
         "download_headline_title":"Descărcați datele headline ca CSV",
-        "download_source":"Descărcați sursa CSV",
-        "download_source_title":"Descărcați datele sursă ca CSV",
-        "download_table":"Descărcați tabelul CSV",
+        "download_source":"Descărcați sursa, .CSV",
+        "download_source_title":"Descărcați datele sursă în format .CSV",
+        "download_table":"Descărcați tabelul, .CSV",
         "edit":"Editare",
         "edit_data":"Editare date",
         "edit_metadata":"Editare metadate",
         "footnote":"Note",
-        "geographical_area":"Aria geografică",
+        "geographical_area":"Acoperirea geografică",
         "global_metadata":"Metadate globale",
-        "global_metadata_blurb":"Acest tabel oferă informații despre metadatele pentru indicatorii ODD, astfel cum sunt definiți de Comisia de statistică a ONU. <a href=\"https://unstats.un.org/sdgs/metadata/\">Complete global metadata</a> este furnizat de Direcția de Statistică a ONU.",
-        "legend_help":"Faceți clic pe legendă pentru a șterge liniile individuale din grafic.",
+        "global_metadata_blurb":"Metadatele globale oferă informații despre metadatele privind indicatorii ODD așa cum sunt definiți de către Comisia de statistică a ONU.<a href=\"https://unstats.un.org/sdgs/metadata/">Metadate globale complete</a>  sunt oferite de către Direcția de Statistică a ONU.",
+        "legend_help":"Faceți click pe elementele legendei pentru a șterge liniile corespunzătoare din grafic.",
         "loading_map":"Se încarcă harta",
         "map":"Hartă",
         "national_metadata":"Metadate naționale",
-        "national_metadata_blurb":"Acest tabel furnizează metadate pentru indicatorul actual disponibil din %country_name statisticile cele mai apropiate de indicatorul global ODD corespunzător. Vă rugăm să rețineți că, chiar și atunci când indicatorul global ODD este complet disponibil %country_adjective, acest tabel trebuie consultat pentru informații despre metodologia națională și alte %country_adjective- metadate specifice.",
+        "national_metadata_blurb":"Metadatele naționale prezintă metadatele pentru indicatorul disponibil în Republica %country_name cel mai apropiat de indicatorul global ODD corespunzător. Chiar dacă indicatorul global ODD este complet disponibil în Republica %country_name, aceste metadate trebuie consultate pentru informații despre metodologia națională și alte informații specifice.",
         "no_data_hint":"Nu există opțiuni disponibile din cauza filtrelor de mai sus",
-        "select_all":"Selectare tot",
+        "select_all":"Selectează tot",
         "series_help":"Alegeți categoriile din listele de mai jos pentru a vedea diferite dezagregări ale datelor. Unele nu vor fi disponibile dacă un nivel superior nu va fi ales.",
-        "source":"Sursă",
+        "source":"Sursa",
         "sources":"Surse",
         "sub_categories":"Sub-categorii",
         "table":"Tabel",
         "unit_of_measurement":"Unitatea de măsură",
-        "units_type":"Tipuri de unități",
-        "variable_hint":"Disponibil când '%field' este selectat",
-        "view_indicator_list":"Vizualizați lista indicatorilor acestui obiectiv"
+        "units_type":"Tipuri de unități de măsură",
+        "variable_hint":"Disponibil când '%field' va fi selectat",
+        "view_indicator_list":"Vizualizați lista indicatorilor pentru acest obiectiv"
     },
     "languages":{
         "en":"English",
@@ -4046,11 +4046,12 @@
     "status":{
         "exploring_data_sources":"Explorarea surselor de date",
         "not_applicable":"Nu se aplică",
-        "overall_reporting_status":"Starea generală a raportării",
+        "overall_reporting_status":"Statutul general al raportării",
         "reported_online":"Raportat online",
-        "reporting_status":"Raportarea stării",
-        "statistics_in_progress":"Statistici în curs",
-        "status_by_goal":"Stare conform obiectivului"
+        "reporting_status":"Statutul raportării",
+        "statistics_in_progress":"Statistici în curs de dezvoltare",
+        "status_by_goal":"Statutul pe fiecare obiectiv",
+		"indicators": "indicatori"
     }
 }
 }

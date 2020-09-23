@@ -1,46 +1,46 @@
-select_all: Selectare tot
-clear_all: Ștergere tot
-clear_selections: Ștergere selecții
-variable_hint: Disponibil când '%field' este selectat
+select_all: Selectează tot
+clear_all: Deselectează tot
+clear_selections: Șterge selecțiile
+variable_hint: Disponibil când '%field' va fi selectat
 no_data_hint: Nu există opțiuni disponibile din cauza filtrelor de mai sus
-download_headline: Descărcați Headline CSV
+download_headline: Descărcați Headline ca CSV
 download_headline_title: Descărcați datele headline ca CSV
-download_source: Descărcați sursa CSV
-download_source_title: Descărcați datele sursă ca CSV
-download_chart: Descarcă Graficul CSV
-download_table: Descărcați tabelul CSV
-download_csv: Descărcați CSV
-download_csv_title: Descărcați ca CSV
-source: Sursă
+download_source: Descărcați sursa, .CSV
+download_source_title: Descărcați datele sursă în format .CSV
+download_chart: Descarcă Graficul, .CSV
+download_table: Descărcați tabelul, .CSV
+download_csv: Descărcați .CSV
+download_csv_title: Descărcați în format .CSV
+source: Sursa
 sources: Surse
-geographical_area: Aria geografică
+geographical_area: Acoperirea geografică
 unit_of_measurement: Unitatea de măsură
 footnote: Note
-units_type: Tipuri de unități
+units_type: Tipuri de unități de măsură
 dataset_size_warning: Există prea multe seturi de date pentru afișare în grafic. Nu toate
-  vor fi afișate până când nu eliminați unele selecții.
-view_indicator_list: Vizualizați lista indicatorilor acestui obiectiv
+  vor fi afișate până când nu ștergeți unele selecții.
+view_indicator_list: Vizualizați lista indicatorilor pentru acest obiectiv
 sub_categories: Sub-categorii
 series_help: Alegeți categoriile din listele de mai jos pentru a vedea diferite
   dezagregări ale datelor. Unele nu vor fi disponibile dacă un nivel superior nu 
   va fi ales.
-legend_help: Faceți clic pe legendă pentru a șterge liniile individuale din grafic.
+legend_help: Faceți click pe elementele legendei pentru a șterge liniile corespunzătoare din grafic.
 chart: Grafic
 table: Tabel
 map: Hartă
 loading_map: Se încarcă harta
 national_metadata: Metadate naționale
-national_metadata_blurb: Acest tabel furnizează metadate pentru indicatorul actual
-  disponibil din %country_name statisticile cele mai apropiate de indicatorul
-  global ODD corespunzător. Vă rugăm să rețineți că, chiar și atunci când indicatorul global ODD este
-  complet disponibil %country_adjective, acest tabel 
-  trebuie consultat pentru informații despre metodologia națională și alte 
-  %country_adjective- metadate specifice.
+national_metadata_blurb: Metadatele naționale prezintă metadatele pentru indicatorul 
+  disponibil în Republica %country_name cel mai apropiat de indicatorul
+  global ODD corespunzător. Chiar dacă indicatorul global ODD este
+  complet disponibil în Republica %country_name, aceste metadate 
+  trebuie consultate pentru informații despre metodologia națională și alte 
+  informații specifice.
 global_metadata: Metadate globale
-global_metadata_blurb: Acest tabel oferă informații despre metadatele pentru indicatorii ODD,
-  astfel cum sunt definiți de Comisia de statistică a ONU.
-  <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
-  este furnizat de Direcția de Statistică a ONU.
+global_metadata_blurb: Metadatele globale oferă informații despre metadatele privind indicatorii ODD
+ așa cum sunt definiți de către Comisia de statistică a ONU.
+  <a href="https://unstats.un.org/sdgs/metadata/">Metadate globale complete</a>
+  sunt oferite de către Direcția de Statistică a ONU.
 edit: Editare
 edit_data: Editare date
 edit_metadata: Editare metadate

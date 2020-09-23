@@ -1,7 +1,7 @@
-reporting_status: Raportarea stării
-overall_reporting_status: Starea generală a raportării
+reporting_status: Statutul raportării
+overall_reporting_status: Statutul general al raportării
 reported_online: Raportat online
-statistics_in_progress: Statistici în curs
+statistics_in_progress: Statistici în curs de dezvoltare
 exploring_data_sources: Explorarea surselor de date
 not_applicable: Nu se aplică
-status_by_goal: Stare conform obiectivului
+status_by_goal: Statutul pe fiecare obiectiv

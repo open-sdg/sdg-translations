@@ -2,8 +2,8 @@
   "en":{
 
     "frontpage":{
-        "heading":"%name data for Sustainable Development Goal indicators",
-        "instructions":"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators."
+        "heading":"Republic of %name data for Sustainable Development Goal indicators",
+        "instructions":"Click on each goal, or %before_link search, %after_link statistics for Sustainable Development Goal global indicators."
     },
     "general":{
         "goal":"Goal",
@@ -2032,7 +2032,7 @@
         "instructions":"Faceți click pe fiecare obiectiv, sau click %before_link Căutare statistici %after_link  privind Obiectivele de Dezvoltare Durabilă pentru Republica %name"
     },
     "general":{
-        "goal":"Obiectiv",
+        "goal":"Obiectivul",
         "goals":"Obiective",
         "home":"Acasă",
         "indicator":"Indicator",
@@ -4051,7 +4051,7 @@
         "reporting_status":"Statutul raportării",
         "statistics_in_progress":"Statistici în curs de dezvoltare",
         "status_by_goal":"Statutul pe fiecare obiectiv",
-		"indicators": "indicatori"
+	"indicators": "indicatori"
     }
 }
 }

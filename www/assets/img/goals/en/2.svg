@@ -1,17 +1,12 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #dda63a;
-      }
-
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 1000 1000" focusable="false"><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-general-link"></link><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-custom-link"></link><style xmlns="" type="text/css" id="dark-mode-custom-style"></style>
+ <defs>
+   <style>
       .cls-2 {
         fill: #fff;
       }
     </style>
   </defs>
-  <title>Artboard 1</title>
-  <rect id="_Path_" data-name="&lt;Path&gt;" class="cls-1" y="-0.02" width="1000" height="1000.04"/>
+  <title>2. Zero hunger</title>
   <path id="_Path_2" data-name="&lt;Path&gt;" class="cls-2" d="M187,257.76H131.41v-9.52c0-15.75,5.65-21.7,14.27-30.92l21.7-22.9c17.55-18.73,21.42-30.63,21.42-50.86V123.94c0-28.84-14-42.53-44.31-42.53-29.73,0-44.91,15.76-44.91,44V149.8h30.94V124.52c0-12.18,5.94-15.76,13.09-15.76,6.53,0,12.18,2.69,12.18,15.18v16.65c0,16.66-1.49,23.2-12.49,34.79l-19,20.22C105.84,215.24,99,228.33,99,248.24v37.18h88Z"/>
   <g>
     <path id="_Path_3" data-name="&lt;Path&gt;" class="cls-2" d="M413.12,849.72v14.07a1.54,1.54,0,0,0-.05.31,1.63,1.63,0,0,0,.05.33,6.6,6.6,0,0,0,6.48,6.32s.08,0,.13,0l.16,0h165s.09,0,.14,0l.15,0a6.63,6.63,0,0,0,6.5-6.6s0,0,0,0a.07.07,0,0,1,0-.05V848.14c92.86-30.44,162.43-105.7,177.73-197.42,0-.2.06-.38.09-.55a5.85,5.85,0,0,0,.09-.92,6.66,6.66,0,0,0-6.67-6.67H237.14a6.67,6.67,0,0,0-6.69,6.67l.35,3c16.07,92.59,87.54,168.27,182.32,197.47"/>

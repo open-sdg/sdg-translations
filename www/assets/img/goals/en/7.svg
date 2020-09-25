@@ -1,17 +1,12 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fcc30b;
-      }
-
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 1000 1000" focusable="false"><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-general-link"></link><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-custom-link"></link><style xmlns="" type="text/css" id="dark-mode-custom-style"></style>
+ <defs>
+   <style>
       .cls-2 {
         fill: #fff;
       }
     </style>
   </defs>
-  <title>Artboard 1</title>
-  <rect id="_Path_" data-name="&lt;Path&gt;" class="cls-1" y="-0.02" width="1000" height="1000.03"/>
+  <title>7. Affordable and clean energy</title>
   <polygon id="_Path_2" data-name="&lt;Path&gt;" class="cls-2" points="102.57 111.45 154.92 111.45 109.7 285.42 143.32 285.42 187.63 115.02 187.63 83.79 102.57 83.79 102.57 111.45"/>
   <g>
     <path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" class="cls-2" d="M500,484.49A146.58,146.58,0,1,0,646.52,631.06,146.56,146.56,0,0,0,500,484.49m-10.85,57.9c0-4.87,4.89-10.25,10.91-10.25s10.85,5.38,10.85,10.25v50.33c0,4.85-4.85,10.17-10.85,10.17s-10.91-5.32-10.91-10.17ZM500,706.16a76.24,76.24,0,0,1-22.65-149v28.39a49.89,49.89,0,1,0,45.18-.07V557.09A76.24,76.24,0,0,1,500,706.16"/>

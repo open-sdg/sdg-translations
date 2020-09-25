@@ -1,17 +1,12 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #56c02b;
-      }
-
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 1000 1000" focusable="false"><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-general-link"></link><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-custom-link"></link><style xmlns="" type="text/css" id="dark-mode-custom-style"></style>
+ <defs>
+   <style>
       .cls-2 {
         fill: #fff;
       }
     </style>
   </defs>
-  <title>Artboard 1</title>
-  <rect class="cls-1" width="1000" height="1000"/>
+  <title>15. Life on land</title>
   <polygon class="cls-2" points="319.56 83.7 319.56 165.48 349.71 165.48 349.71 154.26 333.31 154.26 333.31 83.7 319.56 83.7"/>
   <rect class="cls-2" x="357.19" y="83.7" width="13.74" height="81.77"/>
   <polygon class="cls-2" points="379.97 165.48 393.71 165.48 393.71 129.41 407.46 129.41 407.46 118.32 393.71 118.32 393.71 94.92 412.14 94.92 412.14 83.7 379.97 83.7 379.97 165.48"/>

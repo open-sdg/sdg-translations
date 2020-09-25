@@ -1,17 +1,12 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #0a97d9;
-      }
-
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 1000 1000" focusable="false"><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-general-link"></link><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-custom-link"></link><style xmlns="" type="text/css" id="dark-mode-custom-style"></style>
+ <defs>
+   <style>
       .cls-2 {
         fill: #fff;
       }
     </style>
   </defs>
-  <title>Artboard 1</title>
-  <rect class="cls-1" width="1000" height="1000"/>
+  <title>14. Life below water</title>
   <polygon class="cls-2" points="130.29 84.14 130.29 285.67 96.39 285.67 96.39 131.41 96.1 131.41 72.33 156.07 72.02 156.07 72.02 120.7 103.23 84.14 130.29 84.14"/>
   <rect class="cls-2" x="355.6" y="83.71" width="13.74" height="81.77"/>
   <polygon class="cls-2" points="377.39 165.49 391.13 165.49 391.13 129.41 404.87 129.41 404.87 118.32 391.13 118.32 391.13 94.92 409.57 94.92 409.57 83.71 377.39 83.71 377.39 165.49"/>

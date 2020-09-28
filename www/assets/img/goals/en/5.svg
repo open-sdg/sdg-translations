@@ -1,17 +1,12 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #ff3a21;
-      }
-
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 1000 1000" focusable="false"><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-general-link"></link><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-custom-link"></link><style xmlns="" type="text/css" id="dark-mode-custom-style"></style>
+ <defs>
+   <style>
       .cls-2 {
         fill: #fff;
       }
     </style>
   </defs>
-  <title>Artboard 1</title>
-  <rect class="cls-1" width="999.95" height="1000"/>
+  <title>5. Gender equality</title>
   <path class="cls-2" d="M302.77,166.41c7.49,0,11.35-3.74,13.15-9.88v8.91h9.88V121.79H306.28v10.85h6.51v14.48c0,5.3-2.3,7.83-6.76,7.83-4.7,0-6.75-3.5-6.75-8.44V102.6c0-4.92,2.17-8.43,7.12-8.43s6.87,2.89,6.87,8v8.32H325.8v-7.24c0-12.06-4.46-20.51-19.64-20.51-14.47,0-20.61,9.29-20.61,22.07v39.56c0,12.66,5.41,22.07,17.22,22.07"/>
   <polygon class="cls-2" points="367.63 154.23 348.59 154.23 348.59 129.38 362.22 129.38 362.22 118.28 348.59 118.28 348.59 94.9 367.63 94.9 367.63 83.67 334.85 83.67 334.85 165.45 367.63 165.45 367.63 154.23"/>
   <polygon class="cls-2" points="387.78 114.07 403.92 165.45 415.98 165.45 415.98 83.67 404.54 83.67 404.54 130.59 389.7 83.67 376.21 83.67 376.21 165.45 387.78 165.45 387.78 114.07"/>

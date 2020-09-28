@@ -1,17 +1,12 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #19486a;
-      }
-
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 1000 1000" focusable="false"><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-general-link"></link><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-custom-link"></link><style xmlns="" type="text/css" id="dark-mode-custom-style"></style>
+ <defs>
+   <style>
       .cls-2 {
         fill: #fff;
       }
     </style>
   </defs>
-  <title>Artboard 1</title>
-  <rect class="cls-1" width="1000" height="1000"/>
+  <title>17. Partnerships for the goals</title>
   <path class="cls-2" d="M319.11,83.68h20.38c13.86,0,18.92,6.87,18.92,18.34v17.24c0,11.47-5.06,18.46-18.92,18.46h-6.63v27.74H319.11Zm13.75,11.21V127.1h5.05c4.71,0,6.74-2.29,6.74-6.76V101.53c0-4.45-2-6.64-6.74-6.64Z"/>
   <path class="cls-2" d="M360.1,165.46l15.44-81.78H391.2l15.54,81.78H392.65l-2.53-15H375.54l-2.42,15Zm17.25-25.94h11l-5.43-32.81h-.12Z"/>
   <path class="cls-2" d="M427.38,128v37.51H413.64V83.68h20c13.86,0,18.92,6.87,18.92,18.34v10.49c0,8.8-3.13,14-11,15.8l13.14,37.15H440.25Zm0-33.06v25.45H432c4.71,0,6.76-2.41,6.76-6.75V101.53c0-4.45-2-6.64-6.76-6.64Z"/>

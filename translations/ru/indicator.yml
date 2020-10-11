@@ -11,6 +11,8 @@ download_headline: Скачать заголовки CSV
 download_headline_title: Скачать данные заголовков в формате CSV
 download_source: Скачать исходные CSV
 download_source_title: Скачать исходные данные в формате CSV
+download_source_sdmx: Скачать исходные SDMX
+download_source_sdmx_title: Скачать исходные данные в формате SDMX
 download_table: Скачать табличные CSV
 download_chart_image: Загрузить изображение диаграммы
 download_chart_image_title: Скачать диаграмму как изображение

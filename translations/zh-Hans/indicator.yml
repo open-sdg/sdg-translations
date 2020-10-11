@@ -10,6 +10,8 @@ download_headline: 下载CSV格式的标题
 download_headline_title: 下载为CSV格式的标题数据
 download_source: 下载CSV格式的来源
 download_source_title: 下载为CSV格式的资源数据
+download_source_sdmx: 下载SDMX格式的来源
+download_source_sdmx_title: 下载为SDMX格式的资源数据
 download_table: 下载CSV格式的表格
 download_chart_image: 下载图表图像
 download_chart_image_title: 下载图表作为图像

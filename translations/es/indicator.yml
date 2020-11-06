@@ -1,7 +1,8 @@
 chart: Gráfico
 clear_all: Limpiar todo
 clear_selections: Borrar selecciones
-data_not_available: Esta información no está disponible. Elija datos alternativos para mostrar.
+data_not_available: Esta información no está disponible. Elija datos alternativos
+  para mostrar.
 dataset_size_warning: Hay demasiados conjuntos de datos para mostrar en el gráfico.
   No todo se mostrará hasta que elimine algunas selecciones.
 download_chart: Descargar CSV de gráfico
@@ -26,9 +27,8 @@ geographical_area: Área geográfica
 global_metadata: Metadatos globales
 global_metadata_blurb: Esta tabla proporciona información sobre los metadatos para
   los indicadores de los ODS tal como los define la Comisión de Estadística de la
-  ONU. <a href="https://unstats.un.org/sdgs/metadata/">La</a> División de Estadística
-  de las Naciones Unidas proporciona <a href="https://unstats.un.org/sdgs/metadata/">los
-  metadatos globales completos</a> .
+  ONU. La <a href="https://unstats.un.org/sdgs/metadata/">División de Estadística
+  de las Naciones Unidas proporciona</a> los metadatos globales completos .
 legend_help: Haga clic en la leyenda para eliminar líneas individuales del gráfico.
 loading: Cargando
 loading_map: Cargando mapa

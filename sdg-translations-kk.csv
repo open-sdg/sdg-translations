@@ -1,155 +1,4 @@
 ﻿key,en,kk
-header:skip_link,Skip to main content,Басты мазмұнына өту
-header:alpha,Alpha,Альфа
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Бұл сайт әзірленуде. Біз сіздердің пікірлеріңізге қуаныштымыз
-header:tag_line,17 Goals to Transform our World,Біздің өмірді көркейту үшін 17 мақсат
-header:high_contrast,High contrast,жоғары контраст
-header:default_contrast,Default contrast,әдепкі контраст
-header:enable_high_contrast,Enable high contrast,Жоғары контрастты қосыңыз
-header:disable_high_contrast,Disable high contrast,Жоғары контрастты ажыратыңыз
-menu:menu,Menu,Меню
-menu:reporting_status,Reporting Status,Есептіліктің жағдайы
-menu:about,About,Біз туралы
-menu:publications,Publications,Жарияланымдар
-menu:guidance,Guidance,Басшылық
-menu:faq,FAQ,Жиі қойылатын сұрақтар
-menu:contact_us,Contact us,Бізбен хабарласыңыз
-menu:cookies,Cookies,Cookies
-menu:updates,Updates,
-status:reporting_status,Reporting Status,Есептіліктің жағдайы
-status:overall_reporting_status,Overall Reporting Status,Есептіліктің жалпы жағдайы
-status:reported_online,Reported online,Интернетте хабарланған
-status:statistics_in_progress,Statistics in progress,Статистика орындалу барысында
-status:exploring_data_sources,Exploring data sources,Дереккөздерін зерттеу
-status:not_applicable,Not applicable,Жарамсыз
-status:status_by_goal,Status by goal,Мақсат бойынша мәртебе
-status:status_by_field,Status by %field,%field мәртебесі
-calendar:January,January,Қаңтар
-calendar:February,February,Ақпан
-calendar:March,March,Наурыз
-calendar:April,April,Сәуір
-calendar:May,May,Мамыр
-calendar:June,June,Маусым
-calendar:July,July,Шілде
-calendar:August,August,Тамыз
-calendar:September,September,Қыркүйек
-calendar:October,October,Қазан
-calendar:November,November,Қараша
-calendar:December,December,Желтоқсан
-metadata_fields:other_info,Other information,Басқа ақпарат
-metadata_fields:computation_calculations,Calculations,Есептеулер
-metadata_fields:computation_definitions,Definitions,Анықтама
-metadata_fields:computation_units,Unit of measurement,Өлшем бірлігі
-metadata_fields:goal_meta_link,Link to UN metadata,БҰҰ метадеректеріне сілтеме
-metadata_fields:indicator,Indicator number,Көрсеткіштің нөмірі
-metadata_fields:indicator_definition,Global indicator description,Жаһандық көрсеткіштің сипаттамасы
-metadata_fields:indicator_name,Indicator name,Көрсеткіштің атауы
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Көрсеткіштердің бейне тәртібі (мақсаттар парақшасында)
-metadata_fields:national_data_update_url,Data last updated,Деректер соңғы рет жаңартылды
-metadata_fields:national_geographical_coverage,Geographical coverage,Географиялық қамту
-metadata_fields:national_indicator_available,Indicator available,Көрсеткіш қолжетімді
-metadata_fields:national_indicator_description,Indicator description,Көрсеткіштің сипаттамасы
-metadata_fields:national_metadata_update_url,Metadata last updated,Метадеректер соңғы рет жаңартылды
-metadata_fields:source_contact_1,Contact details,Байланысу ақпараты
-metadata_fields:source_contact_2,Contact details,Байланысу ақпараты
-metadata_fields:source_contact_3,Contact details,Байланысу ақпараты
-metadata_fields:source_contact_4,Contact details,Байланысу ақпараты
-metadata_fields:source_contact_5,Contact details,Байланысу ақпараты
-metadata_fields:source_contact_6,Contact details,Байланысу ақпараты
-metadata_fields:source_earliest_available_1,Earliest available data,Ең ерте қолжетімді деректер
-metadata_fields:source_earliest_available_2,Earliest available data,Ең ерте қолжетімді деректер
-metadata_fields:source_earliest_available_3,Earliest available data,Ең ерте қолжетімді деректер
-metadata_fields:source_earliest_available_4,Earliest available data,Ең ерте қолжетімді деректер
-metadata_fields:source_earliest_available_5,Earliest available data,Ең ерте қолжетімді деректер
-metadata_fields:source_earliest_available_6,Earliest available data,Ең ерте қолжетімді деректер
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Географиялық қамту
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Географиялық қамту
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Географиялық қамту
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Географиялық қамту
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Географиялық қамту
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Географиялық қамту
-metadata_fields:source_next_release_1,Next release,Келесі жарияланым
-metadata_fields:source_next_release_2,Next release,Келесі жарияланым
-metadata_fields:source_next_release_3,Next release,Келесі жарияланым
-metadata_fields:source_next_release_4,Next release,Келесі жарияланым
-metadata_fields:source_next_release_5,Next release,Келесі жарияланым
-metadata_fields:source_next_release_6,Next release,Келесі жарияланым
-metadata_fields:source_organisation_1,Organisation,Ұйым
-metadata_fields:source_organisation_2,Organisation,Ұйым
-metadata_fields:source_organisation_3,Organisation,Ұйым
-metadata_fields:source_organisation_4,Organisation,Ұйым
-metadata_fields:source_organisation_5,Organisation,Ұйым
-metadata_fields:source_organisation_6,Organisation,Ұйым
-metadata_fields:source_other_info_1,Other information,Басқа ақпарат
-metadata_fields:source_other_info_2,Other information,Басқа ақпарат
-metadata_fields:source_other_info_3,Other information,Басқа ақпарат
-metadata_fields:source_other_info_4,Other information,Басқа ақпарат
-metadata_fields:source_other_info_5,Other information,Басқа ақпарат
-metadata_fields:source_other_info_6,Other information,Басқа ақпарат
-metadata_fields:source_periodicity_1,Periodicity,Мерзімділік
-metadata_fields:source_periodicity_2,Periodicity,Мерзімділік
-metadata_fields:source_periodicity_3,Periodicity,Мерзімділік
-metadata_fields:source_periodicity_4,Periodicity,Мерзімділік
-metadata_fields:source_periodicity_5,Periodicity,Мерзімділік
-metadata_fields:source_periodicity_6,Periodicity,Мерзімділік
-metadata_fields:source_release_date_1,Release date,Жарияланымның күні
-metadata_fields:source_release_date_2,Release date,Жарияланымның күні
-metadata_fields:source_release_date_3,Release date,Жарияланымның күні
-metadata_fields:source_release_date_4,Release date,Жарияланымның күні
-metadata_fields:source_release_date_5,Release date,Жарияланымның күні
-metadata_fields:source_release_date_6,Release date,Жарияланымның күні
-metadata_fields:source_statistical_classification_1,Statistical classification,Статистикалық жіктелім
-metadata_fields:source_statistical_classification_2,Statistical classification,Статистикалық жіктелім
-metadata_fields:source_statistical_classification_3,Statistical classification,Статистикалық жіктелім
-metadata_fields:source_statistical_classification_4,Statistical classification,Статистикалық жіктелім
-metadata_fields:source_statistical_classification_5,Statistical classification,Статистикалық жіктелім
-metadata_fields:source_statistical_classification_6,Statistical classification,Статистикалық жіктелім
-metadata_fields:source_url_1,Link to data source,Дереккөздерге сілтеме
-metadata_fields:source_url_2,Link to data source,Дереккөздерге сілтеме
-metadata_fields:source_url_3,Link to data source,Дереккөздерге сілтеме
-metadata_fields:source_url_4,Link to data source,Дереккөздерге сілтеме
-metadata_fields:source_url_5,Link to data source,Дереккөздерге сілтеме
-metadata_fields:source_url_6,Link to data source,Дереккөздерге сілтеме
-metadata_fields:target,Target name,Міндеттің атауы
-metadata_fields:target_id,Target number,Міндеттің нөмірі
-metadata_fields:un_custodian_agency,UN custodian agency,БҰҰ депозитарлық мекемесі
-metadata_fields:un_designated_tier,UN designated tier,БҰҰ-мен тағайындалған деңгейі
-metadata_fields:quality_assurance,Quality assurance,Сапа кепілдігі
-metadata_fields:international_comparability,Comparability with international data/standards,Халықаралық деректермен / стандарттармен салыстыру
-metadata_fields:comments_limitations,Comments and limitations,Пікірлер мен шектеулер
-metadata_fields:rational_interpretation,Rational and interpretation,Рационалды және түсіндіру
-metadata_fields:copyright,Copyright,Авторлық құқық
-post:posts_by_category,Posts by Category,Санат бойынша жарияланымдар
-post:view_all_in_category,View all posts in the %category_name category,Барлық жарияланымдарды санаттарда қарастыру
-general:indicator,Indicator,Көрсеткіш
-general:indicators,Indicators,Көрсеткіштер
-general:goal,Goal,Мақсат
-general:goals,Goals,Мақсат
-general:sdg,Sustainable Development Goals,Тұрақты даму мақсаттары шеңберінде
-general:home,Home,Басты бет
-general:loading,Loading search results,Ізденіс нәтижелерін жүктеу
-general:opens_new_window,opens in a new window,Жаңа қосымша бетте ашылады
-general:hide,hide,жасыру
-general:target,Target,Міндет
-general:targets,Targets,Міндеттер
-general:twitter,Twitter,Twitter
-general:facebook,Facebook,Facebook
-general:built_using_open_sdg,Built using Open SDG,Open SDG көмегімен салынған
-general:page,Page,веб парақ
-general:pages,Pages,веб-парақтар
-search:search,Search,Іздеу
-search:indicator_search,Indicator search,Көрсеткішті іздеу
-search:search_results_for,Search results for,Сіздің сұрауыңыз бойынша нәтижелер
-search:found_in,found in,Табылды
-search:keywords,Keywords,Кілтті сөздер
-search:no_results,No results,Нәтижелер табылмаған
-search:did_you_mean,did you mean,айтқыңыз келді ме
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Әрбір мақсатқа басыңыз, немесе тұрақты даму мақсаттары шеңберінің жаһандық көрсеткіштерінен іздеңіз"
-frontpage:heading,%name data for Sustainable Development Goal indicators,Тұрақты даму мақсаттары шеңбері үшін деректер
-frontpage:download_all,Download all data,Барлық деректерді жүктеп алыңыз
-frontpage:zip_file,ZIP file,ZIP файл
-frontpage:intro_title,17 goals to transform our world,17 мақсат - біздің әлемді өзгерту
-frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","<a href=""https://www.un.org/sustainabledevelopment/ru/"">Тұрақты даму мақсаттары (SDGs)</a> кедейлікті жоюға, планетаны қорғауға және өмірді қорғауға бағытталған әмбебап үндеу. барлық жерде, әркімнің өмірі мен болашағын жақсарту. 17 мақсатты БҰҰ-ға мүше барлық мемлекеттер 2015 жылы <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 тұрақты дамуының күн тәртібі</a>."
 global_goals:1-short,No poverty,Кедейлікті жою
 global_goals:1-title,End poverty in all its forms everywhere,Кедейлікті оның барлық нысандарында жаппай жою
 global_goals:10-short,Reduced inequalities,Теңсіздікті қысқарту
@@ -184,6 +33,68 @@ global_goals:8-short,Decent jobs and economic growth,Лайықты жұмыс �
 global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Барлығы үшін алға бағытталған, ауқымды және тұрақты экономикалық өсуге, толық және өнімді жұмысбастылыққа және лайықты жұмысқа жәрдемдесу"
 global_goals:9-short,"Industry, innovation and infrastructure","Индустриализация, инновациялар мен инфрақұрылым"
 global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Берік инфрақұрылым құру, ауқымды және тұрақты индустриализация мен инновацияларға жәрдемдесу"
+calendar:January,January,Қаңтар
+calendar:February,February,Ақпан
+calendar:March,March,Наурыз
+calendar:April,April,Сәуір
+calendar:May,May,Мамыр
+calendar:June,June,Маусым
+calendar:July,July,Шілде
+calendar:August,August,Тамыз
+calendar:September,September,Қыркүйек
+calendar:October,October,Қазан
+calendar:November,November,Қараша
+calendar:December,December,Желтоқсан
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Әрбір мақсатқа басыңыз, немесе тұрақты даму мақсаттары шеңберінің жаһандық көрсеткіштерінен іздеңіз"
+frontpage:heading,%name data for Sustainable Development Goal indicators,Тұрақты даму мақсаттары шеңбері үшін деректер
+frontpage:download_all,Download all data,Барлық деректерді жүктеп алыңыз
+frontpage:zip_file,ZIP file,ZIP файл
+frontpage:intro_title,17 goals to transform our world,17 мақсат - біздің әлемді өзгерту
+frontpage:intro_body,"The <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda for Sustainable Development</a>.","<a href=""https://www.un.org/sustainabledevelopment/ru/"">Тұрақты даму мақсаттары (SDGs)</a> кедейлікті жоюға, планетаны қорғауға және өмірді қорғауға бағытталған әмбебап үндеу. барлық жерде, әркімнің өмірі мен болашағын жақсарту. 17 мақсатты БҰҰ-ға мүше барлық мемлекеттер 2015 жылы <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 тұрақты дамуының күн тәртібі</a>."
+indicator:select_all,Select all,Барлығын белгілеу
+indicator:clear_all,Clear all,Барлығын тазарту
+indicator:clear_selections,Clear selections,Белгіленгенді тазарту
+indicator:variable_hint,Available when '%field' is selected,Таңдаған кезде қолжетімді
+indicator:no_data_hint,No options available because of filters above,Жоғарыда фильтрлар бар болғандықтан нұсқалар жоқ
+indicator:download_headline,Download Headline CSV,CSV тақырыптарын жүктеу
+indicator:download_headline_title,Download headline data as CSV,CSV тақырыптарының деректерін жүктеу
+indicator:download_source,Download Source CSV,Бастапқы CSV жүктеу
+indicator:download_source_title,Download source data as CSV,Бастапқы деректерді CSV нысанында жүктеу
+indicator:download_source_sdmx,Download Source SDMX,Бастапқы SDMX жүктеу
+indicator:download_source_sdmx_title,Download source data as SDMX,Бастапқы деректерді SDMX нысанында жүктеу
+indicator:download_chart,Download Chart CSV,CSV графигін жүктеу
+indicator:download_table,Download Table CSV,Кестелік CSV жүктеу
+indicator:download_csv,Download CSV,CSV жүктеу
+indicator:download_csv_title,Download as CSV,CSV нысанында жүктеу
+indicator:download_chart_image,Download Chart Image,Диаграмма суретін жүктеу
+indicator:download_chart_image_title,Download chart as image,Диаграмманы сурет ретінде жүктеңіз
+indicator:download_geojson,Download GeoJSON,GeoJSON жүктеу
+indicator:download_geojson_title,Download as GeoJSON,GeoJSON нысанында жүктеу
+indicator:source,Source,Көз
+indicator:sources,Sources,Көздер
+indicator:geographical_area,Geographical Area,Географиялық аудан
+indicator:unit_of_measurement,Unit of Measurement,Өлшем бірлігі
+indicator:footnote,Footnote,Ескерту
+indicator:units_type,Units type,Бірліктер түрі
+indicator:series,Series,Қатар
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Графикте көрсету үшін, кестеде тым көп деректер. Барлығын көру ушін белгіленгенді жойыңыздар"
+indicator:view_indicator_list,View this goal's indicator list,Осы мақсаттың көрсеткіштерінің тізімін көру
+indicator:sub_categories,Sub-categories,Субкатегориялар
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Деректерді түрлі бөліністерді көру үшін , төмендегі түсетін менюдан категорияларды таңдаңыз. Бірнешесі қолжетімді болмайды, одан жоғары деңгейді таңдамағанша"
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Графиктен жолдарды алып тастау үшін легендаға басыңыз
+indicator:chart,Chart,График
+indicator:table,Table,Кесте
+indicator:map,Map,Карта
+indicator:loading,Loading,Жүктелуде
+indicator:loading_map,Loading map,Картаны жүктеу
+indicator:national_metadata,National Metadata,Ұлттық метадеректер
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Бұл кестеде статистикада бар, ТДМ-ң тиісті жаһандық көрсеткішіне ен жақын, нақты көрсеткіш үшін метадеректер ұсынылған. Жаһандық көрсеткіш толығымен қолжетімді болған жағдайда бұл кесте бойынша ұлттық әдіснама және спецификалық метадеректер туралы ақпаратты алу үшін консультация жүргізу керек екеніне көңіл бөлу керек"
+indicator:global_metadata,Global Metadata,Жаһандық метадеректер
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",Бұл кестеде БҰҰ Статистикалық комиссиясымен белгіленген ТДМ көрсеткіштерінің метадеректері үшін ақпарат ұсынылған. Толық жаһандық метадеректер БҰҰ Статистикалық бөлімімен ұсынылған.
+indicator:edit,Edit,Редакциялау
+indicator:edit_data,Edit Data,Деректерді редакциялау
+indicator:edit_metadata,Edit Metadata,Метадеректерді редакциялау
+indicator:data_not_available,This data is not available. Please choose alternative data to display.,Бұл деректер қолжетімсіз. Көрсету үшін балама деректерді таңдаңыз
 global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",2030 жылға дейін бүкіл әлемдегі барша адамзат үшін кедейлікті жою (қазіргі таңда ақырғы кедейлік күніне 1.25 АҚШ долларымен күн көру ретінде анықталады)
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","2030 жылға дейін ұлттық анықтамаларға сәйкес кедейліктің барлық көріністерінде өмір сүріп жатқан еркектер, әйелдер және барлық жастағы балалардың үлесінің кем дегенде жартысын азайту"
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",Барлығына арналған тиісті әлеуметтік қорғау жүйелері мен шараларын ең төменгі деңгейлерді белгілеуді қоса есептеп енгізу және 2030 жылға дейін халықтың кедей әрі осал жігін анағұрлым кең қамту
@@ -353,50 +264,38 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Африка елдерін, ең төмен дамыған елдерді, дамушы елдерді, теңізге шықпайтын елдерді және шағын аралдық дамушы мемлекеттерді қаржылық, технологиялық және техникалық қолдау есебінен экологиялық тұрақты және берік инфрақұрылымның дамуына ықпал ету"
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Дамушы елдердегі отандық технологиялар саласындағы талдамаларды, зерттеулерді және инновацияларды қолдау, соның ішінде негізінен, өнеркәсіпті әртараптандыруға және шикізат салаларында қосылған құнды ұлғайтуға қолайлы жағдай туғызатын, саяси климатты жасау арқылы "
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,Ақпараттық-коммуникациялық технологияларға қолжетімділікті едәуір кеңейту және ең төмен дамыған елдерде Ғаламторға деген жалпыға ортақ және қымбат емес қолжетімділікті 2020 жылға дейін қамтамасыз етуге ұмтылу
-indicator:select_all,Select all,Барлығын белгілеу
-indicator:clear_all,Clear all,Барлығын тазарту
-indicator:clear_selections,Clear selections,Белгіленгенді тазарту
-indicator:variable_hint,Available when '%field' is selected,Таңдаған кезде қолжетімді
-indicator:no_data_hint,No options available because of filters above,Жоғарыда фильтрлар бар болғандықтан нұсқалар жоқ
-indicator:download_headline,Download Headline CSV,CSV тақырыптарын жүктеу
-indicator:download_headline_title,Download headline data as CSV,CSV тақырыптарының деректерін жүктеу
-indicator:download_source,Download Source CSV,Бастапқы CSV жүктеу
-indicator:download_source_title,Download source data as CSV,Бастапқы деректерді CSV нысанында жүктеу
-indicator:download_source_sdmx,Download Source SDMX,Бастапқы SDMX жүктеу
-indicator:download_source_sdmx_title,Download source data as SDMX,Бастапқы деректерді SDMX нысанында жүктеу
-indicator:download_chart,Download Chart CSV,CSV графигін жүктеу
-indicator:download_table,Download Table CSV,Кестелік CSV жүктеу
-indicator:download_csv,Download CSV,CSV жүктеу
-indicator:download_csv_title,Download as CSV,CSV нысанында жүктеу
-indicator:download_chart_image,Download Chart Image,Диаграмма суретін жүктеу
-indicator:download_chart_image_title,Download chart as image,Диаграмманы сурет ретінде жүктеңіз
-indicator:download_geojson,Download GeoJSON,GeoJSON жүктеу
-indicator:download_geojson_title,Download as GeoJSON,GeoJSON нысанында жүктеу
-indicator:source,Source,Көз
-indicator:sources,Sources,Көздер
-indicator:geographical_area,Geographical Area,Географиялық аудан
-indicator:unit_of_measurement,Unit of Measurement,Өлшем бірлігі
-indicator:footnote,Footnote,Ескерту
-indicator:units_type,Units type,Бірліктер түрі
-indicator:series,Series,Қатар
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Графикте көрсету үшін, кестеде тым көп деректер. Барлығын көру ушін белгіленгенді жойыңыздар"
-indicator:view_indicator_list,View this goal's indicator list,Осы мақсаттың көрсеткіштерінің тізімін көру
-indicator:sub_categories,Sub-categories,Субкатегориялар
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Деректерді түрлі бөліністерді көру үшін , төмендегі түсетін менюдан категорияларды таңдаңыз. Бірнешесі қолжетімді болмайды, одан жоғары деңгейді таңдамағанша"
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Графиктен жолдарды алып тастау үшін легендаға басыңыз
-indicator:chart,Chart,График
-indicator:table,Table,Кесте
-indicator:map,Map,Карта
-indicator:loading,Loading,Жүктелуде
-indicator:loading_map,Loading map,Картаны жүктеу
-indicator:national_metadata,National Metadata,Ұлттық метадеректер
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Бұл кестеде статистикада бар, ТДМ-ң тиісті жаһандық көрсеткішіне ен жақын, нақты көрсеткіш үшін метадеректер ұсынылған. Жаһандық көрсеткіш толығымен қолжетімді болған жағдайда бұл кесте бойынша ұлттық әдіснама және спецификалық метадеректер туралы ақпаратты алу үшін консультация жүргізу керек екеніне көңіл бөлу керек"
-indicator:global_metadata,Global Metadata,Жаһандық метадеректер
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",Бұл кестеде БҰҰ Статистикалық комиссиясымен белгіленген ТДМ көрсеткіштерінің метадеректері үшін ақпарат ұсынылған. Толық жаһандық метадеректер БҰҰ Статистикалық бөлімімен ұсынылған.
-indicator:edit,Edit,Редакциялау
-indicator:edit_data,Edit Data,Деректерді редакциялау
-indicator:edit_metadata,Edit Metadata,Метадеректерді редакциялау
-indicator:data_not_available,This data is not available. Please choose alternative data to display.,Бұл деректер қолжетімсіз. Көрсету үшін балама деректерді таңдаңыз
+search:search,Search,Іздеу
+search:indicator_search,Indicator search,Көрсеткішті іздеу
+search:search_results_for,Search results for,Сіздің сұрауыңыз бойынша нәтижелер
+search:found_in,found in,Табылды
+search:keywords,Keywords,Кілтті сөздер
+search:no_results,No results,Нәтижелер табылмаған
+search:did_you_mean,did you mean,айтқыңыз келді ме
+status:reporting_status,Reporting Status,Есептіліктің жағдайы
+status:overall_reporting_status,Overall Reporting Status,Есептіліктің жалпы жағдайы
+status:reported_online,Reported online,Интернетте хабарланған
+status:statistics_in_progress,Statistics in progress,Статистика орындалу барысында
+status:exploring_data_sources,Exploring data sources,Дереккөздерін зерттеу
+status:not_applicable,Not applicable,Жарамсыз
+status:status_by_goal,Status by goal,Мақсат бойынша мәртебе
+status:status_by_field,Status by %field,%field мәртебесі
+header:skip_link,Skip to main content,Басты мазмұнына өту
+header:alpha,Alpha,Альфа
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Бұл сайт әзірленуде. Біз сіздердің пікірлеріңізге қуаныштымыз
+header:tag_line,17 Goals to Transform our World,Біздің өмірді көркейту үшін 17 мақсат
+header:high_contrast,High contrast,жоғары контраст
+header:default_contrast,Default contrast,әдепкі контраст
+header:enable_high_contrast,Enable high contrast,Жоғары контрастты қосыңыз
+header:disable_high_contrast,Disable high contrast,Жоғары контрастты ажыратыңыз
+menu:menu,Menu,Меню
+menu:reporting_status,Reporting Status,Есептіліктің жағдайы
+menu:about,About,Біз туралы
+menu:publications,Publications,Жарияланымдар
+menu:guidance,Guidance,Басшылық
+menu:faq,FAQ,Жиі қойылатын сұрақтар
+menu:contact_us,Contact us,Бізбен хабарласыңыз
+menu:cookies,Cookies,Cookies
+menu:updates,Updates,
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Жынысы, жасы, жұмыспен қамтылу мәртебесі және және тұрғылықты жері бойынша бөліністегі халықаралық кедейлік шегінен тыс өмір сүретін халық үлесі"
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age",Жынысы және жасы бойынша бөлінісінеде  ресми кедейлік шегінен тыс өмір сүретін халық үлесі 
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Ұлттық анықтамаларға сәйкес кедейліктің барлық көріністерінде өмір сүретін еркектер, әйелдер және барлық жастағы балалар үлесі"
@@ -641,3 +540,104 @@ global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,Инфрақұрылымға бағытталатын ресми халықаралық қолдаудың жиынтық көлемі (дамыту мақсатындағы ресми көмек және ресми қаржыландырудың басқа да ағындары) 
 global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,Қосылған құнның жалпы көлеміндегі орташа технологиялық және жоғары технологиялық салалардың өнімдеріне қосылған құн үлесі 
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Технологиялар бойынша бөліністегі ұтқыр желілерімен қамтылған халық үлесі, "
+general:indicator,Indicator,Көрсеткіш
+general:indicators,Indicators,Көрсеткіштер
+general:goal,Goal,Мақсат
+general:goals,Goals,Мақсат
+general:sdg,Sustainable Development Goals,Тұрақты даму мақсаттары шеңберінде
+general:home,Home,Басты бет
+general:loading,Loading search results,Ізденіс нәтижелерін жүктеу
+general:opens_new_window,opens in a new window,Жаңа қосымша бетте ашылады
+general:hide,hide,жасыру
+general:target,Target,Міндет
+general:targets,Targets,Міндеттер
+general:twitter,Twitter,Twitter
+general:facebook,Facebook,Facebook
+general:built_using_open_sdg,Built using Open SDG,Open SDG көмегімен салынған
+general:page,Page,веб парақ
+general:pages,Pages,веб-парақтар
+post:posts_by_category,Posts by Category,Санат бойынша жарияланымдар
+post:view_all_in_category,View all posts in the %category_name category,Барлық жарияланымдарды санаттарда қарастыру
+metadata_fields:other_info,Other information,Басқа ақпарат
+metadata_fields:computation_calculations,Calculations,Есептеулер
+metadata_fields:computation_definitions,Definitions,Анықтама
+metadata_fields:computation_units,Unit of measurement,Өлшем бірлігі
+metadata_fields:goal_meta_link,Link to UN metadata,БҰҰ метадеректеріне сілтеме
+metadata_fields:indicator,Indicator number,Көрсеткіштің нөмірі
+metadata_fields:indicator_definition,Global indicator description,Жаһандық көрсеткіштің сипаттамасы
+metadata_fields:indicator_name,Indicator name,Көрсеткіштің атауы
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Көрсеткіштердің бейне тәртібі (мақсаттар парақшасында)
+metadata_fields:national_data_update_url,Data last updated,Деректер соңғы рет жаңартылды
+metadata_fields:national_geographical_coverage,Geographical coverage,Географиялық қамту
+metadata_fields:national_indicator_available,Indicator available,Көрсеткіш қолжетімді
+metadata_fields:national_indicator_description,Indicator description,Көрсеткіштің сипаттамасы
+metadata_fields:national_metadata_update_url,Metadata last updated,Метадеректер соңғы рет жаңартылды
+metadata_fields:source_contact_1,Contact details,Байланысу ақпараты
+metadata_fields:source_contact_2,Contact details,Байланысу ақпараты
+metadata_fields:source_contact_3,Contact details,Байланысу ақпараты
+metadata_fields:source_contact_4,Contact details,Байланысу ақпараты
+metadata_fields:source_contact_5,Contact details,Байланысу ақпараты
+metadata_fields:source_contact_6,Contact details,Байланысу ақпараты
+metadata_fields:source_earliest_available_1,Earliest available data,Ең ерте қолжетімді деректер
+metadata_fields:source_earliest_available_2,Earliest available data,Ең ерте қолжетімді деректер
+metadata_fields:source_earliest_available_3,Earliest available data,Ең ерте қолжетімді деректер
+metadata_fields:source_earliest_available_4,Earliest available data,Ең ерте қолжетімді деректер
+metadata_fields:source_earliest_available_5,Earliest available data,Ең ерте қолжетімді деректер
+metadata_fields:source_earliest_available_6,Earliest available data,Ең ерте қолжетімді деректер
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Географиялық қамту
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Географиялық қамту
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Географиялық қамту
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Географиялық қамту
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Географиялық қамту
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Географиялық қамту
+metadata_fields:source_next_release_1,Next release,Келесі жарияланым
+metadata_fields:source_next_release_2,Next release,Келесі жарияланым
+metadata_fields:source_next_release_3,Next release,Келесі жарияланым
+metadata_fields:source_next_release_4,Next release,Келесі жарияланым
+metadata_fields:source_next_release_5,Next release,Келесі жарияланым
+metadata_fields:source_next_release_6,Next release,Келесі жарияланым
+metadata_fields:source_organisation_1,Organisation,Ұйым
+metadata_fields:source_organisation_2,Organisation,Ұйым
+metadata_fields:source_organisation_3,Organisation,Ұйым
+metadata_fields:source_organisation_4,Organisation,Ұйым
+metadata_fields:source_organisation_5,Organisation,Ұйым
+metadata_fields:source_organisation_6,Organisation,Ұйым
+metadata_fields:source_other_info_1,Other information,Басқа ақпарат
+metadata_fields:source_other_info_2,Other information,Басқа ақпарат
+metadata_fields:source_other_info_3,Other information,Басқа ақпарат
+metadata_fields:source_other_info_4,Other information,Басқа ақпарат
+metadata_fields:source_other_info_5,Other information,Басқа ақпарат
+metadata_fields:source_other_info_6,Other information,Басқа ақпарат
+metadata_fields:source_periodicity_1,Periodicity,Мерзімділік
+metadata_fields:source_periodicity_2,Periodicity,Мерзімділік
+metadata_fields:source_periodicity_3,Periodicity,Мерзімділік
+metadata_fields:source_periodicity_4,Periodicity,Мерзімділік
+metadata_fields:source_periodicity_5,Periodicity,Мерзімділік
+metadata_fields:source_periodicity_6,Periodicity,Мерзімділік
+metadata_fields:source_release_date_1,Release date,Жарияланымның күні
+metadata_fields:source_release_date_2,Release date,Жарияланымның күні
+metadata_fields:source_release_date_3,Release date,Жарияланымның күні
+metadata_fields:source_release_date_4,Release date,Жарияланымның күні
+metadata_fields:source_release_date_5,Release date,Жарияланымның күні
+metadata_fields:source_release_date_6,Release date,Жарияланымның күні
+metadata_fields:source_statistical_classification_1,Statistical classification,Статистикалық жіктелім
+metadata_fields:source_statistical_classification_2,Statistical classification,Статистикалық жіктелім
+metadata_fields:source_statistical_classification_3,Statistical classification,Статистикалық жіктелім
+metadata_fields:source_statistical_classification_4,Statistical classification,Статистикалық жіктелім
+metadata_fields:source_statistical_classification_5,Statistical classification,Статистикалық жіктелім
+metadata_fields:source_statistical_classification_6,Statistical classification,Статистикалық жіктелім
+metadata_fields:source_url_1,Link to data source,Дереккөздерге сілтеме
+metadata_fields:source_url_2,Link to data source,Дереккөздерге сілтеме
+metadata_fields:source_url_3,Link to data source,Дереккөздерге сілтеме
+metadata_fields:source_url_4,Link to data source,Дереккөздерге сілтеме
+metadata_fields:source_url_5,Link to data source,Дереккөздерге сілтеме
+metadata_fields:source_url_6,Link to data source,Дереккөздерге сілтеме
+metadata_fields:target,Target name,Міндеттің атауы
+metadata_fields:target_id,Target number,Міндеттің нөмірі
+metadata_fields:un_custodian_agency,UN custodian agency,БҰҰ депозитарлық мекемесі
+metadata_fields:un_designated_tier,UN designated tier,БҰҰ-мен тағайындалған деңгейі
+metadata_fields:quality_assurance,Quality assurance,Сапа кепілдігі
+metadata_fields:international_comparability,Comparability with international data/standards,Халықаралық деректермен / стандарттармен салыстыру
+metadata_fields:comments_limitations,Comments and limitations,Пікірлер мен шектеулер
+metadata_fields:rational_interpretation,Rational and interpretation,Рационалды және түсіндіру
+metadata_fields:copyright,Copyright,Авторлық құқық

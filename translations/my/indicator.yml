@@ -35,3 +35,10 @@ unit_of_measurement: တိုင်းတာသောယူနစါ
 units_type: ယူနစ်များ၏အမျိုးအစားများ
 variable_hint: ''
 view_indicator_list: ရည်မှန်းချက်များအညွှန်းစာရင်းကိုကြည့်ရှုရန်
+data_not_available: ''
+download_source_sdmx: ''
+download_source_sdmx_title: ''
+download_geojson: ''
+download_geojson_title: ''
+loading: ''
+series: ''

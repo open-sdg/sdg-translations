@@ -5,14 +5,13 @@ Future place for validating the translations.
 
 import os
 import yaml
-import ipdb
 
 def require_full_coverage():
     """Make sure that no languages are missing translations."""
 
     # First we compile a full list of ALL translation keys.
     all_keys = {}
-    for root, dirs, files in os.walk('H:\My Documents\programming_projects\burm_temp\sdg-translations\translations'):
+    for root, dirs, files in os.walk('translations'):
         language = os.path.basename(root)
         if (language == 'translations'):
             continue
@@ -54,8 +53,6 @@ def require_full_coverage():
 
 
 def main():
-    ipdb.set_trace()
-
     require_full_coverage()
 
 

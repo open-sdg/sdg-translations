@@ -6,3 +6,10 @@ statistics_in_progress: Statistiques en cours
 not_applicable: Non applicable
 status_by_goal: Statut par but
 status_by_field: Statut par %field
+disaggregation_status: ''
+disaggregation_status_overall: ''
+disaggregation_status_complete: ''
+disaggregation_status_inprogress: ''
+disaggregation_status_notstarted: ''
+disaggregation_status_notapplicable: ''
+disaggregation_status_by_field: ''

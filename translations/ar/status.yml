@@ -6,3 +6,10 @@ statistics_in_progress: الاحصائيات دائرة
 not_applicable: لايمكن تطبيقه
 status_by_goal: الحالة حسب الهدف
 status_by_field: الحالة بواسطة %field
+disaggregation_status: ''
+disaggregation_status_overall: ''
+disaggregation_status_complete: ''
+disaggregation_status_inprogress: ''
+disaggregation_status_notstarted: ''
+disaggregation_status_notapplicable: ''
+disaggregation_status_by_field: ''

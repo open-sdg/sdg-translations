@@ -1,5 +1,5 @@
-reporting_status: Reporting Status
-overall_reporting_status: Overall Reporting Status
+reporting_status: Reporting status
+overall_reporting_status: Overall reporting status
 reported_online: Reported online
 statistics_in_progress: Statistics in progress
 exploring_data_sources: Exploring data sources
@@ -7,3 +7,10 @@ not_applicable: Not applicable
 # Describing a section where the status is reported for each goal
 status_by_goal: Status by goal
 status_by_field: Status by %field
+disaggregation_status: Disaggregation status
+disaggregation_status_overall: Overall disaggregation status
+disaggregation_status_complete: Fully disaggregated
+disaggregation_status_inprogress: Partially disaggregated
+disaggregation_status_notstarted: Not disaggregated
+disaggregation_status_notapplicable: Out of scope
+disaggregation_status_by_field: Disaggregation by %field

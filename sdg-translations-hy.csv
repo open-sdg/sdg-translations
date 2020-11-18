@@ -287,14 +287,21 @@ search:found_in,found in,Գտնված է
 search:keywords,Keywords,Հիմնաբառեր
 search:no_results,No results,Արդյունքներ չկան
 search:did_you_mean,did you mean,դու ի նկատի ունեիր
-status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
+status:reporting_status,Reporting status,Հաշվետվության կարգավիճակը 
+status:overall_reporting_status,Overall reporting status,Ընդհանուր հաշվետվության կարգավիճակը
 status:reported_online,Reported online,Առցանց հաշվետվություն 
 status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
 status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
 status:not_applicable,Not applicable,ոչ կիրառելի
 status:status_by_goal,Status by goal,Գոլի կարգավիճակ
 status:status_by_field,Status by %field,Կարգավիճակը %field
+status:disaggregation_status,Disaggregation status,
+status:disaggregation_status_overall,Overall disaggregation status,
+status:disaggregation_status_complete,Fully disaggregated,
+status:disaggregation_status_inprogress,Partially disaggregated,
+status:disaggregation_status_notstarted,Not disaggregated,
+status:disaggregation_status_notapplicable,Out of scope,
+status:disaggregation_status_by_field,Disaggregation by %field,
 header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
 header:alpha,Alpha,Ալֆա
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "

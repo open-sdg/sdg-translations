@@ -271,14 +271,21 @@ search:found_in,found in,gefunden unter
 search:keywords,Keywords,Schlagworte
 search:no_results,No results,Keine Ergebnisse
 search:did_you_mean,did you mean,meintest du
-status:reporting_status,Reporting Status,Berichtsstatus
-status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
+status:reporting_status,Reporting status,Berichtsstatus
+status:overall_reporting_status,Overall reporting status,Übersicht zum Berichtsstatus
 status:reported_online,Reported online,Daten verfügbar
 status:statistics_in_progress,Statistics in progress,in Bearbeitung
 status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
 status:not_applicable,Not applicable,Nicht zutreffend
 status:status_by_goal,Status by goal,Status nach Ziel
 status:status_by_field,Status by %field,Status von %field
+status:disaggregation_status,Disaggregation status,
+status:disaggregation_status_overall,Overall disaggregation status,
+status:disaggregation_status_complete,Fully disaggregated,
+status:disaggregation_status_inprogress,Partially disaggregated,
+status:disaggregation_status_notstarted,Not disaggregated,
+status:disaggregation_status_notapplicable,Out of scope,
+status:disaggregation_status_by_field,Disaggregation by %field,
 header:skip_link,Skip to main content, Zum Hauptinhalt springen
 header:alpha,Alpha,Alpha-Version
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.

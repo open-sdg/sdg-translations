@@ -85,14 +85,21 @@ search:found_in,found in,encontrado en
 search:keywords,Keywords,Palabras clave
 search:no_results,No results,No hay resultados
 search:did_you_mean,did you mean,querías decir
-status:reporting_status,Reporting Status,Estado de informes
-status:overall_reporting_status,Overall Reporting Status,Estado general de informes
+status:reporting_status,Reporting status,Estado de informes
+status:overall_reporting_status,Overall reporting status,Estado general de informes
 status:reported_online,Reported online,Reportado en línea
 status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
 status:exploring_data_sources,Exploring data sources,Explorando fuentes de datos
 status:not_applicable,Not applicable,No aplicable
 status:status_by_goal,Status by goal,Estados por objetivos
 status:status_by_field,Status by %field,Estado por %field
+status:disaggregation_status,Disaggregation status,
+status:disaggregation_status_overall,Overall disaggregation status,
+status:disaggregation_status_complete,Fully disaggregated,
+status:disaggregation_status_inprogress,Partially disaggregated,
+status:disaggregation_status_notstarted,Not disaggregated,
+status:disaggregation_status_notapplicable,Out of scope,
+status:disaggregation_status_by_field,Disaggregation by %field,
 header:skip_link,Skip to main content,Saltar al contenido principal
 header:alpha,Alpha,Alfa
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Este es un sitio web de desarrollo. Agradecemos sus comentarios.

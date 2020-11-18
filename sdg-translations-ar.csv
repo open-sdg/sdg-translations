@@ -271,14 +271,21 @@ search:found_in,found in,موجود في
 search:keywords,Keywords,الكلمات الدالة
 search:no_results,No results,لا يوجد نتائج
 search:did_you_mean,did you mean,هل تعني
-status:reporting_status,Reporting Status,وضع الاعلان
-status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
+status:reporting_status,Reporting status,وضع الاعلان
+status:overall_reporting_status,Overall reporting status,وضع الاعلان العام
 status:reported_online,Reported online,اعلن على الانترنت
 status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
 status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
 status:not_applicable,Not applicable,لايمكن تطبيقه
 status:status_by_goal,Status by goal,الحالة حسب الهدف
 status:status_by_field,Status by %field,الحالة بواسطة %field
+status:disaggregation_status,Disaggregation status,
+status:disaggregation_status_overall,Overall disaggregation status,
+status:disaggregation_status_complete,Fully disaggregated,
+status:disaggregation_status_inprogress,Partially disaggregated,
+status:disaggregation_status_notstarted,Not disaggregated,
+status:disaggregation_status_notapplicable,Out of scope,
+status:disaggregation_status_by_field,Disaggregation by %field,
 header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
 header:alpha,Alpha,ألفا
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","هذا موقع تطوير. نرحب <a href=""mailto:%email_address""> بتعليقاتكم </a>"

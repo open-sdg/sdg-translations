@@ -1082,14 +1082,21 @@ search:found_in,found in,найдено в
 search:keywords,Keywords,Ключевые слова
 search:no_results,No results,Результатов не найдено
 search:did_you_mean,did you mean,вы имеете в виду
-status:reporting_status,Reporting Status,Статус отчётности
-status:overall_reporting_status,Overall Reporting Status,Общее состояние отчётности
+status:reporting_status,Reporting status,Статус отчётности
+status:overall_reporting_status,Overall reporting status,Общее состояние отчётности
 status:reported_online,Reported online,Опубликован
 status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
 status:exploring_data_sources,Exploring data sources,В процессе разработки
 status:not_applicable,Not applicable,Непригодный
 status:status_by_goal,Status by goal,Статус по цели
 status:status_by_field,Status by %field,Статус по %field
+status:disaggregation_status,Disaggregation status,
+status:disaggregation_status_overall,Overall disaggregation status,
+status:disaggregation_status_complete,Fully disaggregated,
+status:disaggregation_status_inprogress,Partially disaggregated,
+status:disaggregation_status_notstarted,Not disaggregated,
+status:disaggregation_status_notapplicable,Out of scope,
+status:disaggregation_status_by_field,Disaggregation by %field,
 header:skip_link,Skip to main content,Перейти к главному содержанию
 header:alpha,Alpha,Альфа
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Это сайт находится в разработке. Мы рады вашим отзывам.

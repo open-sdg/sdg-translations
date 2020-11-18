@@ -85,14 +85,21 @@ search:found_in,found in,找到
 search:keywords,Keywords,关键字
 search:no_results,No results,无搜索结果
 search:did_you_mean,did you mean,你的意思是
-status:reporting_status,Reporting Status,上报状况
-status:overall_reporting_status,Overall Reporting Status,整体上报状况
+status:reporting_status,Reporting status,上报状况
+status:overall_reporting_status,Overall reporting status,整体上报状况
 status:reported_online,Reported online,已在线上上报
 status:statistics_in_progress,Statistics in progress,统计在进行中
 status:exploring_data_sources,Exploring data sources,探索数据源
 status:not_applicable,Not applicable,不适用
 status:status_by_goal,Status by goal,目标状况
 status:status_by_field,Status by %field,状态%field
+status:disaggregation_status,Disaggregation status,
+status:disaggregation_status_overall,Overall disaggregation status,
+status:disaggregation_status_complete,Fully disaggregated,
+status:disaggregation_status_inprogress,Partially disaggregated,
+status:disaggregation_status_notstarted,Not disaggregated,
+status:disaggregation_status_notapplicable,Out of scope,
+status:disaggregation_status_by_field,Disaggregation by %field,
 header:skip_link,Skip to main content,跳到主要内容
 header:alpha,Alpha,Alpha
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",这是一个发展中的网站。欢迎您向我们发送反馈意见。

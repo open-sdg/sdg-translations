@@ -39,7 +39,8 @@ national_metadata_blurb: Im Folgenden werden Metadaten zu den national verfügba
   Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch
   auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen
   hinzuweisen.
-no_data_hint: Aufgrund der oben genannten Filter sind keine Optionen verfügbar
+no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
+  verfügbar.
 select_all: Alle auswählen
 series: Reihe
 series_help: Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien

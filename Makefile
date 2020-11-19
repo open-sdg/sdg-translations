@@ -9,7 +9,6 @@ test:
 build_data:
 	python scripts/build_translations.py
 	python scripts/build_contexts.py
-	python scripts/export_languages.py
 
 build_site:
 	bundle exec jekyll build

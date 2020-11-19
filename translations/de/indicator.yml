@@ -1,9 +1,10 @@
 chart: Grafik
 clear_all: Auswahl aufheben
 clear_selections: Auswahl aufheben
-data_not_available: Diese Daten sind nicht verfügbar. Bitte wählen Sie alternative Daten aus, die angezeigt werden sollen.
+data_not_available: Diese Daten sind nicht verfügbar. Bitte wählen Sie alternative
+  Daten aus, die angezeigt werden sollen.
 dataset_size_warning: Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen.
-  Es können nicht alle Zeitreihen dargestellt werden
+  Es können nicht alle Zeitreihen dargestellt werden.
 download_chart: Grafik im CSV-Format speichern
 download_csv: im CSV-Format speichern
 download_csv_title: im CSV-Format speichern
@@ -25,8 +26,8 @@ footnote: Fußnote
 geographical_area: Geographische Abdeckung
 global_metadata: Globale Metadaten
 global_metadata_blurb: Diese Übersicht stellt Informationen zu den globalen Metadaten
-  des jeweiligen SDG-Indikators bereit. Die <a href=""https://unstats.un.org/sdgs/metadata/"">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen
-  bereitgestellt.
+  des jeweiligen SDG-Indikators bereit. Die <a href="https://unstats.un.org/sdgs/metadata/">globalen
+  Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt.
 legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
 loading: Laden
 loading_map: Karte wird geladen
@@ -52,4 +53,4 @@ table: Tabelle
 unit_of_measurement: Einheit
 units_type: Einheit
 variable_hint: Verfügbar
-view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
+view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an

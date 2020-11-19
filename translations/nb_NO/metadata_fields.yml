@@ -1,0 +1,105 @@
+# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
+other_info: 'Annen informasjon'
+# A label describing information - any calculations that were used in the production of a dataset
+computation_calculations: 'Kalkulasjoner'
+# A label describing information - a list of definitions of terms used within other metadata fields
+computation_definitions: 'Definisjoner'
+# A label describing information - the unit of measurement that is being represented in a dataset
+computation_units: 'Måle enheter'
+# A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
+goal_meta_link: 'Lenke til FN metadata'
+# A label describing information - the numeric code for a particular indicator
+indicator: 'Indikator nummer'
+# A label describing information - the definition for a particular indicator - as provided by the United Nations
+indicator_definition: 'Global indikator beskrivelse'
+# A label describing information - the name of a particular indicator
+indicator_name: 'Indikator navn'
+indicator_sort_order: 'Indikatorvisningsrekkefølge (innenfor målsiden)'
+national_data_update_url: 'Data sist oppdatert'
+# A label describing information - the geographical area covered by a dataset
+national_geographical_coverage: 'Geografisk dekning'
+national_indicator_available: 'Indikator tilgjengelig'
+national_indicator_description: 'Indikator beskrivelse'
+national_metadata_update_url: 'Metadata sist oppdatert'
+# A label describing information - contact information for the person or agency that provided data
+source_contact_1: 'Kontakt detaljer'
+source_contact_2: 'Kontakt detaljer'
+source_contact_3: 'Kontakt detaljer'
+source_contact_4: 'Kontakt detaljer'
+source_contact_5: 'Kontakt detaljer'
+source_contact_6: 'Kontakt detaljer'
+# A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
+source_earliest_available_1: 'Tidligste tilgjengelige data'
+source_earliest_available_2: 'Tidligste tilgjengelige data'
+source_earliest_available_3: 'Tidligste tilgjengelige data'
+source_earliest_available_4: 'Tidligste tilgjengelige data'
+source_earliest_available_5: 'Tidligste tilgjengelige data'
+source_earliest_available_6: 'Tidligste tilgjengelige data'
+# A label describing information - the geographical area covered in the data provided by a particular person or agency
+source_geographical_coverage_1: 'Geografisk dekning'
+source_geographical_coverage_2: 'Geografisk dekning'
+source_geographical_coverage_3: 'Geografisk dekning'
+source_geographical_coverage_4: 'Geografisk dekning'
+source_geographical_coverage_5: 'Geografisk dekning'
+source_geographical_coverage_6: 'Geografisk dekning'
+# A label describing information - the date at which a particular person or agency plans to update their provided data
+source_next_release_1: 'Neste utgivelse'
+source_next_release_2: 'Neste utgivelse'
+source_next_release_3: 'Neste utgivelse'
+source_next_release_4: 'Neste utgivelse'
+source_next_release_5: 'Neste utgivelse'
+source_next_release_6: 'Neste utgivelse'
+# A label describing information - the name of any organization associated with some provided data
+source_organisation_1: 'Organisasjon'
+source_organisation_2: 'Organisasjon'
+source_organisation_3: 'Organisasjon'
+source_organisation_4: 'Organisasjon'
+source_organisation_5: 'Organisasjon'
+source_organisation_6: 'Organisasjon'
+# A label describing information - any other information about a particular source of data for a particular indicator
+source_other_info_1: 'Annen informasjon'
+source_other_info_2: 'Annen informasjon'
+source_other_info_3: 'Annen informasjon'
+source_other_info_4: 'Annen informasjon'
+source_other_info_5: 'Annen informasjon'
+source_other_info_6: 'Annen informasjon'
+# A label describing information - the frequency with which a particular source of data will provide updates
+source_periodicity_1: 'Periodisitet'
+source_periodicity_2: 'Periodisitet'
+source_periodicity_3: 'Periodisitet'
+source_periodicity_4: 'Periodisitet'
+source_periodicity_5: 'Periodisitet'
+source_periodicity_6: 'Periodisitet'
+# A label describing information - The date at which a particular source provided their data
+source_release_date_1: 'Utgivelsesdato'
+source_release_date_2: 'Utgivelsesdato'
+source_release_date_3: 'Utgivelsesdato'
+source_release_date_4: 'Utgivelsesdato'
+source_release_date_5: 'Utgivelsesdato'
+source_release_date_6: 'Utgivelsesdato'
+# A label describing information - some classification of a particular source of data for a particular indicator
+source_statistical_classification_1: 'Statistisk klassifisering'
+source_statistical_classification_2: 'Statistisk klassifisering'
+source_statistical_classification_3: 'Statistisk klassifisering'
+source_statistical_classification_4: 'Statistisk klassifisering'
+source_statistical_classification_5: 'Statistisk klassifisering'
+source_statistical_classification_6: 'Statistisk klassifisering'
+source_url_1: 'Lenke til data kilde'
+source_url_2: 'Lenke til data kilde'
+source_url_3: 'Lenke til data kilde'
+source_url_4: 'Lenke til data kilde'
+source_url_5: 'Lenke til data kilde'
+source_url_6: 'Lenke til data kilde'
+# A label describing information - the overall SDG target associated with a particular indicator
+target: 'Mål navn'
+# A label describing information - the numeric id for the overall SDG target associated with a particular indicator
+target_id: 'Mål nummer'
+# A label describing information - the United Nations custodian agency associated with a particular indicator
+un_custodian_agency: 'FNs depotbyrå'
+# A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
+un_designated_tier: 'FN-utpekt nivå'
+quality_assurance: 'Kvalitetssikring'
+international_comparability: 'Sammenlignbarhet med internasjonale data/standarder'
+comments_limitations: 'Kommentarer og begrensninger'
+rational_interpretation: 'Rasjonell og tolkning'
+copyright: 'Kopirettighet'

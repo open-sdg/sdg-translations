@@ -1,5 +1,5 @@
 alpha: Alfa
-disclaimer: Este es un sitio web de desarrollo. Agradecemos sus comentarios.
+disclaimer: Este es un sitio web de desarrollo. Agradecemos sus <a href="mailto:%email_address">comentarios</a>.
 skip_link: Saltar al contenido principal
 tag_line: 17 Metas para transformar nuestro mundo
 high_contrast: 'alto contraste'

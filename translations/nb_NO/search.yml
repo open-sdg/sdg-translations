@@ -1,0 +1,10 @@
+search: 'Søk'
+# This refers to a section of the site for performing keyword searches to find particular indicators
+indicator_search: 'Indikatorsøk'
+# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
+search_results_for: 'Søkeresultater for'
+found_in: 'funnet i'
+keywords: 'Nøkkelord'
+# A message for the user - after they have performed an online search - to indicate that their search produced no results
+no_results: 'Ingen resultat'
+did_you_mean: 'mente du'

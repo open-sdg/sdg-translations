@@ -1,0 +1,21 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
+indicator: 'Indikator'
+# This is the plural version of the indicator key
+indicators: 'Indikatorer'
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
+goal: 'Mål'
+# This is the plural version of the goal key
+goals: 'Mål'
+sdg: 'Bærekraftige utviklingsmål'
+# This refers to the 'home page' of a website
+home: 'Hjem'
+loading: 'Laster søkeresultat'
+opens_new_window: 'åpne i nytt vindu'
+hide: 'skjul'
+target: 'Mål'
+targets: 'Mål'
+twitter: 'Twitter'
+facebook: 'Facebook'
+built_using_open_sdg: 'Bygget med Open SDG'
+page: 'Side'
+pages: 'Sider'

@@ -2,7 +2,7 @@ reporting_status: 'Rapporteringsstatus'
 overall_reporting_status: 'Samlet rapporteringsstatus'
 reported_online: 'Rapportert online'
 statistics_in_progress: 'Statistikk pågår'
-exploring_data_sources: 'Utforske datakilder'
+exploring_data_sources: 'Utforsking av datakilder'
 not_applicable: 'Ikke aktuelt'
 # Describing a section where the status is reported for each goal
 status_by_goal: 'Status etter mål'

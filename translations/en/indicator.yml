@@ -36,6 +36,8 @@ dataset_size_warning: There are too many datasets to show on the chart. Not all
 view_indicator_list: View this goal's indicator list
 # A label describing a section of the page that allows the user to filter data by sub-category
 sub_categories: Sub-categories
+# A label of "Show sub-categories" to display before a particular sub-category's name
+sub_categories_show: "Show sub-categories:"
 series_help: Choose categories from the dropdowns below to see different
   breakdowns of the data. Some will not be available until a higher level is
   chosen.
@@ -71,3 +73,33 @@ edit_metadata: Edit Metadata
 # A message that displays when a chart has no data to display because of the
 # user's choices.
 data_not_available: This data is not available. Please choose alternative data to display.
+# A message that is announced when there is no data on the chart/table
+announce_data_not_available: Chart and table shows no data.
+# A message that is announced when the data is added to the chart/table
+announce_data_added: Chart and table updated to include data.
+# A message that is announced when the data is removed from the chart/table
+announce_data_removed: Chart and table updated to exclude data.
+# A message that points out an alternative display for visual data
+data_tabular_alternative: For tabular data alternative see Table tab.
+# Instructions for navigating data with a keyboard
+data_keyboard_navigation: Press enter to browse data points with left and right arrow keys.
+# Description of the "plot legend" which displays beneath charts
+plot_legend_description: "Plot legend: list of lines included in chart"
+# Common annotation displayed on graphs for the 2030 target.
+annotation_2030_target: 2030 Target
+# Label describing an annotation on a chart/graph.
+chart_annotation: Chart annotation
+# Description of the year slider on maps.
+map_year_slider: Year slider
+# Description of a search field on maps.
+map_search: Search
+# Description of a button that hides the search field on maps.
+map_search_hide: Hide search
+# Description of a button that shows the search field on maps.
+map_search_show: Show search
+# Instructions for using the data table columns for sorting.
+table_column_sort: Click to sort by this column
+# Label describing the status of an indicator
+status: Indicator status
+# Label describing the "tags" for an indicator
+tags: Tags

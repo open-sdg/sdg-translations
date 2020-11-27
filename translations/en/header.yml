@@ -9,3 +9,5 @@ high_contrast: High contrast
 default_contrast: Default contrast
 enable_high_contrast: Enable high contrast
 disable_high_contrast: Disable high contrast
+toggle_search: Search toggle. Click to expand or collapse the search bar.
+toggle_menu: Menu toggle. Click to expand or collapse the menu.

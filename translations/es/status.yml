@@ -6,10 +6,10 @@ statistics_in_progress: Estadísticas en progreso
 not_applicable: No aplicable
 status_by_goal: Estados por objetivos
 status_by_field: Estado por %field
-disaggregation_status: ''
-disaggregation_status_overall: ''
-disaggregation_status_complete: ''
-disaggregation_status_inprogress: ''
-disaggregation_status_notstarted: ''
-disaggregation_status_notapplicable: ''
-disaggregation_status_by_field: ''
+disaggregation_status: 'Estado de desagregación'
+disaggregation_status_overall: 'Estado general de desagregación'
+disaggregation_status_complete: 'Totalmente desagregado'
+disaggregation_status_inprogress: 'Parcialmente desagregado'
+disaggregation_status_notstarted: 'No desagregado'
+disaggregation_status_notapplicable: 'Fuera de alcance'
+disaggregation_status_by_field: 'Desagregación por %field'

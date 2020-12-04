@@ -1,7 +1,8 @@
 chart: Graphique
 clear_all: Tout effacer
 clear_selections: Effacer les sélections
-data_not_available: Ces données ne sont pas disponibles. Veuillez choisir des données alternatives à afficher.
+data_not_available: Ces données ne sont pas disponibles. Veuillez choisir des données
+  alternatives à afficher.
 dataset_size_warning: Il y a trop de jeux de données à afficher sur le graphique.
   Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
 download_chart: Télécharger le graphique CSV
@@ -18,7 +19,7 @@ download_chart_image: Télécharger l'image graphique
 download_chart_image_title: Télécharger le graphique en image
 download_geojson: Télécharger GeoJSON
 download_geojson_title: Télécharger en format GeoJSON
-edit: modifier
+edit: Modifier
 edit_data: Modifier les données
 edit_metadata: Modifier les métadonnées
 footnote: note de bas de page
@@ -53,3 +54,21 @@ unit_of_measurement: Unité de mesure
 units_type: Type d&#39;unités
 variable_hint: Disponible lorsque le champ '%field' est sélectionné
 view_indicator_list: Voir la liste des indicateurs de cet objectif
+announce_data_not_available: Le graphique et le tableau ne montrent aucune donnée.
+map_year_slider: Curseur d’année
+chart_annotation: Annotation du graphique
+annotation_2030_target: Objectif 2030
+plot_legend_description: 'Légende du tracé : liste des lignes incluses dans le graphique'
+data_keyboard_navigation: Appuyez sur Entrée pour parcourir les points de données
+  avec les touches fléchées gauche et droite.
+data_tabular_alternative: Pour une alternative aux données tabulaires, voir l’onglet
+  Tableau.
+announce_data_added: Graphique et tableau mis à jour pour inclure des données.
+tags: Étiquettes
+status: État de l’indicateur
+table_column_sort: Cliquez pour trier par cette colonne
+map_search_show: Afficher la recherche
+map_search_hide: Masquer la recherche
+map_search: Rechercher
+announce_data_removed: Graphique et tableau mis à jour pour exclure les données.
+sub_categories_show: 'Afficher les sous-catégories :'

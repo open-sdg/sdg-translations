@@ -103,3 +103,5 @@ table_column_sort: Click to sort by this column
 status: Indicator status
 # Label describing the "tags" for an indicator
 tags: Tags
+previous: Previous indicator
+next: Next indicator

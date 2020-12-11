@@ -6,3 +6,6 @@ high_contrast: 'contraste élevé'
 default_contrast: 'contraste standard'
 enable_high_contrast: Activer le contraste élevé
 disable_high_contrast: Désactiver le contraste élevé
+toggle_menu: Interrupteur du menu. Cliquez pour développer ou réduire le menu.
+toggle_search: Interrupteur de la barre. Cliquez pour développer ou réduire la barre
+  de recherche.

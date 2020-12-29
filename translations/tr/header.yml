@@ -1,0 +1,13 @@
+skip_link: 'Ana içeriğe geç'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'Alfa'
+disclaimer: 'Bu bir geliştirme sitesidir. <a href="mailto:%email_address">Geri bildiriminizi</a>
+  memnuniyetle karşılıyoruz.'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: 'Dünyamızı Dönüştürmek İçin 17 Amaç'
+high_contrast: 'Yüksek karşıtlık'
+default_contrast: 'Öntanımlı karşıtlık'
+enable_high_contrast: 'Yüksek karşıtlığı etkinleştir'
+disable_high_contrast: 'Yüksek karşıtlığı devre dışı bırak'
+toggle_search: 'Arama düğmesi. Arama çubuğunu genişletmek veya daraltmak için tıklayın.'
+toggle_menu: 'Menü düğmesi. Menüyü genişletmek veya daraltmak için tıklayın.'

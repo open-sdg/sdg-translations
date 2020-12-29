@@ -1,0 +1,24 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
+indicator: 'Gösterge'
+# This is the plural version of the indicator key
+indicators: 'Göstergeler'
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
+goal: 'Amaç'
+# This is the plural version of the goal key
+goals: 'Amaçlar'
+sdg: 'Sürdürülebilir Kalkınma Amaçları'
+# This refers to the 'home page' of a website
+home: 'Ana Sayfa'
+loading: 'Arama sonuçları yükleniyor'
+opens_new_window: 'yeni bir pencerede açılır'
+hide: 'gizle'
+target: 'Hedef'
+targets: 'Hedefler'
+twitter: 'Twitter'
+facebook: 'Facebook'
+built_using_open_sdg: 'Open SDG kullanılarak oluşturuldu'
+page: 'Sayfa'
+pages: 'Sayfalar'
+targets_and_indicators: 'Hedefler ve göstergeler'
+# A label of "Warning" to place before some other text.
+label_warning: "Uyarı:"

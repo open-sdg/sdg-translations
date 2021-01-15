@@ -14,3 +14,4 @@ disaggregation_status_inprogress: Partially disaggregated
 disaggregation_status_notstarted: Not disaggregated
 disaggregation_status_notapplicable: Out of scope
 disaggregation_status_by_field: Disaggregation by %field
+not_specified: Not specified

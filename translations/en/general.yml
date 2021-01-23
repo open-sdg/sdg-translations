@@ -22,3 +22,5 @@ pages: Pages
 targets_and_indicators: Targets and indicators
 # A label of "Warning" to place before some other text.
 label_warning: "Warning:"
+# A phrase to use as a site-wide page title.
+site_title: Indicators For The Sustainable Development Goals

@@ -25,6 +25,8 @@ sources: Sources
 geographical_area: Geographical Area
 # A label describing information - the unit of measurement that is being represented in a dataset
 unit_of_measurement: Unit of Measurement
+# A shorter version of the "Unit" label.
+unit: Unit
 # A label describing information - any general information about a dataset - displayed below the data visualization on the page
 footnote: Footnote
 # The label of a widget that allows the user to change the type of unit that is being represented in a data visualization

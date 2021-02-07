@@ -72,6 +72,8 @@ edit: Edit
 edit_data: Edit Data
 # A button for editing metadata
 edit_metadata: Edit Metadata
+# A button for editing configuration
+edit_configuration: Edit Configuration
 # A message that displays when a chart has no data to display because of the
 # user's choices.
 data_not_available: This data is not available. Please choose alternative data to display.

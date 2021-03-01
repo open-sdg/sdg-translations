@@ -6,3 +6,5 @@ high_contrast: '高对比度'
 default_contrast: '默认对比'
 enable_high_contrast: 启用高对比度
 disable_high_contrast: 禁用高对比度
+toggle_menu: 菜单切换。单击以展开或折叠菜单。
+toggle_search: 搜索切换。单击可展开或折叠搜索栏。

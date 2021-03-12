@@ -25,6 +25,8 @@ sources: Sources
 geographical_area: Geographical Area
 # A label describing information - the unit of measurement that is being represented in a dataset
 unit_of_measurement: Unit of Measurement
+# A shorter version of the "Unit" label.
+unit: Unit
 # A label describing information - any general information about a dataset - displayed below the data visualization on the page
 footnote: Footnote
 # The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
@@ -70,6 +72,8 @@ edit: Edit
 edit_data: Edit Data
 # A button for editing metadata
 edit_metadata: Edit Metadata
+# A button for editing configuration
+edit_configuration: Edit Configuration
 # A message that displays when a chart has no data to display because of the
 # user's choices.
 data_not_available: This data is not available. Please choose alternative data to display.

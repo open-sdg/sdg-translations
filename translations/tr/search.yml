@@ -8,3 +8,4 @@ keywords: 'Anahtar kelimeler'
 # A message for the user - after they have performed an online search - to indicate that their search produced no results
 no_results: 'Sonuç yok'
 did_you_mean: 'bunu mu demek istediniz'
+results_found: Bulunan sonuçlar

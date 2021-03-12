@@ -8,3 +8,4 @@ keywords: Keywords
 # A message for the user - after they have performed an online search - to indicate that their search produced no results
 no_results: No results
 did_you_mean: did you mean
+results_found: Results found

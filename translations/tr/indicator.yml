@@ -106,3 +106,5 @@ status: 'Gösterge durumu'
 tags: 'Etiketler'
 previous: 'Önceki gösterge'
 next: 'Sonraki gösterge'
+unit: Birim
+edit_configuration: Yapılandırmayı Düzenle

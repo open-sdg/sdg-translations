@@ -54,3 +54,23 @@ unit_of_measurement: Einheit
 units_type: Einheit
 variable_hint: Verfügbar
 view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an
+edit_configuration: Konfiguration bearbeiten
+next: Nächster Indikator
+previous: Vorheriger Indikator
+tags: Tags
+status: Status des Indikators
+table_column_sort: Klicken Sie auf , um nach dieser Spalte zu sortieren
+map_search_show: Suche anzeigen
+map_search_hide: Suche ausblenden
+map_search: Suche
+map_year_slider: Jahr-Schieberegler
+chart_annotation: Diagramm-Anmerkung
+annotation_2030_target: 2030 Ziel
+plot_legend_description: 'Plot-Legende: Liste der im Diagramm enthaltenen Linien'
+data_keyboard_navigation: Drücken Sie die Eingabetaste, um mit den Pfeiltasten nach
+  links und rechts durch die Datenpunkte zu blättern.
+data_tabular_alternative: Für tabellarische Daten alternativ siehe Registerkarte Tabelle.
+announce_data_removed: Diagramm und Tabelle aktualisiert, um Daten auszuschließen.
+announce_data_added: Diagramm und Tabelle wurden aktualisiert, um die Daten einzubeziehen.
+announce_data_not_available: Diagramm und Tabelle zeigen keine Daten.
+sub_categories_show: 'Unterkategorien anzeigen:'

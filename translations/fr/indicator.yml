@@ -72,3 +72,6 @@ map_search_hide: Masquer la recherche
 map_search: Rechercher
 announce_data_removed: Graphique et tableau mis à jour pour exclure les données.
 sub_categories_show: 'Afficher les sous-catégories :'
+edit_configuration: Modifier la configuration
+next: Indicateur suivant
+previous: Indicateur précédent

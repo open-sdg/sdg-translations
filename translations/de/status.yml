@@ -1,15 +1,16 @@
 exploring_data_sources: Datenquellenanalyse
-overall_reporting_status: Übersicht zum Berichtsstatus
+overall_reporting_status: Gesamtstatus der Berichterstattung
 reported_online: Daten verfügbar
 reporting_status: Berichtsstatus
 statistics_in_progress: in Bearbeitung
 not_applicable: Nicht zutreffend
 status_by_goal: Status nach Ziel
 status_by_field: Status von %field
-disaggregation_status: ''
-disaggregation_status_overall: ''
-disaggregation_status_complete: ''
-disaggregation_status_inprogress: ''
-disaggregation_status_notstarted: ''
-disaggregation_status_notapplicable: ''
-disaggregation_status_by_field: ''
+disaggregation_status: 'Status der Disaggregation'
+disaggregation_status_overall: 'Gesamter Disaggregationsstatus'
+disaggregation_status_complete: 'Vollständig disaggregiert'
+disaggregation_status_inprogress: 'Teilweise disaggregiert'
+disaggregation_status_notstarted: 'Nicht disaggregiert'
+disaggregation_status_notapplicable: 'Außerhalb des Bereichs'
+disaggregation_status_by_field: 'Disaggregation nach %Feld'
+not_specified: Nicht angegeben

@@ -10,7 +10,10 @@ sdg: စဉ်ဆက်မပြတ် ဖွံ့ဖြိုးတိုး�
 target: ဗဟိုချက်
 targets: ဗဟိုချက်များ
 twitter: တွစ်တာ
-hide : ''
-built_using_open_sdg: ''
-page: ''
-pages: ''
+hide: 'ဝှက်'
+built_using_open_sdg: 'Open SDG ကို အသုံးပြု၍ တည်ဆောက်ထားသည်'
+page: 'စာမျက်နှာ'
+pages: 'စာမျက်နှာများ'
+site_title: ရေရှည်တည်တံ့ခိုင်မြဲသောဖွံ့ဖြိုးရေးရည်မှန်းချက်များအတွက်ညွှန်းကိန်းများ
+label_warning: သတိပေးချက်
+targets_and_indicators: ပစ်မှတ်များနှင့်ညွှန်းကိန်းများ

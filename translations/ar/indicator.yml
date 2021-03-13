@@ -14,7 +14,7 @@ download_source_title: تحميل بيانات مصدر الCSV
 download_source_sdmx: تحميل مصدر الSDMX
 download_source_sdmx_title: تحميل بيانات مصدر الSDMX
 download_table: تحميل جدول CSV
-download_chart_image:  تحميل الرسم البياني الصورة
+download_chart_image: تحميل الرسم البياني الصورة
 download_chart_image_title: تحميل الرسم البياني كصورة
 download_geojson: تحميل الGeoJSON
 download_geojson_title: تحميل كGeoJSON
@@ -48,3 +48,23 @@ unit_of_measurement: وحدة قياس
 units_type: نوع الوحدات
 variable_hint: 'متاح عند تحديد ''%field'' '
 view_indicator_list: عرض قائمة المؤشرات لهذا الهدف
+edit_configuration: تحرير التكوين
+next: المؤشر التالي
+previous: المؤشر السابق
+tags: وسوم
+status: حالة المؤشر
+table_column_sort: انقر للترتيب حسب هذا العمود
+map_search_show: إظهار البحث
+map_search_hide: إخفاء البحث
+map_search: البحث
+map_year_slider: شريط تمرير السنة
+chart_annotation: شرح الرسم البياني
+annotation_2030_target: هدف 2030
+plot_legend_description: 'مخطط الرسم البياني: قائمة الخطوط المضمنة في الرسم البياني'
+data_keyboard_navigation: اضغط على Enter لاستعراض نقاط البيانات باستخدام مفاتيح الأسهم
+  لليسار ولليمين.
+data_tabular_alternative: للحصول على بديل البيانات الجدولية ، انظر علامة التبويب الجدول.
+announce_data_removed: تم تحديث الرسم البياني والجدول لاستبعاد البيانات.
+announce_data_added: تم تحديث الرسم البياني والجدول لتضمين البيانات.
+announce_data_not_available: الرسم البياني والجدول لا يظهر أي بيانات.
+sub_categories_show: 'إظهار الفئات الفرعية:'

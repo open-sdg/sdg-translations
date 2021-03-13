@@ -6,3 +6,5 @@ high_contrast: 'alto contraste'
 default_contrast: 'estándar contraste'
 enable_high_contrast: Habilitar alto contraste
 disable_high_contrast: Desactivar alto contraste
+toggle_menu: Menú de alternancia. Haga clic para ampliar o reducir el menú.
+toggle_search: Barra de búsqueda. Haga clic para ampliar o reducir la barra de búsqueda.

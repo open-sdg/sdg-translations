@@ -1,15 +1,16 @@
 exploring_data_sources: 'Ուսումնասիրել տվյալների աղբյուրները'
-overall_reporting_status: Ընդհանուր հաշվետվության կարգավիճակը
+overall_reporting_status: Հաշվետվության ընդհանուր կարգավիճակ
 reported_online: 'Առցանց հաշվետվություն'
 reporting_status: 'Հաշվետվության կարգավիճակը'
 statistics_in_progress: Վիճակագրությունը ընթացքում է
 not_applicable: ոչ կիրառելի
 status_by_goal: Գոլի կարգավիճակ
 status_by_field: Կարգավիճակը %field
-disaggregation_status: ''
-disaggregation_status_overall: ''
-disaggregation_status_complete: ''
-disaggregation_status_inprogress: ''
-disaggregation_status_notstarted: ''
-disaggregation_status_notapplicable: ''
-disaggregation_status_by_field: ''
+disaggregation_status: 'Տարանջատման կարգավիճակ'
+disaggregation_status_overall: 'Ընդհանուր տարանջատման կարգավիճակը'
+disaggregation_status_complete: 'Լիովին տարանջատված'
+disaggregation_status_inprogress: 'Մասամբ տարանջատված'
+disaggregation_status_notstarted: 'Առանձնացված չէ'
+disaggregation_status_notapplicable: 'Շրջանակից դուրս'
+disaggregation_status_by_field: 'Տարանջատում ըստ% դաշտի'
+not_specified: Նշված չէ

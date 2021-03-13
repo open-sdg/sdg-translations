@@ -52,3 +52,24 @@ units_type: Вид единиц
 variable_hint: Доступно, когда выбрано
 view_indicator_list: Посмотреть список индикаторов этой цели
 edit_configuration: Редактировать Конфигурация
+next: Следующий индикатор
+previous: Предыдущий показатель
+tags: Теги
+status: Состояние индикатора
+table_column_sort: Нажмите, чтобы отсортировать по этой колонке
+map_search_show: Показать поиск
+map_search_hide: Скрыть поиск
+map_search: Поиск
+map_year_slider: Годовой слайдер
+chart_annotation: Диаграмма аннотация
+annotation_2030_target: 2030 год Цель
+plot_legend_description: 'Легенда сюжета: список линий, включенных в график'
+data_keyboard_navigation: Нажмите клавишу Enter для просмотра точек данных с помощью
+  клавиш со стрелками вправо и влево.
+data_tabular_alternative: Альтернативный вариант табличных данных см. в таблице табличных
+  данных.
+announce_data_removed: Обновлены диаграмма и таблица для исключения данных.
+announce_data_added: Обновлены диаграмма и таблица для включения данных.
+announce_data_not_available: Диаграмма и таблица не содержат данных.
+sub_categories_show: 'Показать подкатегории:'
+unit: Единица

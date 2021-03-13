@@ -7,9 +7,10 @@ not_applicable: Non applicable
 status_by_goal: Statut par but
 status_by_field: Statut par %field
 disaggregation_status: 'Statut de désagrégation'
-disaggregation_status_overall: ''
-disaggregation_status_complete: ''
-disaggregation_status_inprogress: ''
-disaggregation_status_notstarted: ''
-disaggregation_status_notapplicable: ''
-disaggregation_status_by_field: ''
+disaggregation_status_overall: 'Statut de désagrégation globale'
+disaggregation_status_complete: 'Entièrement désagrégé'
+disaggregation_status_inprogress: 'Partiellement désagrégé'
+disaggregation_status_notstarted: 'Non désagrégé'
+disaggregation_status_notapplicable: 'Hors champ'
+disaggregation_status_by_field: 'Désagrégation par % de champ'
+not_specified: Non spécifié

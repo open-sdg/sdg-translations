@@ -57,3 +57,8 @@ announce_data_not_available: 图表和表格没有显示任何数据。
 edit_configuration: 编辑配置
 sub_categories_show: 显示子分类：
 unit: 单位
+next: 下一个指标
+previous: 上一个指标
+tags: 标签
+status: 指标状态
+table_column_sort: 单击此列进行排序

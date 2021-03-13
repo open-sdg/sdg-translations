@@ -7,3 +7,7 @@ high_contrast: 'Hoher kontrast'
 default_contrast: 'Standard kontrast'
 enable_high_contrast: Aktivieren Sie hohen Kontrast
 disable_high_contrast: Hoher Kontrast deaktivieren
+toggle_menu: Menü umschalten. Klicken Sie darauf, um das Menü zu erweitern oder zu
+  reduzieren.
+toggle_search: Umschalten der Suche. Klicken Sie darauf, um die Suchleiste ein- oder
+  auszublenden.

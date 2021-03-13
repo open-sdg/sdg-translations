@@ -8,3 +8,5 @@ high_contrast: 'Høy kontrast'
 default_contrast: 'Standard kontrast'
 enable_high_contrast: 'Skru på høy kontrast'
 disable_high_contrast: 'Skru av høy kontrast'
+toggle_menu: Menybryter. Klikk for å utvide eller skjule menyen.
+toggle_search: Søk veksle. Klikk for å utvide eller skjule søkefeltet.

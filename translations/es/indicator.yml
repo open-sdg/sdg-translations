@@ -54,3 +54,25 @@ unit_of_measurement: Unidad de medida
 units_type: Tipo de unidades
 variable_hint: Disponible cuando se selecciona «%field»
 view_indicator_list: Ver la lista de indicadores de este objetivo
+edit_configuration: Editar la configuración
+next: Siguiente indicador
+previous: Indicador anterior
+tags: Etiquetas
+status: Estado del indicador
+table_column_sort: Haga clic para ordenar por esta columna
+map_search_show: Mostrar búsqueda
+map_search_hide: ocultar búsqueda
+map_search: Buscar
+map_year_slider: Deslizador del año
+chart_annotation: Anotación en el gráfico
+annotation_2030_target: Objetivo 2030
+plot_legend_description: 'Leyenda del gráfico: lista de líneas incluidas en el gráfico'
+data_keyboard_navigation: Pulse Enter para navegar por los puntos de datos con las
+  teclas de flecha izquierda y derecha.
+data_tabular_alternative: Para la alternativa de datos tabulares, véase la pestaña
+  Tabla.
+announce_data_removed: Gráfico y tabla actualizados para excluir los datos.
+announce_data_added: Gráfico y tabla actualizados para incluir los datos.
+announce_data_not_available: El gráfico y la tabla no muestran datos.
+sub_categories_show: 'Mostrar subcategorías:'
+unit: Unidad

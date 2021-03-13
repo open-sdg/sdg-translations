@@ -75,10 +75,10 @@ source_url_6: ဒေတာရင်းမြစ်ကိုဖော်ပြသ
 target_id: ရည်မှန်းချက်အမှတ်
 un_custodian_agency: တာဝန်ရှိသော ကုလသမဂ္ဂအေဂျင်စီ
 un_designated_tier: ကုလသမဂ္ဂ အဆင့်သတ်မှတ်ချက်အလွှာ
-target: ''
-quality_assurance: ''
-international_comparability: ''
-comments_limitations: ''
-rationale_interpretation: ''
-rational_interpretation: ''
-copyright: ''
+target: 'ပစ်မှတ်အမည်'
+quality_assurance: 'အရည်အသွေးကောင်းခြင်းအာမခံချက်'
+international_comparability: 'အပြည်ပြည်ဆိုင်ရာဒေတာ / စံချိန်စံညွှန်းများနှင့်အတူနှိုင်းယှဉ်'
+comments_limitations: 'မှတ်ချက်များနှင့်ကန့်သတ်ချက်များ'
+rationale_interpretation: 'ဆင်ခြင်တုံတရားနှင့်အနက်'
+rational_interpretation: 'ဆင်ခြင်တုံတရားနှင့်အနက်'
+copyright: 'မူပိုင်ခွင့်'

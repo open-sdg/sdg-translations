@@ -6,3 +6,5 @@ high_contrast: 'تباين عالي'
 default_contrast: 'النقيض الافتراضي'
 enable_high_contrast: تمكين التباين العالي
 disable_high_contrast: تعطيل التباين العالي
+toggle_menu: تبديل القائمة. انقر لتوسيع القائمة أو طيها.
+toggle_search: بحث تبديل. انقر لتوسيع أو تصغير شريط البحث.

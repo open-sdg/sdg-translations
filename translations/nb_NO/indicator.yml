@@ -89,3 +89,4 @@ announce_data_removed: Diagram og tabell oppdatert for å ekskludere data.
 announce_data_added: Diagram og tabell oppdatert for å inkludere data.
 announce_data_not_available: Diagram og tabell viser ingen data.
 sub_categories_show: 'Vis underkategorier:'
+unit: Enhet

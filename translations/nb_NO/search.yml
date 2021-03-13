@@ -8,3 +8,4 @@ keywords: 'Nøkkelord'
 # A message for the user - after they have performed an online search - to indicate that their search produced no results
 no_results: 'Ingen resultat'
 did_you_mean: 'mente du'
+results_found: resultater funnet

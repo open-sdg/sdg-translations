@@ -1,15 +1,16 @@
 exploring_data_sources: استكشاف مصادر البيانات
-overall_reporting_status: وضع الاعلان العام
+overall_reporting_status: حالة الإبلاغ العامة
 reported_online: اعلن على الانترنت
-reporting_status: وضع الاعلان
+reporting_status: حالة التقارير
 statistics_in_progress: الاحصائيات دائرة
 not_applicable: لايمكن تطبيقه
 status_by_goal: الحالة حسب الهدف
 status_by_field: الحالة بواسطة %field
-disaggregation_status: ''
-disaggregation_status_overall: ''
-disaggregation_status_complete: ''
-disaggregation_status_inprogress: ''
-disaggregation_status_notstarted: ''
-disaggregation_status_notapplicable: ''
-disaggregation_status_by_field: ''
+disaggregation_status: 'حالة التقسيم'
+disaggregation_status_overall: 'حالة التصنيف العام'
+disaggregation_status_complete: 'مجزأة بالكامل'
+disaggregation_status_inprogress: 'مفصلة جزئياً'
+disaggregation_status_notstarted: 'غير مجزأة'
+disaggregation_status_notapplicable: 'خارج النطاق'
+disaggregation_status_by_field: 'التصنيف حسب٪ مجال'
+not_specified: غير محدّد

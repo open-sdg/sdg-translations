@@ -1,15 +1,16 @@
 exploring_data_sources: В процессе разработки
 not_applicable: Непригодный
-overall_reporting_status: Общее состояние отчётности
+overall_reporting_status: Общий статус отчетности
 reported_online: Опубликован
-reporting_status: Статус отчётности
+reporting_status: Состояние отчётности
 statistics_in_progress: Статистика в процессе выполнения
 status_by_goal: Статус по цели
 status_by_field: Статус по %field
-disaggregation_status: ''
-disaggregation_status_overall: ''
-disaggregation_status_complete: ''
-disaggregation_status_inprogress: ''
-disaggregation_status_notstarted: ''
-disaggregation_status_notapplicable: ''
-disaggregation_status_by_field: ''
+disaggregation_status: 'Статус дезагрегирования'
+disaggregation_status_overall: 'Общий статус дезагрегирования'
+disaggregation_status_complete: 'Полностью дезагрегированный'
+disaggregation_status_inprogress: 'Частично дезагрегированные'
+disaggregation_status_notstarted: 'Не дезагрегированные'
+disaggregation_status_notapplicable: 'За рамками'
+disaggregation_status_by_field: 'Дезагрегация по %-полям'
+not_specified: Не указан

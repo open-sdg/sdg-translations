@@ -75,3 +75,4 @@ announce_data_removed: Gráfico y tabla actualizados para excluir los datos.
 announce_data_added: Gráfico y tabla actualizados para incluir los datos.
 announce_data_not_available: El gráfico y la tabla no muestran datos.
 sub_categories_show: 'Mostrar subcategorías:'
+unit: Unidad

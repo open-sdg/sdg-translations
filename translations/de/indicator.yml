@@ -74,3 +74,4 @@ announce_data_removed: Diagramm und Tabelle aktualisiert, um Daten auszuschließ
 announce_data_added: Diagramm und Tabelle wurden aktualisiert, um die Daten einzubeziehen.
 announce_data_not_available: Diagramm und Tabelle zeigen keine Daten.
 sub_categories_show: 'Unterkategorien anzeigen:'
+unit: Einheit

@@ -50,3 +50,23 @@ units_type: Бірліктер түрі
 variable_hint: Таңдаған кезде қолжетімді
 view_indicator_list: Осы мақсаттың көрсеткіштерінің тізімін көру
 edit_configuration: Конфигурацияны өңдеу
+next: Келесі көрсеткіш
+previous: Алдыңғы индикатор
+tags: Тегтер
+status: Көрсеткіш күйі
+table_column_sort: Осы баған бойынша сұрыптау үшін басыңыз
+map_search_show: Іздеуді көрсету
+map_search_hide: Іздеуді жасыру
+map_search: Izdeý
+map_year_slider: Жылжымалы жүгірткі
+chart_annotation: Диаграмма аннотациясы
+annotation_2030_target: 2030 мақсат
+plot_legend_description: 'Сюжет аңызы: диаграммаға енгізілген жолдар тізімі'
+data_keyboard_navigation: Мәліметтер нүктелерін сол және оң жақ көрсеткі пернелерімен
+  шолу үшін enter пернесін басыңыз.
+data_tabular_alternative: Кестелік мәліметтердің балама нұсқасын Кесте қойындысынан
+  қараңыз.
+announce_data_removed: Диаграмма мен кесте деректерді болдырмау үшін жаңартылды.
+announce_data_added: Диаграмма мен кесте деректерді қосу үшін жаңартылды.
+announce_data_not_available: Диаграмма мен кестеде деректер жоқ.
+sub_categories_show: 'Ішкі санаттарды көрсету:'

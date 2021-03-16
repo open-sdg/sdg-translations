@@ -1,0 +1,12 @@
+skip_link: ''
+# This word identifies a software or web project as being in the early stages of development
+alpha: ''
+disclaimer: ''
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: ''
+high_contrast: ''
+default_contrast: ''
+enable_high_contrast: ''
+disable_high_contrast: ''
+toggle_search: ''
+toggle_menu: ''

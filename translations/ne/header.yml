@@ -1,0 +1,13 @@
+skip_link: 'मुख्य सामग्रीमा स्किप गर्नुहोस्'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'अल्फा'
+disclaimer: 'यो एक विकास वेबसाइट हो। हामी तपाईंको [] 47] प्रतिक्रिया [] 87] लाई स्वागत
+  गर्दछौं।'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: '१ World लक्ष्यहरू हाम्रो विश्व परिवर्तन गर्न'
+high_contrast: 'उच्च कन्ट्रास्ट'
+default_contrast: 'पूर्वनिर्धारित कन्ट्रास्ट'
+enable_high_contrast: 'उच्च कन्ट्रास्ट सक्षम गर्नुहोस्'
+disable_high_contrast: 'उच्च कन्ट्रास्ट असक्षम गर्नुहोस्'
+toggle_search: 'टगल खोज्नुहोस्। खोजी पट्टी विस्तार गर्न वा ध्वस्त पार्न क्लिक गर्नुहोस्।'
+toggle_menu: 'मेनू टगल। मेनू विस्तार गर्न वा संकुचन गर्न क्लिक गर्नुहोस्।'

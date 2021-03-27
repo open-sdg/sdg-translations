@@ -1,0 +1,106 @@
+# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
+other_info: 'अन्य जानकारी'
+# A label describing information - any calculations that were used in the production of a dataset
+computation_calculations: 'गणना'
+# A label describing information - a list of definitions of terms used within other metadata fields
+computation_definitions: 'परिभाषा'
+# A label describing information - the unit of measurement that is being represented in a dataset
+computation_units: 'मापन एकाई'
+# A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
+goal_meta_link: 'UN UN मेटाडाटामा लिंक'
+# A label describing information - the numeric code for a particular indicator
+indicator: 'सूचक संख्या'
+# A label describing information - the definition for a particular indicator - as provided by the United Nations
+indicator_definition: 'ग्लोबल सूचक वर्णन'
+# A label describing information - the name of a particular indicator
+indicator_name: 'सूचक नाम'
+indicator_sort_order: 'सूचक प्रदर्शन अर्डर (लक्ष्य पृष्ठ भित्र)'
+national_data_update_url: 'अन्तिम पटक अपडेट गरिएको डाटा'
+# A label describing information - the geographical area covered by a dataset
+national_geographical_coverage: 'भौगोलिक कभरेज'
+national_indicator_available: 'सूचक उपलब्ध छ'
+national_indicator_description: 'सूचक वर्णन'
+national_metadata_update_url: 'मेटाडाटा पछिल्लो पटक अपडेट गरिएको'
+# A label describing information - contact information for the person or agency that provided data
+source_contact_1: 'सम्पर्क'
+source_contact_2: 'सम्पर्क'
+source_contact_3: 'सम्पर्क'
+source_contact_4: 'सम्पर्क'
+source_contact_5: 'सम्पर्क'
+source_contact_6: 'सम्पर्क'
+# A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
+source_earliest_available_1: 'प्रारम्भिक उपलब्ध डाटा'
+source_earliest_available_2: 'प्रारम्भिक उपलब्ध डाटा'
+source_earliest_available_3: 'प्रारम्भिक उपलब्ध डाटा'
+source_earliest_available_4: 'प्रारम्भिक उपलब्ध डाटा'
+source_earliest_available_5: 'प्रारम्भिक उपलब्ध डाटा'
+source_earliest_available_6: 'प्रारम्भिक उपलब्ध डाटा'
+# A label describing information - the geographical area covered in the data provided by a particular person or agency
+source_geographical_coverage_1: 'भौगोलिक कभरेज'
+source_geographical_coverage_2: 'भौगोलिक कभरेज'
+source_geographical_coverage_3: 'भौगोलिक कभरेज'
+source_geographical_coverage_4: 'भौगोलिक कभरेज'
+source_geographical_coverage_5: 'भौगोलिक कभरेज'
+source_geographical_coverage_6: 'भौगोलिक कभरेज'
+# A label describing information - the date at which a particular person or agency plans to update their provided data
+source_next_release_1: 'अर्को विमोचन'
+source_next_release_2: 'अर्को विमोचन'
+source_next_release_3: 'अर्को विमोचन'
+source_next_release_4: 'अर्को विमोचन'
+source_next_release_5: 'अर्को विमोचन'
+source_next_release_6: 'अर्को विमोचन'
+# A label describing information - the name of any organization associated with some provided data
+source_organisation_1: 'संगठन'
+source_organisation_2: 'संगठन'
+source_organisation_3: 'संगठन'
+source_organisation_4: 'संगठन'
+source_organisation_5: 'संगठन'
+source_organisation_6: 'संगठन'
+# A label describing information - any other information about a particular source of data for a particular indicator
+source_other_info_1: 'अन्य जानकारी'
+source_other_info_2: 'अन्य जानकारी'
+source_other_info_3: 'अन्य जानकारी'
+source_other_info_4: 'अन्य जानकारी'
+source_other_info_5: 'अन्य जानकारी'
+source_other_info_6: 'अन्य जानकारी'
+# A label describing information - the frequency with which a particular source of data will provide updates
+source_periodicity_1: 'आवधिकता'
+source_periodicity_2: 'आवधिकता'
+source_periodicity_3: 'आवधिकता'
+source_periodicity_4: 'आवधिकता'
+source_periodicity_5: 'आवधिकता'
+source_periodicity_6: 'आवधिकता'
+# A label describing information - The date at which a particular source provided their data
+source_release_date_1: 'जारी मिति'
+source_release_date_2: 'जारी मिति'
+source_release_date_3: 'जारी मिति'
+source_release_date_4: 'जारी मिति'
+source_release_date_5: 'जारी मिति'
+source_release_date_6: 'जारी मिति'
+# A label describing information - some classification of a particular source of data for a particular indicator
+source_statistical_classification_1: 'सांख्यिकीय वर्गीकरण'
+source_statistical_classification_2: 'सांख्यिकीय वर्गीकरण'
+source_statistical_classification_3: 'सांख्यिकीय वर्गीकरण'
+source_statistical_classification_4: 'सांख्यिकीय वर्गीकरण'
+source_statistical_classification_5: 'सांख्यिकीय वर्गीकरण'
+source_statistical_classification_6: 'सांख्यिकीय वर्गीकरण'
+source_url_1: 'डाटा स्रोतमा लिंक'
+source_url_2: 'डाटा स्रोतमा लिंक'
+source_url_3: 'डाटा स्रोतमा लिंक'
+source_url_4: 'डाटा स्रोतमा लिंक'
+source_url_5: 'डाटा स्रोतमा लिंक'
+source_url_6: 'डाटा स्रोतमा लिंक'
+# A label describing information - the overall SDG target associated with a particular indicator
+target: 'लक्ष्य नाम'
+# A label describing information - the numeric id for the overall SDG target associated with a particular indicator
+target_id: 'लक्ष्य नम्बर'
+# A label describing information - the United Nations custodian agency associated with a particular indicator
+un_custodian_agency: 'यूएन कस्टोडियन एजेन्सी'
+# A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
+un_designated_tier: 'यूएन नामित तह'
+quality_assurance: 'गुणस्तर सु: निश्चितता'
+international_comparability: 'अन्तर्राष्ट्रिय डाटा / मानकको साथ तुलना'
+comments_limitations: 'टिप्पणीहरू र सीमितताहरू'
+rationale_interpretation: 'तर्कसंगत र व्याख्या'
+rational_interpretation: 'तर्कसंगत र व्याख्या'
+copyright: 'प्रतिलिपि अधिकार'

@@ -91,6 +91,15 @@ def clean_indicator_title(title):
   last = title[-1]
   if last == 'i':
     return title[:-1]
+  if last.isnumeric():
+    last_word = title.split(' ')[-1]
+    last_word = last_word.split('-')[-1]
+    last_word = last_word.split('–')[-1]
+    last_word = last_word.split('‐')[-1]
+    last_word = last_word.split('+B')[-1]
+    if not last_word.isnumeric():
+      print('Found a footnote: ' + title)
+      return title[:-1]
   return title
 
 def clean_target_title(title):

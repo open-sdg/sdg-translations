@@ -1,7 +1,7 @@
 skip_link: 'Ба мундариҷаи асосӣ гузаред'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'Алфа'
-disclaimer: 'Ин вебсайти рушд аст. Мо алоқаи шуморо қабул мекунем <a href="mailto:%email_address">.'
+disclaimer: 'Ин сайт дар ҳолати коркард аст. Мо фикру мулоҳизаҳои шуморо қабул мекунем.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: '17 Ҳадафҳо барои тағир додани ҷаҳони мо'
 high_contrast: 'Контрасти баланд'

@@ -1,244 +1,461 @@
-1-1-1-title: ''
-1-2-1-title: ''
-1-2-2-title: ''
-1-3-1-title: ''
-1-4-1-title: ''
-1-4-2-title: ''
-1-5-1-title: ''
-1-5-2-title: ''
-1-5-3-title: ''
-1-5-4-title: ''
-1-a-1-title: ''
-1-a-2-title: ''
-1-a-3-title: ''
-1-b-1-title: ''
-10-1-1-title: ''
-10-2-1-title: ''
-10-3-1-title: ''
-10-4-1-title: ''
-10-5-1-title: ''
-10-6-1-title: ''
-10-7-1-title: ''
-10-7-2-title: ''
-10-a-1-title: ''
-10-b-1-title: ''
-10-c-1-title: ''
-11-1-1-title: ''
-11-2-1-title: ''
-11-3-1-title: ''
-11-3-2-title: ''
-11-4-1-title: ''
-11-5-1-title: ''
-11-5-2-title: ''
-11-6-1-title: ''
-11-6-2-title: ''
-11-7-1-title: ''
-11-7-2-title: ''
-11-a-1-title: ''
-11-b-1-title: ''
-11-b-2-title: ''
-11-c-1-title: ''
-12-1-1-title: ''
-12-2-1-title: ''
-12-2-2-title: ''
-12-3-1-title: ''
-12-4-1-title: ''
-12-4-2-title: ''
-12-5-1-title: ''
-12-6-1-title: ''
-12-7-1-title: ''
-12-8-1-title: ''
-12-a-1-title: ''
-12-b-1-title: ''
-12-c-1-title: ''
-13-1-1-title: ''
-13-1-2-title: ''
-13-1-3-title: ''
-13-2-1-title: ''
-13-3-1-title: ''
-13-3-2-title: ''
-13-a-1-title: ''
-13-b-1-title: ''
-14-1-1-title: ''
-14-2-1-title: ''
-14-3-1-title: ''
-14-4-1-title: ''
-14-5-1-title: ''
-14-6-1-title: ''
-14-7-1-title: ''
-14-a-1-title: ''
-14-b-1-title: ''
-14-c-1-title: ''
-15-1-1-title: ''
-15-1-2-title: ''
-15-2-1-title: ''
-15-3-1-title: ''
-15-4-1-title: ''
-15-4-2-title: ''
-15-5-1-title: ''
-15-6-1-title: ''
-15-7-1-title: ''
-15-8-1-title: ''
-15-9-1-title: ''
-15-a-1-title: ''
-15-b-1-title: ''
-15-c-1-title: ''
-16-1-1-title: ''
-16-1-2-title: ''
-16-1-3-title: ''
-16-1-4-title: ''
-16-10-1-title: ''
-16-10-2-title: ''
-16-2-1-title: ''
-16-2-2-title: ''
-16-2-3-title: ''
-16-3-1-title: ''
-16-3-2-title: ''
-16-4-1-title: ''
-16-4-2-title: ''
-16-5-1-title: ''
-16-5-2-title: ''
-16-6-1-title: ''
-16-6-2-title: ''
-16-7-1-title: ''
-16-7-2-title: ''
-16-8-1-title: ''
-16-9-1-title: ''
-16-a-1-title: ''
-16-b-1-title: ''
-17-1-1-title: ''
-17-1-2-title: ''
-17-10-1-title: ''
-17-11-1-title: ''
-17-12-1-title: ''
-17-13-1-title: ''
-17-14-1-title: ''
-17-15-1-title: ''
-17-16-1-title: ''
-17-17-1-title: ''
-17-18-1-title: ''
-17-18-2-title: ''
-17-18-3-title: ''
-17-19-1-title: ''
-17-19-2-title: ''
-17-2-1-title: ''
-17-3-1-title: ''
-17-3-2-title: ''
-17-4-1-title: ''
-17-5-1-title: ''
-17-6-1-title: ''
-17-6-2-title: ''
-17-7-1-title: ''
-17-8-1-title: ''
-17-9-1-title: ''
-2-1-1-title: ''
-2-1-2-title: ''
-2-2-1-title: ''
-2-2-2-title: ''
-2-3-1-title: ''
-2-3-2-title: ''
-2-4-1-title: ''
-2-5-1-title: ''
-2-5-2-title: ''
-2-a-1-title: ''
-2-a-2-title: ''
-2-b-1-title: ''
-2-c-1-title: ''
-3-1-1-title: ''
-3-1-2-title: ''
-3-2-1-title: ''
-3-2-2-title: ''
-3-3-1-title: ''
-3-3-2-title: ''
-3-3-3-title: ''
-3-3-4-title: ''
-3-3-5-title: ''
-3-4-1-title: ''
-3-4-2-title: ''
-3-5-1-title: ''
-3-5-2-title: ''
-3-6-1-title: ''
-3-7-1-title: ''
-3-7-2-title: ''
-3-8-1-title: ''
-3-8-2-title: ''
-3-9-1-title: ''
-3-9-2-title: ''
-3-9-3-title: ''
-3-a-1-title: ''
-3-b-1-title: ''
-3-b-2-title: ''
-3-b-3-title: ''
-3-c-1-title: ''
-3-d-1-title: ''
-4-1-1-title: ''
-4-2-1-title: ''
-4-2-2-title: ''
-4-3-1-title: ''
-4-4-1-title: ''
-4-5-1-title: ''
-4-6-1-title: ''
-4-7-1-title: ''
-4-a-1-title: ''
-4-b-1-title: ''
-4-c-1-title: ''
-5-1-1-title: ''
-5-2-1-title: ''
-5-2-2-title: ''
-5-3-1-title: ''
-5-3-2-title: ''
-5-4-1-title: ''
-5-5-1-title: ''
-5-5-2-title: ''
-5-6-1-title: ''
-5-6-2-title: ''
-5-a-1-title: ''
-5-a-2-title: ''
-5-b-1-title: ''
-5-c-1-title: ''
-6-1-1-title: ''
-6-2-1-title: ''
-6-3-1-title: ''
-6-3-2-title: ''
-6-4-1-title: ''
-6-4-2-title: ''
-6-5-1-title: ''
-6-5-2-title: ''
-6-6-1-title: ''
-6-a-1-title: ''
-6-b-1-title: ''
-7-1-1-title: ''
-7-1-2-title: ''
-7-2-1-title: ''
-7-3-1-title: ''
-7-a-1-title: ''
-7-b-1-title: ''
-8-1-1-title: ''
-8-10-1-title: ''
-8-10-2-title: ''
-8-2-1-title: ''
-8-3-1-title: ''
-8-4-1-title: ''
-8-4-2-title: ''
-8-5-1-title: ''
-8-5-2-title: ''
-8-6-1-title: ''
-8-7-1-title: ''
-8-8-1-title: ''
-8-8-2-title: ''
-8-9-1-title: ''
-8-9-2-title: ''
-8-a-1-title: ''
-8-b-1-title: ''
-9-1-1-title: ''
-9-1-2-title: ''
-9-2-1-title: ''
-9-2-2-title: ''
-9-3-1-title: ''
-9-3-2-title: ''
-9-4-1-title: ''
-9-5-1-title: ''
-9-5-2-title: ''
-9-a-1-title: ''
-9-b-1-title: ''
-9-c-1-title: ''
+1-1-1-title: 'Cinsiyete, yaşa, istihdam durumuna ve coğrafi konuma göre (kentsel/kırsal)
+  uluslararası yoksulluk sınırının altındaki nüfusun oranı'
+1-2-1-title: 'Cinsiyete ve yaşa göre ulusal yoksulluk sınırının altında yaşayan nüfusun
+  oranı'
+1-2-2-title: 'Ulusal tanımlara göre her yaştan erkek, kadın ve çocuğun tüm boyutlarıyla
+  yoksulluk içinde yaşayan oranı'
+1-3-1-title: 'Sosyal koruma katlarının/sistemlerinin kapsadığı nüfusun oranı, cinsiyete
+  göre, çocukları, işsizleri, yaşlıları, engelli kişileri, hamile kadınları, yenidoğanları,
+  iş yaralanması kurbanlarını ve yoksulları ve savunmasızları ayırt eder.'
+1-4-1-title: 'Temel hizmetlere erişimi olan hanelerde yaşayan nüfusun oranı'
+1-4-2-title: 'Güvenli arazi süresi haklarına sahip, yasal olarak tanınan belgelere
+  sahip ve arazi haklarını güvenli, cinsiyete ve kadro tipine göre algılayan toplam
+  yetişkin nüfusun oranı'
+1-5-1-title: '100.000 nüfus başına afete atfedilen ölüm, kayıp kişi ve doğrudan etkilenen
+  kişi sayısı'
+1-5-2-title: 'Küresel gayri safi yurtiçi hasıla (GsyİH) ile ilgili olarak afetlere
+  atfedilen doğrudan ekonomik kayıp'
+1-5-3-title: 'Sendai Afet Risk Azaltma Çerçevesi 2015–2030 doğrultusunda ulusal afet
+  risk azaltma stratejilerini benimseyen ve uygulayan ülke sayısı'
+1-5-4-title: 'Ulusal afet risk azaltma stratejileri doğrultusunda yerel afet risk
+  azaltma stratejilerini benimseyen ve uygulayan yerel yönetimlerin oranı'
+1-a-1-title: 'Hükümet tarafından doğrudan yoksulluğu azaltma programlarına ayrılan
+  yurt içinde üretilen kaynakların oranı'
+1-a-2-title: 'Temel hizmetlere (eğitim, sağlık ve sosyal koruma) yapılan toplam devlet
+  harcamalarının oranı'
+1-a-3-title: 'GsyİH''nın bir oranı olarak doğrudan yoksulluğu azaltma programlarına
+  ayrılan toplam hibelerin ve borç yaratmayan girişlerin toplamı'
+1-b-1-title: 'Hükümetin tekrarlayan ve sermaye harcamalarının kadınlara, yoksul ve
+  savunmasız gruplara orantısız bir şekilde fayda sağlayan sektörlere oranı'
+10-1-1-title: 'Nüfusun en alt yüzde 40''ı ve toplam nüfus arasında hanehalkı harcamalarının
+  veya kişi başına düşen gelirin büyüme oranları'
+10-2-1-title: 'Cinsiyete, yaşa ve engellilere göre medyan gelirin yüzde 50''sinin
+  altında yaşayanların oranı'
+10-3-1-title: 'Uluslararası insan hakları hukukuna göre yasaklanmış bir ayrımcılık
+  zemini temelinde son 12 ay içinde kişisel olarak ayrımcılığa uğradığını veya taciz
+  edildiğini hisseden nüfus raporlarının oranı'
+10-4-1-title: 'Ücretler ve sosyal koruma transferlerinden oluşan GsyİH''nın işgücü
+  payı'
+10-5-1-title: 'Finansal Sağlamlık Göstergeleri (FSI''ler)'
+10-6-1-title: 'Gelişmekte olan ülkelerin uluslararası kuruluşlardaki üye ve oy haklarının
+  oranı'
+10-7-1-title: 'Hedef ülkede kazanılan yıllık gelirin bir oranı olarak çalışan tarafından
+  karşılanarak işe alım maliyeti'
+10-7-2-title: 'İyi yönetilen göç politikaları uygulayan ülke sayısı'
+10-a-1-title: 'Sıfır tarifeli en az gelişmiş ülkelerden ve gelişmekte olan ülkelerden
+  yapılan ithalata uygulanan tarife hatlarının oranı'
+10-b-1-title: 'Alıcı ve bağışçı ülkelere ve akış türüne göre kalkınma için toplam
+  kaynak akışları (örn. resmi kalkınma yardımı, doğrudan yabancı yatırım ve diğer
+  akışlar)'
+10-c-1-title: 'Havale edilen tutarın bir oranı olarak havale maliyetleri'
+11-1-1-title: 'Gecekondu mahallelerinde, gayriresmi yerleşimlerde veya yetersiz konutlarda
+  yaşayan kentsel nüfusun oranı'
+11-2-1-title: 'Toplu taşıma araçlarına, cinsiyete, yaşa ve engelli kişilere göre uygun
+  erişime sahip nüfusun oranı'
+11-3-1-title: 'Arazi tüketim oranının nüfus artış hızına oranı'
+11-3-2-title: 'Düzenli ve demokratik bir şekilde faaliyet gösteren kentsel planlama
+  ve yönetimde sivil toplum doğrudan katılım yapısına sahip kentlerin oranı'
+11-4-1-title: 'Tüm kültürel ve doğal mirasın korunması, korunması ve korunması için
+  harcanan kişi başına yapılan toplam harcama (kültürel, doğal, karma ve Dünya Miras
+  Merkezi ataması), yönetim düzeyi (ulusal, bölgesel ve yerel/belediye), harcama türü
+  (işletme harcaması/yatırımı) ve özel fon türü (ayni, özel kar amacı gütmeyen sektör
+  ve sponsorluk)'
+11-5-1-title: '100.000 nüfus başına afete atfedilen ölüm, kayıp kişi ve doğrudan etkilenen
+  kişi sayısı'
+11-5-2-title: 'Küresel GsyİH ile ilgili doğrudan ekonomik kayıp, kritik altyapının
+  zarar görmesi ve afetlere bağlı temel hizmetlerdeki aksaklıkların sayısı'
+11-6-1-title: 'Kentsel katı atıkların oranı düzenli olarak toplanır ve şehirler tarafından
+  üretilen toplam kentsel katı atıktan yeterli nihai deşarj ile'
+11-6-2-title: 'Şehirlerde (nüfus ağırlıklı) ince partikül maddenin yıllık ortalama
+  seviyeleri (örneğin PM2.5 ve PM10)'
+11-7-1-title: 'Cinsiyete, yaşa ve engellilere göre herkes için kamu kullanımına açık
+  olan şehirlerin yerleşik alanının ortalama payı'
+11-7-2-title: 'Önceki 12 ay içinde cinsiyete, yaşa, engellilik durumuna ve meydana
+  gelen yere göre fiziksel veya cinsel taciz mağduru kişilerin oranı'
+11-a-1-title: 'Şehir büyüklüğüne göre nüfus projeksiyonlarını ve kaynak ihtiyaçlarını
+  entegre eden kentsel ve bölgesel kalkınma planlarını uygulayan şehirlerde yaşayan
+  nüfusun oranı'
+11-b-1-title: 'Sendai Afet Risk Azaltma Çerçevesi 2015–2030 doğrultusunda ulusal afet
+  risk azaltma stratejilerini benimseyen ve uygulayan ülke sayısı'
+11-b-2-title: 'Ulusal afet risk azaltma stratejileri doğrultusunda yerel afet risk
+  azaltma stratejilerini benimseyen ve uygulayan yerel yönetimlerin oranı'
+11-c-1-title: 'Yerel malzemeler kullanılarak sürdürülebilir, dayanıklı ve kaynak tasarruflu
+  binaların inşası ve güçlendirilmesine ayrılan en az gelişmiş ülkelere mali desteğin
+  oranı'
+12-1-1-title: 'Ulusal politikalara öncelik veya hedef olarak yaygınlaştırılan sürdürülebilir
+  tüketim ve üretim (SCP) ulusal eylem planlarına veya SCP''ye sahip ülke sayısı'
+12-2-1-title: 'Malzeme ayak izi, kişi başına malzeme ayak izi ve GsyİH başına malzeme
+  ayak izi'
+12-2-2-title: 'Yurtiçi malzeme tüketimi, kişi başına iç malzeme tüketimi ve GsyİH
+  başına yurtiçi malzeme tüketimi'
+12-3-1-title: 'Küresel gıda kaybı endeksi'
+12-4-1-title: 'Tehlikeli atıklarla ilgili uluslararası çok taraflı çevre anlaşmalarının
+  taraflarının sayısı ve ilgili her anlaşmanın gerektirdiği şekilde bilgi iletiminde
+  taahhütlerini ve yükümlülüklerini yerine getiren diğer kimyasallar'
+12-4-2-title: 'Kişi başına üretilen tehlikeli atıklar ve arıtılan tehlikeli atıkların
+  oranı, arıtma türüne göre'
+12-5-1-title: 'Ulusal geri dönüşüm oranı, tonlarca malzeme geri dönüştürüldü'
+12-6-1-title: 'Sürdürülebilirlik raporları yayınlayan şirket sayısı'
+12-7-1-title: 'Sürdürülebilir kamu ihale politikaları ve eylem planları uygulayan
+  ülke sayısı'
+12-8-1-title: '(i) küresel vatandaşlık eğitiminin ve (ii) sürdürülebilir kalkınma
+  için eğitimin (iklim değişikliği eğitimi dahil) (a) ulusal eğitim politikalarında
+  yaygınlaştırıldığı ölçüde; (b) müfredat; (c) öğretmen eğitimi; ve (d) öğrenci değerlendirmesi'
+12-a-1-title: 'Sürdürülebilir tüketim ve üretim ve çevreye duyarlı teknolojiler için
+  araştırma ve geliştirme konusunda gelişmekte olan ülkelere destek miktarı'
+12-b-1-title: 'Kabul edilen izleme ve değerlendirme araçlarıyla sürdürülebilir turizm
+  stratejilerinin veya politikalarının ve uygulanan eylem planlarının sayısı'
+12-c-1-title: 'GsyİH birimi başına (üretim ve tüketim) ve fosil yakıtlara yapılan
+  toplam ulusal harcamanın bir oranı olarak fosil yakıt sübvansiyonlarının miktarı'
+13-1-1-title: '100.000 nüfus başına afete atfedilen ölüm, kayıp kişi ve doğrudan etkilenen
+  kişi sayısı'
+13-1-2-title: 'Sendai Afet Risk Azaltma Çerçevesi 2015–2030 doğrultusunda ulusal afet
+  risk azaltma stratejilerini benimseyen ve uygulayan ülke sayısı'
+13-1-3-title: 'Ulusal afet risk azaltma stratejileri doğrultusunda yerel afet risk
+  azaltma stratejilerini benimseyen ve uygulayan yerel yönetimlerin oranı'
+13-2-1-title: 'İklim değişikliğinin olumsuz etkilerine uyum sağlama yeteneklerini
+  artıran, gıda üretimini tehdit etmeyecek şekilde iklim dayanıklılığını ve düşük
+  sera gazı emisyonu gelişimini teşvik eden entegre bir politika/strateji/planın kurulmasını
+  veya devreye alınmasını ileten ülke sayısı (ulusal uyum planı, ulusal olarak belirlenmiş
+  katkı, ulusal iletişim, bienal güncelleme raporu veya diğer dahil)'
+13-3-1-title: 'Birincil, ikincil ve üçüncül müfredatlara azaltma, adaptasyon, etki
+  azaltma ve erken uyarı entegre eden ülke sayısı'
+13-3-2-title: 'Adaptasyon, azaltma ve teknoloji transferi ve kalkınma eylemlerini
+  uygulamak için kurumsal, sistemik ve bireysel kapasite geliştirmenin güçlendirilmesini
+  iletmiş ülke sayısı'
+13-a-1-title: '2020 ve 2025 yılları arasında 100 milyar dolarlık taahhüt için yılda
+  abd doları seferber edildi'
+13-b-1-title: 'En az gelişmiş ülkelerin ve küçük ada gelişmekte olan Devletlerin sayısı,
+  kadınlara, gençlere ve yerel ve marjinal topluluklara odaklanmak da dahil olmak
+  üzere iklim değişikliğiyle ilgili etkili planlama ve yönetim kapasitelerini artırma
+  mekanizmaları için finans, teknoloji ve kapasite geliştirme de dahil olmak üzere
+  özel destek ve destek miktarı almaktadır.'
+14-1-1-title: 'Kıyı ötrofikasyonu ve yüzen plastik döküntü yoğunluğu indeksi'
+14-2-1-title: 'Ekosistem tabanlı yaklaşımlar kullanılarak yönetilen ulusal münhasır
+  ekonomik bölgelerin oranı'
+14-3-1-title: 'Kararlaştırılan temsili numune alma istasyonları paketinde ölçülen
+  ortalama deniz asitliği (pH)'
+14-4-1-title: 'Biyolojik olarak sürdürülebilir seviyelerdeki balık stoklarının oranı'
+14-5-1-title: 'Deniz alanlarıyla ilgili olarak korunan alanların kapsamı'
+14-6-1-title: 'Yasadışı, bildirilmemiş ve düzenlenmemiş balıkçılıkla mücadele etmeyi
+  amaçlayan uluslararası araçların uygulanması derecesinde ülkelerin ilerlemesi'
+14-7-1-title: 'Gelişmekte olan küçük ada devletlerinde, en az gelişmiş ülkelerde ve
+  tüm ülkelerde GsyİH''nın bir oranı olarak sürdürülebilir balıkçılık'
+14-a-1-title: 'Deniz teknolojisi alanındaki araştırmalara ayrılan toplam araştırma
+  bütçesinin oranı'
+14-b-1-title: 'Ülkelerin, küçük ölçekli balıkçılık için erişim haklarını tanıyan ve
+  koruyan yasal/düzenleyici/politika/kurumsal çerçevenin uygulanması derecesinde ilerlemesi'
+14-c-1-title: 'Okyanusların ve kaynaklarının korunması ve sürdürülebilir kullanımı
+  için Birleşmiş Milletler Deniz Hukuku Sözleşmesi''ne yansıdığı gibi, uluslararası
+  hukuku uygulayan hukuk, politika ve kurumsal çerçeveler, okyanusla ilgili araçlar
+  aracılığıyla onaylama, kabul etme ve uygulama konusunda ilerleme kaydeden ülke sayısı'
+15-1-1-title: 'Toplam arazi alanının bir oranı olarak orman alanı'
+15-1-2-title: 'Korunan alanlar tarafından kapsanan karasal ve tatlı su biyoçeşitliliği
+  için önemli alanların ekosistem türüne göre oranı'
+15-2-1-title: 'Sürdürülebilir orman yönetimi yolunda ilerleme'
+15-3-1-title: 'Toplam arazi alanı üzerinde bozulan arazilerin oranı'
+15-4-1-title: 'Dağ biyoçeşitliliği için önemli alanların korunan alanlarına göre kapsama
+  alanı'
+15-4-2-title: 'Dağ Yeşil Kapak İndeksi'
+15-5-1-title: 'Kırmızı Liste Dizini'
+15-6-1-title: 'Faydaların adil ve eşitlikçi paylaşımını sağlamak için yasama, idari
+  ve politika çerçevelerini benimseyen ülke sayısı'
+15-7-1-title: 'Kaçak avlanan veya yasadışı olarak ticareti yapılan yaban hayatı oranı'
+15-8-1-title: 'İlgili ulusal mevzuatı benimseyen ve istilacı yabancı türlerin önlenmesini
+  veya kontrolünü yeterince kaynaklayan ülkelerin oranı'
+15-9-1-title: '2011-2020 Biyoçeşitlilik Stratejik Planı''nın Aichi Biyoçeşitlilik
+  Hedefi 2''ye uygun olarak belirlenen ulusal hedeflere doğru ilerleme'
+15-a-1-title: 'Biyoçeşitliliğin ve ekosistemlerin korunması ve sürdürülebilir kullanımına
+  yönelik resmi kalkınma yardımı ve kamu harcamaları'
+15-b-1-title: 'Biyoçeşitliliğin ve ekosistemlerin korunması ve sürdürülebilir kullanımına
+  yönelik resmi kalkınma yardımı ve kamu harcamaları'
+15-c-1-title: 'Kaçak avlanan veya yasadışı olarak ticareti yapılan yaban hayatı oranı'
+16-1-1-title: 'Cinsiyete ve yaşa göre 100.000 nüfus başına kasten cinayet kurbanlarının
+  sayısı'
+16-1-2-title: 'Cinsiyete, yaşa ve nedene göre 100.000 nüfus başına çatışmaya bağlı
+  ölümler'
+16-1-3-title: 'Önceki 12 ay içinde (a) fiziksel şiddete, (b) psikolojik şiddete ve
+  (c) cinsel şiddete maruz kalan nüfusun oranı'
+16-1-4-title: 'Yaşadıkları bölgede tek başına yürürken kendini güvende hisseden nüfusun
+  oranı'
+16-10-1-title: 'Son 12 ay içinde gazetecilere, ilgili medya personeline, sendikacılara
+  ve insan hakları savunucularına yönelik doğrulanmış öldürme, adam kaçırma, zorla
+  kaybolma, keyfi gözaltı ve işkence vakalarının sayısı'
+16-10-2-title: 'Halkın bilgiye erişimi için anayasal, yasal ve/veya politika garantilerini
+  benimseyen ve uygulayan ülke sayısı'
+16-2-1-title: 'Son bir ay içinde bakıcılar tarafından herhangi bir fiziksel ceza ve/veya
+  psikolojik saldırganlık yaşayan 1-17 yaş arası çocukların oranı'
+16-2-2-title: 'Cinsiyete, yaşa ve sömürü biçimine göre 100.000 nüfus başına insan
+  kaçakçılığı kurbanı sayısı'
+16-2-3-title: '18-29 yaş arası genç kadın ve erkeklerin 18 yaşına kadar cinsel şiddete
+  maruz kalanların oranı'
+16-3-1-title: 'Son 12 ay içinde mağduriyetlerini yetkili makamlara veya resmi olarak
+  tanınan diğer çatışma çözüm mekanizmalarına bildiren şiddet mağdurlarının oranı'
+16-3-2-title: 'Genel hapishane nüfusunun bir oranı olarak kayıtsız tutuklular'
+16-4-1-title: 'İç ve dış yasadışı finansal akışların toplam değeri (mevcut ABD doları
+  cinsinden)'
+16-4-2-title: 'Yasadışı kökeni veya bağlamı uluslararası araçlar doğrultusunda yetkili
+  bir otorite tarafından izlenen veya kurulan ele geçirilen, bulunan veya teslim edilen
+  silahların oranı'
+16-5-1-title: 'Son 12 ay içinde bir kamu görevlisiyle en az bir teması olan ve bir
+  kamu görevlisine rüşvet veren veya bu kamu görevlileri tarafından rüşvet istenen
+  kişilerin oranı'
+16-5-2-title: 'Bir kamu görevlisiyle en az bir teması olan ve bir kamu görevlisine
+  rüşvet veren veya önceki 12 ay boyunca bu kamu görevlileri tarafından rüşvet istenen
+  işletmelerin oranı'
+16-6-1-title: 'Orijinal onaylanmış bütçenin bir oranı olarak, sektöre göre (veya bütçe
+  kodlarına veya benzerlerine göre) birincil devlet harcamaları'
+16-6-2-title: 'Son kamu hizmetleri deneyimlerinden memnun olan nüfusun oranı'
+16-7-1-title: 'Kamu kurumlarındaki (ulusal ve yerel yasama organları, kamu hizmeti
+  ve yargı) pozisyonların (cinsiyet, yaş, engelli ve nüfus gruplarına göre) ulusal
+  dağılımlara göre oranları'
+16-7-2-title: 'Karar vermenin cinsiyet, yaş, engellilik ve nüfus grubuna göre kapsayıcı
+  ve duyarlı olduğuna inanan nüfusun oranı'
+16-8-1-title: 'Gelişmekte olan ülkelerin uluslararası kuruluşlardaki üye ve oy haklarının
+  oranı'
+16-9-1-title: 'Doğumları bir sivil otoriteye kayıtlı olan 5 yaşın altındaki çocukların
+  yaşlarına göre oranı'
+16-a-1-title: 'Paris İlkeleri''ne uygun bağımsız ulusal insan hakları kurumlarının
+  varlığı'
+16-b-1-title: 'Uluslararası insan hakları hukukuna göre yasaklanmış bir ayrımcılık
+  zemini temelinde son 12 ay içinde kişisel olarak ayrımcılığa uğradığını veya taciz
+  edildiğini hisseden nüfus raporlarının oranı'
+17-1-1-title: 'Kaynağa göre GsyİH''nın bir oranı olarak toplam devlet geliri'
+17-1-2-title: 'İç vergilerle finanse edilen iç bütçenin oranı'
+17-10-1-title: 'Dünya çapında ağırlıklı tarife ortalaması'
+17-11-1-title: 'Gelişmekte olan ülkelerin ve en az gelişmiş ülkelerin küresel ihracat
+  içindeki payı'
+17-12-1-title: 'Gelişmekte olan ülkeler, en az gelişmiş ülkeler ve gelişmekte olan
+  küçük ada devletleri tarafından karşı karşıya kalınen ortalama tarifeler'
+17-13-1-title: 'Makroekonomik Pano'
+17-14-1-title: 'Sürdürülebilir kalkınmanın politika tutarlılığını artıracak mekanizmalara
+  sahip ülke sayısı'
+17-15-1-title: 'Kalkınma işbirliği sağlayıcıları tarafından ülkeye ait sonuç çerçevelerinin
+  ve planlama araçlarının kullanım kapsamı'
+17-16-1-title: 'Sürdürülebilir kalkınma hedeflerine başarıyı destekleyen çok paydaşlı
+  kalkınma etkinliği izleme çerçevelerinde ilerleme bildiren ülke sayısı'
+17-17-1-title: 'Kamu-özel sektör ve sivil toplum ortaklıklarına taahhüt edilen Abd
+  doları miktarı'
+17-18-1-title: 'Resmi İstatistiklerin Temel İlkeleri uyarınca, hedefle ilgili olduğunda
+  tam ayrışma ile ulusal düzeyde üretilen sürdürülebilir kalkınma göstergelerinin
+  oranı'
+17-18-2-title: 'Resmi İstatistiklerin Temel İlkelerine uygun ulusal istatistik mevzuatına
+  sahip ülke sayısı'
+17-18-3-title: 'Tamamen finanse edilen ve uygulama aşamasında olan ulusal istatistik
+  planına sahip ülke sayısı, finansman kaynağına göre'
+17-19-1-title: 'Gelişmekte olan ülkelerde istatistiksel kapasiteyi güçlendirmek için
+  kullanılabilir hale getirilebilir tüm kaynakların dolar değeri'
+17-19-2-title: '(a) son 10 yılda en az bir nüfus ve konut sayımı yapan ülkelerin oranı;
+  ve (b) yüzde 100 doğum kaydı ve yüzde 80 ölüm kaydı elde etmiş olmak'
+17-2-1-title: 'Ekonomik İşbirliği ve Kalkınma Örgütü (OECD) Kalkınma Yardım Komitesi
+  bağışçılarının gayri safi milli gelir (GNI) oranı olarak, toplam ve en az gelişmiş
+  ülkelere net resmi kalkınma yardımı'
+17-3-1-title: 'Toplam iç bütçenin bir oranı olarak doğrudan yabancı yatırım (DDY),
+  resmi kalkınma yardımı ve Güney-Güney işbirliği'
+17-3-2-title: 'Toplam GsyİH''nın bir oranı olarak havale hacmi (ABD doları cinsinden)'
+17-4-1-title: 'Mal ve hizmet ihracatının bir oranı olarak borç servisi'
+17-5-1-title: 'En az gelişmiş ülkeler için yatırım teşvik rejimlerini benimseyen ve
+  uygulayan ülke sayısı'
+17-6-1-title: 'Ülkeler arasındaki bilim ve/veya teknoloji işbirliği anlaşmalarının
+  ve programlarının sayısı, işbirliği türüne göre'
+17-6-2-title: '100 kişi başına düşen internet geniş bant abonelikleri hıza göre düzeltildi'
+17-7-1-title: 'Çevreye duyarlı teknolojilerin geliştirilmesi, aktarılması, yaygınlaştırılması
+  ve yaygınlaştırılmasını teşvik etmek için gelişmekte olan ülkeler için onaylanmış
+  toplam fon miktarı'
+17-8-1-title: 'İnternet kullanan bireylerin oranı'
+17-9-1-title: 'Gelişmekte olan ülkelere taahhüt edilen mali ve teknik yardımın (Kuzey-Güney,
+  Güney-Güney ve üçgen işbirliği dahil) dolar değeri'
+2-1-1-title: 'Yetersiz beslenme sıklığı'
+2-1-2-title: 'Gıda Güvensizliği Deneyim Ölçeğine (FIES) dayanarak, popülasyonda orta
+  veya şiddetli gıda güvensizliğinin yaygınlığı'
+2-2-1-title: '5 yaşın altındaki çocuklarda bodurluk prevalansı (Yaş <-2 standart sapması
+  Dünya Sağlık Örgütü (WHO) Çocuk Büyüme Standartları ortancasından)'
+2-2-2-title: '5 yaşın altındaki çocuklar arasında, tipe göre (israf ve aşırı kilo)
+  malnütrisyon prevalansı (boy >+2 veya WHO Çocuk Büyüme Standartlarının ortancasından
+  <-2 standart sapma)'
+2-3-1-title: 'Tarım/pastoral/ormancılık işletme büyüklüğü sınıflarına göre işçilik
+  birimi başına üretim hacmi'
+2-3-2-title: 'Cinsiyete ve yerli statüye göre küçük ölçekli gıda üreticilerinin ortalama
+  geliri'
+2-4-1-title: 'Verimli ve sürdürülebilir tarım altında tarım alanlarının oranı'
+2-5-1-title: 'Orta veya uzun vadeli koruma tesislerinde güvence altına alınan gıda
+  ve tarım için bitki ve hayvan genetik kaynaklarının sayısı'
+2-5-2-title: 'Risk altında, risk altında değil veya bilinmeyen düzeyde yok olma riski
+  altında olarak sınıflandırılan yerel ırkların oranı'
+2-a-1-title: 'Devlet harcamaları için tarıma yönelim endeksi'
+2-a-2-title: 'Tarım sektörüne toplam resmi akışlar (resmi kalkınma yardımı artı diğer
+  resmi akışlar)'
+2-b-1-title: 'Tarımsal ihracat sübvansiyonları'
+2-c-1-title: 'Gıda fiyatı anormalliklerinin göstergesi'
+3-1-1-title: 'Maternal mortalite oranı'
+3-1-2-title: 'Kalifiye sağlık personelinin katıldığı doğumların oranı'
+3-2-1-title: 'Beş yaş altı ölüm oranı'
+3-2-2-title: 'Yenidoğan ölüm oranı'
+3-3-1-title: 'Cinsiyet, yaş ve anahtar popülasyonlara göre 1.000 enfekte olmayan nüfus
+  başına yeni HIV enfeksiyonu sayısı'
+3-3-2-title: '100.000 nüfus başına tüberküloz insidansı'
+3-3-3-title: '1.000 nüfus başına sıtma insidansı'
+3-3-4-title: '100.000 nüfus başına hepatit B insidansı'
+3-3-5-title: 'İhmal edilen tropikal hastalıklara karşı müdahale gerektiren kişi sayısı'
+3-4-1-title: 'Kardiyovasküler hastalık, kanser, diyabet veya kronik solunum yolu hastalığına
+  atfedilen ölüm oranı'
+3-4-2-title: 'İntihar ölüm oranı'
+3-5-1-title: 'Madde kullanım bozuklukları için tedavi müdahalelerinin (farmakolojik,
+  psikososyal ve rehabilitasyon ve bakım sonrası hizmetler) kapsamı'
+3-5-2-title: 'Ulusal içeriğe göre, bir takvim yılı içinde kişi başına alkol tüketimi
+  (15 yaş ve üzeri) olarak tanımlanan zararlı alkol kullanımı litrelerce saf alkol'
+3-6-1-title: 'Karayolu trafik yaralanmaları nedeniyle ölüm oranı'
+3-7-1-title: 'Üreme çağındaki (15-49 yaş arası) kadınların aile planlamasına ihtiyacı
+  olan kadınların oranı modern yöntemlerden memnun'
+3-7-2-title: 'Bu yaş grubundaki her 1.000 kadın için ergen doğum oranı (10-14 yaş;
+  15-19 yaş)'
+3-8-1-title: 'Temel sağlık hizmetlerinin kapsamı (genel ve en dezavantajlı nüfus arasında
+  üreme, anne, yenidoğan ve çocuk sağlığı, bulaşıcı hastalıklar, bulaşıcı olmayan
+  hastalıklar ve hizmet kapasitesi ve erişimini içeren izleyici müdahalelerine dayanan
+  temel hizmetlerin ortalama kapsamı olarak tanımlanır)'
+3-8-2-title: 'Toplam hanehalkı harcaması veya gelirinin bir payı olarak sağlık için
+  büyük hanehalkı harcamaları olan nüfusun oranı'
+3-9-1-title: 'Ev ve ortam hava kirliliğine atfedilen ölüm oranı'
+3-9-2-title: 'Güvenli olmayan su, güvenli olmayan sanitasyon ve hijyen eksikliğine
+  atfedilen ölüm oranı (güvenli olmayan Su, Sanitasyon ve Herkes için Hijyen (WASH)
+  hizmetlerine maruz kalma)'
+3-9-3-title: 'İstem dışı zehirlenmeye atfedilen ölüm oranı'
+3-a-1-title: '15 yaş ve üstü kişiler arasında mevcut tütün kullanımının yaş standardize
+  prevalansı'
+3-b-1-title: 'Ulusal programlarına dahil edilen tüm aşıların kapsadığı hedef nüfusun
+  oranı'
+3-b-2-title: 'Tıbbi araştırma ve temel sağlık sektörlerine toplam net resmi kalkınma
+  yardımı'
+3-b-3-title: 'Sürdürülebilir bir temelde mevcut ve uygun fiyatlı bir dizi ilgili temel
+  ilaca sahip sağlık tesislerinin oranı'
+3-c-1-title: 'Sağlık çalışanı yoğunluğu ve dağılımı'
+3-d-1-title: 'Uluslararası Sağlık Düzenlemeleri (IHR) kapasitesi ve sağlık acil durum
+  hazırlığı'
+4-1-1-title: '2/3 sınıflarındaki çocuk ve gençlerin (a) oranı; (b) birincilin sonunda;
+  ve (c) alt ortaöğretimin sonunda (i) okuma ve (ii) matematikte en az yeterlilik
+  seviyesine ulaşarak, cinsiyete göre'
+4-2-1-title: '5 yaşın altındaki çocukların sağlık, öğrenme ve psikososyal refahta
+  gelişimsel olarak yolunda gidenlerin oranı, cinsiyete göre'
+4-2-2-title: 'Organize öğrenmeye katılım oranı (resmi birincil giriş yaşından bir
+  yıl önce), cinsiyete göre'
+4-3-1-title: 'Gençlerin ve yetişkinlerin son 12 aydaki örgün ve yaygın eğitim ve öğretime
+  katılım oranı, cinsiyete göre'
+4-4-1-title: 'Bilgi ve iletişim teknolojisi (Bİt) becerilerine sahip gençlerin ve
+  yetişkinlerin beceri türüne göre oranı'
+4-5-1-title: 'Bu listedeki tüm eğitim göstergeleri için parite endeksleri (kadın/erkek,
+  kırsal/kentsel, alt/üst servet beşlisi ve engellilik durumu, yerli halklar ve çatışmalardan
+  etkilenenler gibi)'
+4-6-1-title: 'Belirli bir yaş grubundaki nüfusun, cinsiyete göre fonksiyonel (a) okuryazarlık
+  ve (b) sayısal becerilerde en az sabit düzeyde yeterlilik elde etme oranı'
+4-7-1-title: '(i) toplumsal cinsiyet eşitliği ve insan hakları da dahil olmak üzere
+  sürdürülebilir kalkınma için küresel vatandaşlık eğitiminin ve (ii) eğitimin (a)
+  ulusal eğitim politikalarında her düzeyde yaygınlaştırıldığı ölçüde; (b) müfredat;
+  (c) öğretmen eğitimi; ve (d) öğrenci değerlendirmesi'
+4-a-1-title: '(a) elektriğe erişimi olan okulların oranı; (b) pedagojik amaçlar için
+  internet; (c) pedagojik amaçlı bilgisayarlar; (d) engelli öğrenciler için uyarlanmış
+  altyapı ve materyaller; (e) temel içme suyu; (f) tek cinsiyetli temel sanitasyon
+  tesisleri; ve (g) temel el yıkama tesisleri (WASH gösterge tanımlarına göre)'
+4-b-1-title: 'Sektöre ve çalışma türüne göre burslar için resmi kalkınma yardımı akışlarının
+  hacmi'
+4-c-1-title: 'Öğretmenlerin oranı: (a) önöğretim; (b) birincil; (c) alt ikincil; ve
+  (d) belirli bir ülkede ilgili düzeyde öğretim için gereken en az organize öğretmenlik
+  eğitimi (örneğin pedagojik eğitim) hizmeti veya hizmet içi eğitim almış olan üst
+  ortaöğretim'
+5-1-1-title: 'Cinsiyet temelinde eşitliği ve ayrımcılığı teşvik etmek, uygulamak ve
+  izlemek için yasal çerçevelerin uygulanıp uygulanmadığı'
+5-2-1-title: 'Son 12 ay içinde mevcut veya eski bir yakın partner tarafından fiziksel,
+  cinsel veya psikolojik şiddete maruz kalan 15 yaş ve üstü kadın ve kız çocuklarının
+  oranı, şiddet biçimine ve yaşa göre'
+5-2-2-title: 'Son 12 ay içinde yakın partner dışındaki kişiler tarafından cinsel şiddete
+  maruz kalan 15 yaş ve üstü kadın ve kız çocuklarının yaşlarına ve oluşum yerlerine
+  göre oranı'
+5-3-1-title: '15 yaşından önce ve 18 yaşından önce evli veya sendikada olan 20-24
+  yaş arası kadınların oranı'
+5-3-2-title: 'Yaşa göre, 15-49 yaş arası kız çocuklarının ve kadın genital sünneti/kesimi
+  yapılan kadınların oranı'
+5-4-1-title: 'Cinsiyete, yaşa ve konuma göre ücretsiz ev ve bakım çalışmalarına harcanan
+  zamanın oranı'
+5-5-1-title: '(a) ulusal parlamentolarda ve (b) yerel yönetimlerde kadınların sahip
+  olduğu sandalyelerin oranı'
+5-5-2-title: 'Yönetici pozisyonlarındaki kadınların oranı'
+5-6-1-title: 'Cinsel ilişkiler, doğum kontrol kullanımı ve üreme sağlığı hizmetleri
+  ile ilgili kendi bilinçli kararlarını veren 15-49 yaş arası kadınların oranı'
+5-6-2-title: '15 yaş ve üstü kadın ve erkeklere cinsel ve üreme sağlığı, bilgi ve
+  eğitime tam ve eşit erişimi garanti eden yasa ve düzenlemelere sahip ülke sayısı'
+5-a-1-title: '(a) Tarım arazileri üzerinde mülkiyet veya güvenli haklara sahip toplam
+  tarım nüfusunun cinsiyete göre oranı; ve (b) kadınların tarım arazilerinin sahipleri
+  veya hak sahipleri arasındaki payı, görev süresine göre'
+5-a-2-title: 'Yasal çerçevenin (geleneksel yasalar dahil) kadınların arazi mülkiyeti
+  ve/veya kontrolü için eşit haklara sahip olmasını garanti ettiği ülkelerin oranı'
+5-b-1-title: 'Seks yoluyla cep telefonu sahibi olan bireylerin oranı'
+5-c-1-title: 'Toplumsal cinsiyet eşitliği ve kadının güçlendirilmesi için kamu tahsislerini
+  takip etmek ve yapmak için sistemlere sahip ülkelerin oranı'
+6-1-1-title: 'Güvenli bir şekilde yönetilen içme suyu hizmetlerini kullanan nüfusun
+  oranı'
+6-2-1-title: 'Sabun ve su ile el yıkama tesisi de dahil olmak üzere güvenli bir şekilde
+  yönetilen sanitasyon hizmetlerini kullanan nüfusun oranı'
+6-3-1-title: 'Güvenli bir şekilde arıtıldı atık su oranı'
+6-3-2-title: 'İyi ortam suyu kalitesine sahip su kütlelerinin oranı'
+6-4-1-title: 'Su kullanım verimliliğinde zaman içinde değişiklik'
+6-4-2-title: 'Su stresi seviyesi: mevcut tatlı su kaynaklarının bir oranı olarak tatlı
+  su çekilmesi'
+6-5-1-title: 'Entegre su kaynakları yönetimi uygulama derecesi (0 ila 100)'
+6-5-2-title: 'Su işbirliği için operasyonel bir düzenlemeye sahip sınır ötesi havza
+  alanının oranı'
+6-6-1-title: 'Zamanla su ile ilgili ekosistemlerin boyutundaki değişim'
+6-a-1-title: 'Devlet tarafından koordine edilen bir harcama planının parçası olan
+  su ve sanitasyonla ilgili resmi kalkınma yardımı miktarı'
+6-b-1-title: 'Yerel toplulukların su ve sanitasyon yönetimine katılımına yönelik yerleşik
+  ve operasyonel politika ve prosedürlere sahip yerel idari birimlerin oranı'
+7-1-1-title: 'Elektriğe erişimi olan nüfusun oranı'
+7-1-2-title: 'Temiz yakıtlara ve teknolojiye birincil güveni olan nüfusun oranı'
+7-2-1-title: 'Toplam nihai enerji tüketiminde yenilenebilir enerji payı'
+7-3-1-title: 'Birincil enerji ve GsyİH açısından ölçülen enerji yoğunluğu'
+7-a-1-title: 'Hibrit sistemler de dahil olmak üzere temiz enerji araştırma ve geliştirme
+  ve yenilenebilir enerji üretimini desteklemek için gelişmekte olan ülkelere uluslararası
+  finansal akışlar'
+7-b-1-title: 'GsyİH''nın bir oranı olarak enerji verimliliğine yapılan yatırımlar
+  ve altyapı ve teknoloji için sürdürülebilir kalkınma hizmetlerine finansal transfere
+  doğrudan yabancı yatırım miktarı'
+8-1-1-title: 'Kişi başına düşen reel GsyİH''nın yıllık büyüme hızı'
+8-10-1-title: '(a) 100.000 yetişkin başına düşen ticari banka şubesi sayısı ve (b)
+  100.000 yetişkin başına otomatik vezne makinesi (ATM) sayısı'
+8-10-2-title: 'Bir bankada veya başka bir finans kuruluşunda hesabı olan veya mobil
+  para-hizmet sağlayıcısı olan yetişkinlerin (15 yaş ve üstü) oranı'
+8-2-1-title: 'İstihdam edilen kişi başına reel GsyİH''nın yıllık büyüme hızı'
+8-3-1-title: 'Tarım dışı istihdamda gayriresmi istihdamın cinsiyete göre oranı'
+8-4-1-title: 'Malzeme ayak izi, kişi başına malzeme ayak izi ve GsyİH başına malzeme
+  ayak izi'
+8-4-2-title: 'Yurtiçi malzeme tüketimi, kişi başına iç malzeme tüketimi ve GsyİH başına
+  yurtiçi malzeme tüketimi'
+8-5-1-title: 'Kadın ve erkek çalışanların meslek, yaş ve engellilere göre ortalama
+  saatlik kazançları'
+8-5-2-title: 'cinsiyete, yaşa ve engellilere göre işsizlik oranı'
+8-6-1-title: 'Eğitim, istihdam veya eğitimde olmayan gençlerin (15-24 yaş arası) oranı'
+8-7-1-title: 'Cinsiyete ve yaşa göre 5-17 yaş arası çocuk işçiliği yapan çocukların
+  oranı ve sayısı'
+8-8-1-title: 'Cinsiyet ve göçmen durumuna göre ölümcül ve ölümcül olmayan mesleki
+  yaralanmaların sıklık oranları'
+8-8-2-title: 'Cinsiyet ve göçmen statüsüne göre, Uluslararası Çalışma Örgütü (ILO)
+  metin kaynaklarına ve ulusal mevzuata dayalı çalışma haklarına ulusal uyum düzeyi
+  (örgütlenme özgürlüğü ve toplu pazarlık)'
+8-9-1-title: 'Turizm doğrudan GsyİH toplam GsyİH''nın bir oranı olarak ve büyüme hızında'
+8-9-2-title: 'Sürdürülebilir turizm sektörlerindeki işlerin toplam turizm işleri dışında
+  oranı'
+8-a-1-title: 'Ticari taahhütler ve tediyeler için yardım'
+8-b-1-title: 'Genç istihdamı için, farklı bir strateji olarak veya ulusal istihdam
+  stratejisinin bir parçası olarak gelişmiş ve operasyonelleştirilmiş bir ulusal stratejinin
+  varlığı'
+9-1-1-title: 'Tüm mevsim yoluna 2 km mesafede yaşayan kırsal nüfusun oranı'
+9-1-2-title: 'Yolcu ve yük hacimleri, taşıma şekline göre'
+9-2-1-title: 'GsyİH''nın bir oranı ve kişi başına düşen imalat değeri'
+9-2-2-title: 'Toplam istihdamın bir oranı olarak imalat istihdamı'
+9-3-1-title: 'Küçük ölçekli endüstrilerin toplam endüstri katma değerine oranı'
+9-3-2-title: 'Kredi veya kredi hattı olan küçük ölçekli endüstrilerin oranı'
+9-4-1-title: 'Katma değer birimi başına CO2 emisyonu'
+9-5-1-title: 'GsyİH''nın bir oranı olarak araştırma ve geliştirme harcamaları'
+9-5-2-title: 'Bir milyon kişi başına araştırmacılar (tam zamanlı eşdeğerde)'
+9-a-1-title: 'Altyapıya toplam resmi uluslararası destek (resmi kalkınma yardımı artı
+  diğer resmi akışlar)'
+9-b-1-title: 'Orta ve yüksek teknoloji endüstrisinin toplam katma değere oranı'
+9-c-1-title: 'Teknolojiye göre, mobil ağ kapsamındaki nüfusun oranı'

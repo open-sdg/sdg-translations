@@ -14,3 +14,4 @@ disaggregation_status_notstarted: 'Առանձնացված չէ'
 disaggregation_status_notapplicable: 'Շրջանակից դուրս'
 disaggregation_status_by_field: 'Տարանջատում ըստ% դաշտի'
 not_specified: Նշված չէ
+reported: Հաղորդել են

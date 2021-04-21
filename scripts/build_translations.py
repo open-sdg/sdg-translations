@@ -26,6 +26,14 @@ def build_translations(output_file):
                 with open(os.path.join(root, file), 'r') as stream:
                     try:
                         yamldata = (yaml.load(stream, Loader=yaml.FullLoader))
+                        # Backwards compatibility for Armenian, whose code changed
+                        # from 'am' to 'hy'.
+                        if no_extension == 'languages' and 'hy' in yamldata:
+                            yamldata['am'] = yamldata['hy']
+                        if key == 'hy':
+                            if 'am' not in data:
+                                data['am'] = {}
+                            data['am'][no_extension] = yamldata
                         data[key][no_extension] = yamldata
                     except Exception as exc:
                         print (exc)

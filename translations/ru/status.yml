@@ -14,3 +14,4 @@ disaggregation_status_notstarted: 'Не дезагрегированные'
 disaggregation_status_notapplicable: 'За рамками'
 disaggregation_status_by_field: 'Дезагрегация по %-полям'
 not_specified: Не указан
+reported: Сообщение

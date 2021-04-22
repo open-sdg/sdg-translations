@@ -47,7 +47,7 @@ chart: ''
 table: ''
 # A button that displays some data in the form of a map
 map: ''
-loading: ''
+loading: 'Wet plis'
 loading_map: ''
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: ''

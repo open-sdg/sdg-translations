@@ -15,3 +15,4 @@ disaggregation_status_notstarted: 'Ayrıştırılmadı'
 disaggregation_status_notapplicable: 'Kapsam dışı'
 disaggregation_status_by_field: '%field göre ayrıştırma'
 not_specified: Belirtilmedi
+reported: Bildirildi

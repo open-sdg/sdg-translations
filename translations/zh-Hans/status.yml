@@ -14,3 +14,4 @@ disaggregation_status_notstarted: '未分类'
 disaggregation_status_notapplicable: '不在范围内'
 disaggregation_status_by_field: '按%字段分列'
 not_specified: 未标明
+reported: 已举报

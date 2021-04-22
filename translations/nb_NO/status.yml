@@ -15,3 +15,4 @@ disaggregation_status_notstarted: 'Ikke oppdelt'
 disaggregation_status_notapplicable: 'Utenfor omfanget'
 disaggregation_status_by_field: 'Oppdeling etter %felt'
 not_specified: Ikke angitt
+reported: Rapportert

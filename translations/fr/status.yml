@@ -12,6 +12,6 @@ disaggregation_status_complete: 'Entièrement désagrégé'
 disaggregation_status_inprogress: 'Partiellement désagrégé'
 disaggregation_status_notstarted: 'Non désagrégé'
 disaggregation_status_notapplicable: 'Hors champ'
-disaggregation_status_by_field: 'Désagrégation par % de champ'
+disaggregation_status_by_field: 'Désagrégation par %field'
 not_specified: Non spécifié
 reported: Déclaré

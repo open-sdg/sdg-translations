@@ -3,12 +3,12 @@ indicator: 'सूचक'
 # This is the plural version of the indicator key
 indicators: 'सूचक'
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: 'गोल'
+goal: 'लक्ष्य'
 # This is the plural version of the goal key
 goals: 'गोलहरू'
 sdg: 'दिगो विकास लक्ष्यहरू'
 # This refers to the 'home page' of a website
-home: 'घर'
+home: 'गृह'
 loading: 'खोज परिणामहरू लोड गर्दै'
 opens_new_window: 'नयाँ विन्डोमा खुल्छ'
 hide: 'लुकाउनुहोस्'

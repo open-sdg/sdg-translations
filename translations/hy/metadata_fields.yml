@@ -83,3 +83,49 @@ comments_limitations: Մեկնաբանություններ և սահմանափա
 rationale_interpretation: Ռացիոնալ և մեկնաբանություն
 rational_interpretation: Ռացիոնալ և մեկնաբանություն
 copyright: Հեղինակային իրավունք
+OTHER_DOC: Հղումներ և փաստաթղթեր
+COMPARABILITY: Համադրելիություն / շեղում միջազգային ստանդարտներից
+COVERAGE: Տվյալների մատչելիություն և տարանջատում
+QUALITY_ASSMNT: Որակի գնահատում
+QUALITY_ASSURE: Որակի ապահովում
+QUALITY_MGMNT: Որակի կառավարում
+DOC_METHOD: Երկրներին ազգային մակարդակում տվյալների հավաքագրման համար մատչելի մեթոդներ
+  և ուղեցույցներ
+REG_AGG: Տարածաշրջանային միավորումներ
+IMPUTATION: Բացակայող արժեքների բուժում (i) երկրի մակարդակում և (ii) տարածաշրջանային
+  մակարդակում
+ADJUSTMENT: Adշգրտումներ
+DATA_VALIDATION: վավերականացում
+DATA_COMP: Հաշվարկման եղանակը
+REC_USE_LIM: Մեկնաբանություններ և սահմանափակումներ
+RATIONALE: Հիմնավորումը
+OTHER_METHOD: Այլ մեթոդաբանական նկատառումներ
+INST_MANDATE: Ինստիտուցիոնալ մանդատ
+COMPILING_ORG: Տվյալների կազմողներ
+DATA_SOURCE: Տվյալների մատակարարներ
+REL_CAL_POLICY: Տվյալների թողարկման օրացույց
+FREQ_COLL: Տվյալների հավաքման օրացույց
+COLL_METHOD: Տվյալների հավաքման մեթոդը
+SOURCE_TYPE: Տվյալների աղբյուրներ
+SRC_TYPE_COLL_METHOD: Տվյալների աղբյուրի տեսակը և հավաքման մեթոդը
+CLASS_SYSTEM: Դասակարգումներ
+UNIT_MEASURE: Չափի միավոր
+STAT_CONC_DEF: Սահմանում և հասկացություններ
+IND_DEF_CON_CLASS: Սահմանում, հասկացություններ և դասակարգումներ
+CONTACT_EMAIL: էլ. հասցե
+CONTACT_MAIL: էլ. հասցե
+CONTACT_PHONE: Հեռախոս
+CONTACT_FUNCT: Կոնտակտային անձի գործառույթը
+ORGANISATION_UNIT: Կապվեք կազմակերպության ստորաբաժանման հետ
+CONTACT_NAME: Կոնտակտային անձ (ներ)
+CONTACT_ORGANISATION: Կազմակերպություն
+CONTACT: Տվյալների թղթակից
+SDG_CUSTODIAN_AGENCIES: Համաշխարհային մոնիտորինգի համար պատասխանատու միջազգային կազմակերպություններ
+  (ներ)
+SDG_RELATED_INDICATORS: Հարակից ցուցանիշներ
+META_LAST_UPDATE: Մետատվյալների թարմացում
+SDG_SERIES_DESCR: Սերիան
+SDG_INDICATOR: Ցուցանիշ
+SDG_TARGET: Նպատակետ
+SDG_GOAL: Նպատակը
+SDG_INDICATOR_INFO: Indուցանիշի վերաբերյալ տեղեկատվություն

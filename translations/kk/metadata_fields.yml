@@ -82,3 +82,47 @@ comments_limitations: Пікірлер мен шектеулер
 rationale_interpretation: Рационалды және түсіндіру
 rational_interpretation: Рационалды және түсіндіру
 copyright: Авторлық құқық
+OTHER_DOC: Пайдаланылған әдебиеттер мен құжаттар
+COMPARABILITY: Халықаралық стандарттардан салыстыру / ауытқу
+COVERAGE: Деректердің қол жетімділігі және бөлінуі
+QUALITY_ASSMNT: Сапаны бағалау
+QUALITY_ASSURE: Сапа кепілдігі
+QUALITY_MGMNT: Сапа менеджменті
+DOC_METHOD: Ұлттық деңгейде деректерді жинауға арналған елдер үшін қол жетімді әдістер
+  мен нұсқаулар
+REG_AGG: Аймақтық жиынтықтар
+IMPUTATION: Жетіспейтін мәндерді емдеу (i) ел деңгейінде және (ii) аймақтық деңгейде
+ADJUSTMENT: Түзетулер
+DATA_VALIDATION: Тексеру
+DATA_COMP: Есептеу әдісі
+REC_USE_LIM: Пікірлер мен шектеулер
+RATIONALE: Негіздеме
+OTHER_METHOD: Басқа әдістемелік ойлар
+INST_MANDATE: Институционалдық мандат
+COMPILING_ORG: Мәліметтерді құрастырушылар
+DATA_SOURCE: Деректерді жеткізушілер
+REL_CAL_POLICY: Мәліметтер шығару күнтізбесі
+FREQ_COLL: Мәліметтер жинау күнтізбесі
+COLL_METHOD: Мәліметтерді жинау әдісі
+SOURCE_TYPE: Деректер көздері
+SRC_TYPE_COLL_METHOD: Мәліметтер көзінің типі және жинау әдісі
+CLASS_SYSTEM: Жіктелімдері
+UNIT_MEASURE: Өлшем бірлігі
+STAT_CONC_DEF: Анықтама және ұғымдар
+IND_DEF_CON_CLASS: Анықтамасы, түсініктері және жіктелімдері
+CONTACT_EMAIL: Байланыс электрондық поштасы
+CONTACT_MAIL: Байланыс поштасы
+CONTACT_PHONE: Байланыс телефоны
+CONTACT_FUNCT: Байланыс жасаушының қызметі
+ORGANISATION_UNIT: Ұйым бөлімшесіне хабарласыңыз
+CONTACT_NAME: Байланыс жасайтын адам (дар)
+CONTACT_ORGANISATION: Ұйым
+CONTACT: Деректер репортері
+SDG_CUSTODIAN_AGENCIES: Жаһандық мониторингке жауапты халықаралық ұйымдар (лар)
+SDG_RELATED_INDICATORS: Байланысты көрсеткіштер
+META_LAST_UPDATE: Метадеректерді жаңарту
+SDG_SERIES_DESCR: Қатар
+SDG_INDICATOR: Көрсеткіш
+SDG_TARGET: Міндет
+SDG_GOAL: Мақсат
+SDG_INDICATOR_INFO: Көрсеткіш туралы ақпарат

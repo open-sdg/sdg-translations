@@ -104,3 +104,48 @@ comments_limitations: 'Шарҳҳо ва маҳдудиятҳо'
 rationale_interpretation: 'Оқилона ва тафсир'
 rational_interpretation: 'Оқилона ва тафсир'
 copyright: 'Ҳуқуқи муаллиф'
+OTHER_DOC: Адабиёт ва ҳуҷҷатгузорӣ
+COMPARABILITY: Муқоиса / дуршавӣ аз стандартҳои байналмилалӣ
+COVERAGE: Дастрасӣ ва тақсимоти маълумот
+QUALITY_ASSMNT: Арзёбии сифат
+QUALITY_ASSURE: Тазмини сифат
+QUALITY_MGMNT: Идоракунии сифат
+DOC_METHOD: Усулҳо ва роҳнамоҳое, ки барои кишварҳо барои ҷамъоварии маълумот дар
+  сатҳи миллӣ мавҷуданд
+REG_AGG: Агрегатҳои минтақавӣ
+IMPUTATION: Табобати арзишҳои гумшуда (i) дар сатҳи кишвар ва (ii) дар сатҳи минтақавӣ
+ADJUSTMENT: Тасҳеҳ
+DATA_VALIDATION: Тасдиқ
+DATA_COMP: Усули ҳисоб
+REC_USE_LIM: Шарҳ ва маҳдудиятҳо
+RATIONALE: Асоснокӣ
+OTHER_METHOD: Дигар мулоҳизаҳои методологӣ
+INST_MANDATE: Мандати институтсионалӣ
+COMPILING_ORG: Тартибдиҳандагони маълумот
+DATA_SOURCE: Провайдерҳои маълумот
+REL_CAL_POLICY: Тақвими интишори маълумот
+FREQ_COLL: Тақвими ҷамъоварии маълумот
+COLL_METHOD: Усули ҷамъоварии маълумот
+SOURCE_TYPE: Манбаъҳои маълумот
+SRC_TYPE_COLL_METHOD: Навъи маълумот ва усули ҷамъоварии маълумот
+CLASS_SYSTEM: Таснифҳо
+UNIT_MEASURE: Воҳиди ченак
+STAT_CONC_DEF: Таъриф ва мафҳумҳо
+IND_DEF_CON_CLASS: Таъриф, мафҳумҳо ва таснифот
+CONTACT_EMAIL: Тамос бо почтаи электронӣ
+CONTACT_MAIL: Почтаи тамос
+CONTACT_PHONE: Телефони тамос
+CONTACT_FUNCT: Функсияи шахси тамос
+ORGANISATION_UNIT: Шӯъбаи ташкилот тамос гиред
+CONTACT_NAME: Шахси тамос
+CONTACT_ORGANISATION: Ташкилот
+CONTACT: Гузоришгари маълумот
+SDG_CUSTODIAN_AGENCIES: Ташкилотҳо (ҳо) -и байналмилалӣ, ки барои мониторинги глобалӣ
+  масъуланд
+SDG_RELATED_INDICATORS: Нишондиҳандаҳои марбут
+META_LAST_UPDATE: Навсозии метамаълумот
+SDG_SERIES_DESCR: Силсила
+SDG_INDICATOR: Нишондиҳанда
+SDG_TARGET: Ҳадаф
+SDG_GOAL: Ҳадаф
+SDG_INDICATOR_INFO: Маълумот дар бораи нишондиҳанда

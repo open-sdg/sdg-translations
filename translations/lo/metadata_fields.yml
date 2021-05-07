@@ -104,3 +104,46 @@ comments_limitations: 'ຄຳ ເຫັນແລະຂໍ້ ຈຳ ກັດ'
 rationale_interpretation: 'ສົມເຫດສົມຜົນແລະຕີລາຄາ'
 rational_interpretation: 'ສົມເຫດສົມຜົນແລະຕີລາຄາ'
 copyright: 'ລິຂະສິດ'
+OTHER_DOC: ເອກະສານອ້າງອີງແລະເອກະສານ
+COMPARABILITY: ຄວາມສາມາດປຽບທຽບ / ການບ່ຽງເບນຈາກມາດຕະຖານສາກົນ
+COVERAGE: ຄວາມພ້ອມຂອງຂໍ້ມູນແລະການແບ່ງແຍກ
+QUALITY_ASSMNT: ການປະເມີນຄຸນະພາບ
+QUALITY_ASSURE: ປະກັນຄຸນນະພາບ
+QUALITY_MGMNT: ການຄຸ້ມຄອງຄຸນນະພາບ
+DOC_METHOD: ວິທີການແລະ ຄຳ ແນະ ນຳ ທີ່ມີໃຫ້ແກ່ປະເທດຕ່າງໆ ສຳ ລັບການລວບລວມຂໍ້ມູນໃນລະດັບຊາດ
+REG_AGG: ການລວບລວມພາກພື້ນ
+IMPUTATION: ການຮັກສາຄຸນຄ່າທີ່ຂາດຫາຍໄປ (i) ໃນລະດັບປະເທດແລະ (ii) ໃນລະດັບພາກພື້ນ
+ADJUSTMENT: ການປັບຕົວ
+DATA_VALIDATION: ການກວດສອບຄວາມຖືກຕ້ອງ
+DATA_COMP: ວິທີການ ຄຳ ນວນ
+REC_USE_LIM: ຄຳ ເຫັນແລະຂໍ້ ຈຳ ກັດ
+RATIONALE: ເຫດຜົນ
+OTHER_METHOD: ການພິຈາລະນາວິທີການອື່ນໆ
+INST_MANDATE: ພາລະບົດບາດຂອງສະຖາບັນ
+COMPILING_ORG: ຜູ້ລວບລວມຂໍ້ມູນ
+DATA_SOURCE: ຜູ້ໃຫ້ບໍລິການຂໍ້ມູນ
+REL_CAL_POLICY: ປະຕິທິນການປ່ອຍຂໍ້ມູນ
+FREQ_COLL: ປະຕິທິນການເກັບ ກຳ ຂໍ້ມູນ
+COLL_METHOD: ວິທີການເກັບ ກຳ ຂໍ້ມູນ
+SOURCE_TYPE: ແຫຼ່ງຂໍ້ມູນ
+SRC_TYPE_COLL_METHOD: ປະເພດແຫຼ່ງຂໍ້ມູນແລະວິທີການເກັບ ກຳ ຂໍ້ມູນ
+CLASS_SYSTEM: ການຈັດປະເພດ
+UNIT_MEASURE: ຫົວ ໜ່ວຍ ວັດແທກ
+STAT_CONC_DEF: ນິຍາມແລະແນວຄິດ
+IND_DEF_CON_CLASS: ນິຍາມ, ແນວຄິດແລະການຈັດປະເພດ
+CONTACT_EMAIL: ອີເມວຕິດຕໍ່
+CONTACT_MAIL: ຕິດຕໍ່ເມລ
+CONTACT_PHONE: ໂທລະສັບຕິດຕໍ່
+CONTACT_FUNCT: ຕິດຕໍ່ຜູ້ ທຳ ງານ
+ORGANISATION_UNIT: ຕິດຕໍ່ ໜ່ວຍ ງານອົງກອນ
+CONTACT_NAME: ຜູ້ຕິດຕໍ່
+CONTACT_ORGANISATION: ການຈັດຕັ້ງ
+CONTACT: ນັກຂ່າວ
+SDG_CUSTODIAN_AGENCIES: ອົງການຈັດຕັ້ງສາກົນທີ່ຮັບຜິດຊອບໃນການຕິດຕາມກວດກາທົ່ວໂລກ
+SDG_RELATED_INDICATORS: ຕົວຊີ້ວັດທີ່ກ່ຽວຂ້ອງ
+META_LAST_UPDATE: ການປັບປຸງເມຕາເດຕາ
+SDG_SERIES_DESCR: ຊຸດ
+SDG_INDICATOR: ຕົວຊີ້ວັດ
+SDG_TARGET: ເປົ້າຫມາຍ
+SDG_GOAL: ເປົ້າ ໝາຍ
+SDG_INDICATOR_INFO: ຂໍ້ມູນຕົວຊີ້ວັດ

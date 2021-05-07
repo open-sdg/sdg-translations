@@ -104,3 +104,47 @@ comments_limitations: Comments and limitations
 rationale_interpretation: Rational and interpretation
 rational_interpretation: Rational and interpretation
 copyright: Copyright
+# Fields from the SDMX MSD.
+SDG_INDICATOR_INFO: Indicator information
+SDG_GOAL: Goal
+SDG_TARGET: Target
+SDG_INDICATOR: Indicator
+SDG_SERIES_DESCR: Series
+META_LAST_UPDATE: Metadata update
+SDG_RELATED_INDICATORS: Related indicators
+SDG_CUSTODIAN_AGENCIES: International organisations(s) responsible for global monitoring
+CONTACT: Data reporter
+CONTACT_ORGANISATION: Organisation
+CONTACT_NAME: Contact person(s)
+ORGANISATION_UNIT: Contact organisation unit
+CONTACT_FUNCT: Contact person function
+CONTACT_PHONE: Contact phone
+CONTACT_MAIL: Contact mail
+CONTACT_EMAIL: Contact email
+IND_DEF_CON_CLASS: Definition, concepts, and classifications
+STAT_CONC_DEF: Definition and concepts
+UNIT_MEASURE: Unit of measure
+CLASS_SYSTEM: Classifications
+SRC_TYPE_COLL_METHOD: Data source type and collection method
+SOURCE_TYPE: Data sources
+COLL_METHOD: Data collection method
+FREQ_COLL: Data collection calendar
+REL_CAL_POLICY: Data release calendar
+DATA_SOURCE: Data providers
+COMPILING_ORG: Data compilers
+INST_MANDATE: Institutional mandate
+OTHER_METHOD: Other methodological considerations
+RATIONALE: Rationale
+REC_USE_LIM: Comment and limitations
+DATA_COMP: Method of computation
+DATA_VALIDATION: Validation
+ADJUSTMENT: Adjustments
+IMPUTATION: Treatment of missing values (i) at country level and (ii) at regional level
+REG_AGG: Regional aggregations
+DOC_METHOD: Methods and guidance available to countries for the compilation of the data at the national level
+QUALITY_MGMNT: Quality management
+QUALITY_ASSURE: Quality assurance
+QUALITY_ASSMNT: Quality assessment
+COVERAGE: Data availability and disaggregation
+COMPARABILITY: Comparability/deviation from international standards
+OTHER_DOC: References and Documentation

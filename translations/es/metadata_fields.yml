@@ -83,3 +83,49 @@ comments_limitations: Comentarios y limitaciones
 rationale_interpretation: Racionalidad e interpretación
 rational_interpretation: Racionalidad e interpretación
 copyright: Derechos de autor
+OTHER_DOC: Referencias y documentación
+COMPARABILITY: Comparabilidad/desviación de las normas internacionales
+COVERAGE: Disponibilidad y desglose de datos
+QUALITY_ASSMNT: Evaluación de la calidad
+QUALITY_ASSURE: Seguro de calidad
+QUALITY_MGMNT: Gestión de la calidad
+DOC_METHOD: Métodos y orientaciones a disposición de los países para la recopilación
+  de los datos a nivel nacional
+REG_AGG: Agregaciones regionales
+IMPUTATION: Tratamiento de los valores perdidos (i) a nivel de país y (ii) a nivel
+  regional
+ADJUSTMENT: Ajustes
+DATA_VALIDATION: Validación
+DATA_COMP: Método de cálculo
+REC_USE_LIM: Comentarios y limitaciones
+RATIONALE: Fundamentos
+OTHER_METHOD: Otras consideraciones metodológicas
+INST_MANDATE: Mandato institucional
+COMPILING_ORG: Compiladores de datos
+DATA_SOURCE: Proveedores de datos
+REL_CAL_POLICY: Calendario de publicación de datos
+FREQ_COLL: Calendario de recogida de datos
+COLL_METHOD: Método de recogida de datos
+SOURCE_TYPE: Fuentes de datos
+SRC_TYPE_COLL_METHOD: Tipo de fuente de datos y método de recogida
+CLASS_SYSTEM: Clasificaciones
+UNIT_MEASURE: Unidad de medida
+STAT_CONC_DEF: Definición y conceptos
+IND_DEF_CON_CLASS: Definición, conceptos y clasificaciones
+CONTACT_EMAIL: Correo electrónico de contacto
+CONTACT_MAIL: Correo electrónico de contacto
+CONTACT_PHONE: Teléfono de contacto
+CONTACT_FUNCT: Función de la persona de contacto
+ORGANISATION_UNIT: Unidad de organización de contactos
+CONTACT_NAME: Persona(s) de contacto
+CONTACT_ORGANISATION: Organización
+CONTACT: Reportero de datos
+SDG_CUSTODIAN_AGENCIES: 0.g. Organizaciones internacionales responsables del seguimiento
+  global
+SDG_RELATED_INDICATORS: Indicadores relacionados
+META_LAST_UPDATE: Actualización de metadatos
+SDG_SERIES_DESCR: Series
+SDG_INDICATOR: Indicador
+SDG_TARGET: Destino
+SDG_GOAL: Objetivo
+SDG_INDICATOR_INFO: Información sobre los indicadores

@@ -89,7 +89,7 @@ QUALITY_ASSMNT: Évaluation de la qualité
 QUALITY_ASSURE: Assurance qualité
 QUALITY_MGMNT: Gestion de la qualité
 DOC_METHOD: Méthodes et conseils à la disposition des pays pour la compilation des
-  données au niveau national.
+  données au niveau national
 REG_AGG: Agrégations régionales
 IMPUTATION: Traitement des valeurs manquantes (i) au niveau national et (ii) au niveau
   régional
@@ -112,7 +112,7 @@ UNIT_MEASURE: Unité de mesure
 STAT_CONC_DEF: Définition et concepts
 IND_DEF_CON_CLASS: Définition, concepts et classifications
 CONTACT_EMAIL: Courriel de contact
-CONTACT_MAIL: Email de contact
+CONTACT_MAIL: Courriel de contact
 CONTACT_PHONE: Téléphone de contact
 CONTACT_FUNCT: Fonction de la personne de contact
 ORGANISATION_UNIT: Unité d'organisation de contact
@@ -125,6 +125,6 @@ SDG_RELATED_INDICATORS: Indicateurs connexes
 META_LAST_UPDATE: Mise à jour des métadonnées
 SDG_SERIES_DESCR: Série
 SDG_INDICATOR: Indicateur
-SDG_TARGET: Destination
+SDG_TARGET: Cible
 SDG_GOAL: Objectif
 SDG_INDICATOR_INFO: Informations sur l'indicateur

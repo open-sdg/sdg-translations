@@ -82,3 +82,46 @@ comments_limitations: التعليقات والقيود
 rationale_interpretation: العقلاني والتفسير
 rational_interpretation: العقلاني والتفسير
 copyright: حقوق النشر
+OTHER_DOC: المراجع والتوثيق
+COMPARABILITY: المقارنة / الانحراف عن المعايير الدولية
+COVERAGE: توافر البيانات وتفصيلها
+QUALITY_ASSMNT: تقييم الجودة
+QUALITY_ASSURE: ضمان الجودة
+QUALITY_MGMNT: إدارة الجودة
+DOC_METHOD: الأساليب والإرشادات المتاحة للبلدان لتجميع البيانات على المستوى الوطني
+REG_AGG: التجميعات الإقليمية
+IMPUTATION: معالجة القيم الناقصة (1) على المستوى القطري و (2) على المستوى الإقليمي
+ADJUSTMENT: التعديلات
+DATA_VALIDATION: التحقق
+DATA_COMP: طريقة الحساب
+REC_USE_LIM: التعليقات والقيود
+RATIONALE: المنطق
+OTHER_METHOD: اعتبارات منهجية أخرى
+INST_MANDATE: التفويض المؤسسي
+COMPILING_ORG: جامعي البيانات
+DATA_SOURCE: مزودي البيانات
+REL_CAL_POLICY: تقويم إصدار البيانات
+FREQ_COLL: تقويم جمع البيانات
+COLL_METHOD: طريقة جمع البيانات
+SOURCE_TYPE: مصدر البيانات
+SRC_TYPE_COLL_METHOD: نوع مصدر البيانات وطريقة جمعها
+CLASS_SYSTEM: التصنيفات
+UNIT_MEASURE: وحدة القياس
+STAT_CONC_DEF: التعريف والمفاهيم
+IND_DEF_CON_CLASS: التعريف والمفاهيم والتصنيفات
+CONTACT_EMAIL: تواصل بالبريد الاكتروني
+CONTACT_MAIL: بريد الاتصال
+CONTACT_PHONE: هاتف الاتصال
+CONTACT_FUNCT: وظيفة شخص الاتصال
+ORGANISATION_UNIT: وحدة تنظيم الاتصال
+CONTACT_NAME: شخص (ق) الاتصال
+CONTACT_ORGANISATION: منظمة
+CONTACT: مراسل البيانات
+SDG_CUSTODIAN_AGENCIES: المنظمات الدولية المسؤولة عن الرصد العالمي
+SDG_RELATED_INDICATORS: المؤشرات ذات الصلة
+META_LAST_UPDATE: تحديث البيانات الوصفية
+SDG_SERIES_DESCR: مجموعة
+SDG_INDICATOR: مؤشر
+SDG_TARGET: الهدف
+SDG_GOAL: هدف
+SDG_INDICATOR_INFO: معلومات المؤشر

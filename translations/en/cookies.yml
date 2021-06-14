@@ -27,6 +27,9 @@ purposes_functional_title: Website functionality
 purposes_performance_description: 'These services process personal information to optimize the service
       that this website offers.'
 purposes_performance_title: Performance Optimization
+purposes_analytics_description: 'These services process personal information so that we can make
+      improvements based on how you use the site.'
+purposes_analytics_title: Usage analytics
 save: Save
 service_disableAll_description: Use this switch to enable or disable all services.
 service_disableAll_title: Enable or disable all services

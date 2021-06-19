@@ -1,100 +1,114 @@
-select_all: ''
-clear_all: ''
-clear_selections: ''
-variable_hint: ''
-no_data_hint: ''
-download_headline: ''
-download_headline_title: ''
-download_source: ''
-download_source_title: ''
-download_source_sdmx: ''
-download_source_sdmx_title: ''
-download_chart: ''
-download_table: ''
-download_csv: ''
-download_csv_title: ''
-download_chart_image: ''
-download_chart_image_title: ''
-download_geojson: ''
-download_geojson_title: ''
+select_all: 'Seleccionar tot'
+clear_all: 'Esborrar tot'
+clear_selections: 'Esborra les seleccions'
+variable_hint: 'Disponible quan està seleccionat ''% field'''
+no_data_hint: 'No hi ha opcions disponibles a causa dels filtres anteriors'
+download_headline: 'Baixeu CSV de títol'
+download_headline_title: 'Baixeu les dades del títol com a CSV'
+download_source: 'Descarregueu CSV d''origen'
+download_source_title: 'Baixeu les dades d''origen com a CSV'
+download_source_sdmx: 'Descarregueu la font SDMX'
+download_source_sdmx_title: 'Baixeu les dades d''origen com a SDMX'
+download_chart: 'Descarregueu el gràfic CSV'
+download_table: 'Descarregar taula CSV'
+download_csv: 'Descarrega el CSV'
+download_csv_title: 'Baixeu-lo com a CSV'
+download_chart_image: 'Descarregar imatge del gràfic'
+download_chart_image_title: 'Baixeu el gràfic com a imatge'
+download_geojson: 'Descarregueu GeoJSON'
+download_geojson_title: 'Baixeu-lo com a GeoJSON'
 # A label describing information - where some data originally came from
-source: ''
+source: 'Origen'
 # A button that displays information about where some data originally came from
-sources: ''
+sources: 'Fonts'
 # A label describing information - a description of the geographical area covered by a dataset
-geographical_area: ''
+geographical_area: 'Àrea geogràfica'
 # A label describing information - the unit of measurement that is being represented in a dataset
-unit_of_measurement: ''
+unit_of_measurement: 'Unitat de mesura'
 # A shorter version of the "Unit" label.
-unit: ''
+unit: 'Unitat'
 # A label describing information - any general information about a dataset - displayed below the data visualization on the page
-footnote: ''
+footnote: 'Peu de pàgina'
 # The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
-units_type: ''
+units_type: 'Tipus d''unitats'
 # The label of a widget that allows the user to change the series that is being represented in a data visualization
-series: ''
-dataset_size_warning: ''
-view_indicator_list: ''
+series: 'Sèries'
+dataset_size_warning: 'Hi ha massa conjunts de dades per mostrar-se al gràfic. No
+  es mostraran tots fins que no elimineu algunes seleccions.'
+view_indicator_list: 'Consulteu la llista d''indicadors d''aquest objectiu'
 # A label describing a section of the page that allows the user to filter data by sub-category
-sub_categories: ''
+sub_categories: 'Subcategories'
 # A label of "Show sub-categories" to display before a particular sub-category's name
-sub_categories_show: ""
-series_help: ''
-legend_help: ''
+sub_categories_show: "Mostra subcategories:"
+series_help: 'Trieu les categories dels desplegables següents per veure diferents
+  desglossaments de les dades. Alguns no estaran disponibles fins que no es triï un
+  nivell superior.'
+legend_help: 'Feu clic a la llegenda per eliminar línies individuals del gràfic.'
 # A button that displays some data in the form of a chart
-chart: ''
+chart: 'Gràfica'
 # A button that displays some data in the form of a table (rows and columns)
-table: ''
+table: 'Taula'
 # A button that displays some data in the form of a map
-map: ''
-loading: ''
-loading_map: ''
+map: 'Mapa'
+loading: 'S’està carregant'
+loading_map: 'S''està carregant el mapa'
 # A button that displays the national metadata about a particular indicator - as provided by that country
-national_metadata: ''
-national_metadata_blurb: ''
+national_metadata: 'Metadades nacionals'
+national_metadata_blurb: 'Aquesta taula proporciona metadades per a l''indicador real
+  disponible a les estadístiques de% country_name més properes a l''indicador global
+  corresponent de l''ODS. Tingueu en compte que, fins i tot quan l’indicador global
+  d’ODS estigui totalment disponible a les estadístiques de% country_adjective, s’hauria
+  de consultar aquesta taula per obtenir informació sobre la metodologia nacional
+  i altra informació de metadades específiques de% country_adjective.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
-global_metadata: ''
-global_metadata_blurb: ''
+global_metadata: 'Metadades globals'
+global_metadata_blurb: 'Aquesta taula proporciona informació sobre les metadades dels
+  indicadors dels ODS definits per la Comissió d''Estadística de les Nacions Unides.
+  <a href="https://unstats.un.org/sdgs/metadata/"> La divisió estadística de les Nacions
+  Unides proporciona metadades globals completes </a>.'
 # A button for editing some content
-edit: ''
+edit: 'Edita'
 # A button for editing data
-edit_data: ''
+edit_data: 'Edita les dades'
 # A button for editing metadata
-edit_metadata: ''
+edit_metadata: 'Editeu les metadades'
 # A button for editing configuration
-edit_configuration: ''
+edit_configuration: 'Edita la configuració'
 # A message that displays when a chart has no data to display because of the
 # user's choices.
-data_not_available: ''
+data_not_available: 'Aquestes dades no estan disponibles. Trieu dades alternatives
+  per mostrar.'
 # A message that is announced when there is no data on the chart/table
-announce_data_not_available: ''
+announce_data_not_available: 'El gràfic i la taula no mostren dades.'
 # A message that is announced when the data is added to the chart/table
-announce_data_added: ''
+announce_data_added: 'S''ha actualitzat el gràfic i la taula per incloure dades.'
 # A message that is announced when the data is removed from the chart/table
-announce_data_removed: ''
+announce_data_removed: 'S''ha actualitzat el gràfic i la taula per excloure dades.'
 # A message that points out an alternative display for visual data
-data_tabular_alternative: ''
+data_tabular_alternative: 'Per obtenir informació alternativa a les taules, vegeu
+  la pestanya Taula.'
 # Instructions for navigating data with a keyboard
-data_keyboard_navigation: ''
+data_keyboard_navigation: 'Premeu Retorn per navegar pels punts de dades amb les tecles
+  de fletxa esquerra i dreta.'
 # Description of the "plot legend" which displays beneath charts
-plot_legend_description: ""
+plot_legend_description: "Llegenda de la trama: llista de línies incloses al gràfic"
 # Common annotation displayed on graphs for the 2030 target.
-annotation_2030_target: ''
+annotation_2030_target: 'Objectiu 2030'
 # Label describing an annotation on a chart/graph.
-chart_annotation: ''
+chart_annotation: 'Anotació gràfica'
 # Description of the year slider on maps.
-map_year_slider: ''
+map_year_slider: 'Control lliscant de l''any'
 # Description of a search field on maps.
-map_search: ''
+map_search: 'Cerca'
 # Description of a button that hides the search field on maps.
-map_search_hide: ''
+map_search_hide: 'Amaga la cerca'
 # Description of a button that shows the search field on maps.
-map_search_show: ''
+map_search_show: 'Mostra la cerca'
 # Instructions for using the data table columns for sorting.
-table_column_sort: ''
+table_column_sort: 'Feu clic per ordenar per aquesta columna'
 # Label describing the status of an indicator
-status: ''
+status: 'Estat de l’indicador'
 # Label describing the "tags" for an indicator
-tags: ''
-previous: ''
-next: ''
+tags: 'Etiquetes'
+previous: 'Indicador anterior'
+next: 'Indicador següent'

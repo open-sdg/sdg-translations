@@ -1,12 +1,13 @@
-skip_link: ''
+skip_link: 'Vés al contingut principal'
 # This word identifies a software or web project as being in the early stages of development
-alpha: ''
-disclaimer: ''
+alpha: 'Alfa'
+disclaimer: 'Es tracta d’un lloc web de desenvolupament. Agraïm els vostres comentaris
+  <a href="mailto:%email_address"> </a>.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
-tag_line: ''
-high_contrast: ''
-default_contrast: ''
-enable_high_contrast: ''
-disable_high_contrast: ''
-toggle_search: ''
-toggle_menu: ''
+tag_line: '17 objectius per transformar el nostre món'
+high_contrast: 'Contrast alt'
+default_contrast: 'Contrast per defecte'
+enable_high_contrast: 'Activa el contrast elevat'
+disable_high_contrast: 'Desactiva l’alt contrast'
+toggle_search: 'Canvia de cerca. Feu clic per expandir o reduir la barra de cerca.'
+toggle_menu: 'Commuta el menú. Feu clic per expandir o reduir el menú.'

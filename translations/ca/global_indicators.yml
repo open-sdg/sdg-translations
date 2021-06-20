@@ -1,244 +1,507 @@
-1-1-1-title: ''
-1-2-1-title: ''
-1-2-2-title: ''
-1-3-1-title: ''
-1-4-1-title: ''
-1-4-2-title: ''
-1-5-1-title: ''
-1-5-2-title: ''
-1-5-3-title: ''
-1-5-4-title: ''
-1-a-1-title: ''
-1-a-2-title: ''
-1-a-3-title: ''
-1-b-1-title: ''
-10-1-1-title: ''
-10-2-1-title: ''
-10-3-1-title: ''
-10-4-1-title: ''
-10-5-1-title: ''
-10-6-1-title: ''
-10-7-1-title: ''
-10-7-2-title: ''
-10-a-1-title: ''
-10-b-1-title: ''
-10-c-1-title: ''
-11-1-1-title: ''
-11-2-1-title: ''
-11-3-1-title: ''
-11-3-2-title: ''
-11-4-1-title: ''
-11-5-1-title: ''
-11-5-2-title: ''
-11-6-1-title: ''
-11-6-2-title: ''
-11-7-1-title: ''
-11-7-2-title: ''
-11-a-1-title: ''
-11-b-1-title: ''
-11-b-2-title: ''
-11-c-1-title: ''
-12-1-1-title: ''
-12-2-1-title: ''
-12-2-2-title: ''
-12-3-1-title: ''
-12-4-1-title: ''
-12-4-2-title: ''
-12-5-1-title: ''
-12-6-1-title: ''
-12-7-1-title: ''
-12-8-1-title: ''
-12-a-1-title: ''
-12-b-1-title: ''
-12-c-1-title: ''
-13-1-1-title: ''
-13-1-2-title: ''
-13-1-3-title: ''
-13-2-1-title: ''
-13-3-1-title: ''
-13-3-2-title: ''
-13-a-1-title: ''
-13-b-1-title: ''
-14-1-1-title: ''
-14-2-1-title: ''
-14-3-1-title: ''
-14-4-1-title: ''
-14-5-1-title: ''
-14-6-1-title: ''
-14-7-1-title: ''
-14-a-1-title: ''
-14-b-1-title: ''
-14-c-1-title: ''
-15-1-1-title: ''
-15-1-2-title: ''
-15-2-1-title: ''
-15-3-1-title: ''
-15-4-1-title: ''
-15-4-2-title: ''
-15-5-1-title: ''
-15-6-1-title: ''
-15-7-1-title: ''
-15-8-1-title: ''
-15-9-1-title: ''
-15-a-1-title: ''
-15-b-1-title: ''
-15-c-1-title: ''
-16-1-1-title: ''
-16-1-2-title: ''
-16-1-3-title: ''
-16-1-4-title: ''
-16-10-1-title: ''
-16-10-2-title: ''
-16-2-1-title: ''
-16-2-2-title: ''
-16-2-3-title: ''
-16-3-1-title: ''
-16-3-2-title: ''
-16-4-1-title: ''
-16-4-2-title: ''
-16-5-1-title: ''
-16-5-2-title: ''
-16-6-1-title: ''
-16-6-2-title: ''
-16-7-1-title: ''
-16-7-2-title: ''
-16-8-1-title: ''
-16-9-1-title: ''
-16-a-1-title: ''
-16-b-1-title: ''
-17-1-1-title: ''
-17-1-2-title: ''
-17-10-1-title: ''
-17-11-1-title: ''
-17-12-1-title: ''
-17-13-1-title: ''
-17-14-1-title: ''
-17-15-1-title: ''
-17-16-1-title: ''
-17-17-1-title: ''
-17-18-1-title: ''
-17-18-2-title: ''
-17-18-3-title: ''
-17-19-1-title: ''
-17-19-2-title: ''
-17-2-1-title: ''
-17-3-1-title: ''
-17-3-2-title: ''
-17-4-1-title: ''
-17-5-1-title: ''
-17-6-1-title: ''
-17-6-2-title: ''
-17-7-1-title: ''
-17-8-1-title: ''
-17-9-1-title: ''
-2-1-1-title: ''
-2-1-2-title: ''
-2-2-1-title: ''
-2-2-2-title: ''
-2-3-1-title: ''
-2-3-2-title: ''
-2-4-1-title: ''
-2-5-1-title: ''
-2-5-2-title: ''
-2-a-1-title: ''
-2-a-2-title: ''
-2-b-1-title: ''
-2-c-1-title: ''
-3-1-1-title: ''
-3-1-2-title: ''
-3-2-1-title: ''
-3-2-2-title: ''
-3-3-1-title: ''
-3-3-2-title: ''
-3-3-3-title: ''
-3-3-4-title: ''
-3-3-5-title: ''
-3-4-1-title: ''
-3-4-2-title: ''
-3-5-1-title: ''
-3-5-2-title: ''
-3-6-1-title: ''
-3-7-1-title: ''
-3-7-2-title: ''
-3-8-1-title: ''
-3-8-2-title: ''
-3-9-1-title: ''
-3-9-2-title: ''
-3-9-3-title: ''
-3-a-1-title: ''
-3-b-1-title: ''
-3-b-2-title: ''
-3-b-3-title: ''
-3-c-1-title: ''
-3-d-1-title: ''
-4-1-1-title: ''
-4-2-1-title: ''
-4-2-2-title: ''
-4-3-1-title: ''
-4-4-1-title: ''
-4-5-1-title: ''
-4-6-1-title: ''
-4-7-1-title: ''
-4-a-1-title: ''
-4-b-1-title: ''
-4-c-1-title: ''
-5-1-1-title: ''
-5-2-1-title: ''
-5-2-2-title: ''
-5-3-1-title: ''
-5-3-2-title: ''
-5-4-1-title: ''
-5-5-1-title: ''
-5-5-2-title: ''
-5-6-1-title: ''
-5-6-2-title: ''
-5-a-1-title: ''
-5-a-2-title: ''
-5-b-1-title: ''
-5-c-1-title: ''
-6-1-1-title: ''
-6-2-1-title: ''
-6-3-1-title: ''
-6-3-2-title: ''
-6-4-1-title: ''
-6-4-2-title: ''
-6-5-1-title: ''
-6-5-2-title: ''
-6-6-1-title: ''
-6-a-1-title: ''
-6-b-1-title: ''
-7-1-1-title: ''
-7-1-2-title: ''
-7-2-1-title: ''
-7-3-1-title: ''
-7-a-1-title: ''
-7-b-1-title: ''
-8-1-1-title: ''
-8-10-1-title: ''
-8-10-2-title: ''
-8-2-1-title: ''
-8-3-1-title: ''
-8-4-1-title: ''
-8-4-2-title: ''
-8-5-1-title: ''
-8-5-2-title: ''
-8-6-1-title: ''
-8-7-1-title: ''
-8-8-1-title: ''
-8-8-2-title: ''
-8-9-1-title: ''
-8-9-2-title: ''
-8-a-1-title: ''
-8-b-1-title: ''
-9-1-1-title: ''
-9-1-2-title: ''
-9-2-1-title: ''
-9-2-2-title: ''
-9-3-1-title: ''
-9-3-2-title: ''
-9-4-1-title: ''
-9-5-1-title: ''
-9-5-2-title: ''
-9-a-1-title: ''
-9-b-1-title: ''
-9-c-1-title: ''
+1-1-1-title: 'Proporció de població per sota del llindar de pobresa internacional,
+  per sexe, edat, situació laboral i ubicació geogràfica (urbà / rural)'
+1-2-1-title: 'Proporció de població que viu per sota del llindar de pobresa nacional,
+  per sexe i edat'
+1-2-2-title: 'Proporció d’homes, dones i nens de totes les edats que viuen en la pobresa
+  en totes les seves dimensions segons definicions nacionals'
+1-3-1-title: 'Proporció de població coberta per sistemes i sistemes de protecció social,
+  per sexe, distingint nens, persones a l’atur, persones grans, persones amb discapacitat,
+  dones embarassades, nadons, víctimes d’accidents de treball i pobres i vulnerables'
+1-4-1-title: 'Proporció de població que viu en llars amb accés a serveis bàsics'
+1-4-2-title: 'Proporció de la població adulta total amb drets de tinença segura a
+  la terra, amb documentació legalment reconeguda i que percep els seus drets a la
+  terra com a segurs, per sexe i per tipus de tinença'
+1-5-1-title: 'Nombre de morts, persones desaparegudes i persones afectades directament
+  atribuïdes a desastres per cada 100.000 habitants'
+1-5-2-title: 'Pèrdua econòmica directa atribuïda a desastres en relació amb el producte
+  interior brut global (PIB)'
+1-5-3-title: 'Nombre de països que adopten i implementen estratègies nacionals de
+  reducció del risc de desastres d''acord amb el Marc de Sendai per a la reducció
+  del risc de desastres 2015-2030'
+1-5-4-title: 'Proporció de governs locals que adopten i implementen estratègies locals
+  de reducció del risc de desastres d''acord amb les estratègies nacionals de reducció
+  del risc de desastres'
+1-a-1-title: 'Proporció de recursos generats a nivell nacional assignats pel govern
+  directament als programes de reducció de la pobresa'
+1-a-2-title: 'Proporció de la despesa total del govern en serveis essencials (educació,
+  salut i protecció social)'
+1-a-3-title: 'Suma de les subvencions totals i de les entrades no creadores de deute
+  assignades directament als programes de reducció de la pobresa en proporció del
+  PIB'
+1-b-1-title: 'Proporció de despeses recurrents i de capital del govern als sectors
+  que beneficien desproporcionadament a les dones, els pobres i els grups vulnerables'
+10-1-1-title: 'Taxes de creixement de la despesa o ingressos per càpita de les llars
+  entre el 40% inferior de la població i la població total'
+10-2-1-title: 'Proporció de persones que viuen per sota del 50% de la renda mitjana,
+  per sexe, edat i persones amb discapacitat'
+10-3-1-title: 'Proporció de la població que ha informat que s’ha sentit personalment
+  discriminada o assetjada en els dotze mesos anteriors per motius de discriminació
+  prohibits pel dret internacional de drets humans'
+10-4-1-title: 'Quota laboral del PIB, que inclou salaris i transferències de protecció
+  social'
+10-5-1-title: 'Indicadors de solidesa financera (FSI)'
+10-6-1-title: 'Proporció de membres i drets de vot dels països en desenvolupament
+  en organitzacions internacionals'
+10-7-1-title: 'Cost de contractació assumit per l’empleat en proporció dels ingressos
+  anuals obtinguts al país de destinació'
+10-7-2-title: 'Nombre de països que han implementat polítiques migratòries ben gestionades'
+10-a-1-title: 'Proporció de línies aranzelàries aplicades a les importacions procedents
+  de països menys desenvolupats i països en desenvolupament amb tarifa zero'
+10-b-1-title: 'Fluxos totals de recursos per al desenvolupament, per països receptors
+  i donants i tipus de flux (per exemple, ajuda oficial al desenvolupament, inversió
+  estrangera directa i altres fluxos)'
+10-c-1-title: 'Costos de remesa com a proporció de l''import remès'
+11-1-1-title: 'Proporció de població urbana que viu en barris marginals, assentaments
+  informals o habitatges inadequats'
+11-2-1-title: 'Proporció de població que té un accés convenient al transport públic,
+  per sexe, edat i persones amb discapacitat'
+11-3-1-title: 'Relació entre la taxa de consum de terres i la taxa de creixement de
+  la població'
+11-3-2-title: 'Proporció de ciutats amb una estructura de participació directa de
+  la societat civil en la planificació i gestió urbanística que operen regularment
+  i democràticament'
+11-4-1-title: 'Despeses totals (públiques i privades) per càpita dedicades a la preservació,
+  protecció i conservació de tot el patrimoni cultural i natural, per tipus de patrimoni
+  (designació de Centre cultural, natural, mixt i del Patrimoni Mundial), nivell de
+  govern (nacional, regional i local) / municipal), tipus de despesa (despesa de funcionament
+  / inversió) i tipus de finançament privat (donacions en espècie, sector privat sense
+  ànim de lucre i patrocini)'
+11-5-1-title: 'Nombre de morts, persones desaparegudes i persones afectades directament
+  atribuïdes a desastres per cada 100.000 habitants'
+11-5-2-title: 'Pèrdua econòmica directa en relació amb el PIB mundial, danys a la
+  infraestructura crítica i nombre d’alteracions als serveis bàsics atribuïdes a desastres'
+11-6-1-title: 'Proporció de residus sòlids urbans recollits regularment i amb un abocament
+  final adequat del total de residus sòlids urbans generats per les ciutats'
+11-6-2-title: 'Nivells mitjans anuals de partícules fines (per exemple, PM2,5 i PM10)
+  a les ciutats (ponderat per població)'
+11-7-1-title: 'Quota mitjana de la superfície construïda de les ciutats que és un
+  espai obert per a ús públic per a tothom, per sexe, edat i persones amb discapacitat'
+11-7-2-title: 'Proporció de persones víctimes d’assetjament físic o sexual, per sexe,
+  edat, situació de discapacitat i lloc d’ocurrència, en els dotze mesos anteriors'
+11-a-1-title: 'Proporció de població que viu a ciutats que implementen plans de desenvolupament
+  urbà i regional que integren projeccions de població i necessitats de recursos,
+  segons la mida de la ciutat'
+11-b-1-title: 'Nombre de països que adopten i implementen estratègies nacionals de
+  reducció del risc de desastres d''acord amb el Marc de Sendai per a la reducció
+  del risc de desastres 2015-2030'
+11-b-2-title: 'Proporció de governs locals que adopten i implementen estratègies locals
+  de reducció del risc de desastres d''acord amb les estratègies nacionals de reducció
+  del risc de desastres'
+11-c-1-title: 'Proporció de suport financer als països menys desenvolupats que es
+  destina a la construcció i adaptació d’edificis sostenibles, resistents i eficients
+  en recursos utilitzant materials locals'
+12-1-1-title: 'Nombre de països amb plans d''acció nacionals de consum i producció
+  sostenibles (SCP) o SCP integrats com a prioritat o objectiu en les polítiques nacionals'
+12-2-1-title: 'Petjada material, petjada material per càpita i petjada material per
+  PIB'
+12-2-2-title: 'Consum de material domèstic, consum de material domèstic per càpita
+  i consum de material domèstic per PIB'
+12-3-1-title: 'Índex global de pèrdua d’aliments'
+12-4-1-title: 'Nombre de parts en acords ambientals multilaterals internacionals sobre
+  residus perillosos i altres productes químics que compleixen els seus compromisos
+  i obligacions en transmetre la informació que exigeix cada acord pertinent'
+12-4-2-title: 'Residus perillosos generats per càpita i proporció de residus perillosos
+  tractats, per tipus de tractament'
+12-5-1-title: 'Taxa nacional de reciclatge, tones de material reciclat'
+12-6-1-title: 'Nombre d''empreses que publiquen informes de sostenibilitat'
+12-7-1-title: 'Nombre de països que implementen polítiques i plans d’acció de contractació
+  pública sostenible'
+12-8-1-title: 'Mesura en què (i) l’educació per a la ciutadania mundial i (ii) l’educació
+  per al desenvolupament sostenible (inclosa l’educació sobre el canvi climàtic) s’inclouen
+  en (a) les polítiques educatives nacionals; (b) currículums; (c) formació del professorat;
+  i (d) avaluació dels estudiants'
+12-a-1-title: 'Quantitat de suport als països en vies de desenvolupament en recerca
+  i desenvolupament per al consum i la producció sostenibles i tecnologies respectuoses
+  amb el medi ambient'
+12-b-1-title: 'Nombre d''estratègies o polítiques de turisme sostenible i de plans
+  d''acció implementats amb eines de seguiment i avaluació acordades'
+12-c-1-title: 'Quantitat de subvencions als combustibles fòssils per unitat de PIB
+  (producció i consum) i en proporció de la despesa nacional total en combustibles
+  fòssils'
+13-1-1-title: 'Nombre de morts, persones desaparegudes i persones afectades directament
+  atribuïdes a desastres per cada 100.000 habitants'
+13-1-2-title: 'Nombre de països que adopten i implementen estratègies nacionals de
+  reducció del risc de desastres d''acord amb el Marc de Sendai per a la reducció
+  del risc de desastres 2015-2030'
+13-1-3-title: 'Proporció de governs locals que adopten i implementen estratègies locals
+  de reducció del risc de desastres d''acord amb les estratègies nacionals de reducció
+  del risc de desastres'
+13-2-1-title: 'Nombre de països que han comunicat l''establiment o l''operativització
+  d''una política / estratègia / pla integrada que augmenta la seva capacitat d''adaptació
+  als impactes adversos del canvi climàtic, i afavoreix la resistència climàtica i
+  el desenvolupament de baixes emissions de gasos d''efecte hivernacle d''una manera
+  que no amenaça els aliments. producció (inclòs un pla nacional d’adaptació, contribució
+  determinada a nivell nacional, comunicació nacional, informe d’actualització biennal
+  o un altre)'
+13-3-1-title: 'Nombre de països que han integrat la mitigació, l’adaptació, la reducció
+  d’impacte i l’alerta precoç als plans d’estudis primaris, secundaris i terciaris'
+13-3-2-title: 'Nombre de països que han comunicat l''enfortiment de la creació de
+  capacitats institucionals, sistèmiques i individuals per implementar accions d''adaptació,
+  mitigació i transferència de tecnologia i desenvolupament'
+13-a-1-title: 'La quantitat mobilitzada de dòlars dels Estats Units per any entre
+  el 2020 i el 2025 respon al compromís de 100.000 milions de dòlars'
+13-b-1-title: 'Nombre de països menys desenvolupats i petits estats insulars en desenvolupament
+  que reben suport especialitzat i quantitat de suport, inclosos els finançaments,
+  la tecnologia i la creació de capacitats, per als mecanismes per augmentar les capacitats
+  per a una planificació i gestió eficaços relacionats amb el canvi climàtic, incloent-hi
+  les dones, joves i comunitats locals i marginades'
+14-1-1-title: 'Índex d’eutrofització costanera i densitat de deixalles plàstiques
+  flotants'
+14-2-1-title: 'Proporció de zones econòmiques exclusives nacionals gestionades mitjançant
+  enfocaments basats en ecosistemes'
+14-3-1-title: 'Acidesa marina mitjana (pH) mesurada en un conjunt acordat d’estacions
+  de mostreig representatives'
+14-4-1-title: 'Proporció de poblacions de peixos dins de nivells biològicament sostenibles'
+14-5-1-title: 'Cobertura d''àrees protegides en relació amb zones marines'
+14-6-1-title: 'Progrés dels països en el grau d’aplicació d’instruments internacionals
+  destinats a combatre la pesca il·legal, no declarada i no regulada'
+14-7-1-title: 'Pesca sostenible com a proporció del PIB dels petits estats insulars
+  en desenvolupament, dels països menys desenvolupats i de tots els països'
+14-a-1-title: 'Proporció del pressupost total de recerca assignat a la investigació
+  en el camp de la tecnologia marina'
+14-b-1-title: 'Progrés dels països en el grau d’aplicació d’un marc legal / regulador
+  / polític / institucional que reconeix i protegeix els drets d’accés a la pesca
+  a petita escala'
+14-c-1-title: 'Nombre de països que avancen en la ratificació, l’acceptació i la implementació
+  mitjançant marcs legals, polítics i institucionals, instruments relacionats amb
+  els oceans que implementen el dret internacional, tal com es reflecteix a la Convenció
+  de les Nacions Unides sobre el Dret del Mar, per a la conservació i l’ús sostenible
+  de oceans i els seus recursos'
+15-1-1-title: 'Superfície forestal com a proporció de la superfície total del terreny'
+15-1-2-title: 'Proporció de llocs importants per a la biodiversitat terrestre i d’aigua
+  dolça que estan coberts per zones protegides, per tipus d’ecosistema'
+15-2-1-title: 'Avanç cap a una gestió forestal sostenible'
+15-3-1-title: 'Proporció de terres que es degraden sobre la superfície total del terreny'
+15-4-1-title: 'Cobertura per zones protegides de llocs importants per a la biodiversitat
+  de les muntanyes'
+15-4-2-title: 'Índex de coberta de Green Mountain'
+15-5-1-title: 'Índex de la llista vermella'
+15-6-1-title: 'Nombre de països que han adoptat marcs legislatius, administratius
+  i polítics per garantir un repartiment just i equitatiu dels beneficis'
+15-7-1-title: 'Proporció de la vida salvatge comercialitzada que va ser furtivitzada
+  o traficada il·lícitament'
+15-8-1-title: 'Proporció de països que adoptin la legislació nacional rellevant i
+  que obtinguin recursos adequats per a la prevenció o el control d''espècies exòtiques
+  invasores'
+15-9-1-title: 'Avanç cap als objectius nacionals establerts d''acord amb l''objectiu
+  2 d''Aichi de biodiversitat del pla estratègic per a la biodiversitat 2011-2020'
+15-a-1-title: 'Ajuda oficial al desenvolupament i despesa pública en conservació i
+  ús sostenible de la biodiversitat i dels ecosistemes'
+15-b-1-title: 'Ajuda oficial al desenvolupament i despesa pública en conservació i
+  ús sostenible de la biodiversitat i dels ecosistemes'
+15-c-1-title: 'Proporció de la vida salvatge comercialitzada que va ser furtivitzada
+  o traficada il·lícitament'
+16-1-1-title: 'Nombre de víctimes d''homicidi intencionat per cada 100.000 habitants,
+  per sexe i edat'
+16-1-2-title: 'Morts per conflicte per cada 100.000 habitants, per sexe, edat i causa'
+16-1-3-title: 'Proporció de població sotmesa a (a) violència física, (b) violència
+  psicològica i (c) violència sexual durant els dotze mesos anteriors'
+16-1-4-title: 'Proporció de població que se sent segura caminant sola per la zona
+  on viuen'
+16-10-1-title: 'Nombre de casos verificats de matances, segrestos, desaparicions forçades,
+  detenció arbitrària i tortures de periodistes, personal de mitjans associats, sindicalistes
+  i defensors dels drets humans en els darrers 12 mesos'
+16-10-2-title: 'Nombre de països que adopten i implementen garanties constitucionals,
+  estatutàries i / o polítiques d''accés públic a la informació'
+16-2-1-title: 'Proporció de nens d''entre 1 i 17 anys que van experimentar qualsevol
+  càstig físic i / o agressió psicològica per part dels cuidadors el mes passat'
+16-2-2-title: 'Nombre de víctimes de tràfic de persones per cada 100.000 habitants,
+  per sexe, edat i forma d’explotació'
+16-2-3-title: 'Proporció de dones i homes joves de 18 a 29 anys que van patir violència
+  sexual als 18 anys'
+16-3-1-title: 'Proporció de víctimes de violència durant els dotze mesos anteriors
+  que van denunciar la seva victimització a les autoritats competents o a altres mecanismes
+  de resolució de conflictes reconeguts oficialment'
+16-3-2-title: 'Detinguts sense sentència com a proporció de la població reclusa total'
+16-4-1-title: 'Valor total dels fluxos financers il·lícits d’entrada i sortida (en
+  dòlars actuals dels Estats Units)'
+16-4-2-title: 'Proporció d’armes confiscades, trobades o lliurades l’origen o context
+  il·lícit dels quals ha estat rastrejat o establert per una autoritat competent d’acord
+  amb els instruments internacionals'
+16-5-1-title: 'Proporció de persones que van tenir com a mínim un contacte amb un
+  funcionari públic i que van pagar un suborn a un funcionari públic o que els funcionaris
+  públics els van demanar un suborn durant els dotze mesos anteriors'
+16-5-2-title: 'Proporció d''empreses que van tenir almenys un contacte amb un funcionari
+  públic i que van pagar un suborn a un funcionari públic o que els funcionaris públics
+  els van demanar durant els dotze mesos anteriors'
+16-6-1-title: 'Despeses governamentals primàries en proporció del pressupost aprovat
+  original, per sectors (o per codis pressupostaris o similars)'
+16-6-2-title: 'Proporció de població satisfeta amb la seva última experiència en serveis
+  públics'
+16-7-1-title: 'Proporcions de posicions (per sexe, edat, persones amb discapacitat
+  i grups de població) en institucions públiques (legislatura nacional i local, servei
+  públic i poder judicial) en comparació amb les distribucions nacionals'
+16-7-2-title: 'Proporció de població que creu que la presa de decisions és inclusiva
+  i sensible, per sexe, edat, discapacitat i grup de població'
+16-8-1-title: 'Proporció de membres i drets de vot dels països en desenvolupament
+  en organitzacions internacionals'
+16-9-1-title: 'Proporció de menors de 5 anys els naixements dels quals han estat registrats
+  a una autoritat civil, per edats'
+16-a-1-title: 'Existència d’institucions nacionals independents de drets humans en
+  compliment dels principis de París'
+16-b-1-title: 'Proporció de la població que ha informat que s’ha sentit personalment
+  discriminada o assetjada en els dotze mesos anteriors per motius de discriminació
+  prohibits pel dret internacional de drets humans'
+17-1-1-title: 'Ingressos públics totals en proporció del PIB, per font'
+17-1-2-title: 'Proporció del pressupost intern finançat amb impostos nacionals'
+17-10-1-title: 'Mitjana aranzelària ponderada a tot el món'
+17-11-1-title: 'Quota de les exportacions mundials dels països en desenvolupament
+  i dels països menys desenvolupats'
+17-12-1-title: 'Aranzels mitjans als quals s’enfronten els països en desenvolupament,
+  els països menys desenvolupats i els petits estats insulars en desenvolupament'
+17-13-1-title: 'Tauler de control macroeconòmic'
+17-14-1-title: 'Nombre de països amb mecanismes establerts per millorar la coherència
+  de les polítiques de desenvolupament sostenible'
+17-15-1-title: 'Abast de l’ús de marcs de resultats i eines de planificació de propietat
+  nacional per part dels proveïdors de cooperació al desenvolupament'
+17-16-1-title: 'Nombre de països que informen dels avenços en marcs de control de
+  l''eficàcia del desenvolupament de múltiples parts interessades que donen suport
+  a la consecució dels objectius de desenvolupament sostenible'
+17-17-1-title: 'Quantitat de dòlars nord-americans compromesos amb aliances entre
+  la societat civil i la privada'
+17-18-1-title: 'Proporció d’indicadors de desenvolupament sostenible produïts a nivell
+  nacional amb total desagregació quan sigui rellevant per a l’objectiu, d’acord amb
+  els principis fonamentals d’estadística oficial'
+17-18-2-title: 'Nombre de països que tenen legislació estadística nacional que compleix
+  els principis fonamentals de les estadístiques oficials'
+17-18-3-title: 'Nombre de països amb un pla estadístic nacional totalment finançat
+  i en fase d’implementació, per font de finançament'
+17-19-1-title: 'Valor en dòlars de tots els recursos disponibles per enfortir la capacitat
+  estadística als països en desenvolupament'
+17-19-2-title: 'Proporció de països que (a) han realitzat almenys un cens de població
+  i habitatge en els darrers deu anys; i (b) han assolit el 100% de registres de naixement
+  i el 80% de registres de defunció'
+17-2-1-title: 'Ajuda oficial al desenvolupament neta, total i als països menys desenvolupats,
+  en proporció de la renda nacional bruta (RNB) dels donants del Comitè d’assistència
+  al desenvolupament de l’Organització per a la cooperació i el desenvolupament econòmics
+  (OCDE)'
+17-3-1-title: 'Inversió estrangera directa (IED), ajuda oficial al desenvolupament
+  i cooperació Sud-Sud com a proporció del pressupost nacional total'
+17-3-2-title: 'Volum de remeses (en dòlars dels Estats Units) com a proporció del
+  PIB total'
+17-4-1-title: 'Servei de deutes com a proporció de les exportacions de béns i serveis'
+17-5-1-title: 'Nombre de països que adopten i implementen règims de promoció d’inversions
+  per als països menys desenvolupats'
+17-6-1-title: 'Nombre d''acords i programes de cooperació científica i / o tecnològica
+  entre països, per tipus de cooperació'
+17-6-2-title: 'Subscripcions fixes de banda ampla a Internet per cada 100 habitants,
+  per velocitat'
+17-7-1-title: 'Import total del finançament aprovat per als països en desenvolupament
+  per promoure el desenvolupament, la transferència, la difusió i la difusió de tecnologies
+  respectuoses amb el medi ambient'
+17-8-1-title: 'Proporció d’individus que utilitzen Internet'
+17-9-1-title: 'Valor en dòlars de l’assistència financera i tècnica (inclosa la cooperació
+  nord-sud, sud-sud i triangular) compromesa amb els països en desenvolupament'
+2-1-1-title: 'Prevalença de desnutrició'
+2-1-2-title: 'Prevalença d’inseguretat alimentària moderada o greu a la població,
+  basada en l’escala d’experiència d’inseguretat alimentària (FIES)'
+2-2-1-title: 'Prevalença de retard de creixement (alçada per edat <-2 desviació estàndard
+  de la mediana de l''Organització Mundial de la Salut (OMS) Normes de creixement
+  infantil) entre nens menors de 5 anys'
+2-2-2-title: 'Prevalença de desnutrició (pes per alçada> +2 o <-2 desviació estàndard
+  de la mitjana de les normes de creixement infantil de l’OMS) en nens menors de 5
+  anys, per tipus (desaprofitament i sobrepès)'
+2-3-1-title: 'Volum de producció per unitat de treball per classes de mida de l’empresa
+  agrícola / pastoral / forestal'
+2-3-2-title: 'Renda mitjana dels productors d''aliments a petita escala, per sexe
+  i estatus indígena'
+2-4-1-title: 'Proporció de superfície agrícola sota agricultura productiva i sostenible'
+2-5-1-title: 'Nombre de recursos genètics vegetals i animals per a l''alimentació
+  i l''agricultura assegurats en instal·lacions de conservació a mitjà o llarg termini'
+2-5-2-title: 'Proporció de races locals classificades com a en risc, no en risc o
+  en un nivell desconegut de risc d’extinció'
+2-a-1-title: 'L’índex d’orientació agrícola per a les despeses governamentals'
+2-a-2-title: 'Flux oficials totals (ajuda oficial al desenvolupament més altres fluxos
+  oficials) cap al sector agrícola'
+2-b-1-title: 'Subvencions a l''exportació agrícola'
+2-c-1-title: 'Indicador d’anomalies del preu dels aliments'
+3-1-1-title: 'Ràtio de mortalitat materna'
+3-1-2-title: 'Proporció de naixements atesos per personal sanitari qualificat'
+3-2-1-title: 'Taxa de mortalitat menor de cinc anys'
+3-2-2-title: 'Taxa de mortalitat neonatal'
+3-3-1-title: 'Nombre de noves infeccions per VIH per cada 1.000 persones no infectades,
+  per sexe, edat i poblacions clau'
+3-3-2-title: 'Incidència de tuberculosi per cada 100.000 habitants'
+3-3-3-title: 'Incidència de malària per cada 1.000 habitants'
+3-3-4-title: 'Incidència d’hepatitis B per cada 100.000 habitants'
+3-3-5-title: 'Nombre de persones que necessiten intervencions contra malalties tropicals
+  abandonades'
+3-4-1-title: 'Taxa de mortalitat atribuïda a malalties cardiovasculars, càncer, diabetis
+  o malalties respiratòries cròniques'
+3-4-2-title: 'Taxa de mortalitat per suïcidi'
+3-5-1-title: 'Cobertura d’intervencions terapèutiques (serveis farmacològics, psicosocials
+  i de rehabilitació i postatenció) per a trastorns per consum de substàncies'
+3-5-2-title: 'Consum nociu d''alcohol, definit segons el context nacional com a consum
+  d''alcohol per càpita (de 15 anys i més) en un any natural en litres d''alcohol
+  pur'
+3-6-1-title: 'Taxa de mortalitat per lesions de trànsit'
+3-7-1-title: 'Proporció de dones en edat reproductiva (de 15 a 49 anys) que tenen
+  la seva necessitat de planificació familiar satisfeta amb els mètodes moderns'
+3-7-2-title: 'Taxa de natalitat d’adolescents (de 10 a 14 anys; de 15 a 19 anys) per
+  cada 1.000 dones d’aquest grup d’edat'
+3-8-1-title: 'Cobertura de serveis de salut essencials (definida com la cobertura
+  mitjana de serveis essencials basada en intervencions de traçat que inclouen salut
+  reproductiva, materna, nounada i infantil, malalties infeccioses, malalties no transmissibles
+  i capacitat i accés al servei, entre la població general i la més desfavorida )'
+3-8-2-title: 'Proporció de població amb grans despeses de la llar en salut com a part
+  del total de la despesa o dels ingressos de la llar'
+3-9-1-title: 'Taxa de mortalitat atribuïda a la contaminació de l’aire domèstic i
+  ambiental'
+3-9-2-title: 'Taxa de mortalitat atribuïda a l’aigua no segura, al sanejament insegur
+  i a la falta d’higiene (exposició als serveis d’aigua, sanejament i higiene per
+  a tothom (WASH) no segurs)'
+3-9-3-title: 'Taxa de mortalitat atribuïda a una intoxicació involuntària'
+3-a-1-title: 'Prevalença normalitzada per edat del consum actual de tabac en persones
+  de 15 anys o més'
+3-b-1-title: 'Proporció de la població objectiu coberta per totes les vacunes incloses
+  en el seu programa nacional'
+3-b-2-title: 'Total d’assistència oficial neta al desenvolupament a sectors d’investigació
+  mèdica i de salut bàsica'
+3-b-3-title: 'Proporció d’instal·lacions sanitàries que disposen d’un conjunt bàsic
+  de medicaments essencials rellevants disponibles i assequibles de manera sostenible'
+3-c-1-title: 'Densitat i distribució del personal sanitari'
+3-d-1-title: 'Capacitat del Reglament Sanitari Internacional (RSI) i preparació per
+  a emergències sanitàries'
+4-1-1-title: 'Proporció d’infants i joves (a) als 2/3 graus; (b) al final de la primària;
+  i (c) al final de la secundària inferior assolint almenys un nivell mínim de competència
+  en (i) lectura i (ii) matemàtiques, per sexe'
+4-2-1-title: 'Proporció de nens menors de 5 anys que evolucionen en salut, aprenentatge
+  i benestar psicosocial, per sexe'
+4-2-2-title: 'Taxa de participació en l’aprenentatge organitzat (un any abans de l’edat
+  oficial d’entrada primària), per sexe'
+4-3-1-title: 'Taxa de participació de joves i adults en educació i formació formal
+  i no formal en els dotze mesos anteriors, per sexe'
+4-4-1-title: 'Proporció de joves i adults amb habilitats en tecnologia de la informació
+  i les comunicacions (TIC), per tipus d’habilitat'
+4-5-1-title: 'Índexs de paritat (femení / masculí, rural / urbà, quintil de riquesa
+  inferior / superior i altres com l''estat de discapacitat, els pobles indígenes
+  i els afectats per conflictes, a mesura que es disposin de dades) per a tots els
+  indicadors educatius d''aquesta llista que es poden desagregar'
+4-6-1-title: 'Proporció de població en un grup d’edat determinat que assoleix, com
+  a mínim, un nivell fix de competència en habilitats funcionals (a) alfabetització
+  i (b), per sexe'
+4-7-1-title: 'Fins a quin punt (i) l’educació per a la ciutadania mundial i (ii) l’educació
+  per al desenvolupament sostenible, incloent la igualtat de gènere i els drets humans,
+  s’inclouen a tots els nivells en (a) les polítiques educatives nacionals; (b) currículums;
+  (c) formació del professorat; i (d) avaluació dels estudiants'
+4-a-1-title: 'Proporció d’escoles amb accés a (a) electricitat; (b) Internet amb finalitats
+  pedagògiques; (c) ordinadors amb finalitats pedagògiques; (d) infraestructura i
+  materials adaptats per a estudiants amb discapacitat; (e) aigua bàsica potable;
+  (f) instal·lacions bàsiques de sanejament per a un sol sexe; i (g) instal·lacions
+  bàsiques per rentar-se les mans (segons les definicions dels indicadors WASH)'
+4-b-1-title: 'Volum de fluxos oficials d’ajuda al desenvolupament de beques per sector
+  i tipus d’estudi'
+4-c-1-title: 'Proporció de professors en: (a) preescolar; (b) primària; (c) secundària
+  inferior; i (d) educació secundària superior que hagi rebut com a mínim la formació
+  organitzada mínima del professorat (per exemple, formació pedagògica) prèvia o en
+  servei necessària per a la docència al nivell pertinent en un país determinat'
+5-1-1-title: 'Si hi ha o no marcs legals per promoure, fer complir i controlar la
+  igualtat i la no discriminació per raó de sexe'
+5-2-1-title: 'Proporció de dones i nenes de 15 anys i més en parella sotmeses a violència
+  física, sexual o psicològica per part d’una parella íntima actual o anterior en
+  els dotze mesos anteriors, per forma de violència i per edat'
+5-2-2-title: 'Proporció de dones i noies de 15 anys i més sotmeses a violència sexual
+  per part de persones diferents d’una parella íntima en els dotze mesos anteriors,
+  per edat i lloc d’ocurrència'
+5-3-1-title: 'Proporció de dones de 20 a 24 anys que estaven casades o en un sindicat
+  abans dels 15 anys i abans dels 18 anys'
+5-3-2-title: 'Proporció de nenes i dones de 15 a 49 anys que han estat objecte de
+  mutilació / tall genital femení, per edats'
+5-4-1-title: 'Proporció del temps dedicat a treballs domèstics i de cura no remunerats,
+  per sexe, edat i ubicació'
+5-5-1-title: 'Proporció d’escons ocupats per dones en (a) parlaments nacionals i (b)
+  governs locals'
+5-5-2-title: 'Proporció de dones en llocs directius'
+5-6-1-title: 'Proporció de dones de 15 a 49 anys que prenen les seves pròpies decisions
+  informades sobre les relacions sexuals, l''ús d''anticonceptius i l''atenció de
+  la salut reproductiva'
+5-6-2-title: 'Nombre de països amb lleis i regulacions que garanteixen l''accés total
+  i igualitari de dones i homes de 15 anys i més a l''atenció, la informació i l''educació
+  en salut sexual i reproductiva'
+5-a-1-title: '(a) Proporció de la població agrícola total amb propietat o drets segurs
+  sobre les terres agrícoles, per sexe; i (b) proporció de dones entre propietaris
+  o posseïdors de drets de terres agrícoles, per tipus de tinença'
+5-a-2-title: 'Proporció de països on el marc legal (inclòs el dret consuetudinari)
+  garanteix la igualtat de drets de les dones a la propietat i / o control de la terra'
+5-b-1-title: 'Proporció de persones que posseeixen un telèfon mòbil, per sexe'
+5-c-1-title: 'Proporció de països amb sistemes per fer un seguiment i fer assignacions
+  públiques per a la igualtat de gènere i l’empoderament de les dones'
+6-1-1-title: 'Proporció de població que utilitza serveis d’aigua potable gestionats
+  amb seguretat'
+6-2-1-title: 'Proporció de població que utilitza serveis de sanejament gestionats
+  de manera segura, inclosa una instal·lació per rentar-se les mans amb aigua i sabó'
+6-3-1-title: 'Proporció d’aigües residuals tractades amb seguretat'
+6-3-2-title: 'Proporció de masses d’aigua amb una bona qualitat de l’aigua ambiental'
+6-4-1-title: 'Canvi en l''eficiència de l''ús de l''aigua al llarg del temps'
+6-4-2-title: 'Nivell d’estrès hídric: retirada d’aigua dolça com a proporció dels
+  recursos disponibles d’aigua dolça'
+6-5-1-title: 'Grau d''implementació de la gestió integrada dels recursos hídrics (0
+  a 100)'
+6-5-2-title: 'Proporció de la zona de conca transfronterera amb un acord operatiu
+  per a la cooperació hídrica'
+6-6-1-title: 'Canvi de l’extensió dels ecosistemes relacionats amb l’aigua al llarg
+  del temps'
+6-a-1-title: 'Quantitat d’assistència oficial al desenvolupament relacionada amb l’aigua
+  i el sanejament que forma part d’un pla de despeses coordinat pel govern'
+6-b-1-title: 'Proporció d''unitats administratives locals amb polítiques i procediments
+  establerts i operatius per a la participació de les comunitats locals en la gestió
+  de l''aigua i el sanejament'
+7-1-1-title: 'Proporció de població amb accés a l’electricitat'
+7-1-2-title: 'Proporció de població amb principal dependència de combustibles nets
+  i tecnologia'
+7-2-1-title: 'Quota d’energia renovable en el consum final total d’energia'
+7-3-1-title: 'Intensitat energètica mesurada en termes d’energia primària i PIB'
+7-a-1-title: 'Fluxos financers internacionals cap als països en desenvolupament per
+  donar suport a la investigació i desenvolupament d’energies netes i la producció
+  d’energies renovables, inclosos els sistemes híbrids'
+7-b-1-title: 'Inversions en eficiència energètica en proporció del PIB i la quantitat
+  d’inversió estrangera directa en transferència financera d’infraestructures i tecnologia
+  a serveis de desenvolupament sostenible'
+8-1-1-title: 'Taxa de creixement anual del PIB real per càpita'
+8-10-1-title: '(a) Nombre d''oficines de bancs comercials per cada 100.000 adults
+  i (b) nombre de caixers automàtics (caixers automàtics) per cada 100.000 adults'
+8-10-2-title: 'Proporció d’adults (majors de 15 anys) amb un compte en un banc o una
+  altra institució financera o amb un proveïdor de serveis de diners mòbils'
+8-2-1-title: 'Taxa de creixement anual del PIB real per ocupat'
+8-3-1-title: 'Proporció d’ocupació informal en ocupacions no agrícoles, per sexe'
+8-4-1-title: 'Petjada material, petjada material per càpita i petjada material per
+  PIB'
+8-4-2-title: 'Consum de material domèstic, consum de material domèstic per càpita
+  i consum de material domèstic per PIB'
+8-5-1-title: 'Salari mitjà horari d’empleats femenins i masculins, per ocupació, edat
+  i persones amb discapacitat'
+8-5-2-title: 'Taxa d’atur, per sexe, edat i persones amb discapacitat'
+8-6-1-title: 'Proporció de joves (de 15 a 24 anys) que no formen, no treballen ni
+  formen'
+8-7-1-title: 'Proporció i nombre de nens de 5 a 17 anys dedicats al treball infantil,
+  per sexe i edat'
+8-8-1-title: 'Taxes de freqüència de lesions laborals mortals i no mortals, per sexe
+  i estatus de migrants'
+8-8-2-title: 'Nivell de compliment nacional dels drets laborals (llibertat d''associació
+  i negociació col·lectiva) basat en les fonts textuals de l''Organització Internacional
+  del Treball (OIT) i la legislació nacional, per sexe i estatus de migrant'
+8-9-1-title: 'El PIB directe del turisme com a proporció del PIB total i la taxa de
+  creixement'
+8-9-2-title: 'Proporció de llocs de treball en indústries turístiques sostenibles
+  sobre el total de llocs de treball turístics'
+8-a-1-title: 'Ajuts per a compromisos i desemborsaments comercials'
+8-b-1-title: 'Existència d''una estratègia nacional desenvolupada i operacionalitzada
+  per a l''ocupació juvenil, com a estratègia diferent o com a part d''una estratègia
+  nacional d''ocupació'
+9-1-1-title: 'Proporció de la població rural que viu a menys de 2 km d’una carretera
+  de tota temporada'
+9-1-2-title: 'Volums de passatgers i de mercaderies, per mitjà de transport'
+9-2-1-title: 'Valor afegit de la fabricació com a proporció del PIB i per càpita'
+9-2-2-title: 'Ocupació manufacturera com a proporció de l’ocupació total'
+9-3-1-title: 'Proporció d’indústries a petita escala amb el valor afegit total de
+  la indústria'
+9-3-2-title: 'Proporció d’indústries a petita escala amb un préstec o una línia de
+  crèdit'
+9-4-1-title: 'Emissió de CO2 per unitat de valor afegit'
+9-5-1-title: 'Despeses de recerca i desenvolupament en proporció del PIB'
+9-5-2-title: 'Investigadors (en equivalent a temps complet) per milió d’habitants'
+9-a-1-title: 'Suport internacional oficial total (ajuda oficial al desenvolupament
+  més altres fluxos oficials) a la infraestructura'
+9-b-1-title: 'Proporció del valor afegit de la indústria de mitjana i alta tecnologia
+  en valor afegit total'
+9-c-1-title: 'Proporció de població coberta per una xarxa mòbil, per tecnologia'

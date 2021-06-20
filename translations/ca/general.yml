@@ -1,27 +1,27 @@
 # This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
-indicator: ''
+indicator: 'Indicador'
 # This is the plural version of the indicator key
-indicators: ''
+indicators: 'Indicacions'
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: ''
+goal: 'Objectiu'
 # This is the plural version of the goal key
-goals: ''
-sdg: ''
+goals: 'Metes'
+sdg: 'Objectius de desenvolupament sostenible'
 # This refers to the 'home page' of a website
-home: ''
-loading: ''
-opens_new_window: ''
-hide: ''
-target: ''
-targets: ''
-twitter: ''
-facebook: ''
-built_using_open_sdg: ''
-page: ''
-pages: ''
-targets_and_indicators: ''
+home: 'Inici'
+loading: 'S''estan carregant els resultats de la cerca'
+opens_new_window: 's''obre en una finestra nova'
+hide: 'amagar-se'
+target: 'Objectiu'
+targets: 'Objectius'
+twitter: 'Twitter'
+facebook: 'Facebook'
+built_using_open_sdg: 'Construït amb Open SDG'
+page: 'Pàgina'
+pages: 'Pàgines'
+targets_and_indicators: 'Objectius i indicadors'
 # A label of "Warning" to place before some other text.
-label_warning: ""
+label_warning: "Atenció:"
 # A phrase to use as a site-wide page title.
-site_title: ''
-back_to_top: ''
+site_title: 'Indicadors per als objectius de desenvolupament sostenible'
+back_to_top: 'Torna a l''inici'

@@ -1,5 +1,5 @@
-1-1-1-title: Proportion of population below the international poverty line, by sex,
-  age, employment status and geographical location (urban/rural)
+1-1-1-title: Proportion of the population living below the international poverty line
+  by sex, age, employment status and geographic location (urban/rural)
 1-2-1-title: Proportion of population living below the national poverty line, by sex
   and age
 1-2-2-title: Proportion of men, women and children of all ages living in poverty in
@@ -10,8 +10,8 @@
   vulnerable
 1-4-1-title: Proportion of population living in households with access to basic services
 1-4-2-title: Proportion of total adult population with secure tenure rights to land,
-  with legally recognized documentation, and who perceive their rights to land as
-  secure, by sex and by type of tenure
+  (a) with legally recognized documentation, and (b) who perceive their rights to
+  land as secure, by sex and type of tenure
 1-5-1-title: Number of deaths, missing persons and directly affected persons attributed
   to disasters per 100,000 population
 1-5-2-title: Direct economic loss attributed to disasters in relation to global gross
@@ -20,14 +20,13 @@
   strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030
 1-5-4-title: Proportion of local governments that adopt and implement local disaster
   risk reduction strategies in line with national disaster risk reduction strategies
-1-a-1-title: Proportion of domestically generated resources allocated by the government
-  directly to poverty reduction programmes
+1-a-1-title: Total official development assistance grants from all donors that focus
+  on poverty reduction as a share of the recipient country’s gross national income
 1-a-2-title: Proportion of total government spending on essential services (education,
   health and social protection)
 1-a-3-title: Sum of total grants and non-debt-creating inflows directly allocated
   to poverty reduction programmes as a proportion of GDP
-1-b-1-title: Proportion of government recurrent and capital spending to sectors that
-  disproportionately benefit women, the poor and vulnerable groups
+1-b-1-title: Pro-poor public social spending
 10-1-1-title: Growth rates of household expenditure or income per capita among the
   bottom 40 per cent of the population and the total population
 10-2-1-title: Proportion of people living below 50 per cent of median income, by sex,
@@ -35,13 +34,18 @@
 10-3-1-title: Proportion of population reporting having personally felt discriminated
   against or harassed in the previous 12 months on the basis of a ground of discrimination
   prohibited under international human rights law
-10-4-1-title: Labour share of GDP, comprising wages and social protection transfers
-10-5-1-title: Financial Soundness Indicators (FSIs)
+10-4-1-title: Labour share of GDP
+10-4-2-title: Redistributive impact of fiscal policy
+10-5-1-title: Financial Soundness Indicators
 10-6-1-title: Proportion of members and voting rights of developing countries in international
   organizations
-10-7-1-title: Recruitment cost borne by employee as a proportion of yearly income
+10-7-1-title: Recruitment cost borne by employee as a proportion of monthly income
   earned in country of destination
-10-7-2-title: Number of countries that have implemented well-managed migration policies
+10-7-2-title: Number of countries with migration policies that facilitate orderly,
+  safe, regular and responsible migration and mobility of people
+10-7-3-title: Number of people who died or disappeared in the process of migration
+  towards an international destination
+10-7-4-title: Proportion of the population who are refugees, by country of origin
 10-a-1-title: Proportion of tariff lines applied to imports from least developed countries
   and developing countries with zero-tariff
 10-b-1-title: Total resource flows for development, by recipient and donor countries
@@ -55,26 +59,25 @@
 11-3-1-title: Ratio of land consumption rate to population growth rate
 11-3-2-title: Proportion of cities with a direct participation structure of civil
   society in urban planning and management that operate regularly and democratically
-11-4-1-title: Total expenditure (public and private) per capita spent on the preservation,
-  protection and conservation of all cultural and natural heritage, by type of heritage
-  (cultural, natural, mixed and World Heritage Centre designation), level of government
-  (national, regional and local/municipal), type of expenditure (operating expenditure/investment)
-  and type of private funding (donations in kind, private non-profit sector and sponsorship)
+11-4-1-title: Total per capita expenditure on the preservation, protection and conservation
+  of all cultural and natural heritage, by source of funding (public, private), type
+  of heritage (cultural, natural) and level of government (national, regional, and
+  local/municipal)
 11-5-1-title: Number of deaths, missing persons and directly affected persons attributed
   to disasters per 100,000 population
 11-5-2-title: Direct economic loss in relation to global GDP, damage to critical infrastructure
   and number of disruptions to basic services, attributed to disasters
-11-6-1-title: Proportion of urban solid waste regularly collected and with adequate
-  final discharge out of total urban solid waste generated, by cities
+11-6-1-title: Proportion of municipal solid waste collected and managed in controlled
+  facilities out of total municipal waste generated, by cities
 11-6-2-title: Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10)
   in cities (population weighted)
 11-7-1-title: Average share of the built-up area of cities that is open space for
   public use for all, by sex, age and persons with disabilities
 11-7-2-title: Proportion of persons victim of physical or sexual harassment, by sex,
   age, disability status and place of occurrence, in the previous 12 months
-11-a-1-title: Proportion of population living in cities that implement urban and regional
-  development plans integrating population projections and resource needs, by size
-  of city
+11-a-1-title: Number of countries that have national urban policies or regional development
+  plans that (a) respond to population dynamics; (b) ensure balanced territorial development;
+  and (c) increase local fiscal space
 11-b-1-title: Number of countries that adopt and implement national disaster risk
   reduction strategies in line with the Sendai Framework for Disaster Risk Reduction
   2015–2030
@@ -83,33 +86,29 @@
 11-c-1-title: Proportion of financial support to the least developed countries that
   is allocated to the construction and retrofitting of sustainable, resilient and
   resource-efficient buildings utilizing local materials
-12-1-1-title: Number of countries with sustainable consumption and production (SCP)
-  national action plans or SCP mainstreamed as a priority or a target into national
-  policies
+12-1-1-title: Number of countries developing, adopting or implementing policy instruments
+  aimed at supporting the shift to sustainable consumption and production
 12-2-1-title: Material footprint, material footprint per capita, and material footprint
   per GDP
 12-2-2-title: Domestic material consumption, domestic material consumption per capita,
   and domestic material consumption per GDP
-12-3-1-title: Global food loss index
+12-3-1-title: (a) Food loss index and (b) food waste index
 12-4-1-title: Number of parties to international multilateral environmental agreements
   on hazardous waste, and other chemicals that meet their commitments and obligations
   in transmitting information as required by each relevant agreement
-12-4-2-title: Hazardous waste generated per capita and proportion of hazardous waste
-  treated, by type of treatment
+12-4-2-title: (a) Hazardous waste generated per capita; and (b) proportion of hazardous
+  waste treated, by type of treatment
 12-5-1-title: National recycling rate, tons of material recycled
 12-6-1-title: Number of companies publishing sustainability reports
-12-7-1-title: Number of countries implementing sustainable public procurement policies
-  and action plans
+12-7-1-title: Degree of sustainable public procurement policies and action plan implementation
 12-8-1-title: Extent to which (i) global citizenship education and (ii) education
-  for sustainable development (including climate change education) are mainstreamed
-  in (a) national education policies; (b) curricula; (c) teacher education; and (d)
-  student assessment
-12-a-1-title: Amount of support to developing countries on research and development
-  for sustainable consumption and production and environmentally sound technologies
-12-b-1-title: Number of sustainable tourism strategies or policies and implemented
-  action plans with agreed monitoring and evaluation tools
+  for sustainable development are mainstreamed in (a) national education policies;
+  (b) curricula; (c) teacher education; and (d) student assessment
+12-a-1-title: Installed renewable energy-generating capacity in developing countries
+  (in watts per capita)
+12-b-1-title: Implementation of standard accounting tools to monitor the economic
+  and environmental aspects of tourism sustainability
 12-c-1-title: Amount of fossil-fuel subsidies per unit of GDP (production and consumption)
-  and as a proportion of total national expenditure on fossil fuels
 13-1-1-title: Number of deaths, missing persons and directly affected persons attributed
   to disasters per 100,000 population
 13-1-2-title: Number of countries that adopt and implement national disaster risk
@@ -117,39 +116,37 @@
   2015–2030
 13-1-3-title: Proportion of local governments that adopt and implement local disaster
   risk reduction strategies in line with national disaster risk reduction strategies
-13-2-1-title: Number of countries that have communicated the establishment or operationalization
-  of an integrated policy/strategy/plan which increases their ability to adapt to
-  the adverse impacts of climate change, and foster climate resilience and low greenhouse
-  gas emissions development in a manner that does not threaten food production (including
-  a national adaptation plan, nationally determined contribution, national communication,
-  biennial update report or other)
-13-3-1-title: Number of countries that have integrated mitigation, adaptation, impact
-  reduction and early warning into primary, secondary and tertiary curricula
+13-2-1-title: Number of countries with nationally determined contributions, long-term
+  strategies, national adaptation plans, strategies as reported in adaptation communications
+  and national communications
+13-2-2-title: Total greenhouse gas emissions per year
+13-3-1-title: Extent to which (i) global citizenship education and (ii) education
+  for sustainable development are mainstreamed in (a) national education policies;
+  (b) curricula; (c) teacher education; and (d) student assessment
 13-3-2-title: Number of countries that have communicated the strengthening of institutional,
   systemic and individual capacity-building to implement adaptation, mitigation and
   technology transfer, and development actions
-13-a-1-title: Mobilized amount of United States dollars per year between 2020 and
-  2025 accountable towards the $100 billion commitment
+13-a-1-title: Amounts provided and mobilized in United States dollars per year in
+  relation to the continued existing collective mobilization goal of the $100 billion
+  commitment through to 2025
 13-b-1-title: Number of least developed countries and small island developing States
-  that are receiving specialized support, and amount of support, including finance,
-  technology and capacity-building, for mechanisms for raising capacities for effective
-  climate change-related planning and management, including focusing on women, youth
-  and local and marginalized communities
-14-1-1-title: Index of coastal eutrophication and floating plastic debris density
-14-2-1-title: Proportion of national exclusive economic zones managed using ecosystem-based
-  approaches
+  with nationally determined contributions, long-term strategies, national adaptation
+  plans, strategies as reported in adaptation communications and national communications
+14-1-1-title: (a) Index of coastal eutrophication; and (b) plastic debris density
+14-2-1-title: Number of countries using ecosystem-based approaches to managing marine
+  areas
 14-3-1-title: Average marine acidity (pH) measured at agreed suite of representative
   sampling stations
 14-4-1-title: Proportion of fish stocks within biologically sustainable levels
 14-5-1-title: Coverage of protected areas in relation to marine areas
-14-6-1-title: Progress by countries in the degree of implementation of international
-  instruments aiming to combat illegal, unreported and unregulated fishing
+14-6-1-title: Degree of implementation of international instruments aiming to combat
+  illegal, unreported and unregulated fishing
 14-7-1-title: Sustainable fisheries as a proportion of GDP in small island developing
   States, least developed countries and all countries
 14-a-1-title: Proportion of total research budget allocated to research in the field
   of marine technology
-14-b-1-title: Progress by countries in the degree of application of a legal/regulatory/policy/institutional
-  framework which recognizes and protects access rights for small-scale fisheries
+14-b-1-title: Degree of application of a legal/regulatory/ policy/institutional framework
+  which recognizes and protects access rights for small-scale fisheries
 14-c-1-title: Number of countries making progress in ratifying, accepting and implementing
   through legal, policy and institutional frameworks, ocean-related instruments that
   implement international law, as reflected in the United Nations Convention on the
@@ -168,12 +165,18 @@
 15-7-1-title: Proportion of traded wildlife that was poached or illicitly trafficked
 15-8-1-title: Proportion of countries adopting relevant national legislation and adequately
   resourcing the prevention or control of invasive alien species
-15-9-1-title: Progress towards national targets established in accordance with Aichi
-  Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020
-15-a-1-title: Official development assistance and public expenditure on conservation
-  and sustainable use of biodiversity and ecosystems
-15-b-1-title: Official development assistance and public expenditure on conservation
-  and sustainable use of biodiversity and ecosystems
+15-9-1-title: (a) Number of countries that have established national targets in accordance
+  with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity
+  2011–2020 in their national biodiversity strategy and action plans and the progress
+  reported towards these targets; and (b) integration of biodiversity into national
+  accounting and reporting systems, defined as implementation of the System of Environmental-Economic
+  Accounting
+15-a-1-title: (a) Official development assistance on conservation and sustainable
+  use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant
+  economic instruments
+15-b-1-title: (a) Official development assistance on conservation and sustainable
+  use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant
+  economic instruments
 15-c-1-title: Proportion of traded wildlife that was poached or illicitly trafficked
 16-1-1-title: Number of victims of intentional homicide per 100,000 population, by
   sex and age
@@ -197,6 +200,9 @@
   their victimization to competent authorities or other officially recognized conflict
   resolution mechanisms
 16-3-2-title: Unsentenced detainees as a proportion of overall prison population
+16-3-3-title: Proportion of the population who have experienced a dispute in the past
+  two years and who accessed a formal or informal dispute resolution mechanism, by
+  type of mechanism
 16-4-1-title: Total value of inward and outward illicit financial flows (in current
   United States dollars)
 16-4-2-title: Proportion of seized, found or surrendered arms whose illicit origin
@@ -212,9 +218,9 @@
   budget, by sector (or by budget codes or similar)
 16-6-2-title: Proportion of population satisfied with their last experience of public
   services
-16-7-1-title: Proportions of positions (by sex, age, persons with disabilities and
-  population groups) in public institutions (national and local legislatures, public
-  service, and judiciary) compared to national distributions
+16-7-1-title: Proportions of positions in national and local institutions, including
+  (a) the legislatures; (b) the public service; and (c) the judiciary, compared to
+  national distributions, by sex, age, persons with disabilities and population groups
 16-7-2-title: Proportion of population who believe decision-making is inclusive and
   responsive, by sex, age, disability and population group
 16-8-1-title: Proportion of members and voting rights of developing countries in international
@@ -231,8 +237,8 @@
 17-10-1-title: Worldwide weighted tariff-average
 17-11-1-title: Developing countries’ and least developed countries’ share of global
   exports
-17-12-1-title: Average tariffs faced by developing countries, least developed countries
-  and small island developing States
+17-12-1-title: Weighted average tariffs faced by developing countries, least developed
+  countries and small island developing States
 17-13-1-title: Macroeconomic Dashboard
 17-14-1-title: Number of countries with mechanisms in place to enhance policy coherence
   of sustainable development
@@ -241,11 +247,9 @@
 17-16-1-title: Number of countries reporting progress in multi-stakeholder development
   effectiveness monitoring frameworks that support the achievement of the sustainable
   development goals
-17-17-1-title: Amount of United States dollars committed to public-private and civil
-  society partnerships
-17-18-1-title: Proportion of sustainable development indicators produced at the national
-  level with full disaggregation when relevant to the target, in accordance with the
-  Fundamental Principles of Official Statistics
+17-17-1-title: Amount in United States dollars committed to public-private partnerships
+  for infrastructure
+17-18-1-title: Statistical capacity indicator for Sustainable Development Goal monitoring
 17-18-2-title: Number of countries that have national statistical legislation that
   complies with the Fundamental Principles of Official Statistics
 17-18-3-title: Number of countries with a national statistical plan that is fully
@@ -258,19 +262,17 @@
 17-2-1-title: Net official development assistance, total and to least developed countries,
   as a proportion of the Organization for Economic Cooperation and Development (OECD)
   Development Assistance Committee donors’ gross national income (GNI)
-17-3-1-title: Foreign direct investment (FDI), official development assistance and
-  South-South cooperation as a proportion of total domestic budget
+17-3-1-title: Foreign direct investment, official development assistance and South-South
+  cooperation as a proportion of gross national income
 17-3-2-title: Volume of remittances (in United States dollars) as a proportion of
   total GDP
 17-4-1-title: Debt service as a proportion of exports of goods and services
 17-5-1-title: Number of countries that adopt and implement investment promotion regimes
-  for least developed countries
-17-6-1-title: Number of science and/or technology cooperation agreements and programmes
-  between countries, by type of cooperation
+  for developing countries, including the least developed countries
+17-6-1-title: Fixed Internet broadband subscriptions per 100 inhabitants, by speed
 17-6-2-title: Fixed Internet broadband subscriptions per 100 inhabitants, by speed
-17-7-1-title: Total amount of approved funding for developing countries to promote
-  the development, transfer, dissemination and diffusion of environmentally sound
-  technologies
+17-7-1-title: Total amount of funding for developing countries to promote the development,
+  transfer, dissemination and diffusion of environmentally sound technologies
 17-8-1-title: Proportion of individuals using the Internet
 17-9-1-title: Dollar value of financial and technical assistance (including through
   North-South, South‐South and triangular cooperation) committed to developing countries
@@ -283,14 +285,15 @@
 2-2-2-title: Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation
   from the median of the WHO Child Growth Standards) among children under 5 years
   of age, by type (wasting and overweight)
+2-2-3-title: Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status
+  (percentage)
 2-3-1-title: Volume of production per labour unit by classes of farming/pastoral/forestry
   enterprise size
 2-3-2-title: Average income of small-scale food producers, by sex and indigenous status
 2-4-1-title: Proportion of agricultural area under productive and sustainable agriculture
 2-5-1-title: Number of plant and animal genetic resources for food and agriculture
   secured in either medium- or long-term conservation facilities
-2-5-2-title: Proportion of local breeds classified as being at risk, not at risk or
-  at unknown level of risk of extinction
+2-5-2-title: Proportion of local breeds classified as being at risk of extinction
 2-a-1-title: The agriculture orientation index for government expenditures
 2-a-2-title: Total official flows (official development assistance plus other official
   flows) to the agriculture sector
@@ -298,7 +301,7 @@
 2-c-1-title: Indicator of food price anomalies
 3-1-1-title: Maternal mortality ratio
 3-1-2-title: Proportion of births attended by skilled health personnel
-3-2-1-title: Under‐five mortality rate
+3-2-1-title: Under‐5 mortality rate
 3-2-2-title: Neonatal mortality rate
 3-3-1-title: Number of new HIV infections per 1,000 uninfected population, by sex,
   age and key populations
@@ -311,18 +314,14 @@
 3-4-2-title: Suicide mortality rate
 3-5-1-title: Coverage of treatment interventions (pharmacological, psychosocial and
   rehabilitation and aftercare services) for substance use disorders
-3-5-2-title: Harmful use of alcohol, defined according to the national context as
-  alcohol per capita consumption (aged 15 years and older) within a calendar year
-  in litres of pure alcohol
+3-5-2-title: Alcohol per capita consumption (aged 15 years and older) within a calendar
+  year in litres of pure alcohol
 3-6-1-title: Death rate due to road traffic injuries
 3-7-1-title: Proportion of women of reproductive age (aged 15–49 years) who have their
   need for family planning satisfied with modern methods
 3-7-2-title: Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000
   women in that age group
-3-8-1-title: Coverage of essential health services (defined as the average coverage
-  of essential services based on tracer interventions that include reproductive, maternal,
-  newborn and child health, infectious diseases, non-communicable diseases and service
-  capacity and access, among the general and the most disadvantaged population)
+3-8-1-title: Coverage of essential health services
 3-8-2-title: Proportion of population with large household expenditures on health
   as a share of total household expenditure or income
 3-9-1-title: Mortality rate attributed to household and ambient air pollution
@@ -340,11 +339,15 @@
 3-c-1-title: Health worker density and distribution
 3-d-1-title: International Health Regulations (IHR) capacity and health emergency
   preparedness
+3-d-2-title: Percentage of bloodstream infections due to selected antimicrobial-resistant
+  organisms
 4-1-1-title: Proportion of children and young people (a) in grades 2/3; (b) at the
   end of primary; and (c) at the end of lower secondary achieving at least a minimum
   proficiency level in (i) reading and (ii) mathematics, by sex
-4-2-1-title: Proportion of children under 5 years of age who are developmentally on
-  track in health, learning and psychosocial well-being, by sex
+4-1-2-title: Completion rate (primary education, lower secondary education, upper
+  secondary education)
+4-2-1-title: Proportion of children aged 24-59 months who are developmentally on track
+  in health, learning and psychosocial well-being, by sex
 4-2-2-title: Participation rate in organized learning (one year before the official
   primary entry age), by sex
 4-3-1-title: Participation rate of youth and adults in formal and non-formal education
@@ -358,20 +361,13 @@
 4-6-1-title: Proportion of population in a given age group achieving at least a fixed
   level of proficiency in functional (a) literacy and (b) numeracy skills, by sex
 4-7-1-title: Extent to which (i) global citizenship education and (ii) education for
-  sustainable development, including gender equality and human rights, are mainstreamed
-  at all levels in (a) national education policies; (b) curricula; (c) teacher education;
-  and (d) student assessment
-4-a-1-title: Proportion of schools with access to (a) electricity; (b) the Internet
-  for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure
-  and materials for students with disabilities; (e) basic drinking water; (f) single-sex
-  basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH
-  indicator definitions)
+  sustainable development are mainstreamed in (a) national education policies; (b)
+  curricula; (c) teacher education; and (d) student assessment
+4-a-1-title: Proportion of schools offering basic services, by type of service
 4-b-1-title: Volume of official development assistance flows for scholarships by sector
   and type of study
-4-c-1-title: 'Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary;
-  and (d) upper secondary education who have received at least the minimum organized
-  teacher training (e.g. pedagogical training) pre-service or in-service required
-  for teaching at the relevant level in a given country'
+4-c-1-title: Proportion of teachers with the minimum required qualifications, by education
+  level
 5-1-1-title: Whether or not legal frameworks are in place to promote, enforce and
   monitor equality and non‐discrimination on the basis of sex
 5-2-1-title: Proportion of ever-partnered women and girls aged 15 years and older
@@ -403,15 +399,14 @@
 5-c-1-title: Proportion of countries with systems to track and make public allocations
   for gender equality and women’s empowerment
 6-1-1-title: Proportion of population using safely managed drinking water services
-6-2-1-title: Proportion of population using safely managed sanitation services, including
-  a handwashing facility with soap and water
-6-3-1-title: Proportion of wastewater safely treated
+6-2-1-title: Proportion of population using (a) safely managed sanitation services
+  and (b) a hand-washing facility with soap and water
+6-3-1-title: Proportion of domestic and industrial wastewater flows safely treated
 6-3-2-title: Proportion of bodies of water with good ambient water quality
 6-4-1-title: Change in water-use efficiency over time
 6-4-2-title: 'Level of water stress: freshwater withdrawal as a proportion of available
   freshwater resources'
-6-5-1-title: Degree of integrated water resources management implementation (0 to
-  100)
+6-5-1-title: Degree of integrated water resources management
 6-5-2-title: Proportion of transboundary basin area with an operational arrangement
   for water cooperation
 6-6-1-title: Change in the extent of water-related ecosystems over time
@@ -427,28 +422,28 @@
 7-a-1-title: International financial flows to developing countries in support of clean
   energy research and development and renewable energy production, including in hybrid
   systems
-7-b-1-title: Investments in energy efficiency as a proportion of GDP and the amount
-  of foreign direct investment in financial transfer for infrastructure and technology
-  to sustainable development services
+7-b-1-title: Installed renewable energy-generating capacity in developing countries
+  (in watts per capita)
 8-1-1-title: Annual growth rate of real GDP per capita
 8-10-1-title: (a) Number of commercial bank branches per 100,000 adults and (b) number
   of automated teller machines (ATMs) per 100,000 adults
 8-10-2-title: Proportion of adults (15 years and older) with an account at a bank
   or other financial institution or with a mobile-money-service provider
 8-2-1-title: Annual growth rate of real GDP per employed person
-8-3-1-title: Proportion of informal employment in non‐agriculture employment, by sex
+8-3-1-title: Proportion of informal employment in total employment, by sector and
+  sex
 8-4-1-title: Material footprint, material footprint per capita, and material footprint
   per GDP
 8-4-2-title: Domestic material consumption, domestic material consumption per capita,
   and domestic material consumption per GDP
-8-5-1-title: Average hourly earnings of female and male employees, by occupation,
-  age and persons with disabilities
+8-5-1-title: Average hourly earnings of employees, by sex, age, occupation and persons
+  with disabilities
 8-5-2-title: Unemployment rate, by sex, age and persons with disabilities
 8-6-1-title: Proportion of youth (aged 15–24 years) not in education, employment or
   training
 8-7-1-title: Proportion and number of children aged 5–17 years engaged in child labour,
   by sex and age
-8-8-1-title: Frequency rates of fatal and non-fatal occupational injuries, by sex
+8-8-1-title: Fatal and non-fatal occupational injuries per 100,000 workers, by sex
   and migrant status
 8-8-2-title: Level of national compliance with labour rights (freedom of association
   and collective bargaining) based on International Labour Organization (ILO) textual

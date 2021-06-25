@@ -7,7 +7,7 @@ indicator: Número del indicador
 indicator_definition: Descripción del indicador global
 indicator_name: Nombre del indicador
 indicator_sort_order: Orden de visualización del indicador (dentro de la página de
-  Goal)
+  Objetivo)
 national_data_update_url: Datos actualizados por última vez
 national_geographical_coverage: Cobertura geográfica
 national_indicator_available: Indicador disponible
@@ -74,7 +74,7 @@ source_url_4: Enlace a la fuente de datos
 source_url_5: Enlace a la fuente de datos
 source_url_6: Enlace a la fuente de datos
 target: Nombre de destino
-target_id: Número objetivo
+target_id: Número meta
 un_custodian_agency: Agencia de custodia de la ONU
 un_designated_tier: Nivel designado por la ONU
 quality_assurance: Seguro de calidad

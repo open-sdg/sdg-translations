@@ -1,12 +1,9 @@
-search: 'Cerca'
-# This refers to a section of the site for performing keyword searches to find particular indicators
-indicator_search: 'Cerca d’indicadors'
-# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
-search_results_for: 'Resultats de cerca per a'
-found_in: 'trobat a'
-keywords: 'Paraules clau'
-# A message for the user - after they have performed an online search - to indicate that their search produced no results
-no_results: 'Sense resultats'
-did_you_mean: 'volies dir'
-results_found: 'resultats trobats'
-adjust_your_search: 'Proveu d''ajustar la cerca per trobar el que busqueu.'
+found_in: Trobat a
+indicator_search: Cerca d'indicador
+keywords: Paraules clau
+no_results: No es troben resultats
+search: Cerca
+search_results_for: Resultats de cerca per
+did_you_mean: Volíeu dir
+results_found: Resultats trobats
+adjust_your_search: Proveu ajustar la cerca per trobar el que esteu buscant.

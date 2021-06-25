@@ -15,3 +15,5 @@ disaggregation_status_notapplicable: 'خارج النطاق'
 disaggregation_status_by_field: 'التصنيف حسب٪ مجال'
 not_specified: غير محدّد
 reported: تم الإبلاغ
+description: تقدم حالة إعداد التقارير نظرة عامة على مقدار بيانات٪ name الخاصة بأهداف
+  التنمية المستدامة (SDG).

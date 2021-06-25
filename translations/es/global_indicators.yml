@@ -24,16 +24,15 @@
 1-5-4-title: Proporción de gobiernos locales que adoptan y aplican estrategias locales
   de reducción del riesgo de desastres en consonancia con las estrategias nacionales
   de reducción del riesgo de desastres
-1-a-1-title: Proporción de los recursos generados a nivel interno que el gobierno
-  asigna directamente a programas de reducción de la pobreza
+1-a-1-title: Total de las subvenciones de asistencia oficial para el desarrollo de
+  todos los donantes que se centran en la reducción de la pobreza como porcentaje
+  del ingreso nacional bruto del país receptor
 1-a-2-title: Proporción del gasto público total que se dedica a servicios esenciales
   (educación, salud y protección social)
 1-a-3-title: Suma del total de las subvenciones y asignaciones no generadoras de deuda
   dedicadas directamente a programas de reducción de la pobreza en proporción al
   PIB
-1-b-1-title: Proporción de los gastos públicos periódicos y de capital que se dedica
-  a sectores que benefician de forma desproporcionada a las mujeres, los pobres y
-  los grupos vulnerables
+1-b-1-title: Gasto público social en favor de los pobres
 10-1-1-title: Tasas de crecimiento per cápita de los gastos o ingresos de los hogares
   del 40% más pobre de la población y la población total
 10-2-1-title: Proporción de personas que viven por debajo del 50% de la mediana de
@@ -41,14 +40,20 @@
 10-3-1-title: Proporción de la población que declara haberse sentido personalmente
   discriminada o acosada en los últimos 12 meses por motivos de discriminación prohibidos
   por el derecho internacional de los derechos humanos
-10-4-1-title: Proporción del PIB generada por el trabajo, que comprende los salarios
-  y las transferencias de protección social
+10-4-1-title: Proporción del PIB generada por el trabajo
+10-4-2-title: Efecto redistributivo de la política fiscal
 10-5-1-title: Indicadores de solidez financiera
 10-6-1-title: Proporción de miembros y derechos de voto de los países en desarrollo
   en organizaciones internacionales
 10-7-1-title: Costo de la contratación sufragado por el empleado en proporción a
-  los ingresos anuales percibidos en el país de destino
+  los ingresos mensuales percibidos en el país de destino
 10-7-2-title: Número de países que han aplicado políticas migratorias bien gestionadas
+  que facilitan la migración y la movilidad ordenadas, seguras, regulares y responsables
+  de las personas
+10-7-3-title: Número de personas que murieron o desaparecieron en el proceso de migración
+  hacia un destino internacional
+10-7-4-title: Proporción de la población integrada por refugiados, desglosada por
+  país de origen
 10-a-1-title: Proporción de líneas arancelarias que se aplican a las importaciones
   de los países menos adelantados y los países en desarrollo con arancel cero
 10-b-1-title: Corrientes totales de recursos para el desarrollo, desglosadas por país
@@ -64,21 +69,18 @@
 11-3-2-title: Proporción de ciudades que cuentan con una estructura de participación
   directa de la sociedad civil en la planificación y la gestión urbanas y funcionan
   con regularidad y democráticamente
-11-4-1-title: Total de gastos (públicos y privados) per cápita destinados a la preservación,
-  protección y conservación de todo el patrimonio cultural y natural, desglosado
-  por tipo de patrimonio (cultural, natural, mixto y reconocido por el Centro del
-  Patrimonio Mundial), nivel de gobierno (nacional, regional y local o municipal),
-  tipo de gastos (gastos de funcionamiento o inversiones) y tipo de financiación
-  privada (donaciones en especie, financiación procedente del sector privado sin
-  fines de lucro y patrocinio)
+11-4-1-title: Total de gastos per cápita destinados a la preservación, protección
+  y conservación de todo el patrimonio cultural y natural, desglosado por fuente
+  de financiación (pública y privada), tipo de patrimonio (cultural y natural) y
+  nivel de gobierno (nacional, regional y local/municipal)
 11-5-1-title: Número de personas muertas, desaparecidas y afectadas directamente
   atribuido a desastres por cada 100.000 personas
 11-5-2-title: Pérdidas económicas directas en relación con el PIB mundial, daños
   en la infraestructura esencial y número de interrupciones de los servicios básicos
   atribuidos a desastres
-11-6-1-title: Proporción de desechos sólidos urbanos recogidos periódicamente y
-  con una descarga final adecuada respecto del total de desechos sólidos urbanos
-  generados, desglosada por ciudad
+11-6-1-title: Proporción de residuos sólidos municipales recogidos y administrados
+  en instalaciones controladas con respecto al total de residuos municipales generados,
+  desglosada por ciudad
 11-6-2-title: Niveles medios anuales de partículas finas en suspensión (por ejemplo,
   PM2.5 y PM10) en las ciudades (ponderados según la población)
 11-7-1-title: Proporción media de la superficie edificada de las ciudades que se
@@ -87,9 +89,9 @@
 11-7-2-title: Proporción de personas que han sido víctimas de acoso físico o sexual
   en los últimos 12 meses, desglosada por sexo, edad, grado de discapacidad y lugar
   del hecho
-11-a-1-title: Proporción de la población residente en ciudades que aplican planes
-  de desarrollo urbano y regional que tienen en cuenta las previsiones demográficas
-  y las necesidades de recursos, desglosada por tamaño de ciudad
+11-a-1-title: Número de países que cuentan con políticas urbanas nacionales o planes
+  de desarrollo regionales que a) responden a la dinámica de la población, b) garantizan
+  un desarrollo territorial equilibrado y c) aumentan el margen fiscal local
 11-b-1-title: Número de países que adoptan y aplican estrategias nacionales de reducción
   del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción
   del Riesgo de Desastres 2015‐2030
@@ -99,34 +101,34 @@
 11-c-1-title: Proporción del apoyo financiero a los países menos adelantados que
   se asigna a la construcción y el reacondicionamiento con materiales locales de
   edificios sostenibles, resilientes y eficientes en el uso de recursos
-12-1-1-title: Número de países que incluyen como prioridad o meta en las políticas
-  nacionales planes de acción nacionales sobre el consumo y la producción sostenibles
+12-1-1-title: Número de países que elaboran, adoptan o aplican instrumentos de política
+  destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles
 12-2-1-title: Huella material en términos absolutos, huella material per cápita
   y huella material por PIB
 12-2-2-title: Consumo material interno en términos absolutos, consumo material interno
   per cápita y consumo material interno por PIB
-12-3-1-title: Índice mundial de pérdidas de alimentos
+12-3-1-title: a) Índice de pérdidas de alimentos y b) índice de desperdicio de
+  alimentos
 12-4-1-title: Número de partes en los acuerdos ambientales multilaterales internacionales
   sobre desechos peligrosos y otros productos químicos que cumplen sus compromisos
   y obligaciones de transmitir información como se exige en cada uno de esos acuerdos
-12-4-2-title: Desechos peligrosos generados per cápita y proporción de desechos
+12-4-2-title: a) Desechos peligrosos generados per cápita y b) proporción de desechos
   peligrosos tratados, desglosados por tipo de tratamiento
 12-5-1-title: Tasa nacional de reciclado, en toneladas de material reciclado
 12-6-1-title: Número de empresas que publican informes sobre sostenibilidad
-12-7-1-title: Número de países que aplican políticas y planes de acción sostenibles
-  en materia de adquisiciones públicas
-12-8-1-title: Grado en que i) la educación para la ciudadanía mundial y ii) la educación
-  para el desarrollo sostenible (incluida la educación sobre el cambio climático)
-  se incorporan en a) las políticas nacionales de educación, b) los planes de estudio,
-  c) la formación del profesorado y d) la evaluación de los estudiantes
-12-a-1-title: Cantidad de apoyo en materia de investigación y desarrollo prestado
-  a los países en desarrollo para el consumo y la producción sostenibles y las tecnologías
-  ecológicamente racionales
-12-b-1-title: Número de estrategias o políticas de turismo sostenible y de planes
-  de acción aplicados que incluyen instrumentos de seguimiento y evaluación convenidos
-12-c-1-title: Cuantía de los subsidios a los combustibles fósiles por unidad de
-  PIB (producción y consumo) y en proporción al total de los gastos nacionales en
-  combustibles fósiles
+12-7-1-title: Grado de aplicación de políticas y planes de acción sostenibles en
+  materia de adquisiciones públicas
+12-8-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la\
+  \ educación para el desarrollo sostenible se incorporan en a) las políticas nacionales\
+  \ de educación, b) los planes de estudio, \nc) la formación del profesorado y\
+  \ d) la evaluación de los estudiantes"
+12-a-1-title: Capacidad instalada de generación de energía renovable en los países
+  en desarrollo (expresada en vatios per cápita)
+12-b-1-title: Aplicación de instrumentos normalizados de contabilidad para hacer
+  un seguimiento de los aspectos económicos y ambientales de la sostenibilidad del
+  turismo
+12-c-1-title: Cantidad de subsidios a los combustibles fósiles por unidad de PIB
+  (producción y consumo)
 13-1-1-title: Número de personas muertas, desaparecidas y afectadas directamente
   atribuido a desastres por cada 100.000 personas
 13-1-2-title: Número de países que adoptan y aplican estrategias nacionales de reducción
@@ -135,47 +137,42 @@
 13-1-3-title: Proporción de gobiernos locales que adoptan y aplican estrategias locales
   de reducción del riesgo de desastres en consonancia con las estrategias nacionales
   de reducción del riesgo de desastres
-13-2-1-title: Número de países que han comunicado el establecimiento o la puesta
-  en marcha de una política, estrategia o plan integrado que aumente su capacidad
-  para adaptarse a los efectos adversos del cambio climático y que promueven la resiliencia
-  al clima y un desarrollo con bajas emisiones de gases de efecto invernadero sin
-  comprometer por ello la producción de alimentos (por ejemplo, un plan nacional
-  de adaptación, una contribución determinada a nivel nacional, una comunicación
-  nacional o un informe bienal de actualización)
-13-3-1-title: Número de países que han incorporado la mitigación del cambio climático,
-  la adaptación a él, la reducción de sus efectos y la alerta temprana en los planes
-  de estudios de la enseñanza primaria, secundaria y terciaria
+13-2-1-title: Número de países con contribuciones determinadas a nivel nacional,
+  estrategias a largo plazo y planes y estrategias nacionales de adaptación y estrategias
+  indicadas en comunicaciones sobre la adaptación y comunicaciones nacionales
+13-2-2-title: Emisiones totales de gases de efecto invernadero por año
+13-3-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la\
+  \ educación para el desarrollo sostenible se incorporan en a) las políticas nacionales\
+  \ de educación, b) los planes de estudio, \nc) la formación del profesorado y\
+  \ d) la evaluación de los estudiantes"
 13-3-2-title: Número de países que han comunicado una mayor creación de capacidad
   institucional, sistémica e individual para implementar actividades de adaptación,
   mitigación y transferencia de tecnología, y medidas de desarrollo
-13-a-1-title: Suma anual, en dólares de los Estados Unidos, movilizada entre 2020
-  y 2025 como parte del compromiso de llegar a 100.000 millones de dólares
+13-a-1-title: Cantidades proporcionadas y movilizadas en dólares de los Estados Unidos
+  al año en relación con el objetivo actual mantenido de movilización colectiva
+  de 100.000 millones de dólares de aquí a 2025
 13-b-1-title: Número de países menos adelantados y pequeños Estados insulares en
-  desarrollo que reciben apoyo especializado, y cantidad de apoyo, en particular financiero,
-  tecnológico y de creación de capacidad, para los mecanismos de desarrollo de la
-  capacidad de planificación y gestión eficaces en relación con el cambio climático,
-  incluidos los centrados en las mujeres, los jóvenes y las comunidades locales y
-  marginadas
-14-1-1-title: Índice de eutrofización costera y densidad de detritos plásticos
-  flotantes
-14-2-1-title: Proporción de zonas económicas exclusivas nacionales gestionadas mediante
-  enfoques basados en los ecosistemas
+  desarrollo con contribuciones determinadas a nivel nacional, estrategias a largo
+  plazo y planes, estrategias nacionales de adaptación y estrategias indicadas en
+  comunicaciones sobre la adaptación y comunicaciones nacionales
+14-1-1-title: a) Índice de eutrofización costera; y b) densidad de detritos plásticos
+14-2-1-title: Número de países que aplican enfoques basados en los ecosistemas para
+  gestionar las zonas marinas
 14-3-1-title: Acidez media del mar (pH) medida en un conjunto convenido de estaciones
   de muestreo representativas
 14-4-1-title: Proporción de poblaciones de peces cuyos niveles son biológicamente
   sostenibles
 14-5-1-title: Cobertura de las zonas protegidas en relación con las zonas marinas
-14-6-1-title: Progresos realizados por los países en el grado de aplicación de los
-  instrumentos internacionales cuyo objetivo es combatir la pesca ilegal, no declarada
-  y no reglamentada
+14-6-1-title: Grado de aplicación de instrumentos internacionales cuyo objetivo es
+  combatir la pesca ilegal, no declarada y no reglamentada
 14-7-1-title: Proporción del PIB correspondiente a la pesca sostenible en los pequeños
   Estados insulares en desarrollo, en los países menos adelantados y en todos los
   países
 14-a-1-title: Proporción del presupuesto total de investigación asignada a la investigación
   en el campo de la tecnología marina
-14-b-1-title: Progresos realizados por los países en el grado de aplicación de un
-  marco jurídico, reglamentario, normativo o institucional que reconozca y proteja
-  los derechos de acceso para la pesca en pequeña escala
+14-b-1-title: Grado de aplicación de un marco jurídico, reglamentario, normativo
+  o institucional que reconozca y proteja los derechos de acceso para la pesca en
+  pequeña escala
 14-c-1-title: Número de países que, mediante marcos jurídicos, normativos e institucionales,
   avanzan en la ratificación, la aceptación y la implementación de los instrumentos
   relacionados con los océanos que aplican el derecho internacional reflejado en
@@ -198,13 +195,19 @@
 15-8-1-title: Proporción de países que han aprobado la legislación nacional pertinente
   y han destinado recursos suficientes para la prevención o el control de las especies
   exóticas invasoras
-15-9-1-title: Avances en el logro de las metas nacionales establecidas de conformidad
-  con la segunda Meta de Aichi para la Diversidad Biológica del Plan Estratégico
-  para la Diversidad Biológica 2011‐2020
-15-a-1-title: Asistencia oficial para el desarrollo y gasto público destinados a
-  la conservación y el uso sostenible de la biodiversidad y los ecosistemas
-15-b-1-title: Asistencia oficial para el desarrollo y gasto público destinados a
-  la conservación y el uso sostenible de la biodiversidad y los ecosistemas
+15-9-1-title: a) Número de países que han establecido metas nacionales de conformidad
+  con la segunda Meta de Aichi del Plan Estratégico para la Diversidad Biológica
+  2011-2020 o metas similares en sus estrategias y planes de acción nacionales en
+  materia de diversidad biológica y han informado de sus progresos en el logro de
+  estas metas; y b) integración de la biodiversidad en los sistemas nacionales de
+  contabilidad y presentación de informes, definidos como implementación del Sistema
+  de Contabilidad Ambiental y Económica
+15-a-1-title: a) Asistencia oficial para el desarrollo destinada concretamente a la
+  conservación y el uso sostenible de la biodiversidad y b) ingresos generados y
+  financiación movilizada mediante instrumentos económicos pertinentes para la biodiversidad
+15-b-1-title: a) Asistencia oficial para el desarrollo destinada concretamente a la
+  conservación y el uso sostenible de la biodiversidad y b) ingresos generados y
+  financiación movilizada mediante instrumentos económicos pertinentes para la biodiversidad
 15-c-1-title: Proporción de especímenes de flora y fauna silvestre comercializados
   procedentes de la caza furtiva o el tráfico ilícito
 16-1-1-title: Número de víctimas de homicidios intencionales por cada 100.000 habitantes,
@@ -232,6 +235,9 @@
   resolución de conflictos reconocidos oficialmente
 16-3-2-title: Proporción de detenidos que no han sido condenados en el conjunto de
   la población reclusa total
+16-3-3-title: Proporción de la población que se ha visto implicada en alguna controversia
+  en los dos últimos años y ha accedido a algún mecanismo oficial u oficioso de
+  solución de controversias, desglosada por tipo de mecanismo
 16-4-1-title: Valor total de las corrientes financieras ilícitas entrantes y salientes
   (en dólares corrientes de los Estados Unidos)
 16-4-2-title: Proporción de armas incautadas, encontradas o entregadas cuyo origen
@@ -248,10 +254,10 @@
   similares)
 16-6-2-title: Proporción de la población que se siente satisfecha con su última
   experiencia de los servicios públicos
-16-7-1-title: Proporciones de plazas (desglosadas por sexo, edad, personas con discapacidad
-  y grupos de población) en las instituciones públicas (asambleas legislativas nacionales
-  y locales, administración pública, poder judicial), en comparación con la distribución
-  nacional
+16-7-1-title: 'Proporciones de plazas en las instituciones nacionales y locales, entre
+  ellas: a) las asambleas legislativas, b) la administración pública y c) el poder
+  judicial, en comparación con la distribución nacional, desglosadas por sexo, edad,
+  personas con discapacidad y grupos de población'
 16-7-2-title: Proporción de la población que considera que la adopción de decisiones
   es inclusiva y responde a sus necesidades, desglosada por sexo, edad, discapacidad
   y grupo de población
@@ -270,8 +276,10 @@
 17-10-1-title: Promedio arancelario mundial ponderado
 17-11-1-title: Participación de los países en desarrollo y los países menos adelantados
   en las exportaciones mundiales
-17-12-1-title: Promedio de los aranceles que enfrentan los países en desarrollo,
-  los países menos adelantados y los pequeños Estados insulares en desarrollo
+17-12-1-title: Promedio ponderado de los aranceles que enfrentan los países en desarrollo,
+  los países menos adelantados y los pequeños Estados insulares en desarrolloPromedio
+  de los aranceles que enfrentan los países en desarrollo, los países menos adelantados
+  y los pequeños Estados insulares en desarrollo
 17-13-1-title: Tablero macroeconómico
 17-14-1-title: Número de países que cuentan con mecanismos para mejorar la coherencia
   de las políticas de desarrollo sostenible
@@ -281,11 +289,10 @@
 17-16-1-title: Número de países que informan de sus progresos en los marcos de múltiples
   interesados para el seguimiento de la eficacia de las actividades de desarrollo
   que apoyan el logro de los Objetivos de Desarrollo Sostenible
-17-17-1-title: 'Suma en dólares de los Estados Unidos prometida a las: a) alianzas
-  público-privadas y b) alianzas con la sociedad civil'
-17-18-1-title: Proporción de indicadores de desarrollo sostenible producidos a nivel
-  nacional, con pleno desglose cuando sea pertinente para la meta, de conformidad
-  con los Principios Fundamentales de las Estadísticas Oficiales
+17-17-1-title: Suma en dólares de los Estados Unidos prometida a las alianzas público-privadas
+  centradas en la infraestructura
+17-18-1-title: Indicador de capacidad estadística para el seguimiento de los Objetivos
+  de Desarrollo Sostenible
 17-18-2-title: Número de países cuya legislación nacional sobre estadísticas cumple
   los Principios Fundamentales de las Estadísticas Oficiales
 17-18-3-title: Número de países que cuentan con un plan estadístico nacional plenamente
@@ -300,18 +307,19 @@
   del Comité de Asistencia para el Desarrollo de la Organización de Cooperación
   y Desarrollo Económicos (OCDE)
 17-3-1-title: Inversión extranjera directa, asistencia oficial para el desarrollo
-  y cooperación Sur-Sur en proporción al presupuesto nacional total
+  y cooperación Sur-Sur como proporción del ingreso nacional bruto
 17-3-2-title: Volumen de remesas (en dólares de los Estados Unidos) en proporción
   al PIB total
 17-4-1-title: Servicio de la deuda en proporción a las exportaciones de bienes y
   servicios
 17-5-1-title: Número de países que adoptan y aplican sistemas de promoción de las
-  inversiones en favor de los países menos adelantados
-17-6-1-title: Número de acuerdos y programas de cooperación en materia de ciencia
-  o tecnología suscritos por los países, desglosado por tipo de cooperación
+  inversiones en favor de los países en desarrollo, entre ellos los países menos
+  adelantados
+17-6-1-title: Número de abonados a Internet de banda ancha fija por cada 100 habitantes,
+  desglosado por velocidad
 17-6-2-title: Número de abonados a Internet de banda ancha fija por cada 100 habitantes,
   desglosado por velocidad
-17-7-1-title: Total de los fondos aprobados para los países en desarrollo a fin de
+17-7-1-title: Total de los fondos destinados a los países en desarrollo a fin de
   promover el desarrollo, la transferencia y la difusión de tecnologías ecológicamente
   racionales
 17-8-1-title: Proporción de personas que utilizan Internet
@@ -326,6 +334,8 @@
 2-2-2-title: Prevalencia de la malnutrición (peso para la estatura, desviación típica
   > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre
   los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)
+2-2-3-title: Prevalencia de la anemia en las mujeres de entre 15 y 49 años, desglosada
+  por embarazo (porcentaje)
 2-3-1-title: Volumen de producción por unidad de trabajo desglosado por tamaño y
   tipo de explotación (agropecuaria/ganadera/forestal)
 2-3-2-title: Media de ingresos de los productores de alimentos en pequeña escala,
@@ -334,8 +344,7 @@
   productiva y sostenible
 2-5-1-title: Número de recursos genéticos vegetales y animales para la alimentación
   y la agricultura preservados en instalaciones de conservación a medio y largo plazo
-2-5-2-title: Proporción de razas y variedades locales consideradas en riesgo de extinción,
-  sin riesgo o con un nivel de riesgo desconocido
+2-5-2-title: Proporción de razas y variedades locales consideradas en riesgo de extinción
 2-a-1-title: Índice de orientación agrícola para el gasto público
 2-a-2-title: Total de corrientes oficiales de recursos (asistencia oficial para el
   desarrollo más otras corrientes oficiales) destinado al sector agrícola
@@ -357,19 +366,14 @@
 3-4-2-title: Tasa de mortalidad por suicidio
 3-5-1-title: Cobertura de los tratamientos(farmacológicos y psicosociales y servicios
   de rehabilitación y postratamiento) de trastornos por abuso de sustancias adictivas
-3-5-2-title: Consumo nocivo de alcohol, definido según el contexto nacional como
-  el consumo de alcohol per cápita (a partir de los 15 años de edad) durante un
-  año civil en litros de alcohol puro
+3-5-2-title: Consumo de alcohol per cápita (a partir de los 15 años de edad) durante
+  un año civil en litros de alcohol puro
 3-6-1-title: Tasa de mortalidad por lesiones debidas a accidentes de tráfico
 3-7-1-title: Proporción de mujeres en edad de procrear (entre 15 y 49 años) que
   cubren sus necesidades de planificación familiar con métodos modernos
 3-7-2-title: Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15
   y 19 años) por cada 1.000 mujeres de ese grupo de edad
-3-8-1-title: Cobertura de los servicios de salud esenciales (definida como la cobertura
-  media de los servicios esenciales entre la población general y los más desfavorecidos,
-  calculada a partir de intervenciones trazadoras como las relacionadas con la salud
-  reproductiva, materna, neonatal e infantil, las enfermedades infecciosas, las enfermedades
-  no transmisibles y la capacidad de los servicios y el acceso a ellos)
+3-8-1-title: Cobertura de los servicios de salud esenciales
 3-8-2-title: Proporción de la población con grandes gastos sanitarios por hogar
   como porcentaje del total de gastos o ingresos de los hogares
 3-9-1-title: Tasa de mortalidad atribuida a la contaminación de los hogares y del
@@ -389,13 +393,16 @@
 3-c-1-title: Densidad y distribución del personal sanitario
 3-d-1-title: Capacidad prevista en el Reglamento Sanitario Internacional (RSI) y preparación
   para emergencias de salud
+3-d-2-title: Porcentaje de infecciones del torrente sanguíneo debidas a determinados
+  organismos resistentes a los antimicrobianos seleccionados
 4-1-1-title: Proporción de niños, niñas y adolescentes que, a) en los cursos segundo
   y tercero, b) al final de la enseñanza primaria y c) al final de la enseñanza
   secundaria inferior, han alcanzado al menos un nivel mínimo de competencia en i)
   lectura y ii) matemáticas, desglosada por sexo
-4-2-1-title: Proporción de niños menores de 5 años cuyo desarrollo es adecuado
-  en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por
-  sexo
+4-1-2-title: Índice de finalización (enseñanza primaria, primer ciclo de enseñanza
+  secundaria y segundo ciclo de enseñanza secundaria)
+4-2-1-title: Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en
+  cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo
 4-2-2-title: Tasa de participación en el aprendizaje organizado (un año antes de
   la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo
 4-3-1-title: Tasa de participación de los jóvenes y adultos en la enseñanza y formación
@@ -409,22 +416,16 @@
 4-6-1-title: Proporción de la población en un grupo de edad determinado que ha alcanzado
   al menos un nivel fijo de competencia funcional en a) alfabetización y b) nociones
   elementales de aritmética, desglosada por sexo
-4-7-1-title: Grado en que i) la educación para la ciudadanía mundial y ii) la educación
-  para el desarrollo sostenible, incluida la igualdad de género y los derechos humanos,
-  se incorporan en todos los niveles de a) las políticas nacionales de educación,
-  b) los planes de estudio, c) la formación del profesorado y d) la evaluación de
-  los estudiantes
-4-a-1-title: Proporción de escuelas con acceso a a) electricidad, b) Internet con
-  fines pedagógicos, c) computadoras con fines pedagógicos, d) infraestructura y
-  materiales adaptados a los estudiantes con discapacidad, e) suministro básico de
-  agua potable, f) instalaciones de saneamiento básicas separadas por sexo y g) instalaciones
-  básicas para el lavado de manos (según las definiciones de los indicadores WASH)
+4-7-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación\
+  \ para el desarrollo sostenible se incorporan en a) las políticas nacionales de\
+  \ educación, b) los planes de estudio, \nc) la formación del profesorado y d)\
+  \ la evaluación de los estudiantes"
+4-a-1-title: Proporción de escuelas que ofrecen servicios básicos, desglosada por
+  tipo de servicio
 4-b-1-title: Volumen de la asistencia oficial para el desarrollo destinada a becas,
   desglosado por sector y tipo de estudio
-4-c-1-title: Proporción del profesorado de educación a) preescolar, b) primaria,
-  c) secundaria inferior y d) secundaria superior que ha recibido al menos la mínima
-  formación docente organizada previa al empleo o en el empleo (por ejemplo, formación
-  pedagógica) exigida para impartir enseñanza a cada nivel en un país determinado
+4-c-1-title: Proporción de docentes con las calificaciones mínimas requeridas, por
+  nivel educativo
 5-1-1-title: Determinar si existen o no marcos jurídicos para promover, hacer cumplir
   y supervisar la igualdad y la no discriminación por razón de sexo
 5-2-1-title: Proporción de mujeres y niñas a partir de 15 años de edad que han
@@ -464,14 +465,14 @@
   potable gestionados sin riesgos
 6-2-1-title: 'Proporción de la población que utiliza: a) servicios de saneamiento
   gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón'
-6-3-1-title: Proporción de aguas residuales tratadas de manera adecuada
+6-3-1-title: Proporción de los flujos de aguas residuales domésticas e industriales
+  tratados de manera adecuada
 6-3-2-title: Proporción de masas de agua de buena calidad
 6-4-1-title: Cambio en el uso eficiente de los recursos hídricos con el paso del
   tiempo
 6-4-2-title: 'Nivel de estrés hídrico: extracción de agua dulce en proporción
   a los recursos de agua dulce disponibles'
-6-5-1-title: Grado de implementación de la gestión integrada de los recursos hídricos
-  (0‐100)
+6-5-1-title: Grado de gestión integrada de los recursos hídricos
 6-5-2-title: Proporción de la superficie de cuencas transfronterizas sujetas a arreglos
   operacionales para la cooperación en materia de aguas
 6-6-1-title: Cambio en la extensión de los ecosistemas relacionados con el agua con
@@ -490,9 +491,8 @@
 7-a-1-title: Corrientes financieras internacionales hacia los países en desarrollo
   para apoyar la investigación y el desarrollo de energías limpias y la producción
   de energía renovable, incluidos los sistemas híbridos
-7-b-1-title: Inversiones en eficiencia energética en proporción al PIB y a la cuantía
-  de la inversión extranjera directa en transferencias financieras destinadas a infraestructura
-  y tecnología para servicios de desarrollo sostenible
+7-b-1-title: Capacidad instalada de generación de energía renovable en los países
+  en desarrollo (expresada en vatios per cápita)
 8-1-1-title: Tasa de crecimiento anual del PIB real per cápita
 8-10-1-title: a) Número de sucursales de bancos comerciales por cada 100.000 adultos
   y b) número de cajeros automáticos por cada 100.000 adultos
@@ -500,20 +500,20 @@
   cuenta en un banco u otra institución financiera o un proveedor de servicios de
   dinero móvil
 8-2-1-title: Tasa de crecimiento anual del PIB real por persona empleada
-8-3-1-title: Proporción de empleo informal en el sector no agrícola, desglosada
-  por sexo
+8-3-1-title: Proporción de empleo informal con respecto al empleo total, desglosada
+  por sector y sexo
 8-4-1-title: Huella material en términos absolutos, huella material per cápita y
   huella material por PIB
 8-4-2-title: Consumo material interno en términos absolutos, consumo material interno
   per cápita y consumo material interno por PIB
-8-5-1-title: Ingreso medio por hora de empleadas y empleados, desglosado por ocupación,
-  edad y personas con discapacidad
+8-5-1-title: Ingreso medio por hora de las personas empleadas, desglosado por sexo,
+  edad, ocupación y personas con discapacidad
 8-5-2-title: Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad
 8-6-1-title: Proporción de jóvenes (entre 15 y 24 años) que no cursan estudios,
   no están empleados ni reciben capacitación
 8-7-1-title: Proporción y número de niños de entre 5 y 17 años que realizan trabajo
   infantil, desglosados por sexo y edad
-8-8-1-title: Tasas de frecuencia de las lesiones ocupacionales mortales y no mortales,
+8-8-1-title: Lesiones ocupacionales mortales y no mortales por cada 100.000 trabajadores,
   desglosadas por sexo y estatus migratorio
 8-8-2-title: Nivel de cumplimiento nacional de los derechos laborales (libertad de
   asociación y negociación colectiva) con arreglo a las fuentes textuales de la

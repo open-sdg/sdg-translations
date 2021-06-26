@@ -15,3 +15,5 @@ disaggregation_status_notapplicable: 'Շրջանակից դուրս'
 disaggregation_status_by_field: 'Տարանջատում ըստ% դաշտի'
 not_specified: Նշված չէ
 reported: Հաղորդել են
+description: 'Հաշվետվության կարգավիճակը տալիս է ակնարկ, թե որքանով են Կայուն զարգացման
+  նպատակի (SDG)%% անունները հաղորդում:'

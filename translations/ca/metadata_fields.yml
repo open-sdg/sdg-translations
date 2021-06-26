@@ -1,0 +1,130 @@
+other_info: Altra informació
+computation_calculations: Càlculs
+computation_definitions: Definicions
+computation_units: Unitat de mesura
+goal_meta_link: Enllaç a les metadades de l'ONU
+indicator: Número de l'indicador
+indicator_definition: Descripció de l'indicador global
+indicator_name: Nom de l'indicador
+indicator_sort_order: Ordre de visualització de l'indicador (dins de la pàgina d'Objectiu).
+national_data_update_url: Dades actualitzades per última vegada
+national_geographical_coverage: Cobertura geogràfica
+national_indicator_available: Indicador disponible
+national_indicator_description: Descripció de l'indicador
+national_metadata_update_url: Metadades actualitzades per última vegada
+source_contact_1: Detalls de contacte
+source_contact_2: Detalls de contacte
+source_contact_3: Detalls de contacte
+source_contact_4: Detalls de contacte
+source_contact_5: Detalls de contacte
+source_contact_6: Detalls de contacte
+source_earliest_available_1: Les dades disponibles més antigues
+source_earliest_available_2: Les dades disponibles més antigues
+source_earliest_available_3: Les dades disponibles més antigues
+source_earliest_available_4: Les dades disponibles més antigues
+source_earliest_available_5: Les dades disponibles més antigues
+source_earliest_available_6: Les dades disponibles més antigues
+source_geographical_coverage_1: Cobertura geogràfica
+source_geographical_coverage_2: Cobertura geogràfica
+source_geographical_coverage_3: Cobertura geogràfica
+source_geographical_coverage_4: Cobertura geogràfica
+source_geographical_coverage_5: Cobertura geogràfica
+source_geographical_coverage_6: Cobertura geogràfica
+source_next_release_1: Següent llançament
+source_next_release_2: Següent llançament
+source_next_release_3: Següent llançament
+source_next_release_4: Següent llançament
+source_next_release_5: Següent llançament
+source_next_release_6: Següent llançament
+source_organisation_1: Organització
+source_organisation_2: Organització
+source_organisation_3: Organització
+source_organisation_4: Organització
+source_organisation_5: Organització
+source_organisation_6: Organització
+source_other_info_1: Altra informació
+source_other_info_2: Altra informació
+source_other_info_3: Altra informació
+source_other_info_4: Altra informació
+source_other_info_5: Altra informació
+source_other_info_6: Altra informació
+source_periodicity_1: Periodicitat
+source_periodicity_2: Periodicitat
+source_periodicity_3: Periodicitat
+source_periodicity_4: Periodicitat
+source_periodicity_5: Periodicitat
+source_periodicity_6: Periodicitat
+source_release_date_1: Data de llançament
+source_release_date_2: Data de llançament
+source_release_date_3: Data de llançament
+source_release_date_4: Data de llançament
+source_release_date_5: Data de llançament
+source_release_date_6: Data de llançament
+source_statistical_classification_1: Classificació estadística
+source_statistical_classification_2: Classificació estadística
+source_statistical_classification_3: Classificació estadística
+source_statistical_classification_4: Classificació estadística
+source_statistical_classification_5: Classificació estadística
+source_statistical_classification_6: Classificació estadística
+source_url_1: Enllaç a la font de dades
+source_url_2: Enllaç a la font de dades
+source_url_3: Enllaç a la font de dades
+source_url_4: Enllaç a la font de dades
+source_url_5: Enllaç a la font de dades
+source_url_6: Enllaç a la font de dades
+target: Nom de Fita
+target_id: Número fita
+un_custodian_agency: Agència de custòdia de l'ONU
+un_designated_tier: Nivell designat per l'ONU
+quality_assurance: Garantia de qualitat
+international_comparability: Comparabilitat amb dades / estàndards internacionals
+comments_limitations: Comentaris i limitacions
+rationale_interpretation: Racionalitat i interpretació
+rational_interpretation: Racionalitat i interpretació
+copyright: Drets d'autor
+OTHER_DOC: Referències i documentació
+COMPARABILITY: Comparabilitat/desviació de les normes internacionals
+COVERAGE: Disponibilitat i desglossament de dades
+QUALITY_ASSMNT: Avaluació de la qualitat
+QUALITY_ASSURE: Garantia de qualitat
+QUALITY_MGMNT: Gestió de la qualitat
+DOC_METHOD: Mètodes i orientacions a disposició dels països per a la recopilació
+  de les dades a nivell nacional
+REG_AGG: Agregacions regionals
+IMPUTATION: Tractament dels valors perduts (i) a nivell de país i (ii) a nivell
+  regional
+ADJUSTMENT: Ajustos
+DATA_VALIDATION: Validació
+DATA_COMP: Mètode de càlcul
+REC_USE_LIM: Comentaris i limitacions
+RATIONALE: Fonaments
+OTHER_METHOD: Altres consideracions metodològiques
+INST_MANDATE: Mandat institucional
+COMPILING_ORG: Compiladors de dades
+DATA_SOURCE: Proveïdors de dades
+REL_CAL_POLICY: Calendari de publicació de dades
+FREQ_COLL: Calendari de recollida de dades
+COLL_METHOD: Mètode de recollida de dades
+SOURCE_TYPE: Fonts de dades
+SRC_TYPE_COLL_METHOD: Tipus de font de dades i mètode de recollida
+CLASS_SYSTEM: Classificacions
+UNIT_MEASURE: Unitat de mesura
+STAT_CONC_DEF: Definició i conceptes
+IND_DEF_CON_CLASS: Definició, conceptes i classificacions
+CONTACT_EMAIL: Correu electrònic de contacte
+CONTACT_MAIL: Correu electrònic de contacte
+CONTACT_PHONE: Telèfon de contacte
+CONTACT_FUNCT: Funció de la persona de contacte
+ORGANISATION_UNIT: Unitat d'organització de contactes
+CONTACT_NAME: Persona(es) de contacte
+CONTACT_ORGANISATION: Organització
+CONTACT: Responsable de dades
+SDG_CUSTODIAN_AGENCIES: 0.g. Organitzacions internacionals responsables del seguiment
+  global
+SDG_RELATED_INDICATORS: Indicadors relacionats
+META_LAST_UPDATE: Actualització de metadades
+SDG_SERIES_DESCR: Sèries
+SDG_INDICATOR: Indicador
+SDG_TARGET: Destí
+SDG_GOAL: Objectiu
+SDG_INDICATOR_INFO: Informació sobre els indicadors

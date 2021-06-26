@@ -74,11 +74,57 @@ source_url_5: Lien vers la source de données
 source_url_6: Lien vers la source de données
 target: Nom de la cible
 target_id: Numéro cible
-un_custodian_agency: Agence dépositaire des Nations Unies
-un_designated_tier: Niveau désigné par les Nations Unies
+un_custodian_agency: Agence dépositaire des Nations unies
+un_designated_tier: Niveau désigné par les Nations unies
 quality_assurance: Assurance qualité
 international_comparability: Comparabilité avec les données / normes internationales
 comments_limitations: Commentaires et limitations
 rationale_interpretation: Rationnel et interprétation
 rational_interpretation: Rationnel et interprétation
 copyright: Droits d'auteur
+OTHER_DOC: Références et documentation
+COMPARABILITY: Comparabilité/écart par rapport aux normes internationales
+COVERAGE: Disponibilité et désagrégation des données
+QUALITY_ASSMNT: Évaluation de la qualité
+QUALITY_ASSURE: Assurance qualité
+QUALITY_MGMNT: Gestion de la qualité
+DOC_METHOD: Méthodes et conseils à la disposition des pays pour la compilation des
+  données au niveau national
+REG_AGG: Agrégations régionales
+IMPUTATION: Traitement des valeurs manquantes (i) au niveau national et (ii) au niveau
+  régional
+ADJUSTMENT: Ajustements
+DATA_VALIDATION: Validation
+DATA_COMP: Méthode de calcul
+REC_USE_LIM: Commentaires et limitations
+RATIONALE: Justification
+OTHER_METHOD: Autres considérations méthodologiques
+INST_MANDATE: Mandat institutionnel
+COMPILING_ORG: Compilateurs de données
+DATA_SOURCE: Fournisseurs de données
+REL_CAL_POLICY: Calendrier de publication des données
+FREQ_COLL: Calendrier de collecte des données
+COLL_METHOD: Méthode de collecte des données
+SOURCE_TYPE: Source des données
+SRC_TYPE_COLL_METHOD: Type de source de données et méthode de collecte
+CLASS_SYSTEM: Classements
+UNIT_MEASURE: Unité de mesure
+STAT_CONC_DEF: Définition et concepts
+IND_DEF_CON_CLASS: Définition, concepts et classifications
+CONTACT_EMAIL: Courriel de contact
+CONTACT_MAIL: Courriel de contact
+CONTACT_PHONE: Téléphone de contact
+CONTACT_FUNCT: Fonction de la personne de contact
+ORGANISATION_UNIT: Unité d'organisation de contact
+CONTACT_NAME: Personne(s) de contact
+CONTACT_ORGANISATION: Organisation
+CONTACT: Rapporteur des données
+SDG_CUSTODIAN_AGENCIES: Organisation(s) internationale(s) responsable(s) de la surveillance
+  mondiale
+SDG_RELATED_INDICATORS: Indicateurs connexes
+META_LAST_UPDATE: Mise à jour des métadonnées
+SDG_SERIES_DESCR: Série
+SDG_INDICATOR: Indicateur
+SDG_TARGET: Cible
+SDG_GOAL: Objectif
+SDG_INDICATOR_INFO: Informations sur l'indicateur

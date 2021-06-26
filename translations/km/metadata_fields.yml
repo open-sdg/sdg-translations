@@ -1,0 +1,149 @@
+# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
+other_info: 'ព័ត៌មាន​ផ្សេងទៀត'
+# A label describing information - any calculations that were used in the production of a dataset
+computation_calculations: 'ការគណនា'
+# A label describing information - a list of definitions of terms used within other metadata fields
+computation_definitions: 'និយមន័យ'
+# A label describing information - the unit of measurement that is being represented in a dataset
+computation_units: 'ឯកតារង្វាស់'
+# A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
+goal_meta_link: 'ភ្ជាប់ទៅទិន្នន័យមេតារបស់អង្គការសហប្រជាជាតិ'
+# A label describing information - the numeric code for a particular indicator
+indicator: 'លេខសូចនាករ'
+# A label describing information - the definition for a particular indicator - as provided by the United Nations
+indicator_definition: 'ការពិពណ៌នាសូចនាករសកល'
+# A label describing information - the name of a particular indicator
+indicator_name: 'ឈ្មោះសូចនាករ'
+indicator_sort_order: 'លំដាប់បង្ហាញសូចនាករ (នៅក្នុងទំព័រគោលដៅ)'
+national_data_update_url: 'ទិន្នន័យបានធ្វើបច្ចុប្បន្នភាពចុងក្រោយ'
+# A label describing information - the geographical area covered by a dataset
+national_geographical_coverage: 'វិសាលភាពភូមិសាស្ត្រ'
+national_indicator_available: 'មានសូចនាករ'
+national_indicator_description: 'ការពិពណ៌នាអំពីសូចនាករ'
+national_metadata_update_url: 'ទិន្នន័យចុងក្រោយត្រូវបានធ្វើបច្ចុប្បន្នភាព'
+# A label describing information - contact information for the person or agency that provided data
+source_contact_1: 'ព័ត៌មានលម្អិតទំនាក់ទំនង'
+source_contact_2: 'ព័ត៌មានលម្អិតទំនាក់ទំនង'
+source_contact_3: 'ព័ត៌មានលម្អិតទំនាក់ទំនង'
+source_contact_4: 'ព័ត៌មានលម្អិតទំនាក់ទំនង'
+source_contact_5: 'ព័ត៌មានលម្អិតទំនាក់ទំនង'
+source_contact_6: 'ព័ត៌មានលម្អិតទំនាក់ទំនង'
+# A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
+source_earliest_available_1: 'ទិន្នន័យមានដំបូងបំផុត'
+source_earliest_available_2: 'ទិន្នន័យមានដំបូងបំផុត'
+source_earliest_available_3: 'ទិន្នន័យមានដំបូងបំផុត'
+source_earliest_available_4: 'ទិន្នន័យមានដំបូងបំផុត'
+source_earliest_available_5: 'ទិន្នន័យមានដំបូងបំផុត'
+source_earliest_available_6: 'ទិន្នន័យមានដំបូងបំផុត'
+# A label describing information - the geographical area covered in the data provided by a particular person or agency
+source_geographical_coverage_1: 'វិសាលភាពភូមិសាស្ត្រ'
+source_geographical_coverage_2: 'វិសាលភាពភូមិសាស្ត្រ'
+source_geographical_coverage_3: 'វិសាលភាពភូមិសាស្ត្រ'
+source_geographical_coverage_4: 'វិសាលភាពភូមិសាស្ត្រ'
+source_geographical_coverage_5: 'វិសាលភាពភូមិសាស្ត្រ'
+source_geographical_coverage_6: 'វិសាលភាពភូមិសាស្ត្រ'
+# A label describing information - the date at which a particular person or agency plans to update their provided data
+source_next_release_1: 'ការចេញផ្សាយបន្ទាប់'
+source_next_release_2: 'ការចេញផ្សាយបន្ទាប់'
+source_next_release_3: 'ការចេញផ្សាយបន្ទាប់'
+source_next_release_4: 'ការចេញផ្សាយបន្ទាប់'
+source_next_release_5: 'ការចេញផ្សាយបន្ទាប់'
+source_next_release_6: 'ការចេញផ្សាយបន្ទាប់'
+# A label describing information - the name of any organization associated with some provided data
+source_organisation_1: 'អង្គការ'
+source_organisation_2: 'អង្គការ'
+source_organisation_3: 'អង្គការ'
+source_organisation_4: 'អង្គការ'
+source_organisation_5: 'អង្គការ'
+source_organisation_6: 'អង្គការ'
+# A label describing information - any other information about a particular source of data for a particular indicator
+source_other_info_1: 'ព័ត៌មាន​ផ្សេងទៀត'
+source_other_info_2: 'ព័ត៌មាន​ផ្សេងទៀត'
+source_other_info_3: 'ព័ត៌មាន​ផ្សេងទៀត'
+source_other_info_4: 'ព័ត៌មាន​ផ្សេងទៀត'
+source_other_info_5: 'ព័ត៌មាន​ផ្សេងទៀត'
+source_other_info_6: 'ព័ត៌មាន​ផ្សេងទៀត'
+# A label describing information - the frequency with which a particular source of data will provide updates
+source_periodicity_1: 'កាលកំណត់'
+source_periodicity_2: 'កាលកំណត់'
+source_periodicity_3: 'កាលកំណត់'
+source_periodicity_4: 'កាលកំណត់'
+source_periodicity_5: 'កាលកំណត់'
+source_periodicity_6: 'កាលកំណត់'
+# A label describing information - The date at which a particular source provided their data
+source_release_date_1: 'កាលបរិច្ឆេទចេញផ្សាយ'
+source_release_date_2: 'កាលបរិច្ឆេទចេញផ្សាយ'
+source_release_date_3: 'កាលបរិច្ឆេទចេញផ្សាយ'
+source_release_date_4: 'កាលបរិច្ឆេទចេញផ្សាយ'
+source_release_date_5: 'កាលបរិច្ឆេទចេញផ្សាយ'
+source_release_date_6: 'កាលបរិច្ឆេទចេញផ្សាយ'
+# A label describing information - some classification of a particular source of data for a particular indicator
+source_statistical_classification_1: 'ចំណាត់ថ្នាក់ស្ថិតិ'
+source_statistical_classification_2: 'ចំណាត់ថ្នាក់ស្ថិតិ'
+source_statistical_classification_3: 'ចំណាត់ថ្នាក់ស្ថិតិ'
+source_statistical_classification_4: 'ចំណាត់ថ្នាក់ស្ថិតិ'
+source_statistical_classification_5: 'ចំណាត់ថ្នាក់ស្ថិតិ'
+source_statistical_classification_6: 'ចំណាត់ថ្នាក់ស្ថិតិ'
+source_url_1: 'ភ្ជាប់ទៅប្រភពទិន្នន័យ'
+source_url_2: 'ភ្ជាប់ទៅប្រភពទិន្នន័យ'
+source_url_3: 'ភ្ជាប់ទៅប្រភពទិន្នន័យ'
+source_url_4: 'ភ្ជាប់ទៅប្រភពទិន្នន័យ'
+source_url_5: 'ភ្ជាប់ទៅប្រភពទិន្នន័យ'
+source_url_6: 'ភ្ជាប់ទៅប្រភពទិន្នន័យ'
+# A label describing information - the overall SDG target associated with a particular indicator
+target: 'ឈ្មោះគោលដៅ'
+# A label describing information - the numeric id for the overall SDG target associated with a particular indicator
+target_id: 'លេខគោលដៅ'
+# A label describing information - the United Nations custodian agency associated with a particular indicator
+un_custodian_agency: 'ទីភ្នាក់ងារថែរក្សាអ។ ស។ ប'
+# A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
+un_designated_tier: 'ថ្នាក់ដែលបានកំណត់ដោយអង្គការសហប្រជាជាតិ'
+quality_assurance: 'ការធានា​គុណភាព'
+international_comparability: 'ប្រៀបធៀបជាមួយទិន្នន័យ / ស្តង់ដារអន្តរជាតិ'
+comments_limitations: 'យោបល់និងដែនកំណត់'
+rationale_interpretation: 'សនិទានភាពនិងការបកស្រាយ'
+rational_interpretation: 'សនិទានភាពនិងការបកស្រាយ'
+copyright: 'រក្សាសិទ្ធិ'
+OTHER_DOC: ឯកសារយោងនិងឯកសារ
+COMPARABILITY: ភាពប្រៀបធៀប / គម្លាតពីស្តង់ដារអន្តរជាតិ
+COVERAGE: ភាពអាចរកបាននិងការបែងចែកទិន្នន័យ
+QUALITY_ASSMNT: ការវាយតម្លៃគុណភាព
+QUALITY_ASSURE: ការធានា​គុណភាព
+QUALITY_MGMNT: ការគ្រប់គ្រងគុណភាព
+DOC_METHOD: វិធីសាស្រ្តនិងការណែនាំដែលមានសម្រាប់ប្រទេសនានាសម្រាប់ការចងក្រងទិន្នន័យនៅថ្នាក់ជាតិ
+REG_AGG: ការប្រមូលផ្តុំក្នុងតំបន់
+IMPUTATION: ការព្យាបាលតម្លៃដែលបាត់ (i) នៅកម្រិតប្រទេសនិង (ii) នៅកម្រិតតំបន់
+ADJUSTMENT: ការកែសំរួល
+DATA_VALIDATION: សុពលភាព
+DATA_COMP: វិធីនៃការគណនា
+REC_USE_LIM: យោបល់និងដែនកំណត់
+RATIONALE: សនិទានភាព
+OTHER_METHOD: ការពិចារណាលើវិធីសាស្រ្តផ្សេងទៀត
+INST_MANDATE: អាណត្តិស្ថាប័ន
+COMPILING_ORG: អ្នកចងក្រងទិន្នន័យ
+DATA_SOURCE: អ្នកផ្តល់ទិន្នន័យ
+REL_CAL_POLICY: ប្រតិទិនចេញផ្សាយទិន្នន័យ
+FREQ_COLL: ប្រតិទិនប្រមូលទិន្នន័យ
+COLL_METHOD: វិធីសាស្ត្រប្រមូលទិន្នន័យ
+SOURCE_TYPE: ប្រភពទិន្នន័យ
+SRC_TYPE_COLL_METHOD: ប្រភេទប្រភពទិន្នន័យនិងវិធីប្រមូល
+CLASS_SYSTEM: ចំណាត់ថ្នាក់
+UNIT_MEASURE: ឯកតារង្វាស់
+STAT_CONC_DEF: និយមន័យនិងគំនិត
+IND_DEF_CON_CLASS: និយមន័យគំនិតនិងចំណាត់ថ្នាក់
+CONTACT_EMAIL: អ៊ីមែលទំនាក់ទំនង
+CONTACT_MAIL: ទំនាក់ទំនងអ៊ីមែល
+CONTACT_PHONE: ទូរស័ព្ទទំនាក់ទំនង
+CONTACT_FUNCT: មុខងារទាក់ទងមនុស្ស
+ORGANISATION_UNIT: ទាក់ទងអង្គភាពអង្គភាព
+CONTACT_NAME: អ្នកទំនាក់ទំនង
+CONTACT_ORGANISATION: អង្គការ
+CONTACT: អ្នកយកព័ត៌មាន
+SDG_CUSTODIAN_AGENCIES: អង្គការអន្តរជាតិទទួលខុសត្រូវចំពោះការត្រួតពិនិត្យជាសកល
+SDG_RELATED_INDICATORS: សូចនាករដែលទាក់ទង
+META_LAST_UPDATE: ទិន្នន័យមេតាធ្វើបច្ចុប្បន្នភាព
+SDG_SERIES_DESCR: ស៊េរី
+SDG_INDICATOR: សូចនាករ
+SDG_TARGET: គោលដៅ
+SDG_GOAL: គោលដៅ
+SDG_INDICATOR_INFO: ព័ត៌មានសូចនាករ

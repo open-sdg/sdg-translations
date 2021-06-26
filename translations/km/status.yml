@@ -1,0 +1,18 @@
+reporting_status: 'ស្ថានភាពរបាយការណ៍'
+overall_reporting_status: 'ស្ថានភាពរបាយការណ៍សរុប'
+reported_online: 'បានរាយការណ៍តាមអ៊ីនធឺណិត'
+statistics_in_progress: 'ស្ថិតិកំពុងដំណើរការ'
+exploring_data_sources: 'ស្វែងរកប្រភពទិន្នន័យ'
+not_applicable: 'មិនអាចអនុវត្តបាន'
+# Describing a section where the status is reported for each goal
+status_by_goal: 'ស្ថានភាពតាមគោលដៅ'
+status_by_field: 'ស្ថានភាពដោយ% វាល'
+disaggregation_status: 'ស្ថានភាពបែកបាក់'
+disaggregation_status_overall: 'ស្ថានភាពបែងចែកសរុប'
+disaggregation_status_complete: 'បានបែងចែកយ៉ាងពេញលេញ'
+disaggregation_status_inprogress: 'បែងចែកជាផ្នែក'
+disaggregation_status_notstarted: 'មិនបានបែងចែក'
+disaggregation_status_notapplicable: 'ហួសទំហំ'
+disaggregation_status_by_field: 'ការបែងចែកតាមវាល%'
+not_specified: 'មិនបានបញ្ជាក់'
+reported: បានរាយការណ៍

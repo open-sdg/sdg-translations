@@ -82,3 +82,49 @@ comments_limitations: Kommentare und Einschränkungen
 rationale_interpretation: Vernunft und Interpretation
 rational_interpretation: Vernunft und Interpretation
 copyright: Urheberrechte
+OTHER_DOC: Referenzen und Dokumentation
+COMPARABILITY: Vergleichbarkeit/Abweichung von internationalen Normen
+COVERAGE: Datenverfügbarkeit und Disaggregation
+QUALITY_ASSMNT: Bewertung der Qualität
+QUALITY_ASSURE: Qualitätssicherung
+QUALITY_MGMNT: Qualitätsmanagement
+DOC_METHOD: Den Ländern zur Verfügung stehende Methoden und Anleitungen für die Zusammenstellung
+  der Daten auf nationaler Ebene
+REG_AGG: Regionale Aggregate
+IMPUTATION: Behandlung von fehlenden Werten (i) auf Länderebene und (ii) auf regionaler
+  Ebene
+ADJUSTMENT: Anpassungen
+DATA_VALIDATION: Validierung
+DATA_COMP: Berechnungsmethode
+REC_USE_LIM: Kommentare und Einschränkungen
+RATIONALE: Begründung
+OTHER_METHOD: Andere methodische Überlegungen
+INST_MANDATE: Institutioneller Auftrag
+COMPILING_ORG: Datenkompilierer
+DATA_SOURCE: Daten-Provider
+REL_CAL_POLICY: Kalender der Datenfreigabe
+FREQ_COLL: Kalender für die Datenerfassung
+COLL_METHOD: Methode der Datenerfassung
+SOURCE_TYPE: Datenquellen
+SRC_TYPE_COLL_METHOD: Datenquellentyp und Erfassungsmethode
+CLASS_SYSTEM: Klassifizierung
+UNIT_MEASURE: Maßeinheit
+STAT_CONC_DEF: Definition und Konzepte
+IND_DEF_CON_CLASS: Definition, Konzepte und Klassifizierungen
+CONTACT_EMAIL: Kontakt-E-Mail
+CONTACT_MAIL: Kontakt-Email
+CONTACT_PHONE: Kontakt-Telefonnummer
+CONTACT_FUNCT: Ansprechpartnerfunktion
+ORGANISATION_UNIT: Kontakt Organisationseinheit
+CONTACT_NAME: Kontaktperson(en)
+CONTACT_ORGANISATION: Organisation
+CONTACT: Daten-Reporter
+SDG_CUSTODIAN_AGENCIES: Internationale Organisation(en), die für die globale Überwachung
+  zuständig sind
+SDG_RELATED_INDICATORS: Zugehörige Indikatoren
+META_LAST_UPDATE: Metadaten-Update
+SDG_SERIES_DESCR: Serie
+SDG_INDICATOR: Indikator
+SDG_TARGET: Ziel
+SDG_GOAL: Ziel
+SDG_INDICATOR_INFO: Informationen zum Indikator

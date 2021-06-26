@@ -1,0 +1,18 @@
+reporting_status: 'रिपोर्टिंग स्थिति'
+overall_reporting_status: 'समग्र रिपोर्टिंग स्थिति'
+reported_online: 'अनलाइन रिपोर्ट गरियो'
+statistics_in_progress: 'तथ्या .्क प्रगतिमा छ'
+exploring_data_sources: 'डाटा स्रोतहरू अन्वेषण गर्दै'
+not_applicable: 'लागु हुँदैन'
+# Describing a section where the status is reported for each goal
+status_by_goal: 'गोल द्वारा स्थिति'
+status_by_field: '% क्षेत्र द्वारा स्थिति'
+disaggregation_status: 'असमान स्थिति'
+disaggregation_status_overall: 'समग्रमा असमान स्थिति'
+disaggregation_status_complete: 'पूर्ण रूपमा भिन्न भयो'
+disaggregation_status_inprogress: 'आंशिक रूपमा असहमत'
+disaggregation_status_notstarted: 'अलग छैन'
+disaggregation_status_notapplicable: 'दायरा बाहिर'
+disaggregation_status_by_field: '% क्षेत्र द्वारा असहमति'
+not_specified: 'तोकिएको छैन'
+reported: रिपोर्ट गरियो

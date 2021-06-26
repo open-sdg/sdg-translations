@@ -82,3 +82,46 @@ comments_limitations: 'မှတ်ချက်များနှင့်ကန
 rationale_interpretation: 'ဆင်ခြင်တုံတရားနှင့်အနက်'
 rational_interpretation: 'ဆင်ခြင်တုံတရားနှင့်အနက်'
 copyright: 'မူပိုင်ခွင့်'
+OTHER_DOC: ကိုးကားချက်များနှင့်မှတ်တမ်း
+COMPARABILITY: အပြည်ပြည်ဆိုင်ရာစံချိန်စံညွှန်းများမှနှိုင်းယှဉ်ခြင်း / သွေဖည်ခြင်း
+COVERAGE: ဒေတာများရရှိနိုင်မှုနှင့်ကွဲလွဲမှု
+QUALITY_ASSMNT: အရည်အသွေးအကဲဖြတ်
+QUALITY_ASSURE: အရည်အသွေးကောင်းခြင်းအာမခံချက်
+QUALITY_MGMNT: အရည်အသွေးစီမံခန့်ခွဲမှု
+DOC_METHOD: နိုင်ငံအဆင့်တွင်အချက်အလက်များစုဆောင်းရန်နိုင်ငံများအတွက်ရရှိနိုင်သောနည်းလမ်းများနှင့်လမ်းညွှန်ချက်များ
+REG_AGG: ဒေသဆိုင်ရာစုစည်းမှု
+IMPUTATION: ပျောက်ဆုံးနေသောတန်ဖိုးများကို (၁) တိုင်းပြည်အဆင့်နှင့် (၂) ဒေသအဆင့်တွင်ဆက်ဆံခြင်း
+ADJUSTMENT: ချိန်ညှိ
+DATA_VALIDATION: အတည်ပြုချက်
+DATA_COMP: တွက်ချက်မှုနည်းလမ်း
+REC_USE_LIM: မှတ်ချက်နှင့်ကန့်သတ်ချက်များ
+RATIONALE: ကျိုးကြောင်းဆင်ခြင်မှု
+OTHER_METHOD: အခြားနည်းစနစ်ထည့်သွင်းစဉ်းစား
+INST_MANDATE: အဖွဲ့အစည်းဆိုင်ရာလုပ်ပိုင်ခွင့်
+COMPILING_ORG: ဒေတာပြုစုသူ
+DATA_SOURCE: ဒေတာပံ့ပိုးပေး
+REL_CAL_POLICY: ဒေတာထုတ်လွှတ်ပြက္ခဒိန်
+FREQ_COLL: ဒေတာစုဆောင်းခြင်းပြက္ခဒိန်
+COLL_METHOD: ဒေတာစုဆောင်းခြင်းနည်းလမ်း
+SOURCE_TYPE: ဒေတာအရင်းအမြစ်များ
+SRC_TYPE_COLL_METHOD: ဒေတာအရင်းအမြစ်အမျိုးအစားနှင့်စုဆောင်းခြင်းနည်းလမ်း
+CLASS_SYSTEM: အမျိုးအစားများ
+UNIT_MEASURE: အတိုင်းအတာယူနစ်
+STAT_CONC_DEF: အဓိပ္ပါယ်နှင့်သဘောတရားများ
+IND_DEF_CON_CLASS: အဓိပ္ပါယ်, သဘောတရားများနှင့်ခွဲခြား
+CONTACT_EMAIL: အီးမေးလ်ကိုဆက်သွယ်ပါ
+CONTACT_MAIL: ဆက်သွယ်ရန်အီးမေးလ်
+CONTACT_PHONE: ဆက်သွယ်ရန်ဖုန်း
+CONTACT_FUNCT: ဆက်သွယ်ရန်ပုဂ္ဂိုလ်၏လုပ်ဆောင်ချက်
+ORGANISATION_UNIT: အဖွဲ့အစည်းယူနစ်ကိုဆက်သွယ်ပါ
+CONTACT_NAME: ဆက်သွယ်ရန်ပုဂ္ဂိုလ် (များ)
+CONTACT_ORGANISATION: အဖွဲ့အစည်း
+CONTACT: ဒေတာသတင်းထောက်
+SDG_CUSTODIAN_AGENCIES: ကမ္ဘာလုံးဆိုင်ရာစောင့်ကြည့်မှုအတွက်တာဝန်ရှိသည့်နိုင်ငံတကာအဖွဲ့အစည်းများ
+SDG_RELATED_INDICATORS: ဆက်စပ်ညွှန်းကိန်း
+META_LAST_UPDATE: metadata update ကို
+SDG_SERIES_DESCR: စီးရီး
+SDG_INDICATOR: အညွှန်း
+SDG_TARGET: ဗဟိုချက်
+SDG_GOAL: ရည်မှန်းချက်
+SDG_INDICATOR_INFO: အညွှန်းကိန်းသတင်းအချက်အလက်

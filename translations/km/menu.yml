@@ -1,0 +1,12 @@
+# A label describing the navigation menu of a website
+menu: 'មឺនុយ'
+# An item for a website's navigation menu pointing to its 'Reporting Status' page - which will provide information and status about the current state of each indicator - in terms of whether the site has data or not
+reporting_status: 'ស្ថានភាពរបាយការណ៍'
+# An item for a website's navigation menu pointing to its 'About' page - which will provide general information about the website
+about: 'អំពី'
+publications: 'ការបោះពុម្ពផ្សាយ'
+guidance: 'ការណែនាំ'
+faq: 'សំណួរគេសួរញឹកញាប់'
+contact_us: 'ទាក់ទង​មក​ពួក​យើង'
+cookies: 'ឃុកឃី'
+updates: 'បច្ចុប្បន្នភាព'

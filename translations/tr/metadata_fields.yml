@@ -104,3 +104,47 @@ comments_limitations: 'Yorumlar ve sınırlamalar'
 rationale_interpretation: 'Analiz ve yorumlama'
 rational_interpretation: 'Analiz ve yorumlama'
 copyright: 'Telif hakkı'
+OTHER_DOC: Referanslar ve Belgeler
+COMPARABILITY: Karşılaştırılabilirlik / uluslararası standartlardan sapma
+COVERAGE: Veri kullanılabilirliği ve ayrıştırma
+QUALITY_ASSMNT: Kalite değerlendirme
+QUALITY_ASSURE: Kalite güvencesi
+QUALITY_MGMNT: Kalite Yönetimi
+DOC_METHOD: Ulusal düzeyde verilerin derlenmesi için ülkelere sunulan yöntemler ve
+  rehberlik
+REG_AGG: Bölgesel toplamalar
+IMPUTATION: Eksik değerlerin (i) ülke düzeyinde ve (ii) bölgesel düzeyde işlenmesi
+ADJUSTMENT: Ayarlamalar
+DATA_VALIDATION: doğrulama, onaylama
+DATA_COMP: Hesaplama yöntemi
+REC_USE_LIM: Yorumlar ve sınırlamalar
+RATIONALE: Gerekçe
+OTHER_METHOD: Diğer metodolojik hususlar
+INST_MANDATE: Kurumsal yetki
+COMPILING_ORG: Veri derleyicileri
+DATA_SOURCE: Veri sağlayıcıları
+REL_CAL_POLICY: Veri yayınlama takvimi
+FREQ_COLL: Veri toplama takvimi
+COLL_METHOD: Veri toplama yöntemi
+SOURCE_TYPE: Veri kaynakları
+SRC_TYPE_COLL_METHOD: Veri kaynağı türü ve toplama yöntemi
+CLASS_SYSTEM: Sınıflandırma
+UNIT_MEASURE: Ölçü birimi
+STAT_CONC_DEF: Tanım ve kavramlar
+IND_DEF_CON_CLASS: Tanım, kavramlar ve sınıflandırmalar
+CONTACT_EMAIL: İletişim E-posta
+CONTACT_MAIL: İletişim e-postası
+CONTACT_PHONE: İletişim Telefonu
+CONTACT_FUNCT: Kişi işlevi
+ORGANISATION_UNIT: Kuruluş birimiyle iletişime geçin
+CONTACT_NAME: İlgili kişi (ler)
+CONTACT_ORGANISATION: Organizasyon
+CONTACT: Veri muhabiri
+SDG_CUSTODIAN_AGENCIES: Küresel izlemeden sorumlu uluslararası kuruluşlar
+SDG_RELATED_INDICATORS: İlgili göstergeler
+META_LAST_UPDATE: Meta veri güncellemesi
+SDG_SERIES_DESCR: Serisi
+SDG_INDICATOR: Gösterge
+SDG_TARGET: Hedef
+SDG_GOAL: Hedef
+SDG_INDICATOR_INFO: Gösterge bilgileri

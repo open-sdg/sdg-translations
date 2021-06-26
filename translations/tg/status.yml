@@ -15,3 +15,6 @@ disaggregation_status_notstarted: 'Ҷудо карда нашудааст'
 disaggregation_status_notapplicable: 'Аз доираи'
 disaggregation_status_by_field: 'Ҷудокунӣ аз рӯи% майдон'
 not_specified: 'Муайян нашудааст'
+reported: Ҳисобот дода шуд
+description: Статуси ҳисобот шарҳи он аст, ки то чӣ андоза маълумот% Ҳадафи Рушди
+  Устувор (SDG) пешниҳод мекунад.

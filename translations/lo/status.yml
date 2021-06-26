@@ -1,0 +1,18 @@
+reporting_status: 'ສະຖານະພາບການລາຍງານ'
+overall_reporting_status: 'ສະຖານະການລາຍງານໂດຍລວມ'
+reported_online: 'ລາຍງານທາງອິນເຕີເນັດ'
+statistics_in_progress: 'ສະຖິຕິທີ່ ກຳ ລັງ ດຳ ເນີນຢູ່'
+exploring_data_sources: 'ການຊອກຫາແຫລ່ງຂໍ້ມູນ'
+not_applicable: 'ໃຊ້ບໍ່ໄດ້'
+# Describing a section where the status is reported for each goal
+status_by_goal: 'ສະຖານະພາບຕາມເປົ້າ ໝາຍ'
+status_by_field: 'ສະຖານະພາບໂດຍ% field'
+disaggregation_status: 'ສະຖານະພາບການແບ່ງແຍກ'
+disaggregation_status_overall: 'ສະຖານະພາບການແບ່ງແຍກໂດຍລວມ'
+disaggregation_status_complete: 'ແບ່ງແຍກຢ່າງເຕັມສ່ວນ'
+disaggregation_status_inprogress: 'ການແບ່ງແຍກບາງສ່ວນ'
+disaggregation_status_notstarted: 'ບໍ່ແບ່ງແຍກ'
+disaggregation_status_notapplicable: 'ນອກຂອບເຂດ'
+disaggregation_status_by_field: 'ການແບ່ງແຍກໂດຍ% field'
+not_specified: 'ບໍ່ໄດ້ລະບຸ'
+reported: ລາຍງານ

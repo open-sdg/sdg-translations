@@ -1,0 +1,27 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
+indicator: 'សូចនាករ'
+# This is the plural version of the indicator key
+indicators: 'សូចនាករ'
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
+goal: 'គោលដៅ'
+# This is the plural version of the goal key
+goals: 'គោលដៅ'
+sdg: 'គោលដៅអភិវឌ្ឍន៍ប្រកបដោយចីរភាព'
+# This refers to the 'home page' of a website
+home: 'ទំព័រដើម'
+loading: 'ផ្ទុកលទ្ធផលស្វែងរក'
+opens_new_window: 'បើកនៅក្នុងបង្អួចថ្មីមួយ'
+hide: 'លាក់'
+target: 'គោលដៅ'
+targets: 'គោលដៅ'
+twitter: 'Twitter'
+facebook: 'ហ្វេសប៊ុក'
+built_using_open_sdg: 'បង្កើតឡើងដោយប្រើអេសភីអេសជី'
+page: 'ទំព័រ'
+pages: 'ទំព័រ'
+targets_and_indicators: 'គោលដៅនិងសូចនាករ'
+# A label of "Warning" to place before some other text.
+label_warning: "ការព្រមាន៖"
+# A phrase to use as a site-wide page title.
+site_title: 'សូចនាករសម្រាប់គោលដៅអភិវឌ្ឍន៍ប្រកបដោយចីរភាព'
+back_to_top: ត្រលប់​ទៅ​ខាងលើ

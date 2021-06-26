@@ -1,0 +1,27 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
+indicator: 'सूचक'
+# This is the plural version of the indicator key
+indicators: 'सूचक'
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
+goal: 'लक्ष्य'
+# This is the plural version of the goal key
+goals: 'गोलहरू'
+sdg: 'दिगो विकास लक्ष्यहरू'
+# This refers to the 'home page' of a website
+home: 'गृह'
+loading: 'खोज परिणामहरू लोड गर्दै'
+opens_new_window: 'नयाँ विन्डोमा खुल्छ'
+hide: 'लुकाउनुहोस्'
+target: 'लक्ष्य'
+targets: 'लक्ष्यहरू'
+twitter: 'ट्विटर'
+facebook: 'फेसबुक'
+built_using_open_sdg: 'ओपन एसडीजीको प्रयोगमा निर्मित'
+page: 'पृष्ठ'
+pages: 'पृष्ठहरु'
+targets_and_indicators: 'लक्ष्य र सूचकहरू'
+# A label of "Warning" to place before some other text.
+label_warning: "चेतावनी:"
+# A phrase to use as a site-wide page title.
+site_title: 'दिगो विकास लक्ष्यहरूका लागि संकेतकहरू'
+back_to_top: शीर्षमा फिर्ता

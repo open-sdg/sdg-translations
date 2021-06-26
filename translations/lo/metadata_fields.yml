@@ -1,0 +1,149 @@
+# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
+other_info: 'ຂໍ້ມູນອື່ນ ໆ'
+# A label describing information - any calculations that were used in the production of a dataset
+computation_calculations: 'ການຄິດໄລ່'
+# A label describing information - a list of definitions of terms used within other metadata fields
+computation_definitions: 'ນິຍາມ'
+# A label describing information - the unit of measurement that is being represented in a dataset
+computation_units: 'ຫົວ ໜ່ວຍ ວັດແທກ'
+# A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
+goal_meta_link: 'ເຊື່ອມຕໍ່ກັບຂໍ້ມູນ metadata ຂອງສະຫະປະຊາຊາດ'
+# A label describing information - the numeric code for a particular indicator
+indicator: 'ຕົວເລກຕົວຊີ້ວັດ'
+# A label describing information - the definition for a particular indicator - as provided by the United Nations
+indicator_definition: 'ລາຍລະອຽດຂອງຕົວຊີ້ວັດທົ່ວໂລກ'
+# A label describing information - the name of a particular indicator
+indicator_name: 'ຊື່ຕົວຊີ້ວັດ'
+indicator_sort_order: 'ຄໍາສັ່ງສະແດງຕົວຊີ້ວັດ (ພາຍໃນ ໜ້າ ເປົ້າ ໝາຍ)'
+national_data_update_url: 'ຂໍ້ມູນຖືກປັບປຸງ ໃໝ່ ລ້າສຸດ'
+# A label describing information - the geographical area covered by a dataset
+national_geographical_coverage: 'ການຄຸ້ມຄອງດ້ານພູມສາດ'
+national_indicator_available: 'ຕົວຊີ້ວັດທີ່ມີຢູ່'
+national_indicator_description: 'ລາຍລະອຽດຂອງຕົວຊີ້ວັດ'
+national_metadata_update_url: 'Metadata ຖືກປັບປຸງ ໃໝ່ ສຸດທ້າຍ'
+# A label describing information - contact information for the person or agency that provided data
+source_contact_1: 'ລາຍລະອຽດຕິດຕໍ່'
+source_contact_2: 'ລາຍລະອຽດຕິດຕໍ່'
+source_contact_3: 'ລາຍລະອຽດຕິດຕໍ່'
+source_contact_4: 'ລາຍລະອຽດຕິດຕໍ່'
+source_contact_5: 'ລາຍລະອຽດຕິດຕໍ່'
+source_contact_6: 'ລາຍລະອຽດຕິດຕໍ່'
+# A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
+source_earliest_available_1: 'ຂໍ້ມູນທີ່ມີໃຫ້ກ່ອນ'
+source_earliest_available_2: 'ຂໍ້ມູນທີ່ມີໃຫ້ກ່ອນ'
+source_earliest_available_3: 'ຂໍ້ມູນທີ່ມີໃຫ້ກ່ອນ'
+source_earliest_available_4: 'ຂໍ້ມູນທີ່ມີໃຫ້ກ່ອນ'
+source_earliest_available_5: 'ຂໍ້ມູນທີ່ມີໃຫ້ກ່ອນ'
+source_earliest_available_6: 'ຂໍ້ມູນທີ່ມີໃຫ້ກ່ອນ'
+# A label describing information - the geographical area covered in the data provided by a particular person or agency
+source_geographical_coverage_1: 'ການຄຸ້ມຄອງດ້ານພູມສາດ'
+source_geographical_coverage_2: 'ການຄຸ້ມຄອງດ້ານພູມສາດ'
+source_geographical_coverage_3: 'ການຄຸ້ມຄອງດ້ານພູມສາດ'
+source_geographical_coverage_4: 'ການຄຸ້ມຄອງດ້ານພູມສາດ'
+source_geographical_coverage_5: 'ການຄຸ້ມຄອງດ້ານພູມສາດ'
+source_geographical_coverage_6: 'ການຄຸ້ມຄອງດ້ານພູມສາດ'
+# A label describing information - the date at which a particular person or agency plans to update their provided data
+source_next_release_1: 'ລຸ້ນຕໍ່ໄປ'
+source_next_release_2: 'ລຸ້ນຕໍ່ໄປ'
+source_next_release_3: 'ລຸ້ນຕໍ່ໄປ'
+source_next_release_4: 'ລຸ້ນຕໍ່ໄປ'
+source_next_release_5: 'ລຸ້ນຕໍ່ໄປ'
+source_next_release_6: 'ລຸ້ນຕໍ່ໄປ'
+# A label describing information - the name of any organization associated with some provided data
+source_organisation_1: 'ການຈັດຕັ້ງ'
+source_organisation_2: 'ການຈັດຕັ້ງ'
+source_organisation_3: 'ການຈັດຕັ້ງ'
+source_organisation_4: 'ການຈັດຕັ້ງ'
+source_organisation_5: 'ການຈັດຕັ້ງ'
+source_organisation_6: 'ການຈັດຕັ້ງ'
+# A label describing information - any other information about a particular source of data for a particular indicator
+source_other_info_1: 'ຂໍ້ມູນອື່ນ ໆ'
+source_other_info_2: 'ຂໍ້ມູນອື່ນ ໆ'
+source_other_info_3: 'ຂໍ້ມູນອື່ນ ໆ'
+source_other_info_4: 'ຂໍ້ມູນອື່ນ ໆ'
+source_other_info_5: 'ຂໍ້ມູນອື່ນ ໆ'
+source_other_info_6: 'ຂໍ້ມູນອື່ນ ໆ'
+# A label describing information - the frequency with which a particular source of data will provide updates
+source_periodicity_1: 'ແຕ່ລະໄລຍະ'
+source_periodicity_2: 'ແຕ່ລະໄລຍະ'
+source_periodicity_3: 'ແຕ່ລະໄລຍະ'
+source_periodicity_4: 'ແຕ່ລະໄລຍະ'
+source_periodicity_5: 'ແຕ່ລະໄລຍະ'
+source_periodicity_6: 'ແຕ່ລະໄລຍະ'
+# A label describing information - The date at which a particular source provided their data
+source_release_date_1: 'ມື້ປ່ອຍ'
+source_release_date_2: 'ມື້ປ່ອຍ'
+source_release_date_3: 'ມື້ປ່ອຍ'
+source_release_date_4: 'ມື້ປ່ອຍ'
+source_release_date_5: 'ມື້ປ່ອຍ'
+source_release_date_6: 'ມື້ປ່ອຍ'
+# A label describing information - some classification of a particular source of data for a particular indicator
+source_statistical_classification_1: 'ການຈັດປະເພດສະຖິຕິ'
+source_statistical_classification_2: 'ການຈັດປະເພດສະຖິຕິ'
+source_statistical_classification_3: 'ການຈັດປະເພດສະຖິຕິ'
+source_statistical_classification_4: 'ການຈັດປະເພດສະຖິຕິ'
+source_statistical_classification_5: 'ການຈັດປະເພດສະຖິຕິ'
+source_statistical_classification_6: 'ການຈັດປະເພດສະຖິຕິ'
+source_url_1: 'ເຊື່ອມຕໍ່ກັບແຫລ່ງຂໍ້ມູນ'
+source_url_2: 'ເຊື່ອມຕໍ່ກັບແຫລ່ງຂໍ້ມູນ'
+source_url_3: 'ເຊື່ອມຕໍ່ກັບແຫລ່ງຂໍ້ມູນ'
+source_url_4: 'ເຊື່ອມຕໍ່ກັບແຫລ່ງຂໍ້ມູນ'
+source_url_5: 'ເຊື່ອມຕໍ່ກັບແຫລ່ງຂໍ້ມູນ'
+source_url_6: 'ເຊື່ອມຕໍ່ກັບແຫລ່ງຂໍ້ມູນ'
+# A label describing information - the overall SDG target associated with a particular indicator
+target: 'ຊື່ເປົ້າ ໝາຍ'
+# A label describing information - the numeric id for the overall SDG target associated with a particular indicator
+target_id: 'ໝາຍ ເລກເປົ້າ ໝາຍ'
+# A label describing information - the United Nations custodian agency associated with a particular indicator
+un_custodian_agency: 'ອົງການຄຸ້ມຄອງດູແລຂອງອົງການສະຫະປະຊາຊາດ'
+# A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
+un_designated_tier: 'ຂັ້ນສາມຂອງອົງການສະຫະປະຊາຊາດ'
+quality_assurance: 'ປະກັນຄຸນນະພາບ'
+international_comparability: 'ການປຽບທຽບກັບຂໍ້ມູນ / ມາດຕະຖານສາກົນ'
+comments_limitations: 'ຄຳ ເຫັນແລະຂໍ້ ຈຳ ກັດ'
+rationale_interpretation: 'ສົມເຫດສົມຜົນແລະຕີລາຄາ'
+rational_interpretation: 'ສົມເຫດສົມຜົນແລະຕີລາຄາ'
+copyright: 'ລິຂະສິດ'
+OTHER_DOC: ເອກະສານອ້າງອີງແລະເອກະສານ
+COMPARABILITY: ຄວາມສາມາດປຽບທຽບ / ການບ່ຽງເບນຈາກມາດຕະຖານສາກົນ
+COVERAGE: ຄວາມພ້ອມຂອງຂໍ້ມູນແລະການແບ່ງແຍກ
+QUALITY_ASSMNT: ການປະເມີນຄຸນະພາບ
+QUALITY_ASSURE: ປະກັນຄຸນນະພາບ
+QUALITY_MGMNT: ການຄຸ້ມຄອງຄຸນນະພາບ
+DOC_METHOD: ວິທີການແລະ ຄຳ ແນະ ນຳ ທີ່ມີໃຫ້ແກ່ປະເທດຕ່າງໆ ສຳ ລັບການລວບລວມຂໍ້ມູນໃນລະດັບຊາດ
+REG_AGG: ການລວບລວມພາກພື້ນ
+IMPUTATION: ການຮັກສາຄຸນຄ່າທີ່ຂາດຫາຍໄປ (i) ໃນລະດັບປະເທດແລະ (ii) ໃນລະດັບພາກພື້ນ
+ADJUSTMENT: ການປັບຕົວ
+DATA_VALIDATION: ການກວດສອບຄວາມຖືກຕ້ອງ
+DATA_COMP: ວິທີການ ຄຳ ນວນ
+REC_USE_LIM: ຄຳ ເຫັນແລະຂໍ້ ຈຳ ກັດ
+RATIONALE: ເຫດຜົນ
+OTHER_METHOD: ການພິຈາລະນາວິທີການອື່ນໆ
+INST_MANDATE: ພາລະບົດບາດຂອງສະຖາບັນ
+COMPILING_ORG: ຜູ້ລວບລວມຂໍ້ມູນ
+DATA_SOURCE: ຜູ້ໃຫ້ບໍລິການຂໍ້ມູນ
+REL_CAL_POLICY: ປະຕິທິນການປ່ອຍຂໍ້ມູນ
+FREQ_COLL: ປະຕິທິນການເກັບ ກຳ ຂໍ້ມູນ
+COLL_METHOD: ວິທີການເກັບ ກຳ ຂໍ້ມູນ
+SOURCE_TYPE: ແຫຼ່ງຂໍ້ມູນ
+SRC_TYPE_COLL_METHOD: ປະເພດແຫຼ່ງຂໍ້ມູນແລະວິທີການເກັບ ກຳ ຂໍ້ມູນ
+CLASS_SYSTEM: ການຈັດປະເພດ
+UNIT_MEASURE: ຫົວ ໜ່ວຍ ວັດແທກ
+STAT_CONC_DEF: ນິຍາມແລະແນວຄິດ
+IND_DEF_CON_CLASS: ນິຍາມ, ແນວຄິດແລະການຈັດປະເພດ
+CONTACT_EMAIL: ອີເມວຕິດຕໍ່
+CONTACT_MAIL: ຕິດຕໍ່ເມລ
+CONTACT_PHONE: ໂທລະສັບຕິດຕໍ່
+CONTACT_FUNCT: ຕິດຕໍ່ຜູ້ ທຳ ງານ
+ORGANISATION_UNIT: ຕິດຕໍ່ ໜ່ວຍ ງານອົງກອນ
+CONTACT_NAME: ຜູ້ຕິດຕໍ່
+CONTACT_ORGANISATION: ການຈັດຕັ້ງ
+CONTACT: ນັກຂ່າວ
+SDG_CUSTODIAN_AGENCIES: ອົງການຈັດຕັ້ງສາກົນທີ່ຮັບຜິດຊອບໃນການຕິດຕາມກວດກາທົ່ວໂລກ
+SDG_RELATED_INDICATORS: ຕົວຊີ້ວັດທີ່ກ່ຽວຂ້ອງ
+META_LAST_UPDATE: ການປັບປຸງເມຕາເດຕາ
+SDG_SERIES_DESCR: ຊຸດ
+SDG_INDICATOR: ຕົວຊີ້ວັດ
+SDG_TARGET: ເປົ້າຫມາຍ
+SDG_GOAL: ເປົ້າ ໝາຍ
+SDG_INDICATOR_INFO: ຂໍ້ມູນຕົວຊີ້ວັດ

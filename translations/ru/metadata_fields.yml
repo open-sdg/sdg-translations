@@ -82,3 +82,49 @@ comments_limitations: Комментарии и ограничения
 rationale_interpretation: Рациональное и интерпретация
 rational_interpretation: Рациональное и интерпретация
 copyright: Авторские права
+OTHER_DOC: Ссылки и документация
+COMPARABILITY: 6. Сопоставимость/отступление от международных стандартов
+COVERAGE: 5. Доступность и дезагрегирование данных
+QUALITY_ASSMNT: Оценка качества
+QUALITY_ASSURE: Гарантия качества
+QUALITY_MGMNT: Управление качеством
+DOC_METHOD: 4.h. Доступные странам методы и руководства для составления данных на
+  национальном уровне
+REG_AGG: Региональные агрегации
+IMPUTATION: 4.f. Обработка отсутствующих значений (i) на уровне страны и (ii) на региональном
+  уровне
+ADJUSTMENT: Корректировки
+DATA_VALIDATION: Проверка
+DATA_COMP: Метод расчета
+REC_USE_LIM: Комментарии и ограничения
+RATIONALE: Обоснование
+OTHER_METHOD: 4. Другие методологические факторы, подлежащие учету
+INST_MANDATE: Институциональный мандат
+COMPILING_ORG: Составители данных
+DATA_SOURCE: Поставщики данных
+REL_CAL_POLICY: Календарь выхода данных
+FREQ_COLL: Календарь сбора данных
+COLL_METHOD: Метод сбора данных
+SOURCE_TYPE: Источники данных
+SRC_TYPE_COLL_METHOD: 3. Тип источника данных и метод сбора
+CLASS_SYSTEM: Классификация
+UNIT_MEASURE: Единица измерения
+STAT_CONC_DEF: Определение и понятия
+IND_DEF_CON_CLASS: 2. Определение, понятия и классификации
+CONTACT_EMAIL: Контактный email
+CONTACT_MAIL: Контактный email
+CONTACT_PHONE: Контактный телефон
+CONTACT_FUNCT: Функция контактного лица
+ORGANISATION_UNIT: Контактное организационное подразделение
+CONTACT_NAME: Контактное лицо (лица)
+CONTACT_ORGANISATION: Организация
+CONTACT: Докладчик данных
+SDG_CUSTODIAN_AGENCIES: 0.g. Международные организации, ответственные за глобальный
+  мониторинг
+SDG_RELATED_INDICATORS: Связанные показатели
+META_LAST_UPDATE: Обновление метаданных
+SDG_SERIES_DESCR: Серии
+SDG_INDICATOR: Показатель
+SDG_TARGET: Цель
+SDG_GOAL: Цель
+SDG_INDICATOR_INFO: Информация об индикаторе

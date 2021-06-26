@@ -15,3 +15,6 @@ disaggregation_status_notstarted: Not disaggregated
 disaggregation_status_notapplicable: Out of scope
 disaggregation_status_by_field: Disaggregation by %field
 not_specified: Not specified
+reported: Reported
+description: Reporting status provides an overview of how much Sustainable Development
+  Goal (SDG) data %name reports.

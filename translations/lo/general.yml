@@ -1,0 +1,27 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
+indicator: 'ຕົວຊີ້ວັດ'
+# This is the plural version of the indicator key
+indicators: 'ຕົວຊີ້ວັດ'
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
+goal: 'ເປົ້າ ໝາຍ'
+# This is the plural version of the goal key
+goals: 'ເປົ້າ ໝາຍ'
+sdg: 'ເປົ້າ ໝາຍ ການພັດທະນາແບບຍືນຍົງ'
+# This refers to the 'home page' of a website
+home: 'ເຮືອນ'
+loading: 'ກຳ ລັງໂຫລດຜົນການຄົ້ນຫາ'
+opens_new_window: 'ເປີດຢູ່ໃນປ່ອງຢ້ຽມໃຫມ່'
+hide: 'ຊ່ອນ'
+target: 'ເປົ້າຫມາຍ'
+targets: 'ເປົ້າ ໝາຍ'
+twitter: 'Twitter'
+facebook: 'ເຟສບຸກ'
+built_using_open_sdg: 'ສ້າງໂດຍໃຊ້ Open SDG'
+page: 'ຫນ້າ'
+pages: 'ໜ້າ'
+targets_and_indicators: 'ເປົ້າ ໝາຍ ແລະຕົວຊີ້ວັດ'
+# A label of "Warning" to place before some other text.
+label_warning: "ຄຳ ເຕືອນ:"
+# A phrase to use as a site-wide page title.
+site_title: 'ຕົວຊີ້ວັດ ສຳ ລັບເປົ້າ ໝາຍ ການພັດທະນາແບບຍືນຍົງ'
+back_to_top: ກັບໄປທາງເທີງ

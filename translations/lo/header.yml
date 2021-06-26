@@ -1,0 +1,13 @@
+skip_link: 'ຂ້າມໄປຫາເນື້ອຫາຫຼັກ'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'ບໍ່ມີເພດ;'
+disclaimer: 'ນີ້ແມ່ນເວບໄຊທ໌ການພັດທະນາ. ພວກເຮົາຍິນດີຮັບ ຄຳ ຄິດເຫັນ <a href="mailto:%email_address">
+  ຂອງທ່ານ </a>.'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: '17 ເປົ້າ ໝາຍ ໃນການຫັນປ່ຽນໂລກຂອງພວກເຮົາ'
+high_contrast: 'ກົງກັນຂ້າມສູງ'
+default_contrast: 'ກົງກັນຂ້າມໃນຕອນຕົ້ນ'
+enable_high_contrast: 'ເປີດໃຊ້ຄວາມຄົມຊັດສູງ'
+disable_high_contrast: 'ປິດການໃຊ້ງານກົງກັນຂ້າມສູງ'
+toggle_search: 'ຄົ້ນຫາສະຫຼັບ. ກົດເພື່ອຂະຫຍາຍຫຼືຍຸບແຖບຄົ້ນຫາ.'
+toggle_menu: 'ເມນູປິດ. ກົດເພື່ອຂະຫຍາຍຫຼືຫຍໍ້ເມນູ.'

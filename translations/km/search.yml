@@ -1,0 +1,12 @@
+search: 'ស្វែងរក'
+# This refers to a section of the site for performing keyword searches to find particular indicators
+indicator_search: 'ការស្វែងរកសូចនាករ'
+# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
+search_results_for: 'លទ្ធផលស្វែងរកសម្រាប់'
+found_in: 'បានរកឃើញនៅក្នុង'
+keywords: 'ពាក្យគន្លឹះ'
+# A message for the user - after they have performed an online search - to indicate that their search produced no results
+no_results: 'គ្មាន​លទ្ធផល'
+did_you_mean: 'តើអ្នកចង់មានន័យថា'
+results_found: 'លទ្ធផលបានរកឃើញ'
+adjust_your_search: ព្យាយាមកែការស្វែងរករបស់អ្នកដើម្បីស្វែងរកអ្វីដែលអ្នកកំពុងរក។

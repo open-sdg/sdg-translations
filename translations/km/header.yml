@@ -1,0 +1,13 @@
+skip_link: 'រំលងទៅមាតិកាមេ'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'អាល់ហ្វា'
+disclaimer: 'នេះគឺជាគេហទំព័រអភិវឌ្ឍន៍។ យើងសូមស្វាគមន៍រាល់មតិប្រតិកម្មរបស់អ្នក [៤៧]
+  [៨៧] ។'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: 'គោលដៅចំនួន ១៧ ដើម្បីបំរែបំរួលពិភពលោករបស់យើង'
+high_contrast: 'កម្រិត​ពណ៌​ខ្ពស់'
+default_contrast: 'កម្រិតពណ៌លំនាំដើម'
+enable_high_contrast: 'បើកដំណើរការកម្រិតពណ៌ខ្ពស់'
+disable_high_contrast: 'បិទដំណើរការកម្រិតពណ៌ខ្ពស់'
+toggle_search: 'ស្វែងរកបិទ / បើក។ ចុចដើម្បីពង្រីកឬបង្រួមរបារស្វែងរក។'
+toggle_menu: 'បិទ / បើកម៉ឺនុយ។ ចុចដើម្បីពង្រីកឬបង្រួមម៉ឺនុយ។'

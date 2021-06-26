@@ -1,6 +1,6 @@
 goal: Ziel
 goals: Ziele
-home: Home
+home: Startseite
 indicator: Indikator
 indicators: Indikatoren
 loading: Ergebnisse werden geladen
@@ -12,8 +12,9 @@ targets: Unterziele
 twitter: Twitter
 facebook: Facebook
 built_using_open_sdg: Erstellt mit Open SDG
-page: Website
+page: Seite
 pages: Webseiten
 site_title: Indikatoren für die nachhaltigen Entwicklungsziele
 label_warning: 'Warnung:'
 targets_and_indicators: Ziele und Indikatoren
+back_to_top: Zurück nach oben

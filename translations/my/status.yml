@@ -14,3 +14,6 @@ disaggregation_status_inprogress: တစ်စိတ်တစ်ပိုင်�
 disaggregation_status_complete: အပြည့်အဝ disaggregated
 disaggregation_status_overall: ယေဘုယျအားဖြင့်လူစုခွဲခြင်းအခြေအနေ
 disaggregation_status: အသားအရောင်ခွဲခြား status ကို
+reported: သတင်းပို့သည်
+description: အစီရင်ခံခြင်းအခြေအနေတွင်ရေရှည်တည်တံ့ခိုင်မြဲသောဖွံ့ဖြိုးရေးရည်မှန်းချက်
+  (SDG) ၏%% အမည်အစီရင်ခံစာများကိုခြုံငုံသုံးသပ်ထားသည်။

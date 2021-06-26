@@ -1,245 +1,473 @@
 1-1-1-title: 'Andel av befolkningen under den internasjonale fattigdomsgrensen, etter
   kjønn, alder, sysselsettingsstatus og geografiske beliggenhet (urbane / landlige)'
-1-2-1-title: ''
-1-2-2-title: ''
-1-3-1-title: ''
-1-4-1-title: ''
-1-4-2-title: ''
-1-5-1-title: ''
-1-5-2-title: ''
-1-5-3-title: ''
-1-5-4-title: ''
-1-a-1-title: ''
-1-a-2-title: ''
-1-a-3-title: ''
-1-b-1-title: ''
-10-1-1-title: ''
-10-2-1-title: ''
-10-3-1-title: ''
-10-4-1-title: ''
-10-5-1-title: ''
-10-6-1-title: ''
-10-7-1-title: ''
-10-7-2-title: ''
-10-a-1-title: ''
-10-b-1-title: ''
-10-c-1-title: ''
-11-1-1-title: ''
-11-2-1-title: ''
-11-3-1-title: ''
-11-3-2-title: ''
-11-4-1-title: ''
-11-5-1-title: ''
-11-5-2-title: ''
-11-6-1-title: ''
-11-6-2-title: ''
-11-7-1-title: ''
-11-7-2-title: ''
-11-a-1-title: ''
-11-b-1-title: ''
-11-b-2-title: ''
-11-c-1-title: ''
-12-1-1-title: ''
-12-2-1-title: ''
-12-2-2-title: ''
-12-3-1-title: ''
-12-4-1-title: ''
-12-4-2-title: ''
-12-5-1-title: ''
-12-6-1-title: ''
-12-7-1-title: ''
-12-8-1-title: ''
-12-a-1-title: ''
-12-b-1-title: ''
-12-c-1-title: ''
-13-1-1-title: ''
-13-1-2-title: ''
-13-1-3-title: ''
-13-2-1-title: ''
-13-3-1-title: ''
-13-3-2-title: ''
-13-a-1-title: ''
-13-b-1-title: ''
-14-1-1-title: ''
-14-2-1-title: ''
-14-3-1-title: ''
-14-4-1-title: ''
-14-5-1-title: ''
-14-6-1-title: ''
-14-7-1-title: ''
-14-a-1-title: ''
-14-b-1-title: ''
-14-c-1-title: ''
-15-1-1-title: ''
-15-1-2-title: ''
-15-2-1-title: ''
-15-3-1-title: ''
-15-4-1-title: ''
-15-4-2-title: ''
-15-5-1-title: ''
-15-6-1-title: ''
-15-7-1-title: ''
-15-8-1-title: ''
-15-9-1-title: ''
-15-a-1-title: ''
-15-b-1-title: ''
-15-c-1-title: ''
-16-1-1-title: ''
-16-1-2-title: ''
-16-1-3-title: ''
-16-1-4-title: ''
-16-10-1-title: ''
-16-10-2-title: ''
-16-2-1-title: ''
-16-2-2-title: ''
-16-2-3-title: ''
-16-3-1-title: ''
-16-3-2-title: ''
-16-4-1-title: ''
-16-4-2-title: ''
-16-5-1-title: ''
-16-5-2-title: ''
-16-6-1-title: ''
-16-6-2-title: ''
-16-7-1-title: ''
-16-7-2-title: ''
-16-8-1-title: ''
-16-9-1-title: ''
-16-a-1-title: ''
-16-b-1-title: ''
-17-1-1-title: ''
-17-1-2-title: ''
-17-10-1-title: ''
-17-11-1-title: ''
-17-12-1-title: ''
-17-13-1-title: ''
-17-14-1-title: ''
-17-15-1-title: ''
-17-16-1-title: ''
-17-17-1-title: ''
-17-18-1-title: ''
-17-18-2-title: ''
-17-18-3-title: ''
-17-19-1-title: ''
-17-19-2-title: ''
-17-2-1-title: ''
-17-3-1-title: ''
-17-3-2-title: ''
-17-4-1-title: ''
-17-5-1-title: ''
-17-6-1-title: ''
-17-6-2-title: ''
-17-7-1-title: ''
-17-8-1-title: ''
-17-9-1-title: ''
-2-1-1-title: ''
-2-1-2-title: ''
-2-2-1-title: ''
-2-2-2-title: ''
-2-3-1-title: ''
-2-3-2-title: ''
-2-4-1-title: ''
-2-5-1-title: ''
-2-5-2-title: ''
-2-a-1-title: ''
-2-a-2-title: ''
-2-b-1-title: ''
-2-c-1-title: ''
-3-1-1-title: ''
-3-1-2-title: ''
-3-2-1-title: ''
-3-2-2-title: ''
-3-3-1-title: ''
-3-3-2-title: ''
-3-3-3-title: ''
-3-3-4-title: ''
-3-3-5-title: ''
-3-4-1-title: ''
-3-4-2-title: ''
-3-5-1-title: ''
-3-5-2-title: ''
-3-6-1-title: ''
-3-7-1-title: ''
-3-7-2-title: ''
-3-8-1-title: ''
-3-8-2-title: ''
-3-9-1-title: ''
-3-9-2-title: ''
-3-9-3-title: ''
-3-a-1-title: ''
-3-b-1-title: ''
-3-b-2-title: ''
-3-b-3-title: ''
-3-c-1-title: ''
-3-d-1-title: ''
-4-1-1-title: ''
-4-2-1-title: ''
-4-2-2-title: ''
-4-3-1-title: ''
-4-4-1-title: ''
-4-5-1-title: ''
-4-6-1-title: ''
-4-7-1-title: ''
-4-a-1-title: ''
-4-b-1-title: ''
-4-c-1-title: ''
-5-1-1-title: ''
-5-2-1-title: ''
-5-2-2-title: ''
-5-3-1-title: ''
-5-3-2-title: ''
-5-4-1-title: ''
-5-5-1-title: ''
-5-5-2-title: ''
-5-6-1-title: ''
-5-6-2-title: ''
-5-a-1-title: ''
-5-a-2-title: ''
-5-b-1-title: ''
-5-c-1-title: ''
-6-1-1-title: ''
-6-2-1-title: ''
-6-3-1-title: ''
-6-3-2-title: ''
-6-4-1-title: ''
-6-4-2-title: ''
-6-5-1-title: ''
-6-5-2-title: ''
-6-6-1-title: ''
-6-a-1-title: ''
-6-b-1-title: ''
-7-1-1-title: ''
-7-1-2-title: ''
-7-2-1-title: ''
-7-3-1-title: ''
-7-a-1-title: ''
-7-b-1-title: ''
-8-1-1-title: ''
-8-10-1-title: ''
-8-10-2-title: ''
-8-2-1-title: ''
-8-3-1-title: ''
-8-4-1-title: ''
-8-4-2-title: ''
-8-5-1-title: ''
-8-5-2-title: ''
-8-6-1-title: ''
-8-7-1-title: ''
-8-8-1-title: ''
-8-8-2-title: ''
-8-9-1-title: ''
-8-9-2-title: ''
-8-a-1-title: ''
-8-b-1-title: ''
-9-1-1-title: ''
-9-1-2-title: ''
-9-2-1-title: ''
-9-2-2-title: ''
-9-3-1-title: ''
-9-3-2-title: ''
-9-4-1-title: ''
-9-5-1-title: ''
-9-5-2-title: ''
-9-a-1-title: ''
-9-b-1-title: ''
-9-c-1-title: ''
+1-2-1-title: 'Andel av befolkningen som lever under den nasjonale fattigdomsgrensen,
+  etter kjønn og alder'
+1-2-2-title: 'Andel menn, kvinner og barn i alle aldre som lever i fattigdom i alle
+  dimensjoner i henhold til nasjonale definisjoner'
+1-3-1-title: 'Andel av befolkningen som er dekket av etasjer / systemer for sosial
+  beskyttelse, etter kjønn, som skiller barn, arbeidsledige, eldre personer, personer
+  med nedsatt funksjonsevne, gravide, nyfødte, ofre for arbeidsskader og fattige og
+  utsatte'
+1-4-1-title: 'Andel av befolkningen som bor i husholdninger med tilgang til grunnleggende
+  tjenester'
+1-4-2-title: 'Andel av den totale voksne befolkningen med sikre rettigheter til land,
+  med juridisk anerkjent dokumentasjon, og som oppfatter rettighetene til land som
+  sikre, etter kjønn og etter type leieforhold'
+1-5-1-title: 'Antall dødsfall, savnede personer og direkte berørte personer tilskrevet
+  katastrofer per 100.000 innbyggere'
+1-5-2-title: 'Direkte økonomisk tap tilskrevet katastrofer i forhold til det globale
+  bruttonasjonalproduktet (BNP)'
+1-5-3-title: 'Antall land som vedtar og implementerer nasjonale strategier for reduksjon
+  av katastroferisiko i tråd med Sendai Framework for Disaster Risk Reduction 2015–2030'
+1-5-4-title: 'Andel av lokale myndigheter som vedtar og implementerer lokale strategier
+  for reduksjon av katastroferisiko i tråd med nasjonale strategier for reduksjon
+  av katastroferisiko'
+1-a-1-title: 'Andel av innenlandske genererte ressurser som tildeles av regjeringen
+  direkte til fattigdomsbekjempelsesprogrammer'
+1-a-2-title: 'Andel av totale offentlige utgifter til viktige tjenester (utdanning,
+  helse og sosial beskyttelse)'
+1-a-3-title: 'Summen av totale tilskudd og ikke-gjeldsskapende tilførsler direkte
+  tildelt programmer for fattigdomsreduksjon som andel av BNP'
+1-b-1-title: 'Andel av tilbakevendende myndigheter og kapitalutgifter til sektorer
+  som uforholdsmessig fordeler kvinner, de fattige og sårbare gruppene'
+10-1-1-title: 'Vekstrater for husholdningens utgifter eller inntekt per innbygger
+  blant de nederste 40 prosent av befolkningen og den totale befolkningen'
+10-2-1-title: 'Andel mennesker som lever under 50 prosent av medianinntekten, etter
+  kjønn, alder og personer med nedsatt funksjonsevne'
+10-3-1-title: 'Andel av befolkningsrapporteringen som personlig har følt seg diskriminert
+  eller trakassert de siste 12 månedene på grunnlag av et diskrimineringsgrunnlag
+  som er forbudt i henhold til internasjonal menneskerettighetslov'
+10-4-1-title: 'Arbeidsandel av BNP, inkludert lønn og overføring av sosial beskyttelse'
+10-5-1-title: 'Indikatorer for finansiell sunnhet (FSI)'
+10-6-1-title: 'Andel medlemmer og stemmerett til utviklingsland i internasjonale organisasjoner'
+10-7-1-title: 'Rekrutteringskostnader som bæres av arbeidstakeren i forhold til årlig
+  inntekt opptjent i bestemmelseslandet'
+10-7-2-title: 'Antall land som har implementert velstyrt migrasjonspolitikk'
+10-a-1-title: 'Andel tolllinjer brukt på import fra minst utviklede land og utviklingsland
+  med nulltoll'
+10-b-1-title: 'Totale ressursflyter for utvikling, etter mottaker- og giverland og
+  type flyt (f.eks. Offisiell bistand, direkte utenlandske investeringer og andre
+  strømmer)'
+10-c-1-title: 'Remitteringskostnader som en andel av det innleverte beløpet'
+11-1-1-title: 'Andel av bybefolkningen som bor i slumkvarterer, uformelle bosetninger
+  eller utilstrekkelige boliger'
+11-2-1-title: 'Andel av befolkningen som har praktisk tilgang til offentlig transport,
+  etter kjønn, alder og personer med nedsatt funksjonsevne'
+11-3-1-title: 'Forholdet mellom arealforbruk og befolkningsvekst'
+11-3-2-title: 'Andel av byer med en direkte deltakelsesstruktur i det sivile samfunn
+  i byplanlegging og forvaltning som opererer regelmessig og demokratisk'
+11-4-1-title: 'Totale utgifter (offentlig og privat) per innbygger brukt på bevaring,
+  beskyttelse og bevaring av all kultur- og naturarv, etter arveart (kulturell, naturlig,
+  blandet og verdensarvsbetegnelse), regjeringsnivå (nasjonalt, regionalt og lokalt
+  / kommunal), type utgifter (driftsutgifter / investeringer) og type privat finansiering
+  (donasjoner in natura, privat ideell sektor og sponsing)'
+11-5-1-title: 'Antall dødsfall, savnede personer og direkte berørte personer tilskrevet
+  katastrofer per 100.000 innbyggere'
+11-5-2-title: 'Direkte økonomisk tap i forhold til det globale BNP, skade på kritisk
+  infrastruktur og antall forstyrrelser i grunnleggende tjenester, tilskrevet katastrofer'
+11-6-1-title: 'Andel av byens faste avfall som regelmessig samles inn og med tilstrekkelig
+  sluttutslipp av det totale urbane avfallet som genereres av byene'
+11-6-2-title: 'Årlige gjennomsnittsnivåer av fint partikler (f.eks. PM2.5 og PM10)
+  i byer (befolkningsvektet)'
+11-7-1-title: 'Gjennomsnittlig andel av det bebygde området i byene som er åpen plass
+  for offentlig bruk for alle, etter kjønn, alder og personer med nedsatt funksjonsevne'
+11-7-2-title: 'Andel personer som er utsatt for fysisk eller seksuell trakassering,
+  etter kjønn, alder, funksjonshemningsstatus og forekomststed, de siste 12 månedene'
+11-a-1-title: 'Andel av befolkningen som bor i byer som implementerer by- og regionale
+  utviklingsplaner som integrerer befolkningsprognoser og ressursbehov, etter bystørrelse'
+11-b-1-title: 'Antall land som vedtar og implementerer nasjonale strategier for reduksjon
+  av katastroferisiko i tråd med Sendai Framework for Disaster Risk Reduction 2015–2030'
+11-b-2-title: 'Andel av lokale myndigheter som vedtar og implementerer lokale strategier
+  for reduksjon av katastroferisiko i tråd med nasjonale strategier for reduksjon
+  av katastroferisiko'
+11-c-1-title: 'Andel økonomisk støtte til de minst utviklede landene som er avsatt
+  til bygging og ettermontering av bærekraftige, elastiske og ressurseffektive bygninger
+  som bruker lokale materialer'
+12-1-1-title: 'Antall land med bærekraftig forbruk og produksjon (SCP) nasjonale handlingsplaner
+  eller SCP integrert som en prioritet eller et mål i nasjonal politikk'
+12-2-1-title: 'Materiell fotavtrykk, materiell fotavtrykk per innbygger og materiell
+  fotavtrykk per BNP'
+12-2-2-title: 'Innenriks materialforbruk, innenlandsk materialforbruk per innbygger
+  og innenlandsk materialforbruk per BNP'
+12-3-1-title: 'Global mattapindeks'
+12-4-1-title: 'Antall parter i internasjonale multilaterale miljøavtaler om farlig
+  avfall og andre kjemikalier som oppfyller sine forpliktelser og forpliktelser når
+  det gjelder å overføre informasjon som kreves av hver relevante avtale'
+12-4-2-title: 'Farlig avfall generert per innbygger og andel farlig avfall behandlet,
+  etter behandlingstype'
+12-5-1-title: 'Nasjonal gjenvinningsgrad, tonn gjenvunnet materiale'
+12-6-1-title: 'Antall selskaper som publiserer bærekraftsrapporter'
+12-7-1-title: 'Antall land som implementerer bærekraftige politikker og handlingsplaner
+  for offentlige anskaffelser'
+12-8-1-title: 'I hvilken grad (i) global utdanning av statsborgerskap og (ii) utdanning
+  for bærekraftig utvikling (inkludert utdanning i klimaendringer) er integrert i
+  (a) nasjonal utdanningspolitikk; (b) læreplaner; (c) lærerutdanning; og (d) studentvurdering'
+12-a-1-title: 'Mengden støtte til utviklingsland om forskning og utvikling for bærekraftig
+  forbruk og produksjon og miljøvennlige teknologier'
+12-b-1-title: 'Antall bærekraftige turismestrategier eller -politikker og implementerte
+  handlingsplaner med avtalt overvåkings- og evalueringsverktøy'
+12-c-1-title: 'Mengde fossile brenselsubsidier per enhet av BNP (produksjon og forbruk)
+  og som en andel av totale nasjonale utgifter til fossile brensler'
+13-1-1-title: 'Antall dødsfall, savnede personer og direkte berørte personer tilskrevet
+  katastrofer per 100.000 innbyggere'
+13-1-2-title: 'Antall land som vedtar og implementerer nasjonale strategier for reduksjon
+  av katastroferisiko i tråd med Sendai Framework for Disaster Risk Reduction 2015–2030'
+13-1-3-title: 'Andel av lokale myndigheter som vedtar og implementerer lokale strategier
+  for reduksjon av katastroferisiko i tråd med nasjonale strategier for reduksjon
+  av katastroferisiko'
+13-2-1-title: 'Antall land som har kommunisert etablering eller operasjonalisering
+  av en integrert politikk / strategi / plan som øker deres evne til å tilpasse seg
+  de negative virkningene av klimaendringene, og fremmer klimaresistens og lav klimagassutvikling
+  på en måte som ikke truer mat produksjon (inkludert en nasjonal tilpasningsplan,
+  nasjonalt bestemt bidrag, nasjonal kommunikasjon, toårig oppdateringsrapport eller
+  annet)'
+13-3-1-title: 'Antall land som har integrert avbøtende, tilpasning, reduksjon av innvirkning
+  og tidlig varsling i primære, sekundære og tertiære læreplaner'
+13-3-2-title: 'Antall land som har kommunisert styrking av institusjonell, systemisk
+  og individuell kapasitetsbygging for å implementere tilpasning, avbøting og teknologioverføring
+  og utviklingsaksjoner'
+13-a-1-title: 'Mobilisert beløp av amerikanske dollar per år mellom 2020 og 2025 ansvarlig
+  overfor 100 milliarder dollar forpliktelse'
+13-b-1-title: 'Antall minst utviklede land og utviklingsland på små øyer som mottar
+  spesialisert støtte, og mengde støtte, inkludert økonomi, teknologi og kapasitetsbygging,
+  for mekanismer for å øke kapasiteten for effektiv klimaendringsrelatert planlegging
+  og ledelse, inkludert fokus på kvinner, ungdom og lokale og marginaliserte samfunn'
+14-1-1-title: 'Indeks over kystovergiving og flytende plastruskdensitet'
+14-2-1-title: 'Andel nasjonale eksklusive økonomiske soner som administreres ved hjelp
+  av økosystembaserte tilnærminger'
+14-3-1-title: 'Gjennomsnittlig marin surhet (pH) målt ved avtalt pakke med representative
+  prøvetakingsstasjoner'
+14-4-1-title: 'Andel fiskebestander innenfor biologisk bærekraftige nivåer'
+14-5-1-title: 'Dekning av verneområder i forhold til marine områder'
+14-6-1-title: 'Landenes fremgang i graden av implementering av internasjonale instrumenter
+  som tar sikte på å bekjempe ulovlig, urapportert og uregulert fiske'
+14-7-1-title: 'Bærekraftig fiskeri som andel av BNP i små øy-utviklingsland, minst
+  utviklede land og alle land'
+14-a-1-title: 'Andel av det totale forskningsbudsjettet bevilget til forskning innen
+  marin teknologi'
+14-b-1-title: 'Landenes fremgang i graden av anvendelse av et juridisk / regulatorisk
+  / politisk / institusjonelt rammeverk som anerkjenner og beskytter tilgangsrettigheter
+  for småfiskeri'
+14-c-1-title: 'Antall land som gjør fremskritt med å ratifisere, godta og gjennomføre
+  gjennom juridiske, politiske og institusjonelle rammer, havrelaterte instrumenter
+  som implementerer folkeretten, slik det gjenspeiles i FNs havrettskonvensjon, for
+  bevaring og bærekraftig bruk av hav og deres ressurser'
+15-1-1-title: 'Skogareal som andel av totalt landareal'
+15-1-2-title: 'Andel viktige steder for biologisk mangfold på land og ferskvann som
+  er dekket av verneområder, etter økosystemtype'
+15-2-1-title: 'Fremgang mot bærekraftig skogforvaltning'
+15-3-1-title: 'Andel land som er degradert over det totale landarealet'
+15-4-1-title: 'Dekning av verneområder av viktige steder for fjellmangfold'
+15-4-2-title: 'Mountain Green Cover Index'
+15-5-1-title: 'Rødlisteindeks'
+15-6-1-title: 'Antall land som har vedtatt lovgivningsmessige, administrative og politiske
+  rammer for å sikre rettferdig og rettferdig fordeling av fordelene'
+15-7-1-title: 'Andel av handlet dyreliv som ble pocheret eller ulovlig handlet'
+15-8-1-title: 'Andel av land som vedtar relevant nasjonal lovgivning og har tilstrekkelig
+  ressurser til forebygging eller kontroll av invasive fremmede arter'
+15-9-1-title: 'Fremgang mot nasjonale mål etablert i samsvar med Aichi Biodiversity
+  Target 2 i den strategiske planen for biologisk mangfold 2011–2020'
+15-a-1-title: 'Offisiell bistand og offentlige utgifter til bevaring og bærekraftig
+  bruk av biologisk mangfold og økosystemer'
+15-b-1-title: 'Offisiell bistand og offentlige utgifter til bevaring og bærekraftig
+  bruk av biologisk mangfold og økosystemer'
+15-c-1-title: 'Andel av handlet dyreliv som ble pocheret eller ulovlig handlet'
+16-1-1-title: 'Antall ofre for forsettlig drap per 100 000 innbyggere, etter kjønn
+  og alder'
+16-1-2-title: 'Konfliktrelaterte dødsfall per 100.000 innbyggere, etter kjønn, alder
+  og årsak'
+16-1-3-title: 'Andel av befolkningen utsatt for (a) fysisk vold, (b) psykologisk vold
+  og (c) seksuell vold de siste 12 månedene'
+16-1-4-title: 'Andel av befolkningen som føler seg trygge å gå alene rundt området
+  de bor'
+16-10-1-title: 'Antall bekreftede tilfeller av drap, kidnapping, tvangsforsvinning,
+  vilkårlig forvaring og tortur av journalister, tilknyttet mediepersonell, fagforeningsfolk
+  og menneskerettighetsforkjempere de siste 12 månedene'
+16-10-2-title: 'Antall land som vedtar og implementerer konstitusjonelle, lovbestemte
+  og / eller politiske garantier for allmennhetens tilgang til informasjon'
+16-2-1-title: 'Andel barn i alderen 1–17 år som har opplevd fysisk straff og / eller
+  psykisk aggresjon fra omsorgspersoner den siste måneden'
+16-2-2-title: 'Antall ofre for menneskehandel per 100 000 innbyggere, etter kjønn,
+  alder og form for utnyttelse'
+16-2-3-title: 'Andel av unge kvinner og menn i alderen 18–29 år som opplevde seksuell
+  vold innen 18 år'
+16-3-1-title: 'Andel av voldsofre de siste 12 månedene som rapporterte volden til
+  kompetente myndigheter eller andre offisielt anerkjente konfliktløsningsmekanismer'
+16-3-2-title: 'Udømte fanger som andel av den totale fengselspopulasjonen'
+16-4-1-title: 'Total verdi av ulovlige innflytelser og utadstrømmer (i nåværende amerikanske
+  dollar)'
+16-4-2-title: 'Andel beslaglagte, funnet eller overgitte våpen hvis ulovlige opprinnelse
+  eller kontekst er sporet eller etablert av en kompetent myndighet i tråd med internasjonale
+  instrumenter'
+16-5-1-title: 'Andel av personer som hadde minst en kontakt med en offentlig tjenestemann
+  og som betalte bestikkelse til en offentlig tjenestemann, eller ble bedt om bestikkelse
+  av de offentlige tjenestemennene i løpet av de siste 12 månedene'
+16-5-2-title: 'Andel av virksomheter som hadde minst en kontakt med en offentlig tjenestemann
+  og som betalte bestikkelse til en offentlig tjenestemann, eller som ble bedt om
+  bestikkelse av de offentlige tjenestemennene i løpet av de siste 12 månedene'
+16-6-1-title: 'Primære offentlige utgifter som andel av opprinnelig godkjent budsjett,
+  etter sektor (eller etter budsjettkoder eller lignende)'
+16-6-2-title: 'Andel av befolkningen fornøyd med sin siste opplevelse av offentlige
+  tjenester'
+16-7-1-title: 'Andel stillinger (etter kjønn, alder, personer med nedsatt funksjonsevne
+  og befolkningsgrupper) i offentlige institusjoner (nasjonale og lokale lovgivere,
+  offentlig tjeneste og rettsvesen) sammenlignet med nasjonale fordelinger'
+16-7-2-title: 'Andel av befolkningen som mener beslutningstaking er inkluderende og
+  responsiv, etter kjønn, alder, funksjonshemming og befolkningsgruppe'
+16-8-1-title: 'Andel medlemmer og stemmerett til utviklingsland i internasjonale organisasjoner'
+16-9-1-title: 'Andel barn under 5 år hvis fødsler er registrert hos en sivil myndighet,
+  etter alder'
+16-a-1-title: 'Eksistensen av uavhengige nasjonale menneskerettighetsinstitusjoner
+  i samsvar med Paris-prinsippene'
+16-b-1-title: 'Andel av befolkningsrapporteringen som personlig har følt seg diskriminert
+  eller trakassert de siste 12 månedene på grunnlag av et diskrimineringsgrunnlag
+  som er forbudt i henhold til internasjonal menneskerettighetslov'
+17-1-1-title: 'Totale offentlige inntekter i forhold til BNP, etter kilde'
+17-1-2-title: 'Andel innenlandsk budsjett finansiert av innenlandske skatter'
+17-10-1-title: 'Globalt vektet tollsnitt'
+17-11-1-title: 'Utviklingslandenes og minst utviklede lands andel av global eksport'
+17-12-1-title: 'Gjennomsnittlige tariffer overfor utviklingsland, minst utviklede
+  land og små øy-utviklingsland'
+17-13-1-title: 'Makroøkonomisk dashbord'
+17-14-1-title: 'Antall land med mekanismer på plass for å styrke sammenheng i politikken
+  for bærekraftig utvikling'
+17-15-1-title: 'Omfanget av bruk av landseide resultatrammer og planleggingsverktøy
+  av leverandører av utviklingssamarbeid'
+17-16-1-title: 'Antall land som rapporterer fremgang i rammeverk for overvåking av
+  effektivitet for utvikling av flere interessenter som støtter oppnåelse av målene
+  for bærekraftig utvikling'
+17-17-1-title: 'Beløpet av amerikanske dollar forpliktet til offentlig-private og
+  sivilsamfunn partnerskap'
+17-18-1-title: 'Andel indikatorer for bærekraftig utvikling produsert på nasjonalt
+  nivå med full oppdeling når det er relevant for målet, i samsvar med de grunnleggende
+  prinsippene for offisiell statistikk'
+17-18-2-title: 'Antall land som har nasjonal statistisk lovgivning som er i samsvar
+  med de grunnleggende prinsippene for offisiell statistikk'
+17-18-3-title: 'Antall land med en nasjonal statistisk plan som er fullfinansiert
+  og under implementering, etter finansieringskilde'
+17-19-1-title: 'Dollarverdien av alle tilgjengelige ressurser for å styrke statistisk
+  kapasitet i utviklingsland'
+17-19-2-title: 'Andel land som (a) har gjennomført minst en folketelling og folketelling
+  de siste 10 årene; og (b) har oppnådd 100 prosent fødselsregistrering og 80 prosent
+  dødsregistrering'
+17-2-1-title: 'Offisiell netto utviklingsbistand, totalt og til minst utviklede land,
+  som en andel av Organisasjonen for økonomisk samarbeid og utvikling (OECD) Utviklingshjelpskomite
+  givernes bruttonasjonalinntekt (BNI)'
+17-3-1-title: 'Utenlandske direkteinvesteringer (FDI), offisiell bistand og Sør-Sør-samarbeid
+  som andel av det totale innenlandske budsjettet'
+17-3-2-title: 'Mengde overføringer (i amerikanske dollar) som andel av total BNP'
+17-4-1-title: 'Gjeldstjeneste som andel av eksport av varer og tjenester'
+17-5-1-title: 'Antall land som vedtar og implementerer investeringsfremmende regimer
+  for minst utviklede land'
+17-6-1-title: 'Antall vitenskapelige og / eller teknologiske samarbeidsavtaler og
+  programmer mellom land, etter type samarbeid'
+17-6-2-title: 'Faste bredbåndsabonnementer på Internett per 100 innbyggere, etter
+  hastighet'
+17-7-1-title: 'Total godkjent finansiering for utviklingsland for å fremme utvikling,
+  overføring, formidling og spredning av miljøvennlige teknologier'
+17-8-1-title: 'Andel av enkeltpersoner som bruker Internett'
+17-9-1-title: 'Dollarverdi av økonomisk og teknisk assistanse (inkludert gjennom nord-sør,
+  sør-sør og trekantet samarbeid) forpliktet til utviklingsland'
+2-1-1-title: 'Utbredelse av underernæring'
+2-1-2-title: 'Forekomst av moderat eller alvorlig matusikkerhet i befolkningen, basert
+  på Food Insecurity Experience Scale (FIES)'
+2-2-1-title: 'Utbredelse av stunting (høyde for alder <-2 standardavvik fra medianen
+  til Verdens helseorganisasjon (WHO) vekststandarder for barn) blant barn under 5
+  år'
+2-2-2-title: 'Forekomst av underernæring (vekt for høyde> +2 eller <-2 standardavvik
+  fra medianen til WHOs vekststandarder for barn) blant barn under 5 år, etter type
+  (sløsing og overvekt)'
+2-3-1-title: 'Produksjonsvolum per arbeidsenhet etter klasser av oppdrett / pastoral
+  / skogbruk foretaksstørrelse'
+2-3-2-title: 'Gjennomsnittsinntekt for småskalaprodusenter, etter kjønn og urfolksstatus'
+2-4-1-title: 'Andel jordbruksareal under produktivt og bærekraftig jordbruk'
+2-5-1-title: 'Antall genetiske ressurser fra planter og dyr for mat og jordbruk som
+  er sikret i mellom- eller langsiktige bevaringsanlegg'
+2-5-2-title: 'Andel av lokale raser klassifisert som utsatt, ikke i fare eller på
+  ukjent nivå av risiko for utryddelse'
+2-a-1-title: 'Jordbruksorienteringsindeksen for offentlige utgifter'
+2-a-2-title: 'Totale offisielle strømmer (offisiell bistand pluss andre offisielle
+  strømmer) til landbrukssektoren'
+2-b-1-title: 'Landbrukets eksportstøtte'
+2-c-1-title: 'Indikator for matvareprisavvik'
+3-1-1-title: 'Mødredødelighetsgrad'
+3-1-2-title: 'Andel fødsler med dyktig helsepersonell'
+3-2-1-title: 'Dødelighetsgrad under fem år'
+3-2-2-title: 'Nyfødt dødelighet'
+3-3-1-title: 'Antall nye HIV-infeksjoner per 1000 uinfiserte befolkninger, etter kjønn,
+  alder og nøkkelpopulasjoner'
+3-3-2-title: 'Tuberkulose forekomst per 100.000 innbyggere'
+3-3-3-title: 'Malaria-forekomst per 1000 innbyggere'
+3-3-4-title: 'Forekomst av hepatitt B per 100.000 innbyggere'
+3-3-5-title: 'Antall personer som trenger inngrep mot forsømte tropiske sykdommer'
+3-4-1-title: 'Dødeligheten tilskrevet hjerte- og karsykdommer, kreft, diabetes eller
+  kronisk luftveissykdom'
+3-4-2-title: 'Selvmordsdødelighet'
+3-5-1-title: 'Dekning av behandlingsintervensjoner (farmakologiske, psykososiale og
+  rehabiliterings- og ettervernstjenester) for rusmiddelforstyrrelser'
+3-5-2-title: 'Skadelig bruk av alkohol, definert i henhold til nasjonal sammenheng
+  som alkohol per innbygger (15 år og eldre) innen et kalenderår i liter ren alkohol'
+3-6-1-title: 'Dødsrate på grunn av trafikkskader'
+3-7-1-title: 'Andel kvinner i reproduktiv alder (15–49 år) som har behov for familieplanlegging
+  fornøyd med moderne metoder'
+3-7-2-title: 'Ungdoms fødselsrate (i alderen 10–14 år; i alderen 15–19 år) per 1000
+  kvinner i den aldersgruppen'
+3-8-1-title: 'Dekning av viktige helsetjenester (definert som gjennomsnittlig dekning
+  av viktige tjenester basert på sporingsintervensjoner som inkluderer reproduktiv,
+  mors, nyfødt og barns helse, smittsomme sykdommer, ikke-smittsomme sykdommer og
+  tjenestekapasitet og tilgang, blant den generelle og mest utsatte befolkningen )'
+3-8-2-title: 'Andel av befolkningen med store husholdningsutgifter til helse som andel
+  av husholdningens totale utgifter eller inntekt'
+3-9-1-title: 'Dødeligheten tilskrives luftforurensning i husholdningene og omgivelsene'
+3-9-2-title: 'Dødelighetsgrad som tilskrives usikkert vann, usikkert sanitær og mangel
+  på hygiene (eksponering for usikkert vann, sanitær og hygiene for alle (WASH) tjenester)'
+3-9-3-title: 'Dødeligheten tilskrives utilsiktet forgiftning'
+3-a-1-title: 'Aldersstandardisert utbredelse av dagens tobakksbruk blant personer
+  i alderen 15 år og eldre'
+3-b-1-title: 'Andel av målpopulasjonen dekket av alle vaksiner som er inkludert i
+  deres nasjonale program'
+3-b-2-title: 'Total netto offisiell bistand til medisinsk forskning og grunnleggende
+  helsesektorer'
+3-b-3-title: 'Andel helsefasiliteter som har et kjernesett av relevante viktige medisiner
+  tilgjengelig og rimelig på bærekraftig basis'
+3-c-1-title: 'Helsetjenestetetthet og fordeling'
+3-d-1-title: 'International Health Regulations (IHR) kapasitet og helseberedskap'
+4-1-1-title: 'Andel barn og unge (a) i klasse 2/3; (b) på slutten av grunnskolen;
+  og (c) på slutten av ungdomstrinnet oppnå minst et minimum ferdighetsnivå i (i)
+  lesing og (ii) matematikk, etter kjønn'
+4-2-1-title: 'Andel barn under 5 år som er utviklingsmessig på sporet innen helse,
+  læring og psykososialt velvære, etter kjønn'
+4-2-2-title: 'Deltakelse i organisert læring (ett år før den offisielle primæralderen),
+  etter kjønn'
+4-3-1-title: 'Deltakelse for ungdom og voksne i formell og ikke-formell utdannelse
+  de siste 12 månedene, etter kjønn'
+4-4-1-title: 'Andel ungdom og voksne med IKT-ferdigheter, etter type ferdigheter'
+4-5-1-title: 'Paritetsindekser (kvinnelig / mannlig, landlig / urban, rikdomskvintil
+  i bunn / topp og andre som funksjonshemningsstatus, urfolk og konfliktrammede, etter
+  hvert som data blir tilgjengelige) for alle utdanningsindikatorer på denne listen
+  som kan skilles opp'
+4-6-1-title: 'Andel av befolkningen i en gitt aldersgruppe som oppnår minst et fast
+  nivå av ferdigheter i funksjonell (a) leseferdighet og (b) regneferdigheter, etter
+  kjønn'
+4-7-1-title: 'I hvilken utstrekning (i) global statsborgeropplæring og (ii) utdanning
+  for bærekraftig utvikling, inkludert likestilling og menneskerettigheter, er integrert
+  på alle nivåer i (a) nasjonal utdanningspolitikk; (b) læreplaner; (c) lærerutdanning;
+  og (d) studentvurdering'
+4-a-1-title: 'Andel av skoler med tilgang til (a) strøm; (b) Internett for pedagogiske
+  formål; (c) datamaskiner for pedagogiske formål; (d) tilpasset infrastruktur og
+  materiale for studenter med funksjonshemninger, (e) grunnleggende drikkevann, (f)
+  grunnleggende sanitetsanlegg for enkeltkjønn; og (g) grunnleggende håndvaskanlegg
+  (i henhold til definisjonene av WASH-indikatoren)'
+4-b-1-title: 'Volum av offisiell bistandsstrøm for stipend etter sektor og studietype'
+4-c-1-title: 'Andel lærere i: (a) førskole; (b) primær; (c) lavere sekundær; og (d)
+  videregående opplæring som har fått minst den minste organiserte lærerutdanningen
+  (f.eks. pedagogisk opplæring) før eller etter behov for undervisning på det aktuelle
+  nivået i et gitt land'
+5-1-1-title: 'Hvorvidt juridiske rammer er på plass for å fremme, håndheve og overvåke
+  likestilling og ikke-diskriminering på grunnlag av kjønn'
+5-2-1-title: 'Andel av stadig samarbeidende kvinner og jenter i alderen 15 år og eldre
+  utsatt for fysisk, seksuell eller psykologisk vold av en nåværende eller tidligere
+  intim partner de siste 12 månedene, etter form av vold og etter alder'
+5-2-2-title: 'Andel kvinner og jenter på 15 år og eldre utsatt for seksuell vold av
+  andre enn en intim partner de siste 12 månedene, etter alder og sted for forekomst'
+5-3-1-title: 'Andel kvinner i alderen 20–24 år som var gift eller i fagforening før
+  15 år og før 18 år'
+5-3-2-title: 'Andel jenter og kvinner i alderen 15–49 år som har gjennomgått kjønnslemlestelse
+  / kutting av kvinner, etter alder'
+5-4-1-title: 'Andel tid brukt på ulønnet hus- og omsorgsarbeid, etter kjønn, alder
+  og sted'
+5-5-1-title: 'Andel seter holdt av kvinner i (a) nasjonale parlamenter og (b) lokale
+  myndigheter'
+5-5-2-title: 'Andel kvinner i lederstillinger'
+5-6-1-title: 'Andel kvinner i alderen 15–49 år som tar egne informerte beslutninger
+  om seksuelle forhold, prevensjonsbruk og reproduktiv helsehjelp'
+5-6-2-title: 'Antall land med lover og forskrifter som garanterer full og like tilgang
+  til kvinner og menn i alderen 15 år og eldre til seksuell og reproduktiv helse,
+  informasjon og utdanning'
+5-a-1-title: '(a) Andel av den totale jordbruksbefolkningen med eierskap eller sikre
+  rettigheter over jordbruksarealer, etter kjønn; og (b) andel kvinner blant eiere
+  eller rettighetshavere av jordbruksareal, etter type ansettelse'
+5-a-2-title: 'Andel av land der det juridiske rammeverket (inkludert sedvanerett)
+  garanterer kvinners like rett til tomteeierskap og / eller kontroll'
+5-b-1-title: 'Andel av personer som eier en mobiltelefon, etter kjønn'
+5-c-1-title: 'Andel av land med systemer for å spore og offentliggjøre bevilgninger
+  for likestilling og kvinnestyrke'
+6-1-1-title: 'Andel av befolkningen som bruker trygt forvaltede drikkevannstjenester'
+6-2-1-title: 'Andel av befolkningen som bruker trygt forvaltede sanitærtjenester,
+  inkludert et håndvaskanlegg med såpe og vann'
+6-3-1-title: 'Andel avløpsvann behandlet trygt'
+6-3-2-title: 'Andel vannmasser med god omgivende vannkvalitet'
+6-4-1-title: 'Endring i vannbrukseffektivitet over tid'
+6-4-2-title: 'Vannstressnivå: ferskvannsuttak som andel av tilgjengelige ferskvannsressurser'
+6-5-1-title: 'Grad av integrert forvaltning av vannressurser (0 til 100)'
+6-5-2-title: 'Andel av grenseoverskridende bassengområde med operasjonell ordning
+  for vannsamarbeid'
+6-6-1-title: 'Endring i omfanget av vannrelaterte økosystemer over tid'
+6-a-1-title: 'Mengde vann- og sanitærrelatert offisiell bistand som er en del av en
+  regjeringskoordinert utgiftsplan'
+6-b-1-title: 'Andel av lokale administrative enheter med etablerte og operasjonelle
+  retningslinjer og prosedyrer for lokalsamfunnens deltakelse i forvaltning av vann
+  og sanitæranlegg'
+7-1-1-title: 'Andel av befolkningen med tilgang til strøm'
+7-1-2-title: 'Andel av befolkningen med primær avhengighet av rene drivstoff og teknologi'
+7-2-1-title: 'Fornybar energi andel av det totale endelige energiforbruket'
+7-3-1-title: 'Energiintensitet målt i primærenergi og BNP'
+7-a-1-title: 'Internasjonale økonomiske strømmer til utviklingsland for støtte til
+  forskning og utvikling av ren energi og produksjon av fornybar energi, inkludert
+  i hybridsystemer'
+7-b-1-title: 'Investeringer i energieffektivitet som andel av BNP og mengden direkte
+  utenlandske investeringer i økonomisk overføring av infrastruktur og teknologi til
+  bærekraftige utviklingstjenester'
+8-1-1-title: 'Årlig vekstrate av real BNP per innbygger'
+8-10-1-title: '(a) Antall kommersielle bankfilialer per 100 000 voksne og (b) antall
+  automatiske kassamaskiner (minibanker) per 100 000 voksne'
+8-10-2-title: 'Andel voksne (15 år og eldre) med en konto i en bank eller annen finansinstitusjon
+  eller hos en mobilpenger-tjenesteleverandør'
+8-2-1-title: 'Årlig vekst av real BNP per sysselsatt'
+8-3-1-title: 'Andel uformell sysselsetting i sysselsetting uten jordbruk, etter kjønn'
+8-4-1-title: 'Materiell fotavtrykk, materiell fotavtrykk per innbygger og materiell
+  fotavtrykk per BNP'
+8-4-2-title: 'Innenriks materialforbruk, innenlandsk materialforbruk per innbygger
+  og innenlandsk materialforbruk per BNP'
+8-5-1-title: 'Gjennomsnittlig timelønn for kvinnelige og mannlige ansatte, etter yrke,
+  alder og funksjonshemmede'
+8-5-2-title: 'Arbeidsledighet, etter kjønn, alder og personer med nedsatt funksjonsevne'
+8-6-1-title: 'Andel ungdom (i alderen 15–24 år) som ikke er i utdanning, arbeid eller
+  opplæring'
+8-7-1-title: 'Andel og antall barn i alderen 5–17 år som arbeider med barnearbeid,
+  etter kjønn og alder'
+8-8-1-title: 'Hyppighet av dødelige og ikke-dødelige yrkesskader, etter kjønn og innvandrerstatus'
+8-8-2-title: 'Nivå for nasjonal overholdelse av arbeidstakerrettigheter (foreningsfrihet
+  og kollektive forhandlinger) basert på International Labour Organization (ILO) tekstkilder
+  og nasjonal lovgivning, etter kjønn og innvandrerstatus'
+8-9-1-title: 'Turisme direkte BNP som andel av total BNP og i vekstrate'
+8-9-2-title: 'Andel arbeidsplasser i bærekraftige turistnæringer av totale turistjobber'
+8-a-1-title: 'Støtte til handelsforpliktelser og utbetalinger'
+8-b-1-title: 'Eksistensen av en utviklet og operasjonalisert nasjonal strategi for
+  ungdomsarbeid, som en distinkt strategi eller som en del av en nasjonal sysselsettingsstrategi'
+9-1-1-title: 'Andel av landbefolkningen som bor innen 2 km fra en helårsvei'
+9-1-2-title: 'Passasjer- og godsvolum, etter transportmåte'
+9-2-1-title: 'Produksjonsverdi som andel av BNP og innbygger'
+9-2-2-title: 'Produserende sysselsetting som andel av total sysselsetting'
+9-3-1-title: 'Andel småindustrier i samlet næringsverdi'
+9-3-2-title: 'Andel av småindustrier med lån eller kredittlinje'
+9-4-1-title: 'CO2-utslipp per enhet av merverdi'
+9-5-1-title: 'Forsknings- og utviklingsutgifter som andel av BNP'
+9-5-2-title: 'Forskere (i heltid) per million innbyggere'
+9-a-1-title: 'Total offisiell internasjonal støtte (offisiell bistand pluss andre
+  offisielle strømmer) til infrastruktur'
+9-b-1-title: 'Andel av mellom- og høyteknologisk næringsverdi i samlet merverdi'
+9-c-1-title: 'Andel av befolkningen dekket av et mobilnett, etter teknologi'
+4-1-2-title: Fullføringsgrad (grunnskole, videregående opplæring, videregående opplæring)
+3-d-2-title: Andel blodstrøminfeksjoner på grunn av utvalgte antimikrobielle resistente
+  organismer
+2-2-3-title: Forekomsten av anemi hos kvinner i alderen 15 til 49 år, etter graviditetsstatus
+  (prosent)
+16-3-3-title: Andel av befolkningen som har opplevd en tvist de siste to årene og
+  som har tilgang til en formell eller uformell mekanisme for tvisteløsning, etter
+  type mekanisme
+13-2-2-title: Totale klimagassutslipp per år
+10-7-4-title: Andel av befolkningen som er flyktninger, etter opprinnelsesland
+10-7-3-title: Antall mennesker som døde eller forsvant i migrasjonsprosessen mot et
+  internasjonalt reisemål
+10-4-2-title: Omfordelingseffekt av finanspolitikken

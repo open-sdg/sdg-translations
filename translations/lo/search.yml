@@ -1,0 +1,12 @@
+search: 'ຄົ້ນຫາ'
+# This refers to a section of the site for performing keyword searches to find particular indicators
+indicator_search: 'ຄົ້ນຫາຕົວຊີ້ວັດ'
+# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
+search_results_for: 'ຜົນການຄົ້ນຫາ ສຳ ລັບ'
+found_in: 'ພົບໃນ'
+keywords: 'ຄຳ ສຳ ຄັນ'
+# A message for the user - after they have performed an online search - to indicate that their search produced no results
+no_results: 'ບໍ່ມີຜົນໄດ້ຮັບ'
+did_you_mean: 'ເຈົ້າຫມາຍຄວາມວ່າ'
+results_found: 'ຜົນໄດ້ຮັບທີ່ພົບເຫັນ'
+adjust_your_search: ລອງປັບການຄົ້ນຫາຂອງທ່ານເພື່ອຊອກຫາສິ່ງທີ່ທ່ານ ກຳ ລັງຊອກຫາ.

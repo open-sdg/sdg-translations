@@ -1,0 +1,13 @@
+search: 'खोज'
+# This refers to a section of the site for performing keyword searches to find particular indicators
+indicator_search: 'सूचक खोजी'
+# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
+search_results_for: 'को लागी खोज परिणामहरु'
+found_in: 'भेटियो'
+keywords: 'कीवर्डहरू'
+# A message for the user - after they have performed an online search - to indicate that their search produced no results
+no_results: 'कुनै परिणाम'
+did_you_mean: 'तपाईको मतलब हो'
+results_found: 'परिणामहरू भेटिए'
+adjust_your_search: तपाईले खोजिरहनु भएको खोजी गर्न तपाईको खोज समायोजन गर्ने प्रयास
+  गर्नुहोस्।

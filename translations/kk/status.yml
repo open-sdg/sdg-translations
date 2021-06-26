@@ -14,3 +14,4 @@ disaggregation_status_notstarted: 'Бөлінген жоқ'
 disaggregation_status_notapplicable: 'Қолданылу аясынан тыс'
 disaggregation_status_by_field: '% Өрісі бойынша бөлу'
 not_specified: Белгілі емес
+reported: Хабарланды

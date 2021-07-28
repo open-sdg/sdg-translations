@@ -39,3 +39,7 @@ service_purpose: purpose
 service_purposes: purposes
 service_required_description: This services is always required
 service_required_title: (always required)
+contrast_description: Retains active state of accessibility services
+contrast_title: Accessibility mode
+google_analytics_description: Sends information about page visits to Google for analysis
+google_analytics_title: Google Analytics

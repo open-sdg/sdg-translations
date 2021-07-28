@@ -1,8 +1,8 @@
 exploring_data_sources: Explorando fuentes de datos
 overall_reporting_status: Estado general de informes
-reported_online: Reportado en línea
+reported_online: Informado en línea
 reporting_status: Estado de informes
-statistics_in_progress: Estadísticas en progreso
+statistics_in_progress: Estadísticas en desarrollo
 not_applicable: No aplicable
 status_by_goal: Estados por objetivos
 status_by_field: Estado por %field
@@ -15,3 +15,5 @@ disaggregation_status_notapplicable: 'Fuera de alcance'
 disaggregation_status_by_field: 'Desagregación por %field'
 not_specified: Sin especificar
 reported: Reportado
+description: El estado de los informes proporciona una visión general de la cantidad
+  de datos de los Objetivos de Desarrollo Sostenible (ODS) que %name reporta.

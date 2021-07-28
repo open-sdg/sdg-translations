@@ -1,169 +1,521 @@
-1-1-title: ''
-1-2-title: ''
-1-3-title: ''
-1-4-title: ''
-1-5-title: ''
-1-a-title: ''
-1-b-title: ''
-10-1-title: ''
-10-2-title: ''
-10-3-title: ''
-10-4-title: ''
-10-5-title: ''
-10-6-title: ''
-10-7-title: ''
-10-a-title: ''
-10-b-title: ''
-10-c-title: ''
-11-1-title: ''
-11-2-title: ''
-11-3-title: ''
-11-4-title: ''
-11-5-title: ''
-11-6-title: ''
-11-7-title: ''
-11-a-title: ''
-11-b-title: ''
-11-c-title: ''
-12-1-title: ''
-12-2-title: ''
-12-3-title: ''
-12-4-title: ''
-12-5-title: ''
-12-6-title: ''
-12-7-title: ''
-12-8-title: ''
-12-a-title: ''
-12-b-title: ''
-12-c-title: ''
-13-1-title: ''
-13-2-title: ''
-13-3-title: ''
-13-a-title: ''
-13-b-title: ''
-14-1-title: ''
-14-2-title: ''
-14-3-title: ''
-14-4-title: ''
-14-5-title: ''
-14-6-title: ''
-14-7-title: ''
-14-a-title: ''
-14-b-title: ''
-14-c-title: ''
-15-1-title: ''
-15-2-title: ''
-15-3-title: ''
-15-4-title: ''
-15-5-title: ''
-15-6-title: ''
-15-7-title: ''
-15-8-title: ''
-15-9-title: ''
-15-a-title: ''
-15-b-title: ''
-15-c-title: ''
-16-1-title: ''
-16-10-title: ''
-16-2-title: ''
-16-3-title: ''
-16-4-title: ''
-16-5-title: ''
-16-6-title: ''
-16-7-title: ''
-16-8-title: ''
-16-9-title: ''
-16-a-title: ''
-16-b-title: ''
-17-1-title: ''
-17-10-title: ''
-17-11-title: ''
-17-12-title: ''
-17-13-title: ''
-17-14-title: ''
-17-15-title: ''
-17-16-title: ''
-17-17-title: ''
-17-18-title: ''
-17-19-title: ''
-17-2-title: ''
-17-3-title: ''
-17-4-title: ''
-17-5-title: ''
-17-6-title: ''
-17-7-title: ''
-17-8-title: ''
-17-9-title: ''
-2-1-title: ''
-2-2-title: ''
-2-3-title: ''
-2-4-title: ''
-2-5-title: ''
-2-a-title: ''
-2-b-title: ''
-2-c-title: ''
-3-1-title: ''
-3-2-title: ''
-3-3-title: ''
-3-4-title: ''
-3-5-title: ''
-3-6-title: ''
-3-7-title: ''
-3-8-title: ''
-3-9-title: ''
-3-a-title: ''
-3-b-title: ''
-3-c-title: ''
-3-d-title: ''
-4-1-title: ''
-4-2-title: ''
-4-3-title: ''
-4-4-title: ''
-4-5-title: ''
-4-6-title: ''
-4-7-title: ''
-4-a-title: ''
-4-b-title: ''
-4-c-title: ''
-5-1-title: ''
-5-2-title: ''
-5-3-title: ''
-5-4-title: ''
-5-5-title: ''
-5-6-title: ''
-5-a-title: ''
-5-b-title: ''
-5-c-title: ''
-6-1-title: ''
-6-2-title: ''
-6-3-title: ''
-6-4-title: ''
-6-5-title: ''
-6-6-title: ''
-6-a-title: ''
-6-b-title: ''
-7-1-title: ''
-7-2-title: ''
-7-3-title: ''
-7-a-title: ''
-7-b-title: ''
-8-1-title: ''
-8-10-title: ''
-8-2-title: ''
-8-3-title: ''
-8-4-title: ''
-8-5-title: ''
-8-6-title: ''
-8-7-title: ''
-8-8-title: ''
-8-9-title: ''
-8-a-title: ''
-8-b-title: ''
-9-1-title: ''
-9-2-title: ''
-9-3-title: ''
-9-4-title: ''
-9-5-title: ''
-9-a-title: ''
-9-b-title: ''
-9-c-title: ''
+1-1-title: '2030''a kadar, şu anda insanlar günde 1,25 doların altında bir gelirle
+  geçinen insanlar olarak ölçülen, her yerde tüm insanlar için aşırı yoksulluğu ortadan
+  kaldırmak.'
+1-2-title: '2030 yılına kadar, ulusal tanımlara göre tüm boyutlarıyla yoksulluk içinde
+  yaşayan her yaştan erkek, kadın ve çocukların oranını en az yarı yarıya azaltmak'
+1-3-title: 'Katlar da dahil olmak üzere herkes için ulusal olarak uygun sosyal koruma
+  sistemlerini ve önlemlerini uygulayın ve 2030 yılına kadar yoksulları ve savunmasız
+  kişileri önemli ölçüde kapsama alın'
+1-4-title: '2030''a kadar, başta yoksullar ve savunmasız olanlar olmak üzere tüm erkek
+  ve kadınların, ekonomik kaynaklar, temel hizmetlere erişim, toprak ve diğer mülkiyet
+  biçimleri, miras, doğal kaynaklar, uygun koşullar üzerinde mülkiyet ve kontrole
+  erişim konusunda eşit haklara sahip olmasını sağlayın. mikrofinans dahil yeni teknoloji
+  ve finansal hizmetler'
+1-5-title: '2030''a kadar, yoksulların ve savunmasız durumdakilerin direncini artırmak
+  ve iklimle ilgili aşırı olaylara ve diğer ekonomik, sosyal ve çevresel şoklara ve
+  afetlere maruz kalmalarını ve kırılganlıklarını azaltmak'
+1-a-title: 'Gelişmekte olan ülkelere, özellikle en az gelişmiş ülkelere yeterli ve
+  öngörülebilir araçlar sağlamak, yoksulluğu tüm boyutlarıyla sona erdirmek için programlar
+  ve politikalar uygulamak için, gelişmiş kalkınma işbirliği de dahil olmak üzere
+  çeşitli kaynaklardan kaynakların önemli ölçüde seferber edilmesini sağlamak'
+1-b-title: 'Yoksulluğun ortadan kaldırılması eylemlerinde hızlandırılmış yatırımı
+  desteklemek için, ulusal, bölgesel ve uluslararası düzeylerde, yoksul yanlısı ve
+  cinsiyete duyarlı kalkınma stratejilerine dayalı sağlam politika çerçeveleri oluşturun.'
+10-1-title: '2030 yılına kadar, nüfusun en alt yüzde 40''lık kesiminin gelir artışını
+  ulusal ortalamanın üzerinde bir oranda kademeli olarak elde etmek ve sürdürmek'
+10-2-title: '2030''a kadar, yaş, cinsiyet, engellilik, ırk, etnik köken, köken, din
+  veya ekonomik veya diğer statüye bakılmaksızın herkesin sosyal, ekonomik ve politik
+  olarak kapsanmasını güçlendirmek ve teşvik etmek'
+10-3-title: 'Ayrımcı yasaları, politikaları ve uygulamaları ortadan kaldırmak ve bu
+  bağlamda uygun yasaları, politikaları ve eylemleri teşvik etmek de dahil olmak üzere
+  fırsat eşitliğini sağlamak ve sonuç eşitsizliklerini azaltmak'
+10-4-title: 'Politikaları, özellikle maliye, ücret ve sosyal koruma politikalarını
+  benimsemek ve kademeli olarak daha fazla eşitlik elde etmek'
+10-5-title: 'Küresel finans piyasalarının ve kurumlarının düzenlenmesini ve izlenmesini
+  iyileştirmek ve bu tür düzenlemelerin uygulanmasını güçlendirmek'
+10-6-title: 'Daha etkili, güvenilir, hesap verebilir ve meşru kurumlar sunmak için
+  küresel uluslararası ekonomik ve finansal kurumlarda karar alma süreçlerinde gelişmekte
+  olan ülkelerin daha fazla temsil ve söz sahibi olmasını sağlamak'
+10-7-title: 'Planlı ve iyi yönetilen göç politikalarının uygulanması da dahil olmak
+  üzere, insanların düzenli, güvenli, düzenli ve sorumlu göçünü ve hareketliliğini
+  kolaylaştırmak'
+10-a-title: 'Dünya Ticaret Örgütü anlaşmalarına uygun olarak, özellikle en az gelişmiş
+  ülkeler olmak üzere, gelişmekte olan ülkeler için özel ve farklı muamele ilkesini
+  uygulamak'
+10-b-title: 'Ulusal plan ve programlarına uygun olarak, özellikle en az gelişmiş ülkeler,
+  Afrika ülkeleri, gelişmekte olan küçük ada Devletleri ve denize kıyısı olmayan gelişmekte
+  olan ülkeler olmak üzere, ihtiyacın en fazla olduğu Devletlere, doğrudan yabancı
+  yatırım da dahil olmak üzere, resmi kalkınma yardımını ve mali akışları teşvik etmek'
+10-c-title: '2030''a kadar göçmen havalelerinin işlem maliyetlerini yüzde 3''ün altına
+  düşürmek ve maliyetleri yüzde 5''ten yüksek olan havale koridorlarını ortadan kaldırmak'
+11-1-title: '2030 yılına kadar herkesin yeterli, güvenli ve uygun fiyatlı konutlara
+  ve temel hizmetlere erişiminin sağlanması ve gecekondu mahallelerinin iyileştirilmesi'
+11-2-title: '2030''a kadar, herkes için güvenli, uygun fiyatlı, erişilebilir ve sürdürülebilir
+  ulaşım sistemlerine erişim sağlamak, özellikle toplu taşımayı genişleterek, savunmasız
+  durumdakilerin, kadınların, çocukların, engellilerin ve yaşlıların ihtiyaçlarına
+  özel dikkat göstererek yol güvenliğini artırmak'
+11-3-title: '2030''a kadar, tüm ülkelerde kapsayıcı ve sürdürülebilir kentleşmenin
+  ve katılımcı, entegre ve sürdürülebilir insan yerleşimi planlaması ve yönetimi için
+  kapasitenin geliştirilmesi'
+11-4-title: 'Dünyanın kültürel ve doğal mirasını koruma ve muhafaza etme çabalarını
+  güçlendirmek'
+11-5-title: '2030 yılına kadar, yoksulları ve savunmasız durumdaki insanları korumaya
+  odaklanarak, suyla ilgili afetler de dahil olmak üzere afetlerin neden olduğu küresel
+  gayri safi yurtiçi hasılaya göre ölümlerin ve etkilenen insan sayısının önemli ölçüde
+  azaltılması ve doğrudan ekonomik kayıpların önemli ölçüde azaltılması'
+11-6-title: '2030 yılına kadar, hava kalitesine ve belediye ve diğer atık yönetimine
+  özel önem vererek, şehirlerin kişi başına olumsuz çevresel etkilerini azaltmak'
+11-7-title: '2030 yılına kadar, özellikle kadınlar ve çocuklar, yaşlılar ve engelliler
+  için güvenli, kapsayıcı ve erişilebilir, yeşil ve kamusal alanlara evrensel erişim
+  sağlamak'
+11-a-title: 'Ulusal ve bölgesel kalkınma planlamasını güçlendirerek kentsel, kentsel
+  çevre ve kırsal alanlar arasındaki olumlu ekonomik, sosyal ve çevresel bağlantıları
+  desteklemek'
+11-b-title: '2020 yılına kadar, Sendai Afet Riski Çerçevesi doğrultusunda kapsayıcılık,
+  kaynak verimliliği, iklim değişikliğinin azaltılması ve iklim değişikliğine uyum,
+  afetlere karşı dayanıklılığa yönelik entegre politikalar ve planlar benimseyen ve
+  uygulayan şehirlerin ve insan yerleşimlerinin sayısını önemli ölçüde artırmak ve
+  geliştirmek ve uygulamak Azaltma 2015-2030, her düzeyde bütünsel afet risk yönetimi'
+11-c-title: 'Yerel malzemeler kullanılarak sürdürülebilir ve dayanıklı binalar inşa
+  etmede mali ve teknik yardım da dahil olmak üzere en az gelişmiş ülkeleri desteklemek'
+12-1-title: 'Sürdürülebilir Tüketim ve Üretim Modellerine İlişkin 10 Yıllık Program
+  Çerçevesini, gelişmekte olan ülkelerin gelişme ve yeteneklerini dikkate alarak,
+  gelişmiş ülkeler başta olmak üzere tüm ülkeler harekete geçerek uygulamak'
+12-2-title: '2030 yılına kadar doğal kaynakların sürdürülebilir yönetimini ve verimli
+  kullanımını sağlamak'
+12-3-title: '2030 yılına kadar perakende ve tüketici seviyelerinde kişi başına düşen
+  küresel gıda israfını yarıya indirmek ve hasat sonrası kayıplar da dahil olmak üzere
+  üretim ve tedarik zincirleri boyunca gıda kayıplarını azaltmak'
+12-4-title: '2020 yılına kadar, kimyasalların ve tüm atıkların yaşam döngüleri boyunca,
+  üzerinde mutabık kalınan uluslararası çerçevelere uygun olarak çevresel açıdan sağlıklı
+  bir şekilde yönetilmesini sağlamak ve insan sağlığı ve çevre üzerindeki olumsuz
+  etkilerini en aza indirmek için havaya, suya ve toprağa salınımlarını önemli ölçüde
+  azaltmak'
+12-5-title: '2030 yılına kadar önleme, azaltma, geri dönüşüm ve yeniden kullanım yoluyla
+  atık üretimini önemli ölçüde azaltmak'
+12-6-title: 'Şirketleri, özellikle büyük ve ulusötesi şirketleri, sürdürülebilir uygulamaları
+  benimsemeye ve sürdürülebilirlik bilgilerini raporlama döngülerine entegre etmeye
+  teşvik edin.'
+12-7-title: 'Ulusal politikalara ve önceliklere uygun olarak sürdürülebilir kamu alımları
+  uygulamalarını teşvik etmek'
+12-8-title: '2030''a kadar, her yerde insanların sürdürülebilir kalkınma ve doğayla
+  uyumlu yaşam tarzları için gerekli bilgi ve farkındalığa sahip olmasını sağlamak'
+12-a-title: 'Gelişmekte olan ülkeleri, daha sürdürülebilir tüketim ve üretim kalıplarına
+  doğru ilerlemek için bilimsel ve teknolojik kapasitelerini güçlendirmeleri için
+  destekleyin.'
+12-b-title: 'İstihdam yaratan ve yerel kültür ve ürünleri teşvik eden sürdürülebilir
+  turizm için sürdürülebilir kalkınma etkilerini izlemek için araçlar geliştirmek
+  ve uygulamak'
+12-c-title: 'Ulusal koşullara uygun olarak, vergilendirmeyi yeniden yapılandırmak
+  ve mevcut olduklarında bu zararlı sübvansiyonları çevresel etkilerini yansıtacak
+  şekilde aşamalı olarak kaldırmak da dahil olmak üzere, ulusal koşullara uygun olarak,
+  özel ihtiyaçları ve gelişmekte olan ülkelerin koşullarını ve kalkınmaları üzerindeki
+  olası olumsuz etkileri yoksulları ve etkilenen toplulukları koruyacak şekilde en
+  aza indirgemek'
+13-1-title: 'Tüm ülkelerde iklimle ilgili tehlikelere ve doğal afetlere karşı dayanıklılığı
+  ve uyum sağlama kapasitesini güçlendirmek'
+13-2-title: 'İklim değişikliği önlemlerini ulusal politikalara, stratejilere ve planlamaya
+  entegre edin'
+13-3-title: 'İklim değişikliğiyle mücadele, uyum, etki azaltma ve erken uyarı konularında
+  eğitim, bilinçlendirme ve insani ve kurumsal kapasiteyi geliştirmek'
+13-a-title: 'Gelişmiş ülke tarafları tarafından Birleşmiş Milletler İklim Değişikliği
+  Çerçeve Sözleşmesine üstlenilen taahhüdü, anlamlı azaltma eylemleri ve uygulamada
+  şeffaflık bağlamında gelişmekte olan ülkelerin ihtiyaçlarını karşılamak için tüm
+  kaynaklardan 2020 yılına kadar ortaklaşa yıllık 100 milyar doları harekete geçirme
+  hedefine uygulamak ve mümkün olan en kısa sürede aktifleştirilmesi yoluyla Yeşil
+  İklim Fonu''nu tam olarak faaliyete geçirmek'
+13-b-title: 'Kadınlara, gençlere ve yerel ve marjinal topluluklara odaklanma dahil
+  olmak üzere, en az gelişmiş ülkelerde ve gelişmekte olan küçük ada devletlerinde
+  iklim değişikliği ile ilgili etkili planlama ve yönetim için kapasite artırma mekanizmalarını
+  teşvik etmek'
+14-1-title: '2025 yılına kadar, özellikle deniz atıkları ve besin kirliliği dahil
+  olmak üzere kara kaynaklı faaliyetlerden kaynaklanan her türlü deniz kirliliğini
+  önleyin ve önemli ölçüde azaltın.'
+14-2-title: '2020 yılına kadar, deniz ve kıyı ekosistemlerini, dayanıklılıklarını
+  güçlendirmek de dahil olmak üzere önemli olumsuz etkilerden kaçınmak için sürdürülebilir
+  bir şekilde yönetin ve koruyun ve sağlıklı ve üretken okyanuslar elde etmek için
+  restorasyonları için harekete geçin.'
+14-3-title: 'Her düzeyde geliştirilmiş bilimsel işbirliği dahil olmak üzere, okyanus
+  asitlenmesinin etkilerini en aza indirin ve ele alın'
+14-4-title: '2020 yılına kadar, balık stoklarını mümkün olan en kısa sürede, en azından
+  maksimum sürdürülebilir verim üretebilecek seviyelere geri getirmek için hasadı
+  etkin bir şekilde düzenlemek ve aşırı avlanma, yasadışı, bildirilmeyen ve düzenlenmemiş
+  balıkçılık ve yıkıcı balıkçılık uygulamalarına son vermek ve bilime dayalı yönetim
+  planlarını uygulamak. biyolojik özellikleri tarafından belirlendiği gibi'
+14-5-title: '2020 yılına kadar, ulusal ve uluslararası hukuka uygun olarak ve mevcut
+  en iyi bilimsel bilgilere dayanarak kıyı ve deniz alanlarının en az yüzde 10''unun
+  korunması'
+14-6-title: '2020 yılına kadar, kapasite fazlası ve aşırı avlanmaya katkıda bulunan
+  bazı balıkçılık sübvansiyonlarının yasaklanması, yasadışı, bildirilmeyen ve düzenlenmemiş
+  balıkçılığa katkıda bulunan sübvansiyonların kaldırılması ve gelişmekte olan ve
+  en az gelişmiş ülkeler için uygun ve etkili özel ve farklı muamelenin kabul edildiğinin
+  bilincinde olarak bu tür yeni sübvansiyonlar getirilmesinden kaçınılması Dünya Ticaret
+  Örgütü balıkçılık sübvansiyonları müzakeresinin ayrılmaz bir parçası olmalıdır'
+14-7-title: '2030 yılına kadar, balıkçılık, su ürünleri yetiştiriciliği ve turizmin
+  sürdürülebilir yönetimi de dahil olmak üzere, deniz kaynaklarının sürdürülebilir
+  kullanımından gelişmekte olan küçük ada Devletlerine ve en az gelişmiş ülkelere
+  ekonomik faydaları artırmak'
+14-a-title: 'Okyanus sağlığını iyileştirmek ve deniz biyoçeşitliliğinin gelişmekte
+  olan ülkelerin kalkınmasına katkısını artırmak amacıyla, Hükümetlerarası Oşinografi
+  Komisyonu Kriterleri ve Deniz Teknolojilerinin Transferi Yönergelerini dikkate alarak
+  bilimsel bilgiyi artırmak, araştırma kapasitesini geliştirmek ve deniz teknolojisini
+  transfer etmek, özellikle gelişmekte olan küçük ada devletleri ve en az gelişmiş
+  ülkeler'
+14-b-title: 'Küçük ölçekli zanaatkar balıkçılar için deniz kaynaklarına ve pazarlarına
+  erişim sağlayın'
+14-c-title: 'Paragrafta hatırlatıldığı gibi okyanusların ve kaynaklarının korunması
+  ve sürdürülebilir kullanımı için yasal çerçeve sağlayan Birleşmiş Milletler Deniz
+  Hukuku Sözleşmesinde yansıtıldığı gibi uluslararası hukuku uygulayarak okyanusların
+  ve kaynaklarının korunmasını ve sürdürülebilir kullanımını geliştirmek "İstediğimiz
+  gelecek"in 158''i'
+15-1-title: '2020 yılına kadar, uluslararası anlaşmalar kapsamındaki yükümlülükler
+  doğrultusunda, özellikle ormanlar, sulak alanlar, dağlar ve kurak alanlar olmak
+  üzere karasal ve iç tatlı su ekosistemlerinin ve hizmetlerinin korunması, restorasyonu
+  ve sürdürülebilir kullanımının sağlanması'
+15-2-title: '2020 yılına kadar, her tür ormanda sürdürülebilir yönetimin uygulanmasını
+  teşvik etmek, ormansızlaşmayı durdurmak, bozulmuş ormanları eski haline getirmek
+  ve dünya çapında ağaçlandırma ve yeniden ağaçlandırmayı önemli ölçüde artırmak'
+15-3-title: '2030''a kadar, çölleşmeyle mücadele, çölleşme, kuraklık ve selden etkilenen
+  araziler de dahil olmak üzere bozulmuş arazi ve toprağı eski haline getirmek ve
+  arazi bozulmasının nötralize edildiği bir dünya elde etmek için çaba sarf etmek'
+15-4-title: '2030 yılına kadar, sürdürülebilir kalkınma için gerekli olan faydaları
+  sağlama kapasitelerini artırmak amacıyla biyolojik çeşitlilikleri de dahil olmak
+  üzere dağ ekosistemlerinin korunmasını sağlamak'
+15-5-title: 'Doğal yaşam alanlarının bozulmasını azaltmak, biyolojik çeşitlilik kaybını
+  durdurmak ve 2020 yılına kadar tehdit altındaki türlerin neslinin tükenmesini önlemek
+  ve korumak için acil ve önemli adımlar atın.'
+15-6-title: 'Genetik kaynakların kullanımından doğan faydaların adil ve hakkaniyetli
+  paylaşımını teşvik etmek ve uluslararası anlaşmaya varıldığı şekilde bu kaynaklara
+  uygun erişimi teşvik etmek'
+15-7-title: 'Korunan flora ve fauna türlerinin kaçakçılığını ve kaçakçılığını sona
+  erdirmek için acil eylemde bulunun ve yasa dışı vahşi yaşam ürünlerinin hem talebini
+  hem de arzını ele alın'
+15-8-title: '2020''ye kadar, istilacı yabancı türlerin kara ve su ekosistemleri üzerindeki
+  etkisini önemli ölçüde azaltmak ve girişini önlemek için önlemler alın ve öncelikli
+  türlerin kontrol edilmesi veya ortadan kaldırılması'
+15-9-title: '2020 yılına kadar ekosistem ve biyolojik çeşitlilik değerlerini ulusal
+  ve yerel planlama, kalkınma süreçleri, yoksulluğu azaltma stratejileri ve hesaplarına
+  entegre etmek'
+15-a-title: 'Biyoçeşitliliği ve ekosistemleri korumak ve sürdürülebilir bir şekilde
+  kullanmak için tüm kaynaklardan gelen finansal kaynakları harekete geçirin ve önemli
+  ölçüde artırın'
+15-b-title: 'Sürdürülebilir orman yönetimini finanse etmek için tüm kaynaklardan ve
+  her seviyeden önemli kaynakları harekete geçirmek ve koruma ve yeniden ağaçlandırma
+  dahil olmak üzere bu tür yönetimi ilerletmek için gelişmekte olan ülkelere yeterli
+  teşvikler sağlamak'
+15-c-title: 'Sürdürülebilir geçim fırsatlarını sürdürmek için yerel toplulukların
+  kapasitesini artırmak da dahil olmak üzere, korunan türlerin kaçak avcılığı ve kaçakçılığıyla
+  mücadele çabalarına yönelik küresel desteği artırmak'
+16-1-title: 'Her yerde her türlü şiddeti ve ilgili ölüm oranlarını önemli ölçüde azaltın'
+16-10-title: 'Ulusal mevzuat ve uluslararası anlaşmalar uyarınca halkın bilgiye erişimini
+  sağlamak ve temel özgürlükleri korumak'
+16-2-title: 'Çocuklara yönelik istismar, sömürü, insan ticareti ve her türlü şiddet
+  ve işkenceye son vermek'
+16-3-title: 'Ulusal ve uluslararası düzeyde hukukun üstünlüğünü teşvik etmek ve herkes
+  için adalete eşit erişim sağlamak'
+16-4-title: '2030 yılına kadar yasa dışı finans ve silah akışlarını önemli ölçüde
+  azaltın, çalınan varlıkların geri alınmasını ve iadesini güçlendirin ve her türlü
+  organize suçla mücadele edin.'
+16-5-title: 'Yolsuzluğun ve rüşvetin her türlüsünü önemli ölçüde azaltın'
+16-6-title: 'Her düzeyde etkili, hesap verebilir ve şeffaf kurumlar geliştirmek'
+16-7-title: 'Her düzeyde duyarlı, kapsayıcı, katılımcı ve temsili karar almayı sağlamak'
+16-8-title: 'Gelişmekte olan ülkelerin küresel yönetişim kurumlarına katılımını genişletmek
+  ve güçlendirmek'
+16-9-title: '2030''a kadar, doğum kaydı da dahil olmak üzere herkese yasal kimlik
+  sağlayın'
+16-a-title: 'Şiddeti önlemek ve terör ve suçla mücadele etmek için özellikle gelişmekte
+  olan ülkelerde her düzeyde kapasite oluşturmak için uluslararası işbirliği yoluyla
+  da dahil olmak üzere ilgili ulusal kurumları güçlendirmek'
+16-b-title: 'Sürdürülebilir kalkınma için ayrımcı olmayan yasaları ve politikaları
+  teşvik etmek ve uygulamak'
+17-1-title: 'Vergi ve diğer gelir tahsilatları için yerel kapasiteyi geliştirmek için
+  gelişmekte olan ülkelere uluslararası destek de dahil olmak üzere yerel kaynak seferberliğini
+  güçlendirmek'
+17-10-title: 'Doha Kalkınma Gündemi kapsamında müzakerelerin sonuçlandırılması da
+  dahil olmak üzere, Dünya Ticaret Örgütü kapsamında evrensel, kurallara dayalı, açık,
+  ayrımcı olmayan ve adil bir çok taraflı ticaret sistemini teşvik etmek'
+17-11-title: 'Özellikle en az gelişmiş ülkelerin küresel ihracattaki payını 2020 yılına
+  kadar iki katına çıkarmak amacıyla, gelişmekte olan ülkelerin ihracatlarını önemli
+  ölçüde artırmak'
+17-12-title: 'En az gelişmiş ülkelerden yapılan ithalatlara uygulanan tercihli menşe
+  kurallarının şeffaf ve basit olmasını sağlamak da dahil olmak üzere, Dünya Ticaret
+  Örgütü kararlarına uygun olarak, tüm en az gelişmiş ülkeler için kalıcı olarak gümrüksüz
+  ve kotasız piyasaya erişimin zamanında uygulanmasını gerçekleştirmek, ve pazara
+  erişimi kolaylaştırmaya katkıda bulunmak'
+17-13-title: 'Politika koordinasyonu ve politika tutarlılığı dahil olmak üzere küresel
+  makroekonomik istikrarı geliştirmek'
+17-14-title: 'Sürdürülebilir kalkınma için politika tutarlılığını geliştirmek'
+17-15-title: 'Yoksulluğun ortadan kaldırılması ve sürdürülebilir kalkınma için politikalar
+  oluşturmak ve uygulamak için her ülkenin politika alanına ve liderliğine saygı gösterin'
+17-16-title: 'Tüm ülkelerde, özellikle gelişmekte olan ülkelerde, Sürdürülebilir Kalkınma
+  Hedeflerine ulaşılmasını desteklemek için bilgi, uzmanlık, teknoloji ve finansal
+  kaynakları harekete geçiren ve paylaşan çok paydaşlı ortaklıklarla tamamlanan Sürdürülebilir
+  Kalkınma için Küresel Ortaklığı geliştirmek'
+17-17-title: 'Ortaklıkların deneyimine ve kaynak bulma stratejilerine dayanarak etkili
+  kamu, kamu-özel ve sivil toplum ortaklıklarını teşvik etmek ve teşvik etmek'
+17-18-title: '2020 yılına kadar, gelir, cinsiyet, yaş, ırk, etnik köken, göçmenlere
+  göre ayrıştırılmış yüksek kaliteli, zamanında ve güvenilir verilerin mevcudiyetini
+  önemli ölçüde artırmak için en az gelişmiş ülkeler ve gelişmekte olan küçük ada
+  devletleri de dahil olmak üzere gelişmekte olan ülkelere yönelik kapasite geliştirme
+  desteğinin artırılması durum, engellilik, coğrafi konum ve ulusal bağlamlarla ilgili
+  diğer özellikler'
+17-19-title: '2030''a kadar, gayri safi yurtiçi hasılayı tamamlayan sürdürülebilir
+  kalkınmaya ilişkin ilerleme ölçümleri geliştirmek ve gelişmekte olan ülkelerde istatistiksel
+  kapasite geliştirmeyi desteklemek için mevcut girişimlerin üzerine inşa edilmesi'
+17-2-title: 'Gelişmiş ülkeler, birçok gelişmiş ülkenin, gelişmekte olan ülkelere resmi
+  kalkınma yardımı (ODA/GNI) için gayri safi milli gelirin yüzde 0,7''si ve RKY''nin
+  yüzde 0,15 ila 0,20''si hedefine ulaşma taahhüdü de dahil olmak üzere, resmi kalkınma
+  yardımı taahhütlerini tam olarak uygulamalıdır. /GNI en az gelişmiş ülkelere; ODA
+  sağlayıcıları, RKY/GNI''nin en az yüzde 0,20''sini en az gelişmiş ülkelere sağlamak
+  için bir hedef belirlemeyi düşünmeye teşvik edilir.'
+17-3-title: 'Gelişmekte olan ülkeler için birden fazla kaynaktan ek finansal kaynakları
+  harekete geçirin'
+17-4-title: 'Borç finansmanını, borç tahliyesini ve borç yeniden yapılandırmasını
+  teşvik etmeyi amaçlayan koordineli politikalar yoluyla, uygun olduğu şekilde, uzun
+  vadeli borç sürdürülebilirliğini elde etmede gelişmekte olan ülkelere yardımcı olun
+  ve borç sıkıntısını azaltmak için yüksek borçlu yoksul ülkelerin dış borcunu ele
+  alın.'
+17-5-title: 'En az gelişmiş ülkeler için yatırım teşvik rejimlerini benimsemek ve
+  uygulamak'
+17-6-title: 'Kuzey-Güney, Güney-Güney ve üçlü bölgesel ve uluslararası işbirliğini,
+  bilim, teknoloji ve inovasyona erişim ve bunlara erişim ve mevcut mekanizmalar arasında,
+  özellikle Birleşmiş Milletler düzeyinde geliştirilmiş koordinasyon yoluyla da dahil
+  olmak üzere, karşılıklı olarak mutabık kalınan şartlarla bilgi paylaşımını geliştirmek
+  ve küresel bir teknoloji kolaylaştırma mekanizması aracılığıyla'
+17-7-title: 'Karşılıklı olarak mutabık kalındığı üzere imtiyazlı ve tercihli koşullar
+  da dahil olmak üzere uygun koşullarda, çevreye duyarlı teknolojilerin geliştirilmesini,
+  transferini, yayılmasını ve gelişmekte olan ülkelere yayılmasını teşvik etmek'
+17-8-title: '2017 yılına kadar en az gelişmiş ülkeler için teknoloji bankası ile bilim,
+  teknoloji ve inovasyon kapasite geliştirme mekanizmasını tamamen operasyonel hale
+  getirmek ve özellikle bilgi ve iletişim teknolojisi olmak üzere etkinleştirme teknolojisinin
+  kullanımını geliştirmek'
+17-9-title: 'Kuzey-Güney, Güney-Güney ve üçlü işbirliği de dahil olmak üzere tüm Sürdürülebilir
+  Kalkınma Hedeflerinin uygulanmasına yönelik ulusal planları desteklemek için gelişmekte
+  olan ülkelerde etkili ve hedeflenen kapasite geliştirmenin uygulanması için uluslararası
+  desteğin arttırılması'
+2-1-title: '2030 yılına kadar açlığın sona erdirilmesi ve tüm insanların, özellikle
+  yoksullar ve bebekler de dahil olmak üzere hassas durumdaki kişilerin tüm yıl boyunca
+  güvenli, besleyici ve yeterli gıdaya erişiminin sağlanması'
+2-2-title: '2030 yılına kadar, 2025 yılına kadar, 5 yaşın altındaki çocuklarda bodurluk
+  ve zayıflamaya ilişkin uluslararası kabul görmüş hedeflere ulaşmak da dahil olmak
+  üzere her türlü yetersiz beslenmenin sona erdirilmesi ve ergen kızların, hamile
+  ve emzikli kadınların ve yaşlıların beslenme ihtiyaçlarının ele alınması'
+2-3-title: '2030 yılına kadar, toprağa, diğer üretken kaynaklara ve girdilere, bilgiye,
+  finansal hizmetlere güvenli ve eşit erişim yoluyla, özellikle kadınlar, yerli halklar,
+  aile çiftçileri, pastoralistler ve balıkçılar olmak üzere küçük ölçekli gıda üreticilerinin
+  tarımsal üretkenliğini ve gelirlerini iki katına çıkarmak, katma değer ve tarım
+  dışı istihdam için pazarlar ve fırsatlar'
+2-4-title: '2030 yılına kadar, sürdürülebilir gıda üretim sistemlerinin sağlanması
+  ve verimliliği ve üretimi artıran, ekosistemlerin korunmasına yardımcı olan, iklim
+  değişikliğine, aşırı hava koşullarına, kuraklığa, sel ve diğer afetlere uyum kapasitesini
+  güçlendiren ve arazi ve toprak kalitesini aşamalı olarak iyileştiren dayanıklı tarım
+  uygulamalarının hayata geçirilmesi'
+2-5-title: '2020 yılına kadar, ulusal, bölgesel ve uluslararası düzeylerde sağlıklı
+  bir şekilde yönetilen ve çeşitlendirilmiş tohum ve bitki bankaları aracılığıyla
+  tohumların, ekili bitkilerin ve çiftlik ve evcil hayvanların ve bunlarla ilişkili
+  yabani türlerin genetik çeşitliliğini korumak ve adil ve hakkaniyete erişimi teşvik
+  etmek uluslararası kabul edildiği gibi, genetik kaynakların ve ilgili geleneksel
+  bilginin kullanımından kaynaklanan faydaların paylaşımı'
+2-a-title: 'Gelişmekte olan ülkelerde, özellikle en az gelişmiş ülkelerde tarımsal
+  üretim kapasitesini artırmak için, gelişmiş uluslararası işbirliği yoluyla, kırsal
+  altyapı, tarımsal araştırma ve yayım hizmetleri, teknoloji geliştirme ve bitki ve
+  hayvancılık gen bankalarına yatırımı artırmak'
+2-b-title: 'Doha Kalkınma Turu''nun yetkisine uygun olarak, her türlü tarımsal ihracat
+  sübvansiyonunun ve eşdeğer etkiye sahip tüm ihracat önlemlerinin paralel olarak
+  kaldırılması da dahil olmak üzere, dünya tarım pazarlarındaki ticaret kısıtlamalarını
+  ve çarpıklıklarını düzeltin ve önleyin.'
+2-c-title: 'Gıda fiyatlarındaki aşırı oynaklığı sınırlamaya yardımcı olmak için gıda
+  emtia piyasalarının ve türevlerinin düzgün işleyişini sağlamak ve gıda rezervleri
+  de dahil olmak üzere piyasa bilgilerine zamanında erişimi kolaylaştırmak için önlemler
+  almak'
+3-1-title: '2030''a kadar küresel anne ölüm oranını 100.000 canlı doğumda 70''in altına
+  düşürmek'
+3-2-title: '2030 yılına kadar, tüm ülkeler yenidoğan ölüm oranını en az 1000 canlı
+  doğumda 12''ye ve 5 yaş altı ölüm oranını en az 1000 canlı doğumda en az 25''e düşürmeyi
+  hedefleyerek, yenidoğanların ve 5 yaşın altındaki çocukların önlenebilir ölümlerini
+  sona erdirmek. doğumlar'
+3-3-title: '2030 yılına kadar AIDS, tüberküloz, sıtma ve ihmal edilen tropikal hastalıklar
+  salgınlarını sona erdirmek ve hepatit, su kaynaklı hastalıklar ve diğer bulaşıcı
+  hastalıklarla mücadele etmek'
+3-4-title: '2030 yılına kadar bulaşıcı olmayan hastalıklardan kaynaklanan erken ölümleri
+  önleme ve tedavi yoluyla üçte bir oranında azaltmak ve ruh sağlığı ve refahını desteklemek'
+3-5-title: 'Narkotik madde kötüye kullanımı ve alkolün zararlı kullanımı da dahil
+  olmak üzere madde kötüye kullanımının önlenmesi ve tedavisinin güçlendirilmesi'
+3-6-title: '2020 yılına kadar, karayolu trafik kazalarından kaynaklanan küresel ölüm
+  ve yaralanmaların sayısını yarıya indirmek'
+3-7-title: '2030 yılına kadar, aile planlaması, bilgi ve eğitim de dahil olmak üzere
+  cinsel sağlık ve üreme sağlığı hizmetlerine evrensel erişimin sağlanması ve üreme
+  sağlığının ulusal strateji ve programlara dahil edilmesi'
+3-8-title: 'Finansal risk koruması, kaliteli temel sağlık hizmetlerine erişim ve herkes
+  için güvenli, etkili, kaliteli ve uygun fiyatlı temel ilaçlara ve aşılara erişim
+  dahil olmak üzere evrensel sağlık sigortasına ulaşmak'
+3-9-title: '2030 yılına kadar, tehlikeli kimyasallar ile hava, su ve toprak kirliliği
+  ve kontaminasyondan kaynaklanan ölüm ve hastalıkların sayısını önemli ölçüde azaltmak'
+3-a-title: 'Tüm ülkelerde Dünya Sağlık Örgütü Tütün Kontrolü Çerçeve Sözleşmesinin
+  uygulanmasını uygun şekilde güçlendirmek'
+3-b-title: 'Öncelikli olarak gelişmekte olan ülkeleri etkileyen bulaşıcı ve bulaşıcı
+  olmayan hastalıklara yönelik aşıların ve ilaçların araştırılması ve geliştirilmesini
+  desteklemek, hakkı teyit eden TRIPS Anlaşması ve Halk Sağlığına ilişkin Doha Bildirgesi
+  uyarınca uygun fiyatlı temel ilaçlara ve aşılara erişim sağlamak gelişmekte olan
+  ülkelerin kamu sağlığını korumaya yönelik esnekliklere ilişkin Ticaretle İlgili
+  Fikri Mülkiyet Hakları Anlaşmasındaki hükümleri tam olarak kullanmaları ve özellikle
+  herkes için ilaçlara erişim sağlamaları'
+3-c-title: 'Gelişmekte olan ülkelerde, özellikle en az gelişmiş ülkelerde ve gelişmekte
+  olan küçük ada devletlerinde, sağlık finansmanını ve sağlık işgücünün işe alınmasını,
+  geliştirilmesini, eğitilmesini ve elde tutulmasını önemli ölçüde artırmak'
+3-d-title: 'Erken uyarı, risk azaltma ve ulusal ve küresel sağlık risklerinin yönetimi
+  için başta gelişmekte olan ülkeler olmak üzere tüm ülkelerin kapasitesinin güçlendirilmesi'
+4-1-title: '2030''a kadar, tüm kız ve erkek çocukların, ilgili ve etkili öğrenme sonuçlarına
+  yol açan ücretsiz, eşitlikçi ve kaliteli ilk ve orta öğretimi tamamlamasını sağlamak'
+4-2-title: '2030 yılına kadar, tüm kız ve erkek çocukların ilköğretime hazır olmaları
+  için kaliteli erken çocukluk gelişimi, bakımı ve okul öncesi eğitime erişiminin
+  sağlanması'
+4-3-title: '2030''a kadar tüm kadın ve erkeklerin ekonomik ve kaliteli teknik, mesleki
+  ve üniversite de dahil olmak üzere yüksek öğrenime eşit erişiminin sağlanması'
+4-4-title: '2030 yılına kadar, istihdam, insana yakışır işler ve girişimcilik için
+  teknik ve mesleki beceriler de dahil olmak üzere ilgili becerilere sahip genç ve
+  yetişkinlerin sayısını önemli ölçüde artırmak'
+4-5-title: '2030''a kadar eğitimde cinsiyet eşitsizliklerini ortadan kaldırmak ve
+  engelliler, yerli halklar ve hassas durumdaki çocuklar da dahil olmak üzere savunmasız
+  kişilerin tüm eğitim ve mesleki eğitim seviyelerine eşit erişimini sağlamak'
+4-6-title: '2030''a kadar tüm gençlerin ve hem kadın hem de erkek yetişkinlerin önemli
+  bir bölümünün okuryazarlık ve aritmetik becerilerini kazanmasını sağlayın'
+4-7-title: '2030 yılına kadar, tüm öğrencilerin, diğerlerinin yanı sıra, sürdürülebilir
+  kalkınma ve sürdürülebilir yaşam tarzları için eğitim, insan hakları, cinsiyet eşitliği,
+  barış ve şiddet içermeyen bir kültürün teşvik edilmesi, küresel, vatandaşlık ve
+  kültürel çeşitliliğin ve kültürün sürdürülebilir kalkınmaya katkısının takdir edilmesi'
+4-a-title: 'Çocuklara, engellilere ve cinsiyete duyarlı eğitim tesisleri inşa edin
+  ve geliştirin ve herkes için güvenli, şiddet içermeyen, kapsayıcı ve etkili öğrenme
+  ortamları sağlayın'
+4-b-title: '2020 yılına kadar, mesleki eğitim ve bilgi ve iletişim teknolojisi, teknik,
+  mühendislik ve bilimsel programlar dahil olmak üzere, gelişmekte olan ülkelere,
+  özellikle de en az gelişmiş ülkelere, gelişmekte olan küçük ada Devletlerine ve
+  Afrika ülkelerine sunulan bursların sayısını küresel olarak önemli ölçüde artırmak.
+  , gelişmiş ülkelerde ve diğer gelişmekte olan ülkelerde'
+4-c-title: '2030''a kadar, gelişmekte olan ülkelerde, özellikle en az gelişmiş ülkelerde
+  ve gelişmekte olan küçük ada devletlerinde öğretmen eğitimi için uluslararası işbirliği
+  de dahil olmak üzere, nitelikli öğretmen arzını önemli ölçüde artırmak'
+5-1-title: 'Tüm kadınlara ve kız çocuklarına karşı her türlü ayrımcılığı her yerde
+  sonlandırın'
+5-2-title: 'İnsan ticareti, cinsel ve diğer sömürü türleri de dahil olmak üzere kamusal
+  ve özel alanlarda tüm kadınlara ve kız çocuklarına yönelik her türlü şiddetin ortadan
+  kaldırılması'
+5-3-title: 'Çocuk, erken ve zorla evlendirme ve kadın sünneti gibi tüm zararlı uygulamaları
+  ortadan kaldırın'
+5-4-title: 'Kamu hizmetleri, altyapı ve sosyal koruma politikalarının sağlanması ve
+  hane halkı ve aile içinde ulusal olarak uygun olduğu şekilde ortak sorumluluğun
+  teşvik edilmesi yoluyla ücretsiz bakım ve ev işlerini tanımak ve bunlara değer vermek'
+5-5-title: 'Kadınların siyasi, ekonomik ve kamusal yaşamda her düzeyde karar alma
+  süreçlerine tam ve etkin katılımını ve liderlik için eşit fırsatları sağlamak'
+5-6-title: 'Uluslararası Nüfus ve Kalkınma Konferansı Eylem Programı ve Pekin Eylem
+  Platformu ve bunların gözden geçirme konferanslarının sonuç belgeleri uyarınca kabul
+  edildiği gibi cinsel sağlık ve üreme sağlığı ve üreme haklarına evrensel erişimin
+  sağlanması'
+5-a-title: 'Ulusal yasalara uygun olarak, kadınlara ekonomik kaynaklar üzerinde eşit
+  haklar, ayrıca arazi ve diğer mülkiyet biçimleri, finansal hizmetler, miras ve doğal
+  kaynaklar üzerinde mülkiyet ve denetime erişim hakkı verecek reformları üstlenmek'
+5-b-title: 'Kadınların güçlendirilmesini teşvik etmek için, özellikle bilgi ve iletişim
+  teknolojisi olmak üzere, etkinleştirme teknolojisinin kullanımını geliştirmek'
+5-c-title: 'Cinsiyet eşitliğinin desteklenmesi ve tüm kadınların ve kız çocuklarının
+  her düzeyde güçlendirilmesi için sağlam politikaların ve uygulanabilir mevzuatın
+  benimsenmesi ve güçlendirilmesi'
+6-1-title: '2030''a kadar herkes için güvenli ve uygun fiyatlı içme suyuna evrensel
+  ve adil erişimin sağlanması'
+6-2-title: '2030 yılına kadar, herkes için yeterli ve adil sanitasyon ve hijyene erişimin
+  sağlanması ve kadınların, kızların ve savunmasız durumdakilerin ihtiyaçlarına özel
+  önem verilerek açık dışkılamaya son verilmesi'
+6-3-title: '2030 yılına kadar, kirliliği azaltarak, çöp boşaltmayı ortadan kaldırarak
+  ve tehlikeli kimyasalların ve malzemelerin salınımını en aza indirerek, arıtılmamış
+  atık su oranını yarıya indirerek ve küresel olarak geri dönüşümü ve güvenli yeniden
+  kullanımı önemli ölçüde artırarak su kalitesini iyileştirin.'
+6-4-title: '2030 yılına kadar, tüm sektörlerde su kullanım verimliliğini önemli ölçüde
+  artırmak ve su kıtlığını gidermek için sürdürülebilir geri çekme ve tatlı su temini
+  sağlamak ve su kıtlığından muzdarip insan sayısını önemli ölçüde azaltmak'
+6-5-title: '2030''a kadar, uygun olduğu şekilde sınır ötesi işbirliği de dahil olmak
+  üzere tüm seviyelerde entegre su kaynakları yönetimini uygulamak'
+6-6-title: '2020 yılına kadar dağlar, ormanlar, sulak alanlar, nehirler, akiferler
+  ve göller dahil olmak üzere suyla ilgili ekosistemleri korumak ve eski haline getirmek'
+6-a-title: '2030''a kadar, su hasadı, tuzdan arındırma, su verimliliği, atık su arıtma,
+  geri dönüşüm ve yeniden kullanım teknolojileri dahil olmak üzere su ve sanitasyonla
+  ilgili faaliyetler ve programlarda gelişmekte olan ülkelere yönelik uluslararası
+  işbirliğini ve kapasite geliştirme desteğini genişletmek'
+6-b-title: 'Su ve sanitasyon yönetiminin iyileştirilmesine yerel toplulukların katılımını
+  desteklemek ve güçlendirmek'
+7-1-title: '2030 yılına kadar ekonomik, güvenilir ve modern enerji hizmetlerine evrensel
+  erişimin sağlanması'
+7-2-title: '2030 yılına kadar, küresel enerji karışımında yenilenebilir enerjinin
+  payını önemli ölçüde artırmak'
+7-3-title: '2030''a kadar, enerji verimliliğinde küresel iyileşme oranını ikiye katlamak'
+7-a-title: '2030 yılına kadar, yenilenebilir enerji, enerji verimliliği ve gelişmiş
+  ve daha temiz fosil yakıt teknolojisi dahil olmak üzere temiz enerji araştırma ve
+  teknolojisine erişimi kolaylaştırmak için uluslararası işbirliğini geliştirmek ve
+  enerji altyapısına ve temiz enerji teknolojisine yatırımı teşvik etmek'
+7-b-title: '2030''a kadar, gelişmekte olan ülkelerde, özellikle en az gelişmiş ülkelerde,
+  gelişmekte olan küçük ada Devletlerinde ve karayla çevrili gelişmekte olan ülkelerde,
+  ilgili destek programlarına uygun olarak, herkese modern ve sürdürülebilir enerji
+  hizmetleri sağlamak için altyapıyı genişletmek ve teknolojiyi yükseltmek'
+8-1-title: 'Ulusal koşullara uygun olarak kişi başına ekonomik büyümeyi sürdürmek
+  ve özellikle en az gelişmiş ülkelerde yılda en az yüzde 7 gayri safi yurtiçi hasıla
+  büyümesi'
+8-10-title: 'Herkes için bankacılık, sigorta ve finansal hizmetlere erişimi teşvik
+  etmek ve genişletmek için yerel finans kurumlarının kapasitesini güçlendirmek'
+8-2-title: 'Yüksek katma değerli ve emek yoğun sektörlere odaklanma dahil olmak üzere
+  çeşitlendirme, teknolojik iyileştirme ve yenilik yoluyla daha yüksek ekonomik üretkenlik
+  seviyelerine ulaşmak'
+8-3-title: 'Üretken faaliyetleri, insana yakışır iş yaratmayı, girişimciliği, yaratıcılığı
+  ve yeniliği destekleyen ve finansal hizmetlere erişim de dahil olmak üzere mikro,
+  küçük ve orta ölçekli işletmelerin resmileşmesini ve büyümesini teşvik eden kalkınma
+  odaklı politikaları teşvik etmek'
+8-4-title: '2030 yılına kadar tüketim ve üretimde küresel kaynak verimliliğini kademeli
+  olarak iyileştirmek ve gelişmiş ülkelerin başı çektiği 10 Yıllık Sürdürülebilir
+  Tüketim ve Üretim Programları Çerçevesine uygun olarak ekonomik büyümeyi çevresel
+  bozulmadan ayırmaya çalışmak'
+8-5-title: '2030 yılına kadar, gençler ve engelliler de dahil olmak üzere tüm kadın
+  ve erkekler için tam ve üretken istihdam ve insana yakışır iş ve eşit değerdeki
+  işe eşit ücret sağlanması'
+8-6-title: '2020 yılına kadar istihdam, eğitim veya öğretimde olmayan gençlerin oranını
+  önemli ölçüde azaltmak'
+8-7-title: 'Zorla çalıştırmayı ortadan kaldırmak, modern köleliği ve insan kaçakçılığını
+  sona erdirmek ve çocuk askerlerin işe alınması ve kullanılması da dahil olmak üzere
+  çocuk işçiliğinin en kötü biçimlerinin yasaklanması ve ortadan kaldırılmasını sağlamak
+  ve 2025 yılına kadar çocuk işçiliğinin her biçimine son vermek için acil ve etkili
+  önlemler alın.'
+8-8-title: 'Göçmen işçiler, özellikle kadın göçmenler ve güvencesiz istihdamda olanlar
+  dahil olmak üzere tüm işçiler için işçi haklarını koruyun ve güvenli ve emniyetli
+  çalışma ortamlarını teşvik edin.'
+8-9-title: '2030 yılına kadar, istihdam yaratan ve yerel kültür ve ürünleri teşvik
+  eden sürdürülebilir turizmi teşvik etmek için politikalar tasarlayın ve uygulayın.'
+8-a-title: 'En Az Gelişmiş Ülkelere Ticaretle İlgili Teknik Yardım için Gelişmiş Entegre
+  Çerçeve dahil olmak üzere, özellikle en az gelişmiş ülkeler olmak üzere, gelişmekte
+  olan ülkelere yönelik Ticaret için Yardımı Artırma'
+8-b-title: '2020''ye kadar genç istihdamı için küresel bir strateji geliştirin ve
+  operasyonel hale getirin ve Uluslararası Çalışma Örgütü''nün Küresel İşler Paktı''nı
+  uygulayın.'
+9-1-title: 'Ekonomik kalkınmayı ve insan refahını desteklemek için, herkes için uygun
+  maliyetli ve adil erişime odaklanarak, bölgesel ve sınır ötesi altyapı dahil olmak
+  üzere kaliteli, güvenilir, sürdürülebilir ve dayanıklı altyapı geliştirmek'
+9-2-title: 'Kapsayıcı ve sürdürülebilir sanayileşmeyi teşvik etmek ve 2030 yılına
+  kadar sanayinin istihdam ve gayri safi yurtiçi hasıla payını ulusal koşullara uygun
+  olarak önemli ölçüde artırmak ve en az gelişmiş ülkelerdeki payını iki katına çıkarmak'
+9-3-title: 'Küçük ölçekli sanayi ve diğer işletmelerin, özellikle gelişmekte olan
+  ülkelerde, karşılanabilir kredi dahil olmak üzere finansal hizmetlere erişimini
+  ve bunların değer zincirlerine ve piyasalara entegrasyonunu artırmak'
+9-4-title: '2030 yılına kadar, tüm ülkelerin kendi yeteneklerine uygun olarak harekete
+  geçmesiyle, artan kaynak kullanım verimliliği ve temiz ve çevreye duyarlı teknolojilerin
+  ve endüstriyel süreçlerin daha fazla benimsenmesiyle altyapı ve güçlendirme endüstrilerini
+  sürdürülebilir kılmak için yükseltmek'
+9-5-title: '2030 yılına kadar inovasyonu teşvik etmek ve 1 milyon kişi başına düşen
+  araştırma ve geliştirme çalışanı sayısını ve kamu ve özel araştırma ve geliştirme
+  harcamalarını önemli ölçüde artırmak dahil olmak üzere, tüm ülkelerde, özellikle
+  gelişmekte olan ülkelerde, bilimsel araştırmayı geliştirmek, endüstriyel sektörlerin
+  teknolojik yeteneklerini yükseltmek'
+9-a-title: 'Afrika ülkelerine, en az gelişmiş ülkelere, denize kıyısı olmayan gelişmekte
+  olan ülkelere ve gelişmekte olan küçük ada devletlerine gelişmiş mali, teknolojik
+  ve teknik destek yoluyla gelişmekte olan ülkelerde sürdürülebilir ve esnek altyapı
+  gelişimini kolaylaştırmak'
+9-b-title: 'Diğerlerinin yanı sıra endüstriyel çeşitlendirme ve emtialara katma değer
+  için elverişli bir politika ortamı sağlamak da dahil olmak üzere gelişmekte olan
+  ülkelerde yerli teknoloji geliştirme, araştırma ve inovasyonu desteklemek'
+9-c-title: '2020 yılına kadar bilgi ve iletişim teknolojisine erişimi önemli ölçüde
+  artırmak ve en az gelişmiş ülkelerde İnternet''e evrensel ve uygun maliyetli erişim
+  sağlamak için çabalamak'

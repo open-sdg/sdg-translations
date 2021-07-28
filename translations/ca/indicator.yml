@@ -1,0 +1,78 @@
+chart: Gràfic
+clear_all: Netegeu-ho tot
+clear_selections: Elimineu seleccions
+data_not_available: Aquesta informació no està disponible. Trieu dades alternatives
+  a mostrar.
+dataset_size_warning: Hi ha massa conjunts de dades a mostrar en el gràfic.
+  No es mostrarà tot fins que elimineu algunes seleccions.
+download_chart: Descarregar CSV del gràfic
+download_csv: Descarregar CSV
+download_csv_title: Descarregar com CSV
+download_headline: Descarregar CSV global
+download_headline_title: Descarregar dades globals com CSV
+download_source: Descarregar CSV font
+download_source_title: Descarregar les dades font com CSV
+download_source_sdmx: Descarregar SDMX font
+download_source_sdmx_title: Descarregar les dades font com SDMX
+download_table: Descarregueu la taula CSV
+download_chart_image: Descarregar imatge del gràfic
+download_chart_image_title: Descarregar gràfic com imatge
+download_geojson: Descarregar GeoJSON
+download_geojson_title: Descarregar com a GeoJSON
+edit: Editar
+edit_data: Editar dades
+edit_metadata: Editar metadades
+footnote: Nota
+geographical_area: Àrea geogràfica
+global_metadata: Metadades globals
+global_metadata_blurb: Aquesta taula proporciona informació sobre les metadades 
+  dels indicadors ODS tal com els defineix la Comissió d'Estadística de la
+  ONU. La <a href="https://unstats.un.org/sdgs/metadata/">Divisió d'Estadística
+  de les Nacions Unides proporciona</a> les metadades globals completes.
+legend_help: Feu clic a la llegenda per a eliminar línies individuals del gràfic.
+loading: Carregant
+loading_map: Carregant mapa
+map: Mapa
+national_metadata: Metadades nacionals
+national_metadata_blurb: Aquesta taula proporciona metadades de l'indicador real disponible
+  a partir de les estadístiques de %country_name més properes al corresponent indicador
+  global SDG. Recordeu que fins i tot quan l'indicador global d'ODS estigui
+  totalment disponible a partir de les estadístiques de %country_adjective, s'ha de
+  consultar aquesta taula per obtenir informació sobre la metodologia nacional i una altra
+  informació de metadades específics de %country_adjective.
+no_data_hint: No hi ha opcions disponibles a causa dels filtres anteriors
+select_all: Seleccionar-ho tot
+series: Sèrie
+series_help: Trieu categories de les llistes desplegables a continuació per veure diferents
+  desglossaments de les dades. Alguns no estaran disponibles fins que es triï un nivell
+  superior.
+source: Font
+sources: Fonts
+sub_categories: Subcategoríes
+table: Taula
+unit_of_measurement: Unitat de mesura
+units_type: Tipus d'unitats
+variable_hint: Disponible quan es selecciona «%field»
+view_indicator_list: Veure la llista d'indicadors d'aquest objectiu
+edit_configuration: Editar la configuració
+next: Següent indicador
+previous: Indicador anterior
+tags: Etiquetes
+status: Estat de l'indicador
+table_column_sort: Feu clic per a ordenar per aquesta columna
+map_search_show: Mostrar cerca
+map_search_hide: Ocultar cerca
+map_search: Cercar
+map_year_slider: Control lliscant de l'any
+chart_annotation: Anotació en el gràfic
+annotation_2030_target: Fita 2030
+plot_legend_description: 'Llegenda del gràfic: llista de línies incloses en el gràfic'
+data_keyboard_navigation: Premeu Intro per navegar pels punts de dades amb les
+  tecles de fletxa esquerra i dreta.
+data_tabular_alternative: Per l'alternativa de dades tabulars, vegeu la pestanya
+  Taula.
+announce_data_removed: Gràfic i taula actualitzats per excloure les dades.
+announce_data_added: Gràfic i taula actualitzats per incloure les dades.
+announce_data_not_available: El gràfic i la taula no mostren dades.
+sub_categories_show: 'Mostra subcategories:'
+unit: Unitat

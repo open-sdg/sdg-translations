@@ -55,152 +55,425 @@
 11-3-title: 'Innen 2030, styrke inkluderende og bærekraftig urbanisering og kapasitet
   for deltakende, integrert og bærekraftig planlegging og forvaltning av bosetninger
   i alle land'
-11-4-title: ''
-11-5-title: ''
-11-6-title: ''
-11-7-title: ''
-11-a-title: ''
-11-b-title: ''
-11-c-title: ''
-12-1-title: ''
-12-2-title: ''
-12-3-title: ''
-12-4-title: ''
-12-5-title: ''
-12-6-title: ''
-12-7-title: ''
-12-8-title: ''
-12-a-title: ''
-12-b-title: ''
-12-c-title: ''
-13-1-title: ''
-13-2-title: ''
-13-3-title: ''
-13-a-title: ''
-13-b-title: ''
-14-1-title: ''
-14-2-title: ''
-14-3-title: ''
-14-4-title: ''
-14-5-title: ''
-14-6-title: ''
-14-7-title: ''
-14-a-title: ''
-14-b-title: ''
-14-c-title: ''
-15-1-title: ''
-15-2-title: ''
-15-3-title: ''
-15-4-title: ''
-15-5-title: ''
-15-6-title: ''
-15-7-title: ''
-15-8-title: ''
-15-9-title: ''
-15-a-title: ''
-15-b-title: ''
-15-c-title: ''
-16-1-title: ''
-16-10-title: ''
-16-2-title: ''
-16-3-title: ''
-16-4-title: ''
-16-5-title: ''
-16-6-title: ''
-16-7-title: ''
-16-8-title: ''
-16-9-title: ''
-16-a-title: ''
-16-b-title: ''
-17-1-title: ''
-17-10-title: ''
-17-11-title: ''
-17-12-title: ''
-17-13-title: ''
-17-14-title: ''
-17-15-title: ''
-17-16-title: ''
-17-17-title: ''
-17-18-title: ''
-17-19-title: ''
-17-2-title: ''
-17-3-title: ''
-17-4-title: ''
-17-5-title: ''
-17-6-title: ''
-17-7-title: ''
-17-8-title: ''
-17-9-title: ''
-2-1-title: ''
-2-2-title: ''
-2-3-title: ''
-2-4-title: ''
-2-5-title: ''
-2-a-title: ''
-2-b-title: ''
-2-c-title: ''
-3-1-title: ''
-3-2-title: ''
-3-3-title: ''
-3-4-title: ''
-3-5-title: ''
-3-6-title: ''
-3-7-title: ''
-3-8-title: ''
-3-9-title: ''
-3-a-title: ''
-3-b-title: ''
-3-c-title: ''
-3-d-title: ''
-4-1-title: ''
-4-2-title: ''
-4-3-title: ''
-4-4-title: ''
-4-5-title: ''
-4-6-title: ''
-4-7-title: ''
-4-a-title: ''
-4-b-title: ''
-4-c-title: ''
-5-1-title: ''
-5-2-title: ''
-5-3-title: ''
-5-4-title: ''
-5-5-title: ''
-5-6-title: ''
-5-a-title: ''
-5-b-title: ''
-5-c-title: ''
-6-1-title: ''
-6-2-title: ''
-6-3-title: ''
-6-4-title: ''
-6-5-title: ''
-6-6-title: ''
-6-a-title: ''
-6-b-title: ''
-7-1-title: ''
-7-2-title: ''
-7-3-title: ''
-7-a-title: ''
-7-b-title: ''
-8-1-title: ''
-8-10-title: ''
-8-2-title: ''
-8-3-title: ''
-8-4-title: ''
-8-5-title: ''
-8-6-title: ''
-8-7-title: ''
-8-8-title: ''
-8-9-title: ''
-8-a-title: ''
-8-b-title: ''
-9-1-title: ''
-9-2-title: ''
-9-3-title: ''
-9-4-title: ''
-9-5-title: ''
-9-a-title: ''
-9-b-title: ''
-9-c-title: ''
+11-4-title: 'Styrke arbeidet med å beskytte og beskytte verdens kultur- og naturarv'
+11-5-title: 'Innen 2030, reduser antall dødsfall og antall mennesker som er berørt
+  betydelig, og reduser de direkte økonomiske tapene betydelig i forhold til det globale
+  bruttonasjonalproduktet forårsaket av katastrofer, inkludert vannrelaterte katastrofer,
+  med fokus på å beskytte fattige og mennesker i sårbare situasjoner'
+11-6-title: 'Innen 2030, reduser byens ugunstige miljøpåvirkning per innbygger, inkludert
+  ved å være spesielt oppmerksom på luftkvaliteten og kommunal og annen avfallshåndtering'
+11-7-title: 'Innen 2030, gi universell tilgang til trygge, inkluderende og tilgjengelige,
+  grønne og offentlige rom, spesielt for kvinner og barn, eldre personer og funksjonshemmede'
+11-a-title: 'Støtt positive økonomiske, sosiale og miljømessige forbindelser mellom
+  urbane, peri-urbane og landlige områder ved å styrke nasjonal og regional utviklingsplanlegging'
+11-b-title: 'Innen 2020, øke antallet byer og bosetninger betydelig og vedta og implementere
+  integrerte politikker og planer for inkludering, ressurseffektivitet, avbøtende
+  og tilpasning til klimaendringer, motstandsdyktighet mot katastrofer, og utvikle
+  og implementere, i tråd med Sendai Framework for Disaster Risk Reduksjon 2015–2030,
+  helhetlig risikostyring på alle nivåer'
+11-c-title: 'Støtt minst utviklede land, blant annet gjennom økonomisk og teknisk
+  bistand, i å bygge bærekraftige og elastiske bygninger som bruker lokalt materiale'
+12-1-title: 'Implementere det tiårige rammeverket for programmer for bærekraftig forbruk
+  og produksjonsmønstre, alle land tar grep, med utviklede land som tar ledelsen,
+  med tanke på utvikling og evner i utviklingsland'
+12-2-title: 'Innen 2030, oppnå bærekraftig forvaltning og effektiv bruk av naturressurser'
+12-3-title: 'Innen 2030, halver det globale matsvinnet per innbygger på detaljhandel-
+  og forbrukernivå, og reduser tap av mat langs produksjons- og forsyningskjeder,
+  inkludert tap etter høst.'
+12-4-title: 'Innen 2020, oppnå en miljømessig forsvarlig håndtering av kjemikalier
+  og alt avfall gjennom hele livssyklusen, i samsvar med avtalte internasjonale rammer,
+  og reduser utslippene til luft, vann og jord betydelig for å minimere deres ugunstige
+  innvirkning på menneskers helse og miljøet.'
+12-5-title: 'Innen 2030, reduser generering av avfall betydelig gjennom forebygging,
+  reduksjon, resirkulering og gjenbruk'
+12-6-title: 'Oppfordre selskaper, spesielt store og transnasjonale selskaper, til
+  å vedta bærekraftig praksis og å integrere bærekraftsinformasjon i rapporteringssyklusen'
+12-7-title: 'Fremme offentlige anskaffelsespraksiser som er bærekraftige, i samsvar
+  med nasjonal politikk og prioriteringer'
+12-8-title: 'Innen 2030, sørg for at mennesker overalt har relevant informasjon og
+  bevissthet for bærekraftig utvikling og livsstil i harmoni med naturen'
+12-a-title: 'Støt utviklingsland for å styrke deres vitenskapelige og teknologiske
+  kapasitet til å bevege seg mot mer bærekraftige mønstre for forbruk og produksjon'
+12-b-title: 'Utvikle og implementere verktøy for å overvåke bærekraftig utviklingseffekter
+  for bærekraftig turisme som skaper arbeidsplasser og fremmer lokal kultur og produkter'
+12-c-title: 'Rasjonalisere ineffektive subsidier fra fossilt brensel som oppmuntrer
+  til sløsing med forbruk ved å fjerne markedsforvrengning, i samsvar med nasjonale
+  forhold, inkludert ved å restrukturere beskatning og avvikle de skadelige subsidiene,
+  der de eksisterer, for å gjenspeile deres miljøpåvirkning, og ta fullstendig hensyn
+  til de spesifikke behovene og forhold i utviklingsland og minimere mulige uheldige
+  konsekvenser for deres utvikling på en måte som beskytter de fattige og de berørte
+  samfunnene'
+13-1-title: 'Styrke motstandsdyktighet og tilpasningskapasitet til klimarelaterte
+  farer og naturkatastrofer i alle land'
+13-2-title: 'Integrer tiltak for klimaendring i nasjonal politikk, strategier og planlegging'
+13-3-title: 'Forbedre utdanning, bevisstgjøring og menneskelig og institusjonell kapasitet
+  til å redusere klimaendringer, tilpasning, reduksjon av konsekvenser og tidlig varsling'
+13-a-title: 'Gjennomføre forpliktelsen som parter fra utviklede land har gjort til
+  FNs rammekonvensjon om klimaendringer, til et mål om å mobilisere 100 milliarder
+  dollar årlig innen 2020 fra alle kilder for å imøtekomme utviklingslandenes behov
+  i sammenheng med meningsfulle avbøtende tiltak og åpenhet om gjennomføring og fullt
+  ut operasjonalisere Det grønne klimafondet gjennom kapitalisering så snart som mulig'
+13-b-title: 'Fremme mekanismer for å øke kapasiteten for effektiv klimaendringsrelatert
+  planlegging og forvaltning i minst utviklede land og småøy-utviklingsland, inkludert
+  fokus på kvinner, ungdom og lokale og marginaliserte samfunn'
+14-1-title: 'Innen 2025, forebygge og redusere marine forurensninger av alle slag,
+  spesielt fra landbaserte aktiviteter, inkludert marin rusk og næringsforurensning'
+14-2-title: 'Innen 2020 skal du på en bærekraftig måte administrere og beskytte marine
+  og kystnære økosystemer for å unngå betydelig negativ innvirkning, blant annet ved
+  å styrke deres motstandskraft, og iverksette tiltak for restaurering for å oppnå
+  sunne og produktive hav'
+14-3-title: 'Minimer og adresser virkningene av forsuring av havet, blant annet gjennom
+  forbedret vitenskapelig samarbeid på alle nivåer'
+14-4-title: 'Innen 2020 må du effektivt regulere høsting og avslutte overfiske, ulovlig,
+  urapportert og uregulert fiske og destruktiv fiskemetode og implementere vitenskapelig
+  baserte forvaltningsplaner, for å gjenopprette fiskebestandene på kortest mulig
+  tid, i det minste til nivåer som kan gi maksimal bærekraftig avling som bestemt
+  av deres biologiske egenskaper'
+14-5-title: 'Innen 2020 skal du bevare minst 10 prosent av kyst- og havområdene, i
+  samsvar med nasjonal og internasjonal lovgivning og basert på best tilgjengelig
+  vitenskapelig informasjon'
+14-6-title: 'Innen 2020 forbyr visse former for fiskerisubsidier som bidrar til overkapasitet
+  og overfiske, eliminerer subsidier som bidrar til ulovlig, urapportert og uregulert
+  fiske og avstår fra å innføre nye slike subsidier, og erkjenner at passende og effektiv
+  spesial- og differensialbehandling for utviklingsland og minst utviklede land bør
+  være en integrert del av Verdenshandelsorganisasjonens fiskeristøtteforhandlinger'
+14-7-title: 'Innen 2030 øker du de økonomiske fordelene for utviklingsland på de små
+  øyer og de minst utviklede landene fra bærekraftig bruk av marine ressurser, blant
+  annet gjennom bærekraftig forvaltning av fiskeri, havbruk og turisme'
+14-a-title: 'Øke vitenskapelig kunnskap, utvikle forskningskapasitet og overføre marin
+  teknologi, under hensyntagen til den mellomstatlige havografiske kommisjonens kriterier
+  og retningslinjer for overføring av marin teknologi, for å forbedre havhelsen og
+  for å øke bidraget fra marint biologisk mangfold til utviklingen av utviklingsland,
+  særlig små øystater og minst utviklede land'
+14-b-title: 'Gi tilgang til små ressursfiskere til marine ressurser og markeder'
+14-c-title: 'Forbedre bevaring og bærekraftig bruk av havene og deres ressurser ved
+  å implementere internasjonal lov som reflektert i FNs havrettskonvensjon, som gir
+  de juridiske rammene for bevaring og bærekraftig bruk av havene og deres ressurser,
+  som minnet om i avsnitt 158 av “Fremtiden vi ønsker”'
+15-1-title: 'Innen 2020 sikre bevaring, restaurering og bærekraftig bruk av ferskvannsøkosystemer
+  på land og innlandet og deres tjenester, spesielt skog, våtmark, fjell og tørrland,
+  i tråd med forpliktelser i internasjonale avtaler'
+15-2-title: 'Innen 2020, fremme implementering av bærekraftig forvaltning av alle
+  typer skoger, stanse avskoging, gjenopprette forringede skoger og øke skog- og skogplanting
+  betydelig'
+15-3-title: 'Innen 2030, bekjemp ørkendannelse, gjenopprett ødelagt land og jord,
+  inkludert land som er berørt av ørkendannelse, tørke og flom, og streve for å oppnå
+  en jordforringelsesnøytral verden'
+15-4-title: 'Innen 2030 må du sikre bevaring av fjelløkosystemer, inkludert deres
+  biologiske mangfold, for å øke deres kapasitet til å gi fordeler som er avgjørende
+  for bærekraftig utvikling'
+15-5-title: 'Ta presserende og betydningsfulle tiltak for å redusere forringelsen
+  av naturlige habitater, stoppe tapet av biologisk mangfold og innen 2020 beskytte
+  og forhindre utryddelse av truede arter'
+15-6-title: 'Fremme en rettferdig og rettferdig deling av fordelene som følger av
+  utnyttelse av genetiske ressurser og fremme passende tilgang til slike ressurser,
+  som internasjonalt avtalt'
+15-7-title: 'Ta hastetiltak for å få slutt på krypskyting og handel med beskyttede
+  arter av flora og fauna, og adresser både etterspørsel og tilbud på ulovlige dyrelivsprodukter'
+15-8-title: 'Innen 2020, iverksette tiltak for å forhindre innføring og redusere virkningen
+  av invasive fremmede arter på land- og vannøkosystemer betydelig, og kontrollere
+  eller utrydde de prioriterte artene'
+15-9-title: 'Innen 2020, integrer økosystem- og biologisk mangfoldsverdier i nasjonal
+  og lokal planlegging, utviklingsprosesser, strategier for reduksjon av fattigdom
+  og kontoer'
+15-a-title: 'Mobilisere og øke økonomiske ressurser fra alle kilder for å bevare og
+  bærekraftig bruke biologisk mangfold og økosystemer'
+15-b-title: 'Mobilisere betydelige ressurser fra alle kilder og på alle nivåer for
+  å finansiere bærekraftig skogforvaltning og gi tilstrekkelige insentiver til utviklingsland
+  for å fremme slik forvaltning, inkludert for bevaring og gjenplanting av skog.'
+15-c-title: 'Forbedre global støtte for arbeidet med å bekjempe krypskyting og handel
+  med beskyttede arter, blant annet ved å øke lokalsamfunnets kapasitet til å forfølge
+  bærekraftige levebrød'
+16-1-title: 'Reduser alle former for vold og relaterte dødsfall betydelig overalt'
+16-10-title: 'Sikre offentlig tilgang til informasjon og beskytte grunnleggende friheter,
+  i samsvar med nasjonal lovgivning og internasjonale avtaler'
+16-2-title: 'Avslutt misbruk, utnyttelse, menneskehandel og alle former for vold mot
+  og tortur av barn'
+16-3-title: 'Fremme rettsstaten på nasjonalt og internasjonalt nivå og sikre lik tilgang
+  til domstol for alle'
+16-4-title: 'Innen 2030 reduserer du ulovlig økonomisk strøm og våpenstrømmer betydelig,
+  styrker gjenoppretting og retur av stjålne eiendeler og bekjemper alle former for
+  organisert kriminalitet'
+16-5-title: 'Redusere korrupsjon og bestikkelser i alle former vesentlig'
+16-6-title: 'Utvikle effektive, ansvarlige og gjennomsiktige institusjoner på alle
+  nivåer'
+16-7-title: 'Sikre responsiv, inkluderende, deltakende og representativ beslutningstaking
+  på alle nivåer'
+16-8-title: 'Utvide og styrke utviklingslandenes deltakelse i institusjonene for global
+  styring'
+16-9-title: 'Innen 2030, oppgi juridisk identitet for alle, inkludert fødselsregistrering'
+16-a-title: 'Styrke relevante nasjonale institusjoner, blant annet gjennom internasjonalt
+  samarbeid, for kapasitetsbygging på alle nivåer, spesielt i utviklingsland, for
+  å forhindre vold og bekjempe terrorisme og kriminalitet'
+16-b-title: 'Fremme og håndheve ikke-diskriminerende lover og retningslinjer for bærekraftig
+  utvikling'
+17-1-title: 'Styrke innenlands ressursmobilisering, blant annet gjennom internasjonal
+  støtte til utviklingsland, for å forbedre innenlandsk kapasitet for skatte- og annen
+  inntektsinnsamling'
+17-10-title: 'Fremme et universelt, regelbasert, åpent, ikke-diskriminerende og rettferdig
+  multilateralt handelssystem under Verdens handelsorganisasjon, inkludert gjennom
+  avslutning av forhandlinger under Doha-utviklingsagendaen.'
+17-11-title: 'Øk eksporten fra utviklingsland betydelig, spesielt med tanke på å doble
+  de minst utviklede lands andel av global eksport innen 2020'
+17-12-title: 'Realisere rettidig implementering av avgiftsfri og kvotefri markedsadgang
+  på varig basis for alle minst utviklede land, i samsvar med avgjørelser fra Verdens
+  handelsorganisasjon, inkludert ved å sikre at fortrinnsrett til opprinnelsesregler
+  som gjelder import fra minst utviklede land, er gjennomsiktige og enkle, og bidra
+  til å legge til rette for markedstilgang'
+17-13-title: 'Forbedre global makroøkonomisk stabilitet, inkludert gjennom politisk
+  koordinering og politisk sammenheng'
+17-14-title: 'Forbedre politisk sammenheng for bærekraftig utvikling'
+17-15-title: 'Respekter hvert lands politiske plass og lederskap for å etablere og
+  implementere politikk for fattigdomsutryddelse og bærekraftig utvikling'
+17-16-title: 'Forbedre det globale partnerskapet for bærekraftig utvikling, supplert
+  med partnerskap med flere interessenter som mobiliserer og deler kunnskap, ekspertise,
+  teknologi og økonomiske ressurser, for å støtte oppnåelsen av bærekraftsmålene i
+  alle land, spesielt utviklingsland'
+17-17-title: 'Oppmuntre og fremme effektive offentlige, offentlige-private og sivilsamfunn
+  partnerskap, bygge på erfaring og ressursstrategier for partnerskap'
+17-18-title: 'Innen 2020, forbedre kapasitetsbyggingsstøtten til utviklingsland, inkludert
+  for de minst utviklede landene og utviklingsland for små øyer, for å øke tilgjengeligheten
+  av data av høy kvalitet, rettidig og pålitelig, fordelt på inntekt, kjønn, alder,
+  rase, etnisitet, migrasjon status, funksjonshemning, geografisk beliggenhet og andre
+  kjennetegn som er relevante i nasjonale sammenhenger'
+17-19-title: 'I 2030, bygg videre på eksisterende initiativer for å utvikle målinger
+  av fremdrift med bærekraftig utvikling som utfyller bruttonasjonalproduktet, og
+  støtte statistisk kapasitetsbygging i utviklingsland'
+17-2-title: 'Utviklede land til å fullføre sine offisielle bistandsforpliktelser,
+  inkludert forpliktelsen fra mange utviklede land til å nå målet på 0,7 prosent av
+  bruttonasjonalinntekten for offisiell bistand (ODA / BNI) til utviklingsland og
+  0,15 til 0,20 prosent av ODA / BNI til minst utviklede land; ODA-leverandører oppfordres
+  til å vurdere å sette et mål om å gi minst 0,20 prosent av ODA / BNI til minst utviklede
+  land'
+17-3-title: 'Mobilisere flere økonomiske ressurser for utviklingsland fra flere kilder'
+17-4-title: 'Hjelpe utviklingsland med å oppnå langsiktig gjeldsholdbarhet gjennom
+  en koordinert politikk som er rettet mot å fremme gjeldsfinansiering, gjeldslettelse
+  og gjeldsstrukturering, når det er hensiktsmessig, og adressere ekstern gjeld til
+  høyt gjeldede fattige land for å redusere gjeldsnød'
+17-5-title: 'Vedta og implementere investeringsfremmende regimer for minst utviklede
+  land'
+17-6-title: 'Forbedre nord-sør, sør-sør og trekantet regionalt og internasjonalt samarbeid
+  om og tilgang til vitenskap, teknologi og innovasjon og styrke kunnskapsdeling på
+  gjensidig avtalt vilkår, blant annet gjennom forbedret koordinering mellom eksisterende
+  mekanismer, spesielt på FN-nivå, og gjennom en global teknologifasiliteringsmekanisme'
+17-7-title: 'Fremme utvikling, overføring, formidling og diffusjon av miljøvennlige
+  teknologier til utviklingsland på gunstige vilkår, inkludert på fordelagtige og
+  fortrinnsrettige vilkår, som gjensidig avtalt'
+17-8-title: 'Operasjonalisere teknologibanken og kapasitetsbyggingsmekanismen for
+  vitenskap, teknologi og innovasjon innen minst utviklede land innen 2017 og forbedre
+  bruken av mulig teknologi, særlig informasjons- og kommunikasjonsteknologi'
+17-9-title: 'Forbedre internasjonal støtte for å implementere effektiv og målrettet
+  kapasitetsbygging i utviklingsland for å støtte nasjonale planer for å implementere
+  alle bærekraftsmålene, inkludert gjennom nord-sør, sør-sør og trekantet samarbeid'
+2-1-title: 'Innen 2030 må du avslutte sulten og sikre tilgang for alle mennesker,
+  spesielt de fattige og mennesker i sårbare situasjoner, inkludert spedbarn, til
+  trygg, næringsrik og tilstrekkelig mat hele året'
+2-2-title: 'Innen 2030, avslutt alle former for underernæring, inkludert å oppnå de
+  internasjonalt avtalte målene for stunting og sløsing med barn under 5 år innen
+  2025, og adressere ernæringsbehovene til unge jenter, gravide og ammende kvinner
+  og eldre personer'
+2-3-title: 'Innen 2030, doblet jordbruksproduktiviteten og inntektene til småskala
+  matprodusenter, spesielt kvinner, urfolk, familiebønder, pastoralister og fiskere,
+  inkludert gjennom sikker og lik tilgang til land, andre produktive ressurser og
+  innspill, kunnskap, finansielle tjenester, markeder og muligheter for verditilsetning
+  og ikke-sysselsetting'
+2-4-title: 'Innen 2030 skal du sikre bærekraftige matproduksjonssystemer og implementere
+  motstandsdyktige landbruksmetoder som øker produktiviteten og produksjonen, som
+  bidrar til å opprettholde økosystemer, som styrker kapasiteten for tilpasning til
+  klimaendringer, ekstremvær, tørke, flom og andre katastrofer, og som gradvis forbedrer
+  land- og jordkvaliteten.'
+2-5-title: 'Innen 2020, oppretthold det genetiske mangfoldet av frø, dyrkede planter
+  og oppdrett og tamme dyr og deres relaterte ville arter, inkludert gjennom forsvarlig
+  forvaltet og diversifisert frø- og plantebanker på nasjonalt, regionalt og internasjonalt
+  nivå, og fremme tilgang til og rettferdig og rettferdig deling av fordeler som oppstår
+  ved bruk av genetiske ressurser og tilhørende tradisjonell kunnskap, som internasjonalt
+  avtalt'
+2-a-title: 'Øke investeringene, blant annet gjennom forbedret internasjonalt samarbeid,
+  i landlig infrastruktur, landbruksforskning og utvidelsestjenester, teknologiutvikling
+  og plante- og husdyrgenbanker for å forbedre landbruksproduktivitet i utviklingsland,
+  spesielt minst utviklede land'
+2-b-title: 'Korrigere og forhindre handelsrestriksjoner og forvridninger i verdens
+  landbruksmarkeder, inkludert gjennom parallell eliminering av alle former for landbrukseksportstøtte
+  og alle eksporttiltak med tilsvarende virkning, i samsvar med mandatet til Doha-utviklingsrunden'
+2-c-title: 'Vedta tiltak for å sikre at matvaremarkeder og deres derivater fungerer
+  som de skal, og legge til rette for rettidig tilgang til markedsinformasjon, inkludert
+  matvarereserver, for å bidra til å begrense ekstrem volatilitet i matvarepriser'
+3-1-title: 'Innen 2030, reduser det globale mødredødelighetsforholdet til mindre enn
+  70 per 100.000 levendefødte'
+3-2-title: 'Innen 2030, avslutte forebyggbare dødsfall hos nyfødte og barn under 5
+  år, med alle land som har som mål å redusere nyfødtedødelighet til minst så lavt
+  som 12 per 1000 levendefødte og under 5 år til minst så lavt som 25 per 1000 levende
+  fødsler'
+3-3-title: 'Innen 2030, avslutte epidemiene av AIDS, tuberkulose, malaria og forsømte
+  tropiske sykdommer og bekjempe hepatitt, vannbårne sykdommer og andre smittsomme
+  sykdommer.'
+3-4-title: 'Innen 2030, reduser med en tredjedel for tidlig dødelighet av ikke-smittsomme
+  sykdommer gjennom forebygging og behandling, og fremme mental helse og velvære'
+3-5-title: 'Styr forebygging og behandling av rusmisbruk, inkludert narkotikamisbruk
+  og skadelig bruk av alkohol'
+3-6-title: 'Innen 2020, halverer antall globale dødsfall og skader fra veitrafikkulykker'
+3-7-title: 'Innen 2030 sikre universell tilgang til seksuelle og reproduktive helsetjenester,
+  inkludert familieplanlegging, informasjon og utdanning, og integrering av reproduktiv
+  helse i nasjonale strategier og programmer'
+3-8-title: 'Oppnå universell helsedekning, inkludert økonomisk risikobeskyttelse,
+  tilgang til viktige helsetjenester og tilgang til trygge, effektive, kvalitetsmessige
+  og rimelige viktige medisiner og vaksiner for alle'
+3-9-title: 'Innen 2030, reduser antallet dødsfall og sykdommer betydelig fra farlige
+  kjemikalier og luft-, vann- og jordforurensning og forurensning betydelig'
+3-a-title: 'Styr implementeringen av Verdens helseorganisasjons rammekonvensjon om
+  tobakkskontroll i alle land, etter behov'
+3-b-title: 'Støtte forskning og utvikling av vaksiner og medisiner for smittsomme
+  og ikke-smittsomme sykdommer som først og fremst rammer utviklingsland, gi tilgang
+  til rimelige viktige medisiner og vaksiner, i samsvar med Doha-erklæringen om TRIPS-avtalen
+  og folkehelse, som bekrefter retten av utviklingsland til å fullt ut bruke bestemmelsene
+  i avtalen om handelsrelaterte aspekter av immaterielle rettigheter med hensyn til
+  fleksibilitet for å beskytte folkehelsen, og spesielt gi tilgang til medisiner for
+  alle'
+3-c-title: 'Øk helsefinansieringen betydelig og rekruttering, utvikling, opplæring
+  og oppbevaring av helsearbeidere i utviklingsland, spesielt i de minst utviklede
+  landene og utviklingsland på små øyer'
+3-d-title: 'Styrke kapasiteten i alle land, spesielt utviklingsland, for tidlig varsling,
+  risikoreduksjon og styring av nasjonale og globale helserisiko'
+4-1-title: 'Innen 2030 må du sørge for at alle jenter og gutter fullfører gratis,
+  rettferdig og kvalitetsgrunnskole som fører til relevante og effektive læringsresultater'
+4-2-title: 'Innen 2030 må du sørge for at alle jenter og gutter har tilgang til førskoleopplæring
+  av høy kvalitet, omsorg og førskoleundervisning slik at de er klare til grunnskoleutdanning'
+4-3-title: 'Innen 2030 skal du sikre lik tilgang for alle kvinner og menn til rimelig
+  og kvalitet teknisk, yrkesfaglig og høyere utdanning, inkludert universitet'
+4-4-title: 'Innen 2030, øke antallet unge og voksne som har relevante ferdigheter,
+  inkludert tekniske og yrkesmessige ferdigheter, betydelig for sysselsetting, anstendige
+  jobber og entreprenørskap'
+4-5-title: 'Innen 2030, eliminere kjønnsforskjeller i utdanningen og sikre lik tilgang
+  til alle utdanningsnivåer og yrkesopplæring for utsatte, inkludert personer med
+  nedsatt funksjonsevne, urfolk og barn i sårbare situasjoner'
+4-6-title: 'Innen 2030 må du sørge for at alle ungdommer og en betydelig andel av
+  voksne, både menn og kvinner, oppnår lese- og skriveferdigheter'
+4-7-title: 'Innen 2030 må du sørge for at alle elever tilegner seg den kunnskapen
+  og ferdighetene som trengs for å fremme bærekraftig utvikling, inkludert blant annet
+  gjennom utdanning for bærekraftig utvikling og bærekraftig livsstil, menneskerettigheter,
+  likestilling, fremme av en kultur av fred og ikke-vold, global statsborgerskap og
+  forståelse av kulturelt mangfold og kulturens bidrag til bærekraftig utvikling'
+4-a-title: 'Bygg og oppgrader utdanningsfasiliteter som er følsomme for barn, funksjonshemmede
+  og kjønnsrelaterte og som gir trygge, ikke-voldelige, inkluderende og effektive
+  læringsmiljøer for alle'
+4-b-title: 'Innen 2020 utvide antallet stipend som er tilgjengelig for utviklingsland,
+  spesielt de minst utviklede landene, utviklingslandene på de små øyer og de afrikanske
+  landene, betydelig for å delta i høyere utdanning, inkludert yrkesopplæring og informasjons-
+  og kommunikasjonsteknologi, tekniske, tekniske og vitenskapelige programmer i utviklede
+  land og andre utviklingsland'
+4-c-title: 'Innen 2030 øker du tilbudet av kvalifiserte lærere betydelig, blant annet
+  gjennom internasjonalt samarbeid om lærerutdanning i utviklingsland, spesielt de
+  minst utviklede landene og små utviklingsland'
+5-1-title: 'Avslutt alle former for diskriminering av alle kvinner og jenter overalt'
+5-2-title: 'Eliminer alle former for vold mot alle kvinner og jenter i det offentlige
+  og private området, inkludert menneskehandel og seksuell utnyttelse'
+5-3-title: 'Eliminer all skadelig praksis, som barn, tidlig og tvangsekteskap og kjønnslemlestelse'
+5-4-title: 'Anerkjenne og verdsette ulønnet omsorg og husarbeid gjennom å tilby offentlige
+  tjenester, infrastruktur og sosial beskyttelse, og fremme et delt ansvar i husholdningen
+  og familien som det er nasjonalt hensiktsmessig'
+5-5-title: 'Sikre kvinners fulle og effektive deltakelse og like muligheter for ledelse
+  på alle nivåer av beslutningstaking i politisk, økonomisk og offentlig liv'
+5-6-title: 'Sikre universell tilgang til seksuell og reproduktiv helse og reproduktive
+  rettigheter som avtalt i samsvar med handlingsprogrammet til den internasjonale
+  konferansen om befolkning og utvikling og Beijing-handlingsplattformen og utfallsdokumentene
+  fra deres gjennomgangskonferanser'
+5-a-title: 'Gjennomføre reformer for å gi kvinner like rett til økonomiske ressurser,
+  samt tilgang til eierskap og kontroll over land og andre former for eiendom, finansielle
+  tjenester, arv og naturressurser, i samsvar med nasjonal lovgivning'
+5-b-title: 'Forbedre bruken av aktiveringsteknologi, særlig informasjons- og kommunikasjonsteknologi,
+  for å fremme myndiggjørelse av kvinner'
+5-c-title: 'Vedta og styrke forsvarlig politikk og håndhevbar lovgivning for å fremme
+  likestilling og styrke alle kvinner og jenter på alle nivåer'
+6-1-title: 'Innen 2030, oppnå universell og rettferdig tilgang til trygt og rimelig
+  drikkevann for alle'
+6-2-title: 'Innen 2030, oppnå tilgang til tilstrekkelig og rettferdig sanitet og hygiene
+  for alle og avslutte åpen avføring, med spesiell oppmerksomhet mot behovene til
+  kvinner og jenter og de i sårbare situasjoner'
+6-3-title: 'Innen 2030 forbedrer du vannkvaliteten ved å redusere forurensning, eliminere
+  dumping og minimere utslipp av farlige kjemikalier og materialer, halvere andelen
+  ubehandlet avløpsvann og øke gjenvinning og sikker gjenbruk globalt.'
+6-4-title: 'Innen 2030, øker vannbrukseffektiviteten betydelig i alle sektorer og
+  sørger for bærekraftig uttak og tilførsel av ferskvann for å takle vannmangel og
+  redusere antallet mennesker som lider av vannmangel.'
+6-5-title: 'Innen 2030, implementer integrert vannressursforvaltning på alle nivåer,
+  inkludert gjennom grenseoverskridende samarbeid etter behov'
+6-6-title: 'Innen 2020 må du beskytte og gjenopprette vannrelaterte økosystemer, inkludert
+  fjell, skog, våtmark, elver, akviferer og innsjøer'
+6-a-title: 'Innen 2030 utvide internasjonalt samarbeid og kapasitetsbyggingsstøtte
+  til utviklingsland i vann- og sanitærrelaterte aktiviteter og programmer, inkludert
+  vannhøsting, avsaltning, vanneffektivitet, behandling av avløpsvann, gjenvinning
+  og gjenbruk'
+6-b-title: 'Støtte og styrke lokalsamfunnens deltakelse i å forbedre vann- og sanitærforvaltningen'
+7-1-title: 'Innen 2030 skal du sikre universell tilgang til rimelige, pålitelige og
+  moderne energitjenester'
+7-2-title: 'Innen 2030 øker du betydelig andelen fornybar energi i den globale energimiksen'
+7-3-title: 'Innen 2030, doblet den globale forbedringsgraden i energieffektivitet'
+7-a-title: 'Innen 2030, styrke internasjonalt samarbeid for å lette tilgangen til
+  forskning og teknologi for ren energi, inkludert fornybar energi, energieffektivitet
+  og avansert og renere fossilt drivstoffteknologi, og fremme investeringer i energiinfrastruktur
+  og ren energiteknologi'
+7-b-title: 'Innen 2030 utvider du infrastruktur og oppgraderingsteknologi for å levere
+  moderne og bærekraftige energitjenester for alle i utviklingsland, spesielt de minst
+  utviklede landene, utviklingslandene på små øyer og de landlåste utviklingslandene,
+  i samsvar med deres respektive støtteprogrammer'
+8-1-title: 'Opprettholde økonomisk vekst per innbygger i samsvar med nasjonale forhold
+  og spesielt minst 7 prosent bruttonasjonalvekst per år i de minst utviklede landene'
+8-10-title: 'Styrke kapasiteten til innenlandske finansinstitusjoner for å oppmuntre
+  og utvide tilgangen til bank, forsikring og finansielle tjenester for alle'
+8-2-title: 'Oppnå høyere nivåer av økonomisk produktivitet gjennom diversifisering,
+  teknologisk oppgradering og innovasjon, blant annet gjennom fokus på høyverdi og
+  arbeidsintensive sektorer'
+8-3-title: 'Fremme utviklingsorientert politikk som støtter produktive aktiviteter,
+  anstendig jobbskaping, entreprenørskap, kreativitet og innovasjon, og oppmuntre
+  til formalisering og vekst av mikro-, små og mellomstore bedrifter, inkludert gjennom
+  tilgang til finansielle tjenester'
+8-4-title: 'Forbedre gradvis, gjennom 2030, den globale ressurseffektiviteten i forbruk
+  og produksjon og forsøk på å koble økonomisk vekst fra miljøforringelse, i samsvar
+  med det tiårige rammeverket for programmer for bærekraftig forbruk og produksjon,
+  med utviklede land som tar ledelsen'
+8-5-title: 'Innen 2030 må du oppnå full og produktiv sysselsetting og anstendig arbeid
+  for alle kvinner og menn, inkludert for unge mennesker og funksjonshemmede, og lik
+  lønn for arbeid av samme verdi'
+8-6-title: 'Innen 2020, reduser andelen unge som ikke er i arbeid, utdanning eller
+  opplæring betydelig'
+8-7-title: 'Ta umiddelbare og effektive tiltak for å utrydde tvangsarbeid, avslutte
+  moderne slaveri og menneskehandel og sikre forbud og eliminering av de verste former
+  for barnearbeid, inkludert rekruttering og bruk av barnesoldater, og innen 2025
+  avslutte barnearbeid i alle dens former'
+8-8-title: 'Beskytte arbeidstakerrettigheter og fremme trygge og trygge arbeidsmiljøer
+  for alle arbeidstakere, inkludert migrerende arbeidstakere, spesielt kvinnelige
+  migranter og de som er usikre'
+8-9-title: 'Innen 2030, utform og implementer politikker for å fremme bærekraftig
+  turisme som skaper arbeidsplasser og fremmer lokal kultur og produkter'
+8-a-title: 'Øk støtte til handelsstøtte til utviklingsland, spesielt minst utviklede
+  land, inkludert gjennom Enhanced Integrated Framework for Trade-related Technical
+  Assistance to Minst Developed Countries'
+8-b-title: 'Innen 2020, utvikle og operasjonalisere en global strategi for ungdomsarbeid
+  og implementere Global Jobs Pact of the International Labour Organization'
+9-1-title: 'Utvikle kvalitet, pålitelig, bærekraftig og motstandsdyktig infrastruktur,
+  inkludert regional og grenseoverskridende infrastruktur, for å støtte økonomisk
+  utvikling og menneskelig velvære, med fokus på rimelig og rettferdig tilgang for
+  alle'
+9-2-title: 'Fremme inkluderende og bærekraftig industrialisering og innen 2030 øke
+  industriens andel av sysselsettingen og bruttonasjonalproduktet betydelig, i tråd
+  med nasjonale forhold, og doble andelen i minst utviklede land'
+9-3-title: 'Øk tilgangen til småbedrifter og andre bedrifter, særlig i utviklingsland,
+  til finansielle tjenester, inkludert rimelig kreditt, og integrering av dem i verdikjeder
+  og markeder'
+9-4-title: 'Innen 2030 må du oppgradere infrastruktur og ettermontere næringer for
+  å gjøre dem bærekraftige, med økt ressursbrukeffektivitet og større bruk av rene
+  og miljøvennlige teknologier og industrielle prosesser, med alle land som iverksetter
+  tiltak i samsvar med deres respektive evner'
+9-5-title: 'Forbedre vitenskapelig forskning, oppgradere den teknologiske kapasiteten
+  til industrisektorer i alle land, spesielt utviklingsland, inkludert innen 2030,
+  oppmuntre til innovasjon og øke antallet forsknings- og utviklingsarbeidere betydelig
+  per 1 million mennesker og offentlige og private forsknings- og utviklingsutgifter'
+9-a-title: 'Legge til rette for en bærekraftig og motstandsdyktig infrastrukturutvikling
+  i utviklingsland gjennom forbedret økonomisk, teknologisk og teknisk støtte til
+  afrikanske land, minst utviklede land, landlåste utviklingsland og små øy-utviklingsland'
+9-b-title: 'Støtte innenlandsk teknologiutvikling, forskning og innovasjon i utviklingsland,
+  blant annet ved å sikre et gunstig politisk miljø for blant annet industriell diversifisering
+  og verditilsetning til varer'
+9-c-title: 'Øk tilgangen til informasjons- og kommunikasjonsteknologi betydelig og
+  streber etter å gi universell og rimelig tilgang til Internett i minst utviklede
+  land innen 2020'

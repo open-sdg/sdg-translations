@@ -50,12 +50,12 @@ source_next_release_4: 'Sonraki yayın'
 source_next_release_5: 'Sonraki yayın'
 source_next_release_6: 'Sonraki yayın'
 # A label describing information - the name of any organization associated with some provided data
-source_organisation_1: 'Organizasyon'
-source_organisation_2: 'Organizasyon'
-source_organisation_3: 'Organizasyon'
-source_organisation_4: 'Organizasyon'
-source_organisation_5: 'Organizasyon'
-source_organisation_6: 'Organizasyon'
+source_organisation_1: 'Kuruluş'
+source_organisation_2: 'Kuruluş'
+source_organisation_3: 'Kuruluş'
+source_organisation_4: 'Kuruluş'
+source_organisation_5: 'Kuruluş'
+source_organisation_6: 'Kuruluş'
 # A label describing information - any other information about a particular source of data for a particular indicator
 source_other_info_1: 'Diğer bilgiler'
 source_other_info_2: 'Diğer bilgiler'
@@ -104,22 +104,22 @@ comments_limitations: 'Yorumlar ve sınırlamalar'
 rationale_interpretation: 'Analiz ve yorumlama'
 rational_interpretation: 'Analiz ve yorumlama'
 copyright: 'Telif hakkı'
-OTHER_DOC: Referanslar ve Belgeler
-COMPARABILITY: Karşılaştırılabilirlik / uluslararası standartlardan sapma
+OTHER_DOC: Referanslar ve Belgelendirme
+COMPARABILITY: Karşılaştırılabilirlik/uluslararası standartlardan sapma
 COVERAGE: Veri kullanılabilirliği ve ayrıştırma
-QUALITY_ASSMNT: Kalite değerlendirme
+QUALITY_ASSMNT: Kalite değerlendirmesi
 QUALITY_ASSURE: Kalite güvencesi
-QUALITY_MGMNT: Kalite Yönetimi
+QUALITY_MGMNT: Kalite yönetimi
 DOC_METHOD: Ulusal düzeyde verilerin derlenmesi için ülkelere sunulan yöntemler ve
   rehberlik
 REG_AGG: Bölgesel toplamalar
-IMPUTATION: Eksik değerlerin (i) ülke düzeyinde ve (ii) bölgesel düzeyde işlenmesi
+IMPUTATION: Eksik değerlerin (i) ülke düzeyinde ve (ii) bölgesel düzeyde ele alınması
 ADJUSTMENT: Ayarlamalar
-DATA_VALIDATION: doğrulama, onaylama
+DATA_VALIDATION: Doğrulama
 DATA_COMP: Hesaplama yöntemi
-REC_USE_LIM: Yorumlar ve sınırlamalar
+REC_USE_LIM: Yorum ve sınırlamalar
 RATIONALE: Gerekçe
-OTHER_METHOD: Diğer metodolojik hususlar
+OTHER_METHOD: Diğer yöntemsel hususlar
 INST_MANDATE: Kurumsal yetki
 COMPILING_ORG: Veri derleyicileri
 DATA_SOURCE: Veri sağlayıcıları
@@ -128,23 +128,23 @@ FREQ_COLL: Veri toplama takvimi
 COLL_METHOD: Veri toplama yöntemi
 SOURCE_TYPE: Veri kaynakları
 SRC_TYPE_COLL_METHOD: Veri kaynağı türü ve toplama yöntemi
-CLASS_SYSTEM: Sınıflandırma
+CLASS_SYSTEM: Sınıflandırmalar
 UNIT_MEASURE: Ölçü birimi
 STAT_CONC_DEF: Tanım ve kavramlar
 IND_DEF_CON_CLASS: Tanım, kavramlar ve sınıflandırmalar
-CONTACT_EMAIL: İletişim E-posta
-CONTACT_MAIL: İletişim e-postası
-CONTACT_PHONE: İletişim Telefonu
-CONTACT_FUNCT: Kişi işlevi
+CONTACT_EMAIL: İletişim e-posta adresi
+CONTACT_MAIL: İletişim e-posta adresi
+CONTACT_PHONE: İletişim telefonu
+CONTACT_FUNCT: İletişime geçilecek kişinin işlevi
 ORGANISATION_UNIT: Kuruluş birimiyle iletişime geçin
-CONTACT_NAME: İlgili kişi (ler)
-CONTACT_ORGANISATION: Organizasyon
-CONTACT: Veri muhabiri
+CONTACT_NAME: İletişime geçilecek kişi(ler)
+CONTACT_ORGANISATION: Kuruluş
+CONTACT: Veri raporlayıcı
 SDG_CUSTODIAN_AGENCIES: Küresel izlemeden sorumlu uluslararası kuruluşlar
 SDG_RELATED_INDICATORS: İlgili göstergeler
-META_LAST_UPDATE: Meta veri güncellemesi
-SDG_SERIES_DESCR: Serisi
+META_LAST_UPDATE: Üst veri güncellemesi
+SDG_SERIES_DESCR: Dizi
 SDG_INDICATOR: Gösterge
 SDG_TARGET: Hedef
-SDG_GOAL: Hedef
+SDG_GOAL: Amaç
 SDG_INDICATOR_INFO: Gösterge bilgileri

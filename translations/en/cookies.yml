@@ -6,7 +6,7 @@ acceptSelected: Accept selected
 close: Close
 consentModal_description: Here you can change which cookies you're happy for us to use.
 consentModal_title: Cookie settings
-consentNotice_changeDescription: There were changes since your last visit, please renew your consent.
+consentNotice_changeDescription: The cookies used on this site have changed since you last visited, please renew your consent.
 consentNotice_description: We use some essential cookies to make this service work. We’d also like to use {purposes} so we can understand how you use the service and make improvements.
 consentNotice_learnMore: View cookies
 consentNotice_testing: Testing mode!

@@ -1,0 +1,12 @@
+search: 'Gözle'
+# This refers to a section of the site for performing keyword searches to find particular indicators
+indicator_search: 'Görkeziji gözleg'
+# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
+search_results_for: 'Gözleg netijeleri'
+found_in: 'tapyldy'
+keywords: 'Açar sözler'
+# A message for the user - after they have performed an online search - to indicate that their search produced no results
+no_results: 'Netije ýok'
+did_you_mean: 'diýjek bolduňmy?'
+results_found: 'Netijeler tapyldy'
+adjust_your_search: 'Gözleýän zadyňyzy tapmak üçin gözlegiňizi sazlap görüň.'

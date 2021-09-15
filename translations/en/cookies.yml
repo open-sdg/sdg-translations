@@ -1,0 +1,42 @@
+cookie_settings: Cookie settings
+all_required_notice: We use some essential cookies to make this service work. They always need to be on.
+all_required_ok: OK
+acceptAll: Accept all
+acceptSelected: Accept selected
+close: Close
+consentModal_description: Here you can change which cookies you're happy for us to use.
+consentModal_title: Cookie settings
+consentNotice_changeDescription: The cookies used on this site have changed since you last visited, please renew your consent.
+consentNotice_description: We use some essential cookies to make this service work. We’d also like to use {purposes} so we can understand how you use the service and make improvements.
+consentNotice_learnMore: View cookies
+consentNotice_testing: Testing mode!
+contextualConsent_acceptAlways: Always
+contextualConsent_acceptOnce: 'Yes'
+contextualConsent_description: Do you want to load external content supplied by {title}?
+decline: Reject additional cookies
+ok: Accept additional cookies
+poweredBy: Realized with Klaro!
+privacyPolicy_name: privacy policy
+privacyPolicy_text: To learn more, please read our privacy policy.
+purposeItem_service: service
+purposeItem_services: services
+purposes_functional_description: Essential cookies keep your information secure, and do things like remember your preferences and the choices you make whilst you use the website. They always need to be on.
+purposes_functional_title: Essential cookies
+purposes_performance_description: These services process personal information to optimize the service that this website offers.
+purposes_performance_title: Performance optimization
+purposes_analytics_description: These services collect information about how you use the website. We use this data to help make the website better.
+purposes_analytics_title: Analytics cookies
+save: Save
+service_disableAll_description: Use this switch to enable or disable all services.
+service_disableAll_title: Enable or disable all services
+service_optOut_description: This services is loaded by default (but you can opt out)
+service_optOut_title: (opt-out)
+service_purpose: purpose
+service_purposes: purposes
+service_required_description: This service is always required
+service_required_title: (always required)
+contrast_description: Retains active state of accessibility services
+contrast_title: Accessibility mode
+google_analytics_description: Collects information about page visits using Google Analytics
+google_analytics_title: Google Analytics
+cookie_settings_description: Saves your cookie consent settings

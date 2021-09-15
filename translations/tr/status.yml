@@ -16,5 +16,5 @@ disaggregation_status_notapplicable: 'Kapsam dışı'
 disaggregation_status_by_field: '%field göre ayrıştırma'
 not_specified: Belirtilmedi
 reported: Bildirildi
-description: Raporlama durumu, ne kadar Sürdürülebilir Kalkınma Hedefi (SKH) verisinin
-  %name raporuna ilişkin bir genel bakış sağlar.
+description: Raporlama durumu, %name için ne kadar Sürdürülebilir Kalkınma Amacı (SDG)
+  verisinin raporlandığına ilişkin bir genel bakış sağlar.

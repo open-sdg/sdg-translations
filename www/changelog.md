@@ -6,7 +6,13 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
-## Unreleased
+## 1.5.0
+
+Note, the releases between 0.8.0 and 1.5.0 did not receive changelog updates.
+
+* Translations of cookie-related language for use on websites
+* Translations of "series break"
+* New languages
 
 ### Translations
 

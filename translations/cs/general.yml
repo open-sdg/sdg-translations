@@ -1,7 +1,7 @@
 # This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
-indicator: 'Indikátor'
+indicator: 'Ukazatel'
 # This is the plural version of the indicator key
-indicators: 'Indikátory'
+indicators: 'Ukazatele'
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
 goal: 'Cíl'
 # This is the plural version of the goal key

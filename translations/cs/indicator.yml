@@ -1,10 +1,10 @@
 select_all: 'Vybrat vše'
 clear_all: 'Vymazat vše'
 clear_selections: 'Vyčistit výběr'
-variable_hint: 'K dispozici, když je vybrána možnost "%pole'
+variable_hint: 'K dispozici, když je vybrána možnost ''%field'''
 no_data_hint: 'Žádné možnosti nejsou k dispozici kvůli výše uvedeným filtrům'
-download_headline: 'Stáhnout titulek CSV'
-download_headline_title: 'Stáhněte si titulní data jako CSV'
+download_headline: 'Stáhnout záhlaví CSV'
+download_headline_title: 'Stáhněte si data záhlaví jako CSV'
 download_source: 'Stáhnout zdrojový CSV'
 download_source_title: 'Stáhnout zdrojová data jako CSV'
 download_source_sdmx: 'Stáhnout zdroj SDMX'
@@ -28,7 +28,7 @@ unit_of_measurement: 'Jednotka měření'
 # A shorter version of the "Unit" label.
 unit: 'Jednotka'
 # A label describing information - any general information about a dataset - displayed below the data visualization on the page
-footnote: 'Patička'
+footnote: 'Zápatí'
 # The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
 units_type: 'Typ jednotky'
 # The label of a widget that allows the user to change the series that is being represented in a data visualization

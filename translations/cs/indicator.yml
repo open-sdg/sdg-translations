@@ -104,7 +104,7 @@ map_search_show: 'Zobrazit vyhledávání'
 # Instructions for using the data table columns for sorting.
 table_column_sort: 'Kliknutím seřadíte podle tohoto sloupce'
 # Label describing the status of an indicator
-status: 'Stav indikátoru'
+status: 'Stav ukazatele'
 # Label describing the "tags" for an indicator
 tags: 'Štítky'
 previous: 'Předchozí ukazatel'

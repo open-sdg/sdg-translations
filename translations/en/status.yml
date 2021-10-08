@@ -18,3 +18,8 @@ not_specified: Not specified
 reported: Reported
 description: Reporting status provides an overview of how much Sustainable Development
   Goal (SDG) data %name reports.
+progress_status: Progress status
+progress_not_available: Not available
+progress_challenges_remain: Challenges remain
+progress_approach_target: Approaching target
+progress_target_achieved: Target achieved

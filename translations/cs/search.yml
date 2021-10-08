@@ -1,0 +1,12 @@
+search: 'Hledat'
+# This refers to a section of the site for performing keyword searches to find particular indicators
+indicator_search: 'Vyhledávání indikátorů'
+# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
+search_results_for: 'Výsledky hledání pro'
+found_in: 'nalezené v'
+keywords: 'Klíčová slova'
+# A message for the user - after they have performed an online search - to indicate that their search produced no results
+no_results: 'Žádné výsledky'
+did_you_mean: 'mysleli jste tím'
+results_found: 'Nalezené výsledky'
+adjust_your_search: 'Zkuste upravit vyhledávání, abyste našli to, co hledáte.'

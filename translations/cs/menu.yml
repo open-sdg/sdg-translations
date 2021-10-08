@@ -1,0 +1,12 @@
+# A label describing the navigation menu of a website
+menu: 'Nabídka'
+# An item for a website's navigation menu pointing to its 'Reporting Status' page - which will provide information and status about the current state of each indicator - in terms of whether the site has data or not
+reporting_status: 'Stav hlášení'
+# An item for a website's navigation menu pointing to its 'About' page - which will provide general information about the website
+about: 'O projektu'
+publications: 'Publikace'
+guidance: 'Poradenství'
+faq: 'Často kladené dotazy'
+contact_us: 'Kontaktujte nás'
+cookies: 'Cookies'
+updates: 'Aktualizace'

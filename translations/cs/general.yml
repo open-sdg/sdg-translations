@@ -1,0 +1,27 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
+indicator: 'Ukazatel'
+# This is the plural version of the indicator key
+indicators: 'Ukazatele'
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
+goal: 'Cíl'
+# This is the plural version of the goal key
+goals: 'Cíle'
+sdg: 'Cíle udržitelného rozvoje'
+# This refers to the 'home page' of a website
+home: 'Domů'
+loading: 'Načítání výsledků vyhledávání'
+opens_new_window: 'se otevře v novém okně'
+hide: 'skrýt'
+target: 'Cíl'
+targets: 'Cíle'
+twitter: 'Twitter'
+facebook: 'Facebook'
+built_using_open_sdg: 'Vytvořeno pomocí Open SDG'
+page: 'Strana'
+pages: 'Stránky'
+targets_and_indicators: 'Cíle a ukazatele'
+# A label of "Warning" to place before some other text.
+label_warning: "Varování:"
+# A phrase to use as a site-wide page title.
+site_title: 'Ukazatele pro cíle udržitelného rozvoje'
+back_to_top: 'Zpět nahoru'

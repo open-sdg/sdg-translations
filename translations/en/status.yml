@@ -21,5 +21,5 @@ description: Reporting status provides an overview of how much Sustainable Devel
 progress_status: Progress status
 progress_not_available: Not available
 progress_challenges_remain: Challenges remain
-progress_approach_target: Approaching target
+progress_approaching_target: Approaching target
 progress_target_achieved: Target achieved

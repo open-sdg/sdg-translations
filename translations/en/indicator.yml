@@ -90,7 +90,8 @@ data_keyboard_navigation: Press enter to browse data points with left and right 
 # Description of the "plot legend" which displays beneath charts
 plot_legend_description: "Plot legend: list of lines included in chart"
 # Common annotation displayed on graphs for the 2030 target.
-annotation_2030_target: 2030 Target
+annotation_2030_target: 2030 target
+annotation_2030_indicator_target: 2030 indicator target
 annotation_series_break: Series break
 # Label describing an annotation on a chart/graph.
 chart_annotation: Chart annotation

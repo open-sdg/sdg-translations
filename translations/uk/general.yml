@@ -1,27 +1,27 @@
 # This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
-indicator: ''
+indicator: 'Показник'
 # This is the plural version of the indicator key
-indicators: ''
+indicators: 'Показники'
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: ''
+goal: 'Досягнення'
 # This is the plural version of the goal key
-goals: ''
-sdg: ''
+goals: 'Цілі'
+sdg: 'Цілі сталого розвитку'
 # This refers to the 'home page' of a website
-home: ''
-loading: ''
-opens_new_window: ''
-hide: ''
-target: ''
-targets: ''
-twitter: ''
-facebook: ''
-built_using_open_sdg: ''
-page: ''
-pages: ''
-targets_and_indicators: ''
+home: 'Вдома'
+loading: 'Завантаження результатів пошуку'
+opens_new_window: 'відкривається в новому вікні'
+hide: 'приховати'
+target: 'Призначення'
+targets: 'Цілі'
+twitter: 'Twitter'
+facebook: 'Facebook'
+built_using_open_sdg: 'Побудовано з використанням відкритого SDG'
+page: 'Сторінка'
+pages: 'Сторінки'
+targets_and_indicators: 'Цілі та індикатори'
 # A label of "Warning" to place before some other text.
-label_warning: ""
+label_warning: "Попередження:"
 # A phrase to use as a site-wide page title.
-site_title: ''
-back_to_top: ''
+site_title: 'Індикатори цілей сталого розвитку'
+back_to_top: 'На початок'

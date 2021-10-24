@@ -3,14 +3,14 @@ indicator: 'Показник'
 # This is the plural version of the indicator key
 indicators: 'Показники'
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: 'Досягнення'
+goal: 'Ціль'
 # This is the plural version of the goal key
 goals: 'Цілі'
 sdg: 'Цілі сталого розвитку'
 # This refers to the 'home page' of a website
-home: 'Вдома'
+home: 'Головна'
 loading: 'Завантаження результатів пошуку'
-opens_new_window: 'відкривається в новому вікні'
+opens_new_window: 'Відкрити у новому вікні'
 hide: 'приховати'
 target: 'Призначення'
 targets: 'Цілі'

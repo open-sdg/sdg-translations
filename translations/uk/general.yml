@@ -12,14 +12,14 @@ home: 'Головна'
 loading: 'Завантаження результатів пошуку'
 opens_new_window: 'Відкрити у новому вікні'
 hide: 'приховати'
-target: 'Призначення'
-targets: 'Цілі'
+target: 'Завдання'
+targets: 'Завдання'
 twitter: 'Twitter'
 facebook: 'Facebook'
-built_using_open_sdg: 'Побудовано з використанням відкритого SDG'
+built_using_open_sdg: 'Побудовано з використанням відкритої платформи SDG'
 page: 'Сторінка'
 pages: 'Сторінки'
-targets_and_indicators: 'Цілі та індикатори'
+targets_and_indicators: 'Завдання та індикатори'
 # A label of "Warning" to place before some other text.
 label_warning: "Попередження:"
 # A phrase to use as a site-wide page title.

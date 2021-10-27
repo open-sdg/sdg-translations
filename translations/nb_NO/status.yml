@@ -18,3 +18,8 @@ not_specified: Ikke angitt
 reported: Rapportert
 description: Rapporteringsstatus gir en oversikt over hvor mye data om bærekraftig
   utviklingsmål (SDG) (%).
+progress_status: Fremdriftsstatus
+progress_not_available: Ikke tilgjengelig
+progress_challenges_remain: Utfordringer gjenstår
+progress_approaching_target: Nærmer seg målet
+progress_target_achieved: Mål nådd

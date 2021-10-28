@@ -18,3 +18,8 @@ not_specified: 'Görkezilmedi'
 reported: 'Hasabat berildi'
 description: 'Hasabat ýagdaýy, Durnukly Ösüş Maksady (SDG) maglumatlaryň% adynyň näçeräk
   hasabat berýändigi barada umumy düşünje berýär.'
+progress_status: Ösüş ýagdaýy
+progress_not_available: Elýeterli däl
+progress_challenges_remain: Kynçylyklar galýar
+progress_approaching_target: Maksada ýakynlaşmak
+progress_target_achieved: Maksada ýetildi

@@ -18,3 +18,8 @@ not_specified: 'Не вказано'
 reported: 'Повідомили'
 description: 'Статус звітності містить огляд того, скільки даних %name повідомляє
   про цілі сталого розвитку (SDG).'
+progress_status: Статус виконання
+progress_not_available: Недоступно
+progress_challenges_remain: Проблеми залишаються
+progress_approaching_target: Наближення до мети
+progress_target_achieved: Ціль досягнута

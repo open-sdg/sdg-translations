@@ -15,3 +15,8 @@ disaggregation_status_notapplicable: 'Қолданылу аясынан тыс'
 disaggregation_status_by_field: '% Өрісі бойынша бөлу'
 not_specified: Белгілі емес
 reported: Хабарланды
+progress_status: Орындалу күйі
+progress_not_available: Qoljetimdi emes
+progress_challenges_remain: Қиындықтар әлі де бар
+progress_approaching_target: Мақсатқа жақындау
+progress_target_achieved: Мақсатқа қол жеткізілді

@@ -16,3 +16,8 @@ disaggregation_status_notapplicable: 'दायरा बाहिर'
 disaggregation_status_by_field: '% क्षेत्र द्वारा असहमति'
 not_specified: 'तोकिएको छैन'
 reported: रिपोर्ट गरियो
+progress_status: प्रगति स्थिति
+progress_not_available: उपलब्ध छैन
+progress_challenges_remain: चुनौतीहरू बाँकी नै छन्
+progress_approaching_target: लक्ष्य नजिक
+progress_target_achieved: लक्ष्य हासिल भयो

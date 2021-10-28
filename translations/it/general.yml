@@ -1,0 +1,27 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
+indicator: 'Indicatore'
+# This is the plural version of the indicator key
+indicators: 'Gli indicatori'
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
+goal: 'Obbiettivo'
+# This is the plural version of the goal key
+goals: 'Obiettivi'
+sdg: 'Obiettivi di sviluppo sostenibile'
+# This refers to the 'home page' of a website
+home: 'Pagina principale'
+loading: 'Caricamento dei risultati della ricerca'
+opens_new_window: 'si apre in una nuova finestra'
+hide: 'nascondi'
+target: 'Target'
+targets: 'Obiettivi'
+twitter: 'Twitter'
+facebook: 'Facebook'
+built_using_open_sdg: 'Costruito usando Open SDG'
+page: 'Pagina'
+pages: 'Pagine'
+targets_and_indicators: 'Obiettivi e indicatori'
+# A label of "Warning" to place before some other text.
+label_warning: "Attenzione:"
+# A phrase to use as a site-wide page title.
+site_title: 'Indicatori per gli obiettivi di sviluppo sostenibile'
+back_to_top: 'Torna all''inizio'

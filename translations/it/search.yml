@@ -1,0 +1,13 @@
+search: 'Ricerca'
+# This refers to a section of the site for performing keyword searches to find particular indicators
+indicator_search: 'Ricerca dell''indicatore'
+# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
+search_results_for: 'Cerca nei risultati per'
+found_in: 'trovato in'
+keywords: 'Parole chiave'
+# A message for the user - after they have performed an online search - to indicate that their search produced no results
+no_results: 'Nessun risultato'
+did_you_mean: 'volevi dire'
+results_found: 'risultati trovati'
+adjust_your_search: 'Prova a modificare la tua ricerca per trovare quello che stai
+  cercando.'

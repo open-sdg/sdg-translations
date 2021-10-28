@@ -1,0 +1,12 @@
+skip_link: 'Salta al contenuto principale'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'Alfabetico'
+disclaimer: 'Questo è un sito web di sviluppo. Accogliamo il vostro <a href="mailto:%email_address">feedback</a>.'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: '17 obiettivi per trasformare il nostro mondo'
+high_contrast: 'Alto Contrasto'
+default_contrast: 'Contrasto predefinito'
+enable_high_contrast: 'Abilita l''alto contrasto'
+disable_high_contrast: 'Disattivare l''alto contrasto'
+toggle_search: 'Alterna la ricerca. Clicca per espandere o ridurre la barra di ricerca.'
+toggle_menu: 'Menu toggle. Clicca per espandere o ridurre il menu.'

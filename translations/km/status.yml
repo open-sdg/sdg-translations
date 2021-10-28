@@ -16,3 +16,8 @@ disaggregation_status_notapplicable: 'ហួសទំហំ'
 disaggregation_status_by_field: 'ការបែងចែកតាមវាល%'
 not_specified: 'មិនបានបញ្ជាក់'
 reported: បានរាយការណ៍
+progress_status: ស្ថានភាពវឌ្ឍនភាព
+progress_not_available: មិនទំនេរ
+progress_challenges_remain: បញ្ហាប្រឈមនៅតែមាន
+progress_approaching_target: ជិតដល់គោលដៅ
+progress_target_achieved: គោលដៅសម្រេចបាន។

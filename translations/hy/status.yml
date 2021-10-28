@@ -17,3 +17,8 @@ not_specified: Նշված չէ
 reported: Հաղորդել են
 description: 'Հաշվետվության կարգավիճակը տալիս է ակնարկ, թե որքանով են Կայուն զարգացման
   նպատակի (SDG)%% անունները հաղորդում:'
+progress_status: Առաջընթացի կարգավիճակը
+progress_not_available: Անհասանելի
+progress_challenges_remain: Մարտահրավերները մնում են
+progress_approaching_target: Թիրախին մոտենալը
+progress_target_achieved: Նպատակը հասել է

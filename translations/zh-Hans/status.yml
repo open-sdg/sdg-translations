@@ -15,3 +15,8 @@ disaggregation_status_notapplicable: '不在范围内'
 disaggregation_status_by_field: '按%字段分列'
 not_specified: 未标明
 reported: 已举报
+progress_status: 进度情况
+progress_not_available: 不可用
+progress_challenges_remain: 挑战依然存在
+progress_approaching_target: 接近目标
+progress_target_achieved: 实现的目标

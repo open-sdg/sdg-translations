@@ -1,19 +1,19 @@
 select_all: 'Обрати всі'
 clear_all: 'Очистити все'
-clear_selections: 'Спорожнити позначене'
-variable_hint: 'Доступно, якщо вибрано "%поле"'
-no_data_hint: 'Немає доступних варіантів через фільтри вище'
-download_headline: 'Завантажити CSV заголовка'
-download_headline_title: 'Завантаження даних заголовка як CSV'
-download_source: 'Завантажити вихідний CSV'
-download_source_title: 'Завантаження вихідних даних у форматі CSV'
+clear_selections: 'Очистити позначене'
+variable_hint: 'Доступно, якщо вибрано ''%field'''
+no_data_hint: 'Немає доступних варіантів відповідно до фільтрів вище'
+download_headline: 'Завантажити CSV'
+download_headline_title: 'Завантаження дані як CSV'
+download_source: 'Завантажити джерело CSV'
+download_source_title: 'Завантаження дані у форматі CSV'
 download_source_sdmx: 'Завантажити джерело SDMX'
-download_source_sdmx_title: 'Завантаження вихідних даних як SDMX'
-download_chart: 'Завантажити CSV-діаграму'
-download_table: 'Завантажити таблицю CSV'
+download_source_sdmx_title: 'Завантаження джерела даних як SDMX'
+download_chart: 'Завантажити діаграму'
+download_table: 'Завантажити таблицю'
 download_csv: 'Завантажити CSV'
 download_csv_title: 'Завантажити як CSV'
-download_chart_image: 'Завантажити зображення діаграми'
+download_chart_image: 'Завантажити діаграму'
 download_chart_image_title: 'Завантажити діаграму як зображення'
 download_geojson: 'Завантажити GeoJSON'
 download_geojson_title: 'Завантажити як GeoJSON'
@@ -26,13 +26,13 @@ geographical_area: 'Географічний район'
 # A label describing information - the unit of measurement that is being represented in a dataset
 unit_of_measurement: 'Одиниця виміру'
 # A shorter version of the "Unit" label.
-unit: 'Блок'
+unit: 'Одиниця виміру'
 # A label describing information - any general information about a dataset - displayed below the data visualization on the page
 footnote: 'Виноска'
 # The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
 units_type: 'Тип одиниць вимірювання'
 # The label of a widget that allows the user to change the series that is being represented in a data visualization
-series: 'Серіал'
+series: 'Ряд'
 dataset_size_warning: 'На діаграмі занадто багато наборів даних. Не всі з них відображатимуться,
   доки не буде видалено деякі виділення.'
 view_indicator_list: 'Перегляд списку показників цієї цілі'
@@ -40,9 +40,8 @@ view_indicator_list: 'Перегляд списку показників ціє�
 sub_categories: 'Підкатегорії'
 # A label of "Show sub-categories" to display before a particular sub-category's name
 sub_categories_show: "Показати підкатегорії:"
-series_help: 'Виберіть категорії з розкривних списків нижче, щоб переглянути різні
-  розбивки даних. Деякі з них не будуть доступні, поки не буде обрано більш високий
-  рівень.'
+series_help: 'Виберіть категорії зі списків нижче, щоб переглянути різні розбивки
+  даних. Деякі з них не будуть доступні, поки не буде обрано більш високий рівень.'
 legend_help: 'Натисніть на легенду, щоб видалити окремі рядки з діаграми.'
 # A button that displays some data in the form of a chart
 chart: 'Діаграма'
@@ -51,14 +50,14 @@ table: 'Таблиця'
 # A button that displays some data in the form of a map
 map: 'Мапа'
 loading: 'Завантаження'
-loading_map: 'Завантаження карти'
+loading_map: 'Завантаження мапи'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'Національні метадані'
 national_metadata_blurb: 'У цій таблиці наведено метадані для фактичного індикатора,
   доступного зі статистики %country_name, найближчої до відповідного глобального індикатора
   ЦСР. Зверніть увагу, що навіть якщо глобальний індикатор ЦСР повністю доступний
-  зі статистики%country_adjective, з цією таблицею слід проконсультуватися для отримання
-  інформації про національну методологію та іншу інформацію про метадані% country_adjective.'
+  зі статистики %country_adjective, з цією таблицею слід проконсультуватися для отримання
+  інформації про національну методологію та іншу інформацію про метадані %country_adjective.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'Глобальні метадані'
 global_metadata_blurb: 'Ця таблиця містить інформацію про метадані для показників
@@ -76,25 +75,25 @@ edit_configuration: 'Змінити конфігурацію'
 # user's choices.
 data_not_available: 'Ці дані недоступні. Виберіть альтернативні дані для відображення.'
 # A message that is announced when there is no data on the chart/table
-announce_data_not_available: 'Діаграма та таблиця не відображають даних.'
+announce_data_not_available: 'Діаграма та таблиця показують, що даних немає.'
 # A message that is announced when the data is added to the chart/table
 announce_data_added: 'Діаграма та таблиця оновлено, щоб включити дані.'
 # A message that is announced when the data is removed from the chart/table
 announce_data_removed: 'Діаграма та таблиця оновлено, щоб виключити дані.'
 # A message that points out an alternative display for visual data
-data_tabular_alternative: 'Альтернатива табличної даних див.'
+data_tabular_alternative: 'Дані у таблиці.'
 # Instructions for navigating data with a keyboard
 data_keyboard_navigation: 'Натисніть клавішу Enter, щоб переглянути точки даних за
   допомогою клавіш зі стрілками вліво та вправо.'
 # Description of the "plot legend" which displays beneath charts
 plot_legend_description: "Легенда графіка: список рядків, включених до діаграми"
 # Common annotation displayed on graphs for the 2030 target.
-annotation_2030_target: 'Мета 2030 року'
-annotation_series_break: 'Перерва серії'
+annotation_2030_target: 'Завдання 2030 року'
+annotation_series_break: 'Розрив раду'
 # Label describing an annotation on a chart/graph.
 chart_annotation: 'Анотація діаграми'
 # Description of the year slider on maps.
-map_year_slider: 'Повзунок року'
+map_year_slider: 'Повзунок для року'
 # Description of a search field on maps.
 map_search: 'Пошук'
 # Description of a button that hides the search field on maps.

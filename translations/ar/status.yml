@@ -17,3 +17,8 @@ not_specified: غير محدّد
 reported: تم الإبلاغ
 description: تقدم حالة إعداد التقارير نظرة عامة على مقدار بيانات٪ name الخاصة بأهداف
   التنمية المستدامة (SDG).
+progress_status: حالة التقدم
+progress_not_available: غير متوفر
+progress_challenges_remain: التحديات لا تزال قائمة
+progress_approaching_target: يقترب الهدف
+progress_target_achieved: تحقق الهدف

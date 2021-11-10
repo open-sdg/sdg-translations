@@ -18,3 +18,8 @@ not_specified: 'Муайян нашудааст'
 reported: Ҳисобот дода шуд
 description: Статуси ҳисобот шарҳи он аст, ки то чӣ андоза маълумот% Ҳадафи Рушди
   Устувор (SDG) пешниҳод мекунад.
+progress_status: Ҳолати пешрафт
+progress_not_available: Дастрас нест
+progress_challenges_remain: Мушкилот боқӣ мемонад
+progress_approaching_target: Наздик ба ҳадаф
+progress_target_achieved: Ҳадаф расид

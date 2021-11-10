@@ -15,3 +15,8 @@ disaggregation_status_notapplicable: "Fora d'abast"
 disaggregation_status_by_field: 'Desagregació per %field'
 not_specified: Sense especificar
 reported: Reportat
+progress_status: Estat de progrés
+progress_not_available: No disponible
+progress_challenges_remain: Queden els reptes
+progress_approaching_target: S'acosta a l'objectiu
+progress_target_achieved: Objectiu assolit

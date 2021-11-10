@@ -10,7 +10,7 @@ download_source_title: 'Last ned kildedata som CSV'
 download_source_sdmx: 'Last ned kilde i SDMX'
 download_source_sdmx_title: 'Last ned kildedata som SDMX'
 download_chart: 'Last ned CSV-diagram'
-download_table: 'Last ned tabell CSV'
+download_table: 'Last ned tabell som CSV'
 download_csv: 'Last ned CSV'
 download_csv_title: 'Last ned som CSV'
 download_chart_image: 'Last ned diagrambilde'
@@ -69,7 +69,7 @@ edit_metadata: 'Rediger metadata'
 # user's choices.
 data_not_available: 'Disse dataene er ikke tilgjengelige. Velg alternative data som
   skal vises.'
-edit_configuration: Rediger konfigurasjon
+edit_configuration: Rediger oppsett
 next: Neste indikator
 previous: Forrige indikator
 tags: Etiketter
@@ -78,15 +78,16 @@ table_column_sort: Klikk for å sortere etter denne kolonnen
 map_search_show: Vis søk
 map_search_hide: Skjul søk
 map_search: Søk
-map_year_slider: Årsskyve
+map_year_slider: Årsglidebryter
 chart_annotation: Merknad for diagram
-annotation_2030_target: 2030 Mål
+annotation_2030_target: 2030-mål
 plot_legend_description: 'Plottetekst: liste over linjer inkludert i diagrammet'
 data_keyboard_navigation: Trykk enter for å bla gjennom datapunkter med venstre og
   høyre piltast.
-data_tabular_alternative: For tabelldata alternativ, se Tabell fane.
+data_tabular_alternative: Se «Tabell»-fanen for tabelldata-alternativ.
 announce_data_removed: Diagram og tabell oppdatert for å ekskludere data.
 announce_data_added: Diagram og tabell oppdatert for å inkludere data.
 announce_data_not_available: Diagram og tabell viser ingen data.
 sub_categories_show: 'Vis underkategorier:'
 unit: Enhet
+annotation_series_break: Seriepause

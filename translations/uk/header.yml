@@ -1,0 +1,12 @@
+skip_link: 'Перескочити до основного вмісту'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'Прозорість'
+disclaimer: 'Це сайт для розробки. Ми вітаємо ваш відгук <a href="mailto:%email_address"></a>.'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: '17 цілей, щоб змінити наш світ'
+high_contrast: 'Висока контрастність'
+default_contrast: 'Контрастність за промовчанням'
+enable_high_contrast: 'Увімкнути високу контрастність'
+disable_high_contrast: 'Вимкнути високу контрастність'
+toggle_search: 'Перемикач пошуку. Клацніть, щоб розгорнути або згорнути рядок пошуку.'
+toggle_menu: 'Перемикач меню. Клацніть, щоб розгорнути або згорнути меню.'

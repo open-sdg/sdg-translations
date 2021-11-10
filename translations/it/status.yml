@@ -1,0 +1,25 @@
+reporting_status: 'Stato del rapporto'
+overall_reporting_status: 'Stato complessivo del rapporto'
+reported_online: 'Segnalato online'
+statistics_in_progress: 'Statistiche in corso'
+exploring_data_sources: 'Esplorare le fonti di dati'
+not_applicable: 'Non applicabile'
+# Describing a section where the status is reported for each goal
+status_by_goal: 'Stato per obiettivo'
+status_by_field: 'Stato per %campo'
+disaggregation_status: 'Stato di disaggregazione'
+disaggregation_status_overall: 'Stato complessivo di disaggregazione'
+disaggregation_status_complete: 'Completamente disaggregato'
+disaggregation_status_inprogress: 'Parzialmente disaggregato'
+disaggregation_status_notstarted: 'Non disaggregato'
+disaggregation_status_notapplicable: 'Fuori portata'
+disaggregation_status_by_field: 'Disaggregazione per %campo'
+not_specified: 'Non specificato'
+reported: 'Segnalato'
+description: 'Lo stato dei rapporti fornisce una panoramica di quanti dati degli Obiettivi
+  di Sviluppo Sostenibile (SDG) %name riporta.'
+progress_status: Stato di avanzamento
+progress_not_available: Non disponibile
+progress_challenges_remain: Le sfide rimangono
+progress_approaching_target: Obiettivo in avvicinamento
+progress_target_achieved: Obiettivo raggiunto

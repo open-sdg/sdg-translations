@@ -1,0 +1,14 @@
+skip_link: 'Přeskočit na hlavní obsah'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'Abecedně'
+disclaimer: 'Jedná se o vývojové webové stránky. Uvítáme vaši <a href="mailto:%email_address">zpětnou
+  vazbu</a>.'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: '17 cílů pro proměnu našeho světa'
+high_contrast: 'Vysoký kontrast'
+default_contrast: 'Výchozí kontrast'
+enable_high_contrast: 'Povolení vysokého kontrastu'
+disable_high_contrast: 'Zakázat vysoký kontrast'
+toggle_search: 'Přepínač vyhledávání. Kliknutím na něj se vyhledávací panel rozbalí
+  nebo sbalí.'
+toggle_menu: 'Přepínání nabídek. Kliknutím na něj nabídku rozbalíte nebo sbalíte.'

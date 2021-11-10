@@ -16,3 +16,8 @@ disaggregation_status_notapplicable: 'ນອກຂອບເຂດ'
 disaggregation_status_by_field: 'ການແບ່ງແຍກໂດຍ% field'
 not_specified: 'ບໍ່ໄດ້ລະບຸ'
 reported: ລາຍງານ
+progress_status: ສະຖານະຄວາມຄືບໜ້າ
+progress_not_available: ຍັງບໍ່ທັນມີ
+progress_challenges_remain: ສິ່ງທ້າທາຍຍັງຄົງຢູ່
+progress_approaching_target: ໃກ້ຮອດເປົ້າໝາຍ
+progress_target_achieved: ເປົ້າໝາຍບັນລຸໄດ້

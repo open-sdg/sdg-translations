@@ -17,3 +17,8 @@ not_specified: Nicht angegeben
 reported: Gemeldet
 description: Der Berichtsstatus gibt einen Überblick darüber, wie viele Daten zu den
   Sustainable Development Goals (SDGs) %name meldet.
+progress_status: Status des Fortschritts
+progress_not_available: Nicht verfügbar
+progress_challenges_remain: Herausforderungen bleiben bestehen
+progress_approaching_target: Annäherung an das Ziel
+progress_target_achieved: Ziel erreicht

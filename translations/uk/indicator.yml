@@ -107,4 +107,4 @@ status: 'Стан індикатора'
 # Label describing the "tags" for an indicator
 tags: 'Мітки'
 previous: 'Попередній показник'
-next: 'Наступний індикатор'
+next: 'Наступний показник'

@@ -1,25 +1,25 @@
 reporting_status: 'Статус звітності'
 overall_reporting_status: 'Загальний стан звітності'
 reported_online: 'Повідомлено в Інтернеті'
-statistics_in_progress: 'Статистика триває'
-exploring_data_sources: 'Вивчення джерел даних'
+statistics_in_progress: 'Статистика в розробці'
+exploring_data_sources: 'Джерела даних'
 not_applicable: 'Не застосовується'
 # Describing a section where the status is reported for each goal
 status_by_goal: 'Статус за ціллю'
-status_by_field: 'Статус за полем %'
+status_by_field: 'Статус за %field'
 disaggregation_status: 'Статус дезагрегації'
 disaggregation_status_overall: 'Загальний стан дезагрегації'
 disaggregation_status_complete: 'Повністю дезагрегований'
 disaggregation_status_inprogress: 'Частково дезагрегований'
 disaggregation_status_notstarted: 'Не дезагрегований'
-disaggregation_status_notapplicable: 'Виходить за рамки'
-disaggregation_status_by_field: 'Дезагрегація за %полем'
+disaggregation_status_notapplicable: 'Виходить за діапазон'
+disaggregation_status_by_field: 'Дезагрегація за %field'
 not_specified: 'Не вказано'
-reported: 'Повідомили'
+reported: 'Опубліковано'
 description: 'Статус звітності містить огляд того, скільки даних %name повідомляє
-  про цілі сталого розвитку (SDG).'
+  про Цілі сталого розвитку.'
 progress_status: Статус виконання
 progress_not_available: Недоступно
 progress_challenges_remain: Проблеми залишаються
 progress_approaching_target: Наближення до мети
-progress_target_achieved: Ціль досягнута
+progress_target_achieved: Мета досягнута

@@ -6,7 +6,7 @@ search_results_for: 'Результати пошуку для'
 found_in: 'знайдено в'
 keywords: 'Ключові слова'
 # A message for the user - after they have performed an online search - to indicate that their search produced no results
-no_results: 'No results'
+no_results: 'Нема результатів'
 did_you_mean: 'Ви мали на увазі'
 results_found: 'Знайдено результати'
 adjust_your_search: 'Спробуйте налаштувати пошук, щоб знайти те, що ви шукаєте.'

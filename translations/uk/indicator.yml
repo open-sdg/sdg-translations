@@ -88,7 +88,7 @@ data_keyboard_navigation: 'Натисніть клавішу Enter, щоб пе�
 # Description of the "plot legend" which displays beneath charts
 plot_legend_description: "Легенда графіка: список рядків, включених до діаграми"
 # Common annotation displayed on graphs for the 2030 target.
-annotation_2030_target: 'Завдання 2030 року'
+annotation_2030_target: 'Цільовий орієнтир 2030'
 annotation_series_break: 'Розрив раду'
 # Label describing an annotation on a chart/graph.
 chart_annotation: 'Анотація діаграми'

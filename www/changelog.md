@@ -6,6 +6,10 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## 1.7.0
+
+* Refresh of languages.yml files
+
 ## 1.6.0
 
 * Phrases for reporting SDG progress

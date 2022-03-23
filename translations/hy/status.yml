@@ -4,7 +4,7 @@ reported_online: 'Առցանց հաշվետվություն'
 reporting_status: 'Հաշվետվության կարգավիճակը'
 statistics_in_progress: Վիճակագրությունը ընթացքում է
 not_applicable: ոչ կիրառելի
-status_by_goal: Գոլի կարգավիճակ
+status_by_goal: Նպատակի կարգավիճակ
 status_by_field: Կարգավիճակը %field
 disaggregation_status: 'Տարանջատման կարգավիճակ'
 disaggregation_status_overall: 'Ընդհանուր տարանջատման կարգավիճակը'

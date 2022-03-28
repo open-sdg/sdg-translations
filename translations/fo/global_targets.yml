@@ -1,169 +1,523 @@
-1-1-title: ''
-1-2-title: ''
-1-3-title: ''
-1-4-title: ''
-1-5-title: ''
-1-a-title: ''
-1-b-title: ''
-10-1-title: ''
-10-2-title: ''
-10-3-title: ''
-10-4-title: ''
-10-5-title: ''
-10-6-title: ''
-10-7-title: ''
-10-a-title: ''
-10-b-title: ''
-10-c-title: ''
-11-1-title: ''
-11-2-title: ''
-11-3-title: ''
-11-4-title: ''
-11-5-title: ''
-11-6-title: ''
-11-7-title: ''
-11-a-title: ''
-11-b-title: ''
-11-c-title: ''
-12-1-title: ''
-12-2-title: ''
-12-3-title: ''
-12-4-title: ''
-12-5-title: ''
-12-6-title: ''
-12-7-title: ''
-12-8-title: ''
-12-a-title: ''
-12-b-title: ''
-12-c-title: ''
-13-1-title: ''
-13-2-title: ''
-13-3-title: ''
-13-a-title: ''
-13-b-title: ''
-14-1-title: ''
-14-2-title: ''
-14-3-title: ''
-14-4-title: ''
-14-5-title: ''
-14-6-title: ''
-14-7-title: ''
-14-a-title: ''
-14-b-title: ''
-14-c-title: ''
-15-1-title: ''
-15-2-title: ''
-15-3-title: ''
-15-4-title: ''
-15-5-title: ''
-15-6-title: ''
-15-7-title: ''
-15-8-title: ''
-15-9-title: ''
-15-a-title: ''
-15-b-title: ''
-15-c-title: ''
-16-1-title: ''
-16-10-title: ''
-16-2-title: ''
-16-3-title: ''
-16-4-title: ''
-16-5-title: ''
-16-6-title: ''
-16-7-title: ''
-16-8-title: ''
-16-9-title: ''
-16-a-title: ''
-16-b-title: ''
-17-1-title: ''
-17-10-title: ''
-17-11-title: ''
-17-12-title: ''
-17-13-title: ''
-17-14-title: ''
-17-15-title: ''
-17-16-title: ''
-17-17-title: ''
-17-18-title: ''
-17-19-title: ''
-17-2-title: ''
-17-3-title: ''
-17-4-title: ''
-17-5-title: ''
-17-6-title: ''
-17-7-title: ''
-17-8-title: ''
-17-9-title: ''
-2-1-title: ''
-2-2-title: ''
-2-3-title: ''
-2-4-title: ''
-2-5-title: ''
-2-a-title: ''
-2-b-title: ''
-2-c-title: ''
-3-1-title: ''
-3-2-title: ''
-3-3-title: ''
-3-4-title: ''
-3-5-title: ''
-3-6-title: ''
-3-7-title: ''
-3-8-title: ''
-3-9-title: ''
-3-a-title: ''
-3-b-title: ''
-3-c-title: ''
-3-d-title: ''
-4-1-title: ''
-4-2-title: ''
-4-3-title: ''
-4-4-title: ''
-4-5-title: ''
-4-6-title: ''
-4-7-title: ''
-4-a-title: ''
-4-b-title: ''
-4-c-title: ''
-5-1-title: ''
-5-2-title: ''
-5-3-title: ''
-5-4-title: ''
-5-5-title: ''
-5-6-title: ''
-5-a-title: ''
-5-b-title: ''
-5-c-title: ''
-6-1-title: ''
-6-2-title: ''
-6-3-title: ''
-6-4-title: ''
-6-5-title: ''
-6-6-title: ''
-6-a-title: ''
-6-b-title: ''
-7-1-title: ''
-7-2-title: ''
-7-3-title: ''
-7-a-title: ''
-7-b-title: ''
-8-1-title: ''
-8-10-title: ''
-8-2-title: ''
-8-3-title: ''
-8-4-title: ''
-8-5-title: ''
-8-6-title: ''
-8-7-title: ''
-8-8-title: ''
-8-9-title: ''
-8-a-title: ''
-8-b-title: ''
-9-1-title: ''
-9-2-title: ''
-9-3-title: ''
-9-4-title: ''
-9-5-title: ''
-9-a-title: ''
-9-b-title: ''
-9-c-title: ''
+1-1-title: 'Fyri 2030 at beina fyri allari ógvisligari fátækt hjá øllum fólkum allastaðni,
+  í løtuni at rokna eftir fólkum, sum liva av minni enn $1,25 um dagin'
+1-2-title: 'Fyri 2030 at minka við einum helmingi tann partin av monnum, kvinnum og
+  børnum í øllum aldri, sum liva í fátækt í øllum líki samsvarandi allýsingunum fyri
+  einstaka landið'
+1-3-title: 'Seta í verk sosialar trygdarskipanir og tiltøk, sum eru hóskandi fyri
+  einstaka landið, fyri øll, her íroknað lágmørk, og fyri 2030 skulu hesar skipanir
+  fevna um ein heilt stóran part av teimum fátæku og teimum, sum eru illa fyri'
+1-4-title: 'Fyri 2030 at tryggja, at allir menn og allar kvinnur, serliga tey fátæku
+  og tey, sum eru illa fyri, hava sama rætt til búskaparliga tilfeingið og atgongd
+  til grundleggjandi tænastur, ognarrætt og ræði á landi og aðrari ogn, arvi, náttúrutilfeingi,
+  hóskiliga nýggja tøkni og fíggjarligar tænastur, sum eisini umfata mikrofígging'
+1-5-title: 'Fyri 2030 at byggja upp treystið hjá teimum fátæku og teimum í veikari
+  støðu og gera tey minni viðbrekin og ástødd fyri ógvisligum tilburðum, sum tongd
+  eru at veðurlagi og øðrum búskaparligum, sosialum og umhvørvisligum skelkum og vanlukkum'
+1-a-title: 'Tryggja, at nóg mikið av tilfeingi fæst til vega frá ymiskum keldum, eisini
+  við øktum menningarsamstarvi til tess at fáa til vega nøktandi og kend fíggjarevni
+  til menningarlond, serstakliga tey lond, sum minst eru ment, til tess at seta í
+  verk skráir og politikkir fyri at basa fátækt í øllum líki'
+1-b-title: 'Skapa sterkar politiskar karmar á lands-, økis- og altjóðastigi, grundað
+  á menningarætlanir, sum serliga hava atlit at fátækt og kynsjavnrættindum, til tess
+  at stimbra fleiri íløgur í tiltøk, ið skulu beina fyri fátækt'
+10-1-title: 'Fyri 2030 skal ein stigvísur inntøkuvøkstur fyri tey lægstu 40 prosentini
+  av íbúgvunum verða rokkin og hildin, sum er hægri enn landsmiðaltalið'
+10-2-title: 'Fyri 2030 skal sosial, búskaparlig og politisk inklusjón fyri øll máttmennast
+  og stimbrast, sama hvør aldur, kyn, brek, rasa, etnisitetur, uppruni, átrúnaður,
+  fíggjarlig støða ella onnur støða er'
+10-3-title: 'Somu møguleikar verða tryggjaðir, og ójavnar í úrtøku verða skerdir millum
+  annað við at strika lógir, politikkir og siðir, ið elva mismun, og virkað verður
+  fyri gagnligari lóggávu, politikki og atgerðum at ganga hesum á møti'
+10-4-title: 'Seta í verk politikkir, serliga búskapar-, lønar- og sosialpolitikkir,
+  og so í vaksandi mun røkka størri javnað'
+10-5-title: 'Betra um reglur fyri og eftirlit við heimsfevnandi fíggjarmarknaðum og
+  -stovnum, og styrkja íverksetanina av slíkum reglugerðum'
+10-6-title: 'Menningarlondini skulu tryggjast betri umboðan og rødd, har avgerðir
+  verða tiknar í altjóða búskapar- og fíggjarstovnum fyri at fáa munadyggari, meira
+  álítandi, ábyrgar og løgfestar stovnar'
+10-7-title: 'Lætta um skipaða, trygga, regluliga og ábyrgdarfulla fólkaflyting og
+  flytføri hjá fólki, millum annað við at seta í verk skipaðar og vælumsitnar politikkir
+  fyri flyting um landamørk'
+10-a-title: 'Aðalreglurnar um serligt og ymisligt atlit at menningarlondum, serstakliga
+  teimum minst mentu londunum, verða settar í verk í samsvari við avtalur hjá Heimshandilsfelagsskapinum
+  WTO'
+10-b-title: 'Eggjað verður til almennan menningarstuðul og fíggjarliga tilførslu,
+  eisini við beinleiðis íløgum, til lond, har tørvurin er størstur, og serstakliga
+  til tey minst mentu londini, tey afrikonsku londini, smá oyggjaríki í menning og
+  menningarlond, sum ikki sleppa at sjógvi. Veitingar og íløgur skulu verða gjørdar
+  í samsvari við landsætlanir og skráir í menningarlondunum'
+10-c-title: 'Fyri 2030 skal kostnaður í sambandi við peningaflytingar frá útlendskum
+  arbeiðsfólki minka til undir 3 prosent, og beint verður fyri peningaflutningsleiðum,
+  sum kosta meiri enn 5 prosent'
+11-1-title: 'Fyri 2030 skal øllum verða tryggjað atgongd til skikkaðar og tryggar
+  bústaðir og grundleggjandi tænastur fyri rímiligan kostnað; og fátækrabýlingar verða
+  betraðir'
+11-2-title: 'Fyri 2030 skal øllum verða tryggjað atgongd til tryggar, atkomiligar
+  og burðardyggar flutningsskipanir fyri ein rímiligan kostnað, so ferðslutrygdin
+  verður økt, serliga við at byggja út almennar flutningstænastur við serligum atliti
+  at tørvinum hjá teimum, sum illa eru stødd, kvinnum, børnum, fólkum, ið bera brek,
+  og teimum eldru'
+11-3-title: 'Fyri 2030 skal styrkjast um inkluderandi og burðardygga býarmenning og
+  førleikan at gera luttakandi, samantvinnaðar og burðardyggar bústaðarætlanir og
+  -umsitingar í øllum londum'
+11-4-title: 'Átøkini at verja og tryggja heimsins mentanar- og náttúruarv skulu styrkjast'
+11-5-title: 'Fyri 2030 skal talið á deyðum og teimum, ið rakt verða av vanlukkum,
+  minka í stórum eins og beinleiðis búskaparligur missur í mun til heimstjóðarúrtøku,
+  eisini vanlukkum í sambandi við vatn, við áherðslu á at verja tey fátæku og fólk,
+  ið eru illa stødd'
+11-6-title: 'Fyri 2030 skal skaðiliga umhvørvisávirkanin fyri hvønn íbúgva frá býum
+  minka millum annað við at gáa serliga um luftgóðsku og umsiting av húsarhalds- og
+  øðrum burturkasti'
+11-7-title: 'Fyri 2030 skal øllum verða útvegað atgongd til trygg, inkluderandi og
+  atkomilig, grøn og almenn øki, serstakliga fyri kvinnur og børn, eldri fólk og fólk,
+  ið bera brek'
+11-a-title: 'Stuðla góðum búskaparligum, sosialum og umhvørvisligum sambondum millum
+  býir, býarútjaðarar og smápláss við at styrkja landsog økismenningarætlanir'
+11-b-title: 'Fyri 2020 skulu vera nógv fleiri býir og búsetingar, ið taka undir við
+  og seta í verk samantvinnaðar politikkir og ætlanir, sum miða eftir inklusjón, tilfeingisgagnnýtslu,
+  mótvirkan og tillagingum til veðurlagsbroytingar, mótstøðuføri ímóti vanlukkum,
+  og sum menna og seta í verk heildarmyndaða vanlukku-váðastýring á øllum stigum í
+  samsvari við Sendai rammusáttmálan um vanlukkuváðaskerjing 2015–2030 (Sendai Framework
+  for Disaster Risk Reduction)'
+11-c-title: 'Stuðla teimum minst mentu londunum við millum øðrum fíggjarligari og
+  tøkniligari hjálp at byggja burðardyggar og harðførar bygningar við tilfari, sum
+  fæst á staðnum'
+12-1-title: 'Seta í verk 10 ára Rammusáttmálan um burðardygg nýtslu- og framleiðslumynstur
+  (10YFP). Øll lond fara til verka við ídnaðarlondunum á odda við fyriliti fyri menning
+  og førimuni í menningarlondunum'
+12-2-title: 'Fyri 2030 skal burðardygg umsiting og munadygg nýtsla av náttúrutilfeingi
+  fáast at virka'
+12-3-title: 'Fyri 2030 skal matoyðsl minka niður í helvt fyri hvønn íbúgva um allan
+  heim á smáhandils- og brúkarastigi, og matmissur í framleiðslu- og veitingarketunum
+  skal eisini minka, millum annað tá ið heystað verður'
+12-4-title: 'Fyri 2020 skal fáast í lag umhvørvisliga haldgóð umsiting av kemiskum
+  evnum og øllum spillevnum alla lívsringrásina hjá evnunum í samsvari við samtyktar
+  altjóða skipanir, og útlátið út í luft, vatn og jørð skal minka í stórum fyri at
+  avmarka skaðiligu ávirkan teirra á fólkaheilsu og umhvørvið'
+12-5-title: 'Fyri 2030 skal alt burturkast, ið framleitt verður, skerjast í stórum
+  við fyribyrging, skerjingum, endurframleiðslu og endurnýtslu'
+12-6-title: 'Eggjað verður feløgum, serliga stórum og tvørlandafeløgum, til at taka
+  í nýtslu burðardyggar mannagongdir og at flætta kunning um burðardygd inn í fráboðanarringrásirnar'
+12-7-title: 'Virkað verður fyri almennum útveganarmannagongdum, sum eru burðardyggar,
+  í samsvari við politikk og raðfestingar hjá londunum'
+12-8-title: 'Fyri 2030 verður tryggjað, at fólk allastaðni hava viðkomandi kunning
+  um og ans fyri burðardyggari menning og lívsstíli í samljóði við náttúruna'
+12-a-title: 'Stuðla menningarlondum í at styrkja vísindaligu og tøkniligu evnini at
+  flyta seg nærri burðardyggari nýtslu- og framleiðslumynstrum'
+12-b-title: 'Menna og seta í verk amboð at hava eftirlit við, hvussu burðardygg menning
+  ávirkar burðardygga ferðavinnu, sum skapar størv og fremur mentan og vørur í landinum'
+12-c-title: 'Stuðul til gagnlítil fossil-brennievni, sum eggjar til oyðsl, verður
+  skerdur við at taka burtur marknaðaravlagingar, alt eftir landsins umstøðum, millum
+  annað við at umskipa skattareglur og at avtaka skaðiligar stuðulsskipanir, har slíkar
+  finnast, fyri at endurspegla tað árin, tey hava á umhvørvið. Hetta verður alt gjørt
+  við fullum fyriliti fyri tí serliga tørvi og teimum umstøðum, menningarlondini hava,
+  og fyri at avmarka ta skaðiligu ávirkan, tað kann hava á teirra menning, á ein hátt,
+  ið verjir tey fátæku og tey samfeløgini, ið verða ávirkað'
+13-1-title: 'Styrkja mótstøðumegina og evnini at laga seg eftir veðurlagstengdum váðum
+  og náttúruvanlukkum í øllum londum'
+13-2-title: 'Flætta tiltøk í sambandi við veðurlagsbroytingar inn í landspolitikk,
+  ætlanir og skipanir'
+13-3-title: 'Bøta um undirvísing, kunning og evni hjá fólki og myndugleikum at mótvirka,
+  laga seg eftir og avmarka skaða av veðurlagsbroytingum og at kunna ávara í góðari
+  tíð'
+13-a-title: 'Seta í verk tað, sum ídnaðarlond hava bundið seg til at fremja við Veðurlagssáttmálanum
+  hjá ST (UNFCCC), sum er, at tey í felag útvega USD 100 milliardir árliga fyri 2020
+  frá øllum keldum. Hetta fyri at nøkta tann tørv, menningarlond hava, tá talan er
+  um atgerðir at minka um árin, og hava gjøgnumskygni í íverksetanini og til fulnar
+  fáa Grøna veðurlagsgrunnin (Green Climate Fund) at virka við at kapitalisera hann
+  sum skjótast'
+13-b-title: 'Fremja mekanismur, sum bøta um førleikan at skipa fyri virkisførum ætlanum
+  og umsitingum, sum hava samband við veðurlagsbroytingar í teimum minst mentu londunum
+  og smáum oyggjaríkjum í menning, m.a. við serligum denti á kvinnur, ungfólk og staðheft
+  samfeløg og samfeløg, ið tykjast sett til viks'
+14-1-title: 'Fyri 2025 skal forðast fyri og munandi minkast um alla havdálking, serliga
+  dálking frá virksemi á landi, íroknað burturkast á sjónum og dálking frá taðevnum'
+14-2-title: 'Fyri 2020 skulu vistskipanir í høvum og fram við strendur verða vardar
+  og umsitast á burðardyggan hátt fyri at sleppa undan munandi skaðiligari ávirkan
+  millum annað við at styrkja teirra mótstøðuføri. Gera átøk at fáa tær endurskaptar
+  til tess at fáa sunn og úrtøkugóð høv'
+14-3-title: 'Havsúrgan skal minkast, og lagt verður eftir ávirkanini frá súrgan, millum
+  annað við meiri vísindaligum samstarvi á øllum stigum'
+14-4-title: 'Fyri 2020 skal fiskiskapur verða væl skipaður og endi verða gjørdur á
+  ovurfiskiskapi, ólógligari, ófráboðaðari og óskipaðari fiskiveiðu og oyðandi veiðiháttum.
+  Settar verða í verk vísindaliga grundaðar umsitingarætlanir til tess at fáa fiskastovnar
+  at koma fyri seg aftur skjótast gjørligt, og í minsta lagi upp til eitt støði, har
+  teir kunnu ala av sær burðardygga veiðu, mett eftir teirra lívfrøðiligu serkennum'
+14-5-title: 'Fyri 2020 skulu í minsta lagi 10 prosent av øllum stranda- og havleiðum
+  verða vard í samsvari við lands- og altjóða lóg og grundað á bestu tøku vísindaligu
+  vitanina'
+14-6-title: 'Fyri 2020 skal ávísur stuðul til fiskivinnuna, sum ger sítt til at eggja
+  til ovurorku og ovurfisking, verða bannaður. Beint verður fyri stuðulsskipanum,
+  sum eggja til ólógligan, ófráboðaðan og óskipaðan fiskiskap, og nýggjur stuðul av
+  slíkum slagi verður ikki innførdur. Alt hetta viðurkennandi, at hóskandi og munadygg,
+  serstøk og ymisk viðgerð fyri menningarlond og tey minst mentu londini skal vera
+  ein samskipaður táttur í fiskivinnustuðulssamráðingum hjá Heimshandilsfelagsskapinum
+  (WTO)*'
+14-7-title: 'Fyri 2030 økja búskaparligu fyrimunirnir til smá oyggjaríki í menning
+  og tey minst mentu londini frá burðardyggari nýtslu av havfeingi, millum annað við
+  burðardyggari umsiting av fiskivinnu, alivinnu og ferðavinnu'
+14-a-title: 'Økja vísindaliga kunnleikan, menna granskingarførleikar og flyta øðrum
+  havtøknifrøði við atliti at Intergovernmental Oceonographic Commission Criteria
+  and Guidelines on the Transfer of Marine Technology til tess at bøta um heilsustøðuna
+  í høvunum og økja um íkastið, sum havsins lívfrøðiliga margfeldið gevur menningini
+  av menningarlondum, serstakliga smáum oyggjaríkjum í menning og teimum minst mentu
+  londunum'
+14-b-title: 'Veita smáútróðri atgongd til havfeingi og marknaðir'
+14-c-title: 'Økja verju og burðardygga nýtslu av høvunum og teirra tilfeingi við at
+  seta í verk altjóða lóg, sum hon sæst í ST-havrættarsáttmálanum (UNCLOS), sum setur
+  lógarkarmin um at varðveita og nýta høvini og teirra tilfeingi á burðardyggan hátt,
+  sum nevnt í grein 158 í “The Future We Want”'
+15-1-title: 'Fyri 2020 at tryggja varðveitslu, endurskapan og burðardygga nýtslu av
+  vistskipanum á landi og í feskvatni og teirra veitingum, serstakliga skógum, mýrilendi,
+  fjøllum og turrlendi, í samsvari við skyldur sambært altjóða avtalum'
+15-2-title: 'Fyri 2020 at virka fyri at seta í verk burðardygga umsiting av skógi
+  av øllum slag, steðga skógartýning, endurskapa skaddan skóg og í stórum gróðurseta
+  og endurplanta skóg um allan heim'
+15-3-title: 'Fyri 2030 at basa oyðimarkarmyndan, at endurbøta oyðilagt lendi og mold,
+  eisini lendi, sum ávirkað er av oyðimarkarmyndan, skerpingi og floymi, og stremba
+  eftir at fáa í lag ein heim, sum er í javnvág, tá talan er um landtýning'
+15-4-title: 'Fyri 2030 at tryggja, at fjallavistskipanir verða varðveittar, eisini
+  teirra lívmargfeldi, fyri at bøta um teirra evni at geva sítt alneyðuga íkast til
+  burðardygga menning'
+15-5-title: 'Sum skjótast at fara undir týðandi tiltøk at tálma oyðingini av natúrligum
+  bú- og gróðrarøkjum, steðga lívmargfeldismissi og fyri 2020 at verja og forða fyri,
+  at hótt sløg verða týnd'
+15-6-title: 'Fáa í lag rættvíst og rímiligt býti av fyrimunum, ið standast av at gagnnýta
+  ílegutilfeingi, og virka fyri hóskiligari atgongd til slíkt tilfeingi, sum ásett
+  er í altjóða avtalum'
+15-7-title: 'Fara beint til verka at gera enda á ólógligari veiðu og ólógligum handli
+  við vardum plantu- og djórasløgum og taka upp spurningin um eftirspurning og útboð
+  av ólógligum vørum úr villini tilfeingi'
+15-8-title: 'Fyri 2020 at seta í verk tiltøk at fyribyrgja og í stórum skerja ávirkanina
+  av innræsnum fremmandum plantu- og djórasløgum á land- og vatnvistskipanir og fáa
+  tamarhald á ella beina fyri teimum'
+15-9-title: 'Fyri 2020 at flætta virði í vistskipanum og lívmargfeldi upp í lands
+  og staðbundnar ætlanir, í menningartilgongdir, í átaksætlanir at minka um fátækt
+  og í greiningar'
+15-a-title: 'Fáa til vega og økja munandi um fíggjarliga tilfeingið frá øllum keldum
+  at varðveita og á burðardyggan hátt nýta lívmargfeldi og vistskipanir'
+15-b-title: 'Fáa til vega munandi tilfeingi frá øllum keldum og á øllum stigum at
+  fíggja burðardygga skógarumsiting og at tilstuðla menningarlondum væl til at fremja
+  slíka umsiting, millum annað fyri at varðveita og endurplanta skóg'
+15-c-title: 'Økja stuðulin um allan heim til átøk at berjast ímóti ólógligari veiðu
+  og ólógligum handli við vardum djóra- og plantusløgum, millum annað við at styrkja
+  evnini hjá staðbundnum samfeløgum at søkja og halda seg til burðardyggar starvs-
+  og vinnumøguleikar'
+16-1-title: 'Skerja í stórum allan harðskap og deyða í sambandi við harðskap allastaðni'
+16-10-title: 'Tryggja almenna atgongd til upplýsingar og verju av grundleggjandi frælsirættindum
+  í samsvari við landsins lógir og altjóða avtalur'
+16-2-title: 'Beint verður fyri misnýtslu, eyðræning, mannahandli og øllum harðskapi
+  og pínslu í øllum líki móti børnum'
+16-3-title: 'Fremja rættartrygd á lands- og altjóða stigi, og øllum verður tryggjað
+  somu atgongd til rættvísa rættargongd'
+16-4-title: 'Fyri 2030 verður ólógligur peninga- og vápnaflutningur skerdur í stórum,
+  og nógv meira verður gjørt við at finna aftur og bera aftur stolnar ognir og berja
+  niður skipað brotsmannavirksemi'
+16-5-title: 'Skerja munandi korruptión og mutur í øllum líki'
+16-6-title: 'Menna munadyggar, ábyrgar og gjøgnumskygdar stovnar á øllum stigum'
+16-7-title: 'Tryggja eftirfarandi, inkluderandi, luttakandi og umboðandi avgerðargongdir
+  á øllum stigum'
+16-8-title: 'Útbyggja og styrkja luttøku hjá menningarlondum í altjóða stjórnarstovnum'
+16-9-title: 'Fyri 2030 syrgja fyri, at øll fáa ein løgligan samleika, heruppií føðiskráseting'
+16-a-title: 'Styrkja viðkomandi landsstovnar við millum øðrum altjóða samstarvi fyri
+  at fáa til vega førleika á øllum stigum, serstakliga í menningarlondum, til tess
+  at forða fyri harðskapi og at berja niður yvirgang og brotsverk 16.b Fremja og halda
+  uppi lógir og politikkir um burðardygga menning, ið fylgja meginregluni um ikki-mismun'
+16-b-title: 'Fremja og halda uppi lógir og politikkir um burðardygga menning, ið fylgja
+  meginregluni um ikki-mismunviðgerð, og virkað verður fyri sálarheilsu og vælveru'
+17-1-title: 'Heimliga tilfeingisbúgvingin verður styrkt, millum annað við altjóða
+  stuðli til menningarlond, at bøta um evnini at krevja inn skatt og aðra inntøku'
+17-10-title: 'Virka fyri einari fleirtjóða handilsskipan fyri øll undir Heimshandilsfelagsskapinum
+  (WTO), sum er reglugrundað, opin, sum ikki ger mismun og er rættlátað, m.a. við
+  at koma á mál við samráðingunum í Doha menningarskránni (Doha Development Agenda)'
+17-11-title: 'Útflutningurin úr menningarlondum skal vaksa munandi, serstakliga verður
+  miðað eftir at tvífalda partin av útflutningi kring heimin, ið kemur úr teimum minst
+  mentu londunum fyri 2020'
+17-12-title: 'Seta í verk varandi tollfría og kvotufría marknaðaratgongd fyri øll
+  tey minst mentu londini, í samvari við avgerðir hjá Heimshandilsfelagskapinum, millum
+  annað við at tryggja, at framíhjáreglur fyri upprunaland, galdandi fyri innflutning
+  frá teimum minst mentu londunum, eru gjøgnumskygdar og einfaldar og gera sítt til
+  at lætta um marknaðaratgongdina'
+17-13-title: 'Styrkja støðufesti í heimsmakrobúskapinum, eisini við samskipan og samanhangi
+  í politikkum'
+17-14-title: 'Styrkja samanhang í politikkum fyri burðardygga menning'
+17-15-title: 'Hava virðing fyri rættinum at gera politikkir og leiðsluni í einstaka
+  landinum at gera og seta í verk politikkir at basa fátækradømi og fremja burðardygga
+  menning'
+17-16-title: 'Styrkja Heimsfevnandi partalagið fyri burðardygga menning (Global Partnership
+  for Sustainable Development), stuðlaður av partaløgum við fleiri áhugapørtum, ið
+  skulu fáa til vega og deila sínamillum vitan, serkunnleika, tøknifrøði og fíggjarligt
+  tilfeingi, alt fyri at stuðla øllum londum at røkka Heimsmálunum, serstakliga í
+  menningarlondunum'
+17-17-title: 'Eggja til og virka fyri munadyggum partaløgum, ið eru almenn, almenn-privat
+  ella umboðandi áhugafelagsskapir, og byggja á royndir og tilfeingisútvegandi virkisætlanir
+  í partaløgum'
+17-18-title: 'Fyri 2020 skal stuðulin til førleikabúgving til menningarlond økjast,
+  eisini fyri tey minst mentu londini og smá oyggjaríki í menning, til í stórum at
+  økja tøku nøgdina av hádygdar-, rættstundis og álítandi dátum, sum eru sundurgreinaðar
+  eftir inntøku, kyni, aldri, rasu, etnisiteti, migratoriskari støðu, breki, staðseting
+  og øðrum eyðkennum, sum eru viðkomandi í landssamanheingi'
+17-19-title: 'Fyri 2030 verður bygt á verandi átøk at menna mátingarhættir til at
+  máta framburð í burðardyggari menning, sum kann koma afturat BTÚ, og stuðla hagtalsligu
+  førleikamenningina í menningarlondum'
+17-2-title: 'Ídnaðarlond skulu til fulnar røkja sína skyldu at veita almenna menningarhjálp
+  (Official Development Aid, stytt ODA), heruppií lyftið hjá mongum ídnaðarlondum
+  at røkka málinum, sum er 0,7 prosent av bruttutjóðarinntøkuni (Gross National Income,
+  stytt GNI) fyri almenna menningarhjálp ODA/GNI til menningarlond og 0,15 til 0,2
+  prosent av ODA/GNI til tey minst mentu londini; ODA-veitarar verða eggjaðir til
+  at umhugsa at seta sær sum mál at lata teimum minst mentu londunum í minsta lagi
+  0,2 prosent av ODA/GNI'
+17-3-title: 'Fáa til vega eyka fígging til menningarlond frá fleiri ymiskum keldum'
+17-4-title: 'Menningarlondini skulu fáa hjálp at fáa langtíðar burðardygd í skuldarbyrðuna
+  við samskipaðum politikkum, sum miða eftir at fáa útvegað skuldarfígging, skuldarsanering
+  og skuldarumlegging, har tað er viðkomandi, og viðgera uttanlandsskuldina hjá sera
+  skuldarbundnum, fátækum londum til tess at lætta um skuldartrýstið'
+17-5-title: 'Samtykkja og seta í verk íløgustimbrandi skipanir fyri tey minst mentu
+  londini'
+17-6-title: 'Økja norður-suður, suður-suður og tríhyrnings økissamstarv og altjóða
+  samstarv um og atgongd til vísindi, tøkni og nýskapan og at styrkja vitanardeiling
+  eftir sínámillum avtalaðum treytum, millum annað við bøttari samskipan millum verandi
+  skipanir, serliga á STstigi, og við einari heimsfevndari skipan at lætta um tøknifrøðiliga
+  menning og samstarv (Technology Facilitation Mechanism, TFM)'
+17-7-title: 'Virka fyri at menna, flyta og breiða út umhvørvisliga góða tøkni til
+  menningarlond eftir góðum treytum, eisini fyri serprís og við framíhjátreytum, sum
+  partarnir sínámillum semjast um'
+17-8-title: 'Fáa tøknifrøðibankan at virka til fulnar eins og førleikamennandi skipanir
+  í vísindum, tøknifrøði og nýskapan fyri tey minst framkomnu londini fyri 2017 og
+  í størri mun nýta stuðlandi tøknifrøði, serstakliga kunningar- og samskiftistøknifrøði'
+17-9-title: 'Økja altjóða stuðul til at seta í verk munadygga og miðvísa førleikabúgving
+  í menningarlondum til at stuðla ætlanum hjá einstøku londunum at seta í verk øll
+  Heimsmálini fyri burðardyggari menning, eisini ígjøgnum norður-suður, suður-suður
+  og tríhyrnings samstarv'
+2-1-title: 'Fyri 2030 at enda hungur og tryggja øllum fólkum, serstakliga teimum fátæku
+  og fólki, sum er illa fyri, eisini pinkubørnum, atgongd til tryggan, føðslugóðan
+  og nóg nógvan mat alt árið'
+2-2-title: 'Fyri 2030 at enda alt føðslutrot, heruppií at røkka altjóða ásettum málum
+  fyri 2025 um vakstrartarn og avmergjan hjá børnum undir 5 ára aldur og nøkta føðslutørvin
+  hjá hálvvaksnum gentum, kvinnum, sum eru við barn ella geva bróst, og eldri fólki'
+2-3-title: 'Fyri 2030 at tvífalda landbúnaðarframleiðsluna og inntøkuna hjá smáum
+  matvøruframleiðarum, serliga kvinnum, upprunafólki, familjubøndum, reikandi húsdjórabøndum
+  og útróðarmonnum. Tað verður millum annað gjørt gjøgnum tryggjaða atgongd á jøvnum
+  føti til land, annað framleiðandi tilfeingi og ískoyti, vitan, fíggjartænastur,
+  marknaðir og møguleikar fyri virðisøking og við øðrum arbeiði enn landbúnaði 2.4
+  Fyri 2030 at tryggja burðardyggar matvøruframleiðsluskipanir og seta í verk dyggar
+  landbúnaðarmannagongdir, sum økja úrtøku og framleiðslu, sum eru við til at varðveita
+  vistskipanir, sum styrkja evnini'
+2-4-title: 'Fyri 2030 at tryggja burðardyggar matvøruframleiðsluskipanir og seta í
+  verk dyggar landbúnaðarmannagongdir, sum økja úrtøku og framleiðslu, sum eru við
+  til at varðveita vistskipanir, sum styrkja evnini at laga seg eftir veðurlagsbroytingum,
+  ógvisligum veðri, skerpingi, flóð og øðrum vanlukkum og alsamt at bøta lendis- og
+  molddygdina'
+2-5-title: 'Fyri 2020 at varðveita íleguymisleikan í sáði, aldum plantum og aldum
+  dýrum og húsdýrum umframt villu sløgunum, tey eru skyld við. Tað verður millum annað
+  gjørt við væl skipaðum og ymisligum sáð og plantubankum á lands-, økis- og altjóða
+  stigi. Virkað verður fyri, at ágóðar, sum standast av at gagnnýta ílegutilfeingi
+  saman við siðbundnum kunnleika, koma øllum til góðar á rættvísan hátt, sum samtykt
+  er á altjóða stigi'
+2-a-title: 'Millum annað við vaksandi altjóða samstarvi skulu íløgurnar økjast í undirstøðukervið
+  úti um landið, í landbúnaðargransking og ráðgevatænastur, tøknifrøðiliga menning
+  og ílegubankar til plantur og fenað til at vaksa um framleiðsluførið hjá landbúnaði
+  í menningarlondunum, serstakliga í teimum minst mentu londunum'
+2-b-title: 'Handilsavmarkingar og avlagingar á heimsins landbúnaðarmarknaðum verða
+  rættaðar og fyribyrgdar, millum annað við at beina burtur allan útflutningsstuðul
+  til landbúnað og øll útflutningstiltøk við somu ávirkan í samsvari við heimildina
+  í Doha menningarumfarinum hjá Heimshandilsfelagsskapinum WTO (Doha Development Round)'
+2-c-title: 'Tiltøk verða sett í verk fyri at tryggja, at matvørumarknaðir og teirra
+  avleiddu marknaðir virka væl, og lætta um at fáa nóg skjóta atgongd til marknaðarkunning,
+  millum annað um matgoymslur, fyri á tann hátt at avmarka ógvisligu sveiggini í matvøruprísunum'
+3-1-title: 'Fyri 2030 at minka talið á mammum, sum doyggja í barnferð, um allan heim
+  til undir 70 fyri hvørji 100.000 livandi fødd børn'
+3-2-title: 'Fyri 2030 at gera enda á, at nýfødd børn og børn undir 5 ára aldur doyggja,
+  tá ið tað kann fyribyrgjast, við at øll lond seta sær sum mið at minka deyðatalið
+  á nýføðingum til í mesta lagi 12 fyri hvørjar 1.000 livandi nýføðingar, og deyðatalið
+  á børnum undir 5 ár niður í 25 fyri hvørji 1.000 livandi fødd í mesta lagi'
+3-3-title: 'Fyri 2030 at steðga farsóttum sum eyðkvæmi, tuberklum, malaria og øðrum
+  lítið gáaðum tropiskum sjúkum og basa livrarbruna, vatnbornum sjúkum og øðrum smittandi
+  sjúkum'
+3-4-title: 'Fyri 2030 skal deyðatalið, har fólk doyggja tíðliga sum fylgja av ikki-smittandi
+  sjúkum, skerjast við einum triðingi við fyribyrging og viðgerð, og virkað verður
+  fyri sálarheilsu og vælveru"'
+3-5-title: 'Meira verður gjørt við at fyribyrgja og viðgera rúsevnismisnýtslu, sum
+  fatar um narkotikamisnýtslu og skaðiliga alkoholnýtslu'
+3-6-title: 'Fyri 2020 skal deyði og løstur, sum stendst av ferðsluvanlukkum, verða
+  skerdur niður í helvt um allan heim'
+3-7-title: 'Fyri 2030 verður tryggjað, at øll fáa atgongd til kyns- og nøringarheilsutænastur
+  heruppií barnaavmarking, upplýsing og útbúgving, og at nøringarheilsa verður flættað
+  inn í átaksætlanir og skráir í ymsu londunum'
+3-8-title: 'Øll skulu vera fevnd av heilsuskipanum, sum millum annað fevna um fíggjarliga
+  váðaverju, atgongd til dygdargóðar grundleggjandi heilsutænastur og atgongd til
+  tryggar, virknar, dygdargóðar, lívsneyðugar og kostnaðarrímiligar heilivágir og
+  koppsetingar'
+3-9-title: 'Fyri 2030 skal skerjast í stórum talið av deyðum og sjúkum, ið standast
+  av vandamiklum kemiskum evnum og dálking og eitran av luft, vatni og mold'
+3-a-title: 'Styrkja arbeiðið at seta í verk rammusáttmálan hjá Heimsheilsustovninum
+  WHO um eftirlit við tubbaki í øllum londum, har tað er viðkomandi'
+3-b-title: 'Gransking í og menning av koppsetingarevnum og heilivági fyri smittandi
+  og ikki smittandi sjúkur, sum fyrst og fremst ávirka menningarlond, skal stimbrast.
+  Sleppast má fram at lívsneyðugum heilivági og koppsetingarevnum fyri rímiligan pening
+  í samsvari við Doha kunngerðina um TRIPS-sáttmálan og almannaheilsu (Doha Declaration),
+  sum staðfestir rættin hjá menningarlondum til fulnar at nýta greinirnar í sáttmálanum
+  um Handilstongd hvarv í lógum um upphavsrætt (TRIPS Agreement), hvat smidleika viðvíkur
+  at verja almannaheilsu og serstakliga at útvega øllum atgongd til heilivág'
+3-c-title: 'Munandi øking í heilsufígging og at útvega, menna, læra og varðveita heilsuarbeiðsmegi
+  í menningarlondunum, serstakliga í teimum minst mentu londunum og smáum oyggjaríkjum
+  í menning'
+3-d-title: 'Øll lond, serstakliga menningarlond, skulu styrkja síni evni at fáa ávaringar
+  um heilsuváðar í góðari tíð, at minka um váða og handfara heilsuváða bæði hjá sær
+  sjálvum og á altjóða stigi'
+4-1-title: 'Fyri 2030 verður tryggjað øllum gentum og dreingjum at fullføra ókeypis,
+  javnbjóðis og dygdargóðan barnaskúla við viðkomandi og munadyggari læruúrtøku'
+4-2-title: 'Fyri 2030 verður tryggjað øllum gentum og dreingjum, at tey fáa ment seg
+  sum børn tíðliga, fáa umsorgan og góða undanskúling, so tey eru klár at fara í barnaskúla'
+4-3-title: 'Fyri 2030 verður tryggjað øllum kvinnum og monnum somu atgongd til dygdargóða
+  tøkniliga, vinnuliga og hægri undirvísing, eisini til universitet, fyri sámiligan
+  kostnað'
+4-4-title: 'Fyri 2030 vaksa munandi um talið á ungum sum vaksnum, sum hava viðkomandi
+  førleika, heruppií tøkniligan og vinnuligan førleika, til arbeiði, sømilig størv
+  og íverksetan'
+4-5-title: 'Fyri 2030 verður beint fyri kynsójavna í útbúgving, og tryggjað verður
+  teimum viðbreknu, heruppií fólk, ið bera brek, upprunafólk og børn, sum eru illa
+  stødd, somu atgongd til øll útbúgvingarstig og yrkislæru'
+4-6-title: 'Fyri 2030 skulu øll ungfólk og stórur partur av teimum vaksnu, monnum
+  sum kvinnum, duga at lesa og rokna'
+4-7-title: 'Fyri 2030 skulu allir næmingar hava ognað sær tann kunnleika og førleika,
+  sum neyðugur er fyri at virka fyri burðardyggari menning, millum annað við útbúgving
+  um burðardygga menning og burðardyggan lívsstíl, mannarættindi, javnstøðu millum
+  kynini, frama fyri eini mentan, sum er fyri friði og ímóti harðskapi, fyri alheims
+  borgaraskapi eins og viðurkenning av mentanarligum fjølbroytni og tí íkasti, sum
+  mentan gevur burðardyggari menning'
+4-a-title: 'Útbúgvingarstovnar verða bygdir og dagførdir, sum hava fyrilit fyri barnsins
+  tørvi, brekum og kyni, og sum geva øllum eitt trygt, ikkiharðligt, rúmligt og munagott
+  læriumhvørvi'
+4-b-title: 'Fyri 2020 skal talið av útbúgvingarstudningum til menningarlond hækka
+  í stórum um allan heim, serstakliga til tey minst mentu londini, smá oyggjaríki
+  í menning og afrikonsk lond til at sleppa inn á hægri útbúgvingar, til yrkislæru
+  og kunningar- og samskiftistøkni, tøkniligar, verkfrøðiligar og vísindaligar útbúgvingar
+  í ídnaðarlondum og øðrum menningarlondum'
+4-c-title: 'Fyri 2030 skal útboðið av útbúnum lærarum vaksa nógv, m.a. ígjøgnum altjóða
+  samstarv um læraraútbúgving í menningarlondum, serstakliga í teimum minst mentu
+  londunum og smáum oyggjaríkjum í menning'
+5-1-title: 'Endi verður gjørdur á øllum mismuni allastaðni, sum kvinnur og gentur
+  eru fyri'
+5-2-title: 'Beint verður fyri øllum harðskapi ímóti øllum kvinnum og gentum bæði alment
+  og privat, heruppií menniskjahandli og kynsligari og aðrari misnýtslu'
+5-3-title: 'Beint verður fyri øllum skaðiligum siðvenjum sum hjúnalagi við børn og
+  tvingsilshjúnaløgum, og at gentur verða umskornar (female genital mutilation, FGM)'
+5-4-title: 'Ólønt røkt og húsligt arbeiði verður viðurkent og virt við at veita almennar
+  tænastur, undirstøðukervi og sosialan verndarpolitikk, og við at virkað verður fyri
+  felags ábyrgd í húsarhaldinum og í húskinum, sum hóskar seg eftir landinum'
+5-5-title: 'Kvinnum verður tryggjað fulla og virkna luttøku og somu møguleikar til
+  leiðslu á øllum stigum, har avgerðir verða tiknar í politikki, búskapi og tí almenna'
+5-6-title: 'Tryggjað verður øllum atgongd til kyns- og nøringarheilsu og nøringarrættindi,
+  sum semja er um í samsvari við Skrá hjá altjóða ráðstevnuni um fólkatal og menning
+  (ICPD) og Beijing virkispallin (Beijing Platform for Action) og niðurstøðuskjølini
+  frá teirra metingarráðstevnum'
+5-a-title: 'Framdar verða broytingar, sum geva kvinnum somu rættindi til búskaparligt
+  tilfeingi eins væl og atgongd til ognarskap og ræði á jørð og øðrum ognum, fíggjarligar
+  tænastur, arv og náttúrutilfeingi í samsvari við lóggávu í landinum'
+5-b-title: 'Økja um nýtslu av tøkni sum hjálpitól, serliga kunningar- og samskiftistøkni,
+  fyri at virka fyri máttmenning av kvinnum'
+5-c-title: 'Samtykkja og styrkja skilagóðar politikkir og lóggávu, sum kann handhevjast,
+  og sum virka fyri javnstøðu millum kynini og máttmenning av øllum kvinnum og gentum
+  á øllum stigi'
+6-1-title: 'Fyri 2030 skal fáast rímilig atgongd til trygt drekkivatn til øll fyri
+  rímiligan kostnað'
+6-2-title: 'Fyri 2030 skal útvegast øllum atgongd til skikkað og rímilig kloakkviðurskifti
+  og reinføri, og skipað vesiviðurskifti við serligum atliti at tørvinum hjá kvinnum
+  og gentum og teimum, ið illa eru stødd'
+6-3-title: 'Fyri 2030 skal vatngóðskan betrast við at minka um dálking, steðga dumping
+  av burturkasti og minka sum mest um útlátið av vandamiklum kemiskum evnum og tilfari.
+  Nøgdirnar av óviðgjørdum spillvatni verða skerdar niður í helvt, og endurframleiðsla
+  og endurnýtsla verður økt nógv um allan heim'
+6-4-title: 'Fyri 2030 verður gagnnýtslan av vatni tvørtur um allar geirar økt munandi,
+  og tryggjað verður burðardygg savning og veiting av drekkivatni fyri at basa vatntroti
+  og munandi minka um talið á teimum, sum líða undir vatntroti'
+6-5-title: 'Fyri 2030 seta í verk samantvinnaðar vatntilfeingisumsitingar á øllum
+  stigum, eisini ígjøgnum samstarv tvørtur um landamørk, har hetta er viðkomandi'
+6-6-title: 'Fyri 2020 verja og endurskapa vistskipanir, tongdar at vatni, sum fevna
+  um fjøll, skóg, mýrilendi, áir, grundvatnsgoymslur og vøtn'
+6-a-title: 'Fyri 2030 víðka altjóða samstarvið og stuðulin til menningarlond at menna
+  førleikar og evni til at gera vatn- og reinførisætlanir, sum eisini fevna um vatnsavnan,
+  avsalting, vatnnyttu, spillvatnsviðgerð, endurframleiðslu- og endurnýtslutøkni'
+6-b-title: 'Stimbra og styrkja luttøkuna í nærsamfeløgum í at menna vatn- og kloakkumsiting'
+7-1-title: 'Fyri 2030 verður tryggjað, at øll fáa atgongd til álítandi og tíðarhóskandi
+  orkuveiting fyri ein rímiligan kostnað'
+7-2-title: 'Fyri 2030 skal parturin av varandi orku í alheimsliga orkusamansetingini
+  økjast, so tað munar'
+7-3-title: 'Fyri 2030 tvífalda ferðina á menningini í orkuvirkni um allan heim'
+7-a-title: 'Fyri 2030 skal altjóða samstarvið stimbrast fyri at lætta um atgongdina
+  til gransking og tøkni til reina orku, heruppií varandi orku, orkuvirkni og framkomnari
+  og minni dálkandi tøkni til fossil-brennievni, og fyri at virka fyri íløgum í orkuundirstøðukervi
+  og reina orkutøkni'
+7-b-title: 'Fyri 2030 skal undirstøðukervið víðkast og tøknin uppstigast fyri at veita
+  tíðarhóskandi og burðardyggar orkutænastur til øll í menningarlondum, serstakliga
+  í teimum minst mentu londunum, smáum oyggjaríkjum í menning og menningarlondum,
+  sum ikki sleppa til sjógv, í samsvari við teirra ymisku stuðulsskipanir'
+8-1-title: 'Árligi búskaparvøksturin fyri hvønn íbúgva skal haldast í samsvari við
+  tjóðarligar umstøður og, serliga, halda í minsta lagi 7 prosent árligan vøkstur
+  í bruttotjóðarúrtøku í teimum minst mentu londunum'
+8-10-title: 'Styrkja evnini hjá innlendis fíggjarstovnum at virka fyri og betra atgongdina
+  hjá øllum til bankar, tryggingar og fíggjartænastur'
+8-2-title: 'Hægri búskaparligt framleidnisstig skal røkkast við ymisleika, tøkniligari
+  uppstigan og nýhugsan, millum annað við at leggja dent á geirar, sum skapa stór
+  virði og eru arbeiðskrevjandi'
+8-3-title: 'Virkað verður fyri menningarfremjandi politikkum, ið stuðla framleiðsluvirksemi,
+  geva sømilig arbeiðspláss, stimbra íverksetan, skapanarevni og nýhugsan og virka
+  fyri at formalisera og fáa mikro-, smáar og miðalstórar fyritøkur at vaksa, millum
+  annað við at tær sleppa fram at fíggjarligum tænastuveitingum'
+8-4-title: 'Fram til 2030 í vaksandi mun at bøta um munadygd í tilfeingi um allan
+  heim, tá talan er um bæði nýtslu og framleiðslu og stremba eftir at loysa búskaparligan
+  vøkstur frá umhvørvisoyðingum í samsvari við 10 ára Rammuskránna fyri burðardygga
+  nýtslu og framleiðslu (10YFP) við ídnaðarlondunum á odda'
+8-5-title: 'Fyri 2030 skal úrtøkugott arbeiði vera til allar hendur og sømilig størv
+  vera til allar kvinnur og menn, eisini ung fólk og fólk, ið bera brek, og sama løn
+  skal vera fyri arbeiði, sum hevur sama virði'
+8-6-title: 'Fyri 2020 skal lutfallið av ungdómi, sum ikki er í arbeiði, undir útbúgving
+  ella í læru, minkast munandi'
+8-7-title: 'Munadygg átøk verða sett í verk beinanvegin til tess at beina fyri tvingsilsarbeiði,
+  nútíðar trælahaldi og menniskjahandli og fyri at tryggja bann ímóti og beina fyri
+  ringasta barnaarbeiði, sum eisini fevnir um at útvega og brúka barnahermenn, og
+  beina fyri barnaarbeiði í øllum líki fyri 2025'
+8-8-title: 'Rættindi arbeiðstakaranna skulu verjast, og virkað verður fyri einum tryggum
+  og støðugum arbeiðsumhvørvi fyri allar arbeiðstakarar, eisini gestaarbeiðarar, serliga
+  kvinnuligar gestaarbeiðarar og tey, sum virka undir ótryggum arbeiðskorum'
+8-9-title: 'Fyri 2030 skulu politikkir orðast og setast í verk at fremja burðardygga
+  ferðavinnu, ið skapar arbeiðspláss og fremur mentan og vørur á staðnum'
+8-a-title: 'Økja um menningarhjálp, ið er knýtt at handli (Aid for Trade), serliga
+  til tey minst mentu londini, millum annað ígjøgnum tann Styrkta samskipaða karmin
+  um handilstongda fakliga hjálp til tey minst mentu londini (Enhanced Integrated
+  Framework for Trade- Related Assistance for the Least Developed Countries, stytt
+  EIF)'
+8-b-title: 'Fyri 2020 skal ein heimsumfatandi ætlan mennast og setast í verk fyri
+  at fáa ung í arbeiði, og Alheims arbeiðssáttmálin (Global Jobs Pact) hjá Altjóða
+  arbeiðsfelagsskapinum (ILO) verður settur í gildi'
+9-1-title: 'Ment verða dygdargóð, álítandi, burðardygg og harðfør undirstøðukervi,
+  eisini økis- og undirstøðukervi tvørtur um mørk, fyri at stuðla búskaparligari menning
+  og menniskjaligum trivnaði við denti á rættvísa atgongd fyri øll fyri ein rímiligan
+  kostnað'
+9-2-title: 'Virkað verður fyri inkluderandi og burðardyggari ídnaðargerð og at hækka
+  í stórum partin hjá ídnaðinum av arbeiðsplássum og bruttotjóðarúrtøku fyri 2030
+  í samljóði við umstøðurnar í landinum. Í teimum minst mentu londunum skal hesin
+  parturin tvífaldast'
+9-3-title: 'Virkað verður fyri, at smáar ídnaðarfyritøkur og aðrar fyritøkur, serliga
+  í menningarlondum, sleppa betur fram at fíggjartænastum, heruppií lán ella kreditt,
+  og at tær verða betur flættaðar inn í virðisketur og marknaðir'
+9-4-title: 'Fyri 2030 skal undirstøðukervið betrast og ídnaðir uppstigast fyri at
+  gera tey burðardygg, við enn munadyggari tilfeingisnýtslu og meiri nýtslu av reinari
+  og umhvørvisvinaligari tøkni og ídnaðarligum tilgongdum. Øll lond skulu virka í
+  samsvari við ta orku og teir førleikar, tey hava'
+9-5-title: 'Vísindalig gransking skal styrkjast, og tøkniligu avriksevnini í ídnaðargeiranum
+  í øllum londum, serstakliga í menningarlondunum, skulu betrast við millum annað
+  fyri 2030 at stimbra nýskapan og vaksa munandi um talið á teimum, ið arbeiða við
+  gransking og menning fyri hvørja millión íbúgvar, eins og peningin, ið alment og
+  privat verður brúktur til gransking og menning'
+9-a-title: 'Lætta um at menna burðardygg og harðfør undirstøðukervi í menningarlondum
+  við at økja fíggjarligan, tøkniligan og fakligan stuðul til lond í Afrika, til tey
+  minst mentu londini, til menningarlond, sum ikki sleppa til sjógv, og til smá oyggjaríki
+  í menning'
+9-b-title: 'Stuðla heimligari tøkniligari menning, gransking og nýskapan í menningarlondum,
+  millum annað við at tryggja eitt stimbrandi politiskt umhvørvi fyri millum annað
+  ídnaðarligt fjølbroytni og virðisøking á vørur'
+9-c-title: 'Økja munandi um atgongdina til kunningar- og samskiftistøkni, og strembað
+  verður eftir at veita øllum atgongd til internet fyri rímiligan kostnað í teimum
+  minst mentu londunum fyri 2020'

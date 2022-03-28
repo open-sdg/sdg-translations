@@ -1,31 +1,31 @@
 # A label describing information - any other metadata about a particular indicator - not covered by more specific labels
-other_info: ''
+other_info: 'Onnur kunning'
 # A label describing information - any calculations that were used in the production of a dataset
-computation_calculations: ''
+computation_calculations: 'Útrokningar'
 # A label describing information - a list of definitions of terms used within other metadata fields
-computation_definitions: ''
+computation_definitions: 'Allýsingar'
 # A label describing information - the unit of measurement that is being represented in a dataset
-computation_units: ''
+computation_units: 'Eind til mátið'
 # A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
-goal_meta_link: ''
+goal_meta_link: 'Leinki til metadátur hjá ST'
 # A label describing information - the numeric code for a particular indicator
-indicator: ''
+indicator: 'Nummar á ávísa'
 # A label describing information - the definition for a particular indicator - as provided by the United Nations
 indicator_definition: ''
 # A label describing information - the name of a particular indicator
-indicator_name: ''
+indicator_name: 'Navn á ávísa'
 indicator_sort_order: ''
-national_data_update_url: ''
+national_data_update_url: 'Dátur seinast dagførdar'
 # A label describing information - the geographical area covered by a dataset
 national_geographical_coverage: ''
-national_indicator_available: ''
-national_indicator_description: ''
-national_metadata_update_url: ''
+national_indicator_available: 'Ávísi tøkur'
+national_indicator_description: 'Lýsing av ávísa'
+national_metadata_update_url: 'Metadátur seinast dagførdar'
 # A label describing information - contact information for the person or agency that provided data
-source_contact_1: ''
-source_contact_2: ''
-source_contact_3: ''
-source_contact_4: ''
+source_contact_1: 'Samband'
+source_contact_2: 'Samband'
+source_contact_3: 'Samband'
+source_contact_4: 'Samband'
 source_contact_5: ''
 source_contact_6: ''
 # A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency

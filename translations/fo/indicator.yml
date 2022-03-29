@@ -2,76 +2,84 @@ select_all: 'Vel allar'
 clear_all: 'Frável allar'
 clear_selections: 'Frável valdar'
 variable_hint: 'Tøkar tá ''%field'' er valt'
-no_data_hint: ''
+no_data_hint: 'Ongar dátur tí filtur eru omanfyri'
 download_headline: 'Tak niður CSV við yvirskrift'
 download_headline_title: 'Tak niður yvirskriftsdátur sum CSV'
 download_source: 'Tak niður keldu sum CSV'
 download_source_title: 'Tak niður keldudátur sum CSV'
 download_source_sdmx: 'Tak niður SDMX sum keldu'
-download_source_sdmx_title: ''
-download_chart: ''
-download_table: ''
-download_csv: ''
-download_csv_title: ''
-download_chart_image: ''
-download_chart_image_title: ''
-download_geojson: ''
-download_geojson_title: ''
+download_source_sdmx_title: 'Tak niður keldudátur sum SDMX'
+download_chart: 'Tak niður talmynd sum CSV'
+download_table: 'Tak niður talvu sum CSV'
+download_csv: 'Tak niður CSV'
+download_csv_title: 'Tak niður sum CSV'
+download_chart_image: 'Tak niður talmynd sum mynd'
+download_chart_image_title: 'Tak niður talmynd sum mynd'
+download_geojson: 'Tak niður GeoJSON'
+download_geojson_title: 'Tak niður sum GeoJSON'
 # A label describing information - where some data originally came from
-source: ''
+source: 'Kelda'
 # A button that displays information about where some data originally came from
-sources: ''
+sources: 'Keldur'
 # A label describing information - a description of the geographical area covered by a dataset
-geographical_area: ''
+geographical_area: 'Landafrøðiligt øki'
 # A label describing information - the unit of measurement that is being represented in a dataset
-unit_of_measurement: ''
+unit_of_measurement: 'Mátieind'
 # A shorter version of the "Unit" label.
-unit: ''
+unit: 'Eind'
 # A label describing information - any general information about a dataset - displayed below the data visualization on the page
-footnote: ''
+footnote: 'Fótnota'
 # The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
-units_type: ''
+units_type: 'Slag av eind'
 # The label of a widget that allows the user to change the series that is being represented in a data visualization
-series: ''
-dataset_size_warning: ''
-view_indicator_list: ''
+series: 'Røð'
+dataset_size_warning: 'Dátusettini eru ov nógv at verða víst í talmyndini. Ikki øll
+  verða víst fyrr enn tú strikar nøkur val.'
+view_indicator_list: 'Vís lilstan av ávísum til hetta málið'
 # A label describing a section of the page that allows the user to filter data by sub-category
-sub_categories: ''
+sub_categories: 'Undirflokkar'
 # A label of "Show sub-categories" to display before a particular sub-category's name
-sub_categories_show: ""
-series_help: ''
-legend_help: ''
+sub_categories_show: "Vís undirflokkar:"
+series_help: 'Vel flokkar úr fallmyndunum niðanfyri fyri at síggja ymiskar greiningar
+  av dátunum. Summar greiningar verða ikki tøkar, fyrr enn hægri stig er valt.'
+legend_help: 'Trýst á teknlýsing fyri at leggja einstakar linjur burtur úr talmyndini.'
 # A button that displays some data in the form of a chart
-chart: ''
+chart: 'Talmynd'
 # A button that displays some data in the form of a table (rows and columns)
-table: ''
+table: 'Talva'
 # A button that displays some data in the form of a map
-map: ''
-loading: ''
-loading_map: ''
+map: 'Kort'
+loading: 'Innlesur'
+loading_map: 'Innlesur kort'
 # A button that displays the national metadata about a particular indicator - as provided by that country
-national_metadata: ''
-national_metadata_blurb: ''
+national_metadata: 'Innlendis metadátur'
+national_metadata_blurb: 'Henda talvan vísir metadátur fyri tann ávísan, ið er tøkur
+  úr %country_name hagtølum, ið liggur næst upp at altjóða SDG-ávísanum. Gev gætur,
+  at sjálvt tá altjóða SDG-ávísin er fult tøkur úr %country_adjective hagtølum, eigur
+  at verða hugt í hesa talva eftir kunning um innlendis háttalag og aðrar upplýsingar
+  um serstakar %country_adjective metadátur.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
-global_metadata: ''
-global_metadata_blurb: ''
+global_metadata: 'Altjóða metadátur'
+global_metadata_blurb: 'Henda talvan kunnar um metadáturnar, ið eru ásettar av Hagfrøðinevndini
+  hjá ST. <a href="https://unstats.un.org/sdgs/metadata/">Fullfíggjaðar altjóða metadátur</a>
+  frá Hagfrøðistovninum hjá ST.'
 # A button for editing some content
-edit: ''
+edit: 'Rætta'
 # A button for editing data
-edit_data: ''
+edit_data: 'Rætta dátur'
 # A button for editing metadata
-edit_metadata: ''
+edit_metadata: 'Rætta metadátur'
 # A button for editing configuration
-edit_configuration: ''
+edit_configuration: 'Rætta uppseting'
 # A message that displays when a chart has no data to display because of the
 # user's choices.
-data_not_available: ''
+data_not_available: 'Hesar dátur eru ikki tøkar. Vinarliga vel aðrar dátur at vísa.'
 # A message that is announced when there is no data on the chart/table
-announce_data_not_available: ''
+announce_data_not_available: 'Talmynd og talva vísa ongar dátur.'
 # A message that is announced when the data is added to the chart/table
-announce_data_added: ''
+announce_data_added: 'Talmynd og talva dagførar taka dátur við.'
 # A message that is announced when the data is removed from the chart/table
-announce_data_removed: ''
+announce_data_removed: 'Talmynd og talva dagførdar at leggja dátur burturúr.'
 # A message that points out an alternative display for visual data
 data_tabular_alternative: ''
 # Instructions for navigating data with a keyboard
@@ -86,16 +94,16 @@ chart_annotation: ''
 # Description of the year slider on maps.
 map_year_slider: ''
 # Description of a search field on maps.
-map_search: ''
+map_search: 'Leita'
 # Description of a button that hides the search field on maps.
-map_search_hide: ''
+map_search_hide: 'Krógva leiting'
 # Description of a button that shows the search field on maps.
-map_search_show: ''
+map_search_show: 'Vís leiting'
 # Instructions for using the data table columns for sorting.
-table_column_sort: ''
+table_column_sort: 'Trýst fyri at raðskipa eftir hesum teiginum'
 # Label describing the status of an indicator
-status: ''
+status: 'Støða hjá ávísa'
 # Label describing the "tags" for an indicator
 tags: 'Frámerki'
-previous: ''
-next: ''
+previous: 'Undanfarni ávísi'
+next: 'Næsti ávísi'

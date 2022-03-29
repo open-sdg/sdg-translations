@@ -14,7 +14,7 @@ indicator: 'Nummar á ávísa'
 indicator_definition: ''
 # A label describing information - the name of a particular indicator
 indicator_name: 'Navn á ávísa'
-indicator_sort_order: ''
+indicator_sort_order: 'Raðfylgja á ávísum (á somu málsíðu)'
 national_data_update_url: 'Dátur seinast dagførdar'
 # A label describing information - the geographical area covered by a dataset
 national_geographical_coverage: ''

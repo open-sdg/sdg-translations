@@ -1,27 +1,27 @@
 # This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
-indicator: ''
+indicator: 'Ávísi'
 # This is the plural version of the indicator key
-indicators: ''
+indicators: 'Ávísar'
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: ''
+goal: 'Mál'
 # This is the plural version of the goal key
-goals: ''
-sdg: ''
+goals: 'Mál'
+sdg: 'Mál fyri burðardyggari menning'
 # This refers to the 'home page' of a website
-home: ''
-loading: ''
-opens_new_window: ''
-hide: ''
-target: ''
-targets: ''
-twitter: ''
-facebook: ''
-built_using_open_sdg: ''
-page: ''
-pages: ''
-targets_and_indicators: ''
+home: 'Heim'
+loading: 'Innlesur leitiúrslit'
+opens_new_window: 'letur upp í nýggjum vindeyga'
+hide: 'fjal'
+target: 'Undirmál'
+targets: 'Undirmál'
+twitter: 'Twitter'
+facebook: 'Facebook'
+built_using_open_sdg: 'Byggir á Open SDG'
+page: 'Síða'
+pages: 'Síður'
+targets_and_indicators: 'Undirmál og ávísar'
 # A label of "Warning" to place before some other text.
-label_warning: ""
+label_warning: "Ávaring:"
 # A phrase to use as a site-wide page title.
-site_title: ''
-back_to_top: ''
+site_title: 'Ávísar til málini fyri burðardyggari menning'
+back_to_top: 'Aftur til toppin'

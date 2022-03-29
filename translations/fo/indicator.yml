@@ -81,18 +81,19 @@ announce_data_added: 'Talmynd og talva dagførar taka dátur við.'
 # A message that is announced when the data is removed from the chart/table
 announce_data_removed: 'Talmynd og talva dagførdar at leggja dátur burturúr.'
 # A message that points out an alternative display for visual data
-data_tabular_alternative: ''
+data_tabular_alternative: 'Dátur í talvusniði síggjast á spjaldrinum Talva.'
 # Instructions for navigating data with a keyboard
-data_keyboard_navigation: ''
+data_keyboard_navigation: 'Trýst á inn-knappin fyri at skifta millum dátupunkt við
+  høgra- og vinstrapíli.'
 # Description of the "plot legend" which displays beneath charts
-plot_legend_description: ""
+plot_legend_description: "Strikulýsing: listi av linjum í talmyndini"
 # Common annotation displayed on graphs for the 2030 target.
-annotation_2030_target: ''
-annotation_series_break: ''
+annotation_2030_target: '2030-málsávísi'
+annotation_series_break: 'Dátubrot'
 # Label describing an annotation on a chart/graph.
-chart_annotation: ''
+chart_annotation: 'Viðmerking til talmynd'
 # Description of the year slider on maps.
-map_year_slider: ''
+map_year_slider: 'Ársdragil'
 # Description of a search field on maps.
 map_search: 'Leita'
 # Description of a button that hides the search field on maps.

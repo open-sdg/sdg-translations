@@ -6,6 +6,12 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## 1.8.0
+
+* Add Faroese language and icons
+* Czech icons and fixes
+* Armenian fixes
+
 ## 1.7.0
 
 * Refresh of languages.yml files

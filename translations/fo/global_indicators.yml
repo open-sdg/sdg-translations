@@ -25,12 +25,14 @@
 1-a-2-title: 'Partur av samlaðu almennu útreiðslunum brúkt til grundleggjandi tænastur
   (útbúgving, heilsa og almannavernd)'
 1-a-3-title: ''
-1-b-1-title: ''
+1-b-1-title: 'Almannar útreiðslur til fátækrahjálp'
 10-1-1-title: 'Vakstrarferð av húsarhaldsútreiðslum ella miðalinntøka hjá lægstu 40
   prosentini av íbúgvunum og øllum íbúgvunum'
 10-2-1-title: 'Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni
   í landinum, skift á kyn og aldur og fólk, ið bera brek'
-10-3-1-title: ''
+10-3-1-title: 'Partur av fólkinum, ið hevur boðað frá, at tey persónliga hava kent
+  seg vera fyri mismuni ella ónáðum undanfarnu 12 mánaðir grundað á mannamun, sum
+  er bannaður sambært altjóða mannarættindalóg'
 10-4-1-title: 'Lønir, sum partur av BTÚ'
 10-4-2-title: 'Javningarávirkanin av fíggjarpolitikkinum'
 10-5-1-title: 'Ávísar fyri fíggjarligum tryggleika'
@@ -40,17 +42,24 @@
   ársinntøku í móttøkulandinum'
 10-7-2-title: 'Tal av londum, ið hava verksett politikkir at tryggja vælskipað viðurskifti
   fyri til- og fráflytarar'
-10-7-3-title: ''
-10-7-4-title: ''
-10-a-1-title: ''
-10-b-1-title: ''
-10-c-1-title: ''
+10-7-3-title: 'Tal av persónum, ið lótu lív ella hvurvu meðan flutt varð millum lond'
+10-7-4-title: 'Lutfallið av íbúgvum, ið eru flóttar, skift á upprunaland'
+10-a-1-title: 'Parturl av vørunumrum í tollskránni, ið eru galdandi fyri tey minst
+  mentu londini og menningarlond, ið eru frítikin fyri toll'
+10-b-1-title: 'Samlað tilfeingisnýtsla til menningarstuðul, skift á móttakara- og
+  gevaralond (t.d. almennur menningarstuðul, beinleiðis íløgur uttanlands og aðrar
+  veitingar)'
+10-c-1-title: 'Kostnaðir av peningasendingum sum partur av sendu upphæddini'
 11-1-1-title: 'Partur av býarfólkinum, ið býr í fátækrabýlingum, ivasamum ella óhóskandi
   bústaði'
-11-2-1-title: ''
-11-3-1-title: ''
-11-3-2-title: ''
-11-4-1-title: ''
+11-2-1-title: 'Partur av fólkinum, ið hevur høgliga atgongd til almennan flutning,
+  skift á kyn, aldur og persónar, ið bera brek'
+11-3-1-title: 'Lutfall millum lendisnýtslu og fólkavøkstur'
+11-3-2-title: 'Partur av býum við beinleiðis borgaraluttøku í býarskipan og umsiting,
+  ið virkar regluliga og fólkaræðisligt'
+11-4-1-title: 'Heildarútgjøld fyri hvønn íbúgva til friða, verja og varðveita allan
+  mentunar- og náttúruarv, skift á keldu (almenn, privat), slag av arvi (mentan, náttúra)
+  og stjórnarstøði (land, sýsla, kommuna)'
 11-5-1-title: 'Tal av deyðum, horvnum og beinleiðis raktum fólkum, har vanlukka hevur
   verið atvoldin, fyri hvørjar 100.000 íbúgvar'
 11-5-2-title: ''
@@ -126,7 +135,7 @@
 15-4-1-title: 'Í hvønn mun støð, sum eru týðandi fyri lívfrøðiligt margfeldi í fjallavistskipanum,
   eru vard øki'
 15-4-2-title: 'Vísital fyri fjallagróður'
-15-5-1-title: 'Reyðlistaindeks'
+15-5-1-title: 'Reyðlistavísital'
 15-6-1-title: ''
 15-7-1-title: 'Partur av handli við villini dýrum, ið eru ólógliga veidd ella ólógliga
   handlað'
@@ -189,8 +198,10 @@
 17-1-1-title: 'Samlaðu almennu inntøkurnar sum partur av BTÚ, skift á keldu'
 17-1-2-title: 'Partur av fíggjarlógini fíggjaður av skattum'
 17-10-1-title: 'Heimsvektaður miðaltollur'
-17-11-1-title: ''
-17-12-1-title: ''
+17-11-1-title: 'Parturin hjá menningarlondunum og teimum minst mentu londunum av útflutninginum
+  í heiminum'
+17-12-1-title: 'Vektaðir miðaltollir á menningarlond, tey minst mentu londini og smá
+  oyggjaríki í menning'
 17-13-1-title: 'Makrobúskaparligt kunningarbretti'
 17-14-1-title: ''
 17-15-1-title: ''
@@ -326,7 +337,7 @@
 7-1-2-title: 'Partur av fólkinum, ið sum høvuðsorku nýtir reinar orkukeldur við ikki-dálkandi
   tøkni'
 7-2-1-title: 'Partur av varandi orku í samanløgdu endaligu orkunýtsluni'
-7-3-1-title: 'Orkukrøv máld við atliti til frumorku og BTÚ'
+7-3-1-title: 'Orkumáttur máldur við atliti til frumorku og BTÚ'
 7-a-1-title: 'Altjóða peningaflutningur til menningarlond at stuðla gransking í reinari
   orku og menning av varandi orkuframleiðslu, heruppií blendingsskipanir'
 7-b-1-title: 'Uppsett framleiðsluorka til varandi orku í menningarlondum (í watt upp

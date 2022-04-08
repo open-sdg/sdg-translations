@@ -1,4 +1,4 @@
-skip_link: ''
+skip_link: 'Leyp til høvuðsinnihald'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'Alpha'
 disclaimer: 'Síðan er undir menning. Tú er vælkomin at <a href="mailto:%email_address">viðmerkja
@@ -9,5 +9,5 @@ high_contrast: 'Stórur kontrastur'
 default_contrast: 'Vanligur kontrastur'
 enable_high_contrast: 'Virkja stóran kontrast'
 disable_high_contrast: 'Óvirkja stóran kontrast'
-toggle_search: ''
-toggle_menu: ''
+toggle_search: 'Leitiskiftari. Trýst fyri at víðka ella minka leititeigin.'
+toggle_menu: 'Valmyndaskiftari. Trýst fyri at víðka ella minka valmyndina.'

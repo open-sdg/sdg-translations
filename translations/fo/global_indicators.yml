@@ -170,7 +170,8 @@
 16-1-1-title: 'Tal av ofrum fyri tilætlað morð fyri hvørjar 100.000 íbúgvar, skift
   á kyn og aldur'
 16-1-2-title: 'Deyð av krígsávum fyri hvørji 100.000 fólk skift á kyn, aldur og orsøk'
-16-1-3-title: ''
+16-1-3-title: 'Partur av fólkinum, ið hevur verið fyri (a) likamligum harðskapi, (b)
+  sálarligum harðskapi og (c) kynsligum harðskapi undanfarnu 12 mánaðir'
 16-1-4-title: 'Partur av fólkinum, ið kennir seg tryggan at ganga úti einsamallur/einsamøll,
   har tey búgva'
 16-10-1-title: 'Tal av staðfestum manndrápum, fólkaránum, tvungnum hvørvingum, tilvildarligum
@@ -178,15 +179,22 @@
   og mannarættindaforsprákarum seinastu 12 mánaðirnar'
 16-10-2-title: 'Tal av londum, sum í grundlóg, lóg og/ella politiskt samtykkja og
   fremja innlitstrygd hjá almenninginum'
-16-2-1-title: ''
-16-2-2-title: ''
-16-2-3-title: ''
+16-2-1-title: 'Partur av 1-17 ára gomlum børnum, ið frá umsorganarpersónum hava verið
+  fyri nøkrum slagi av liklamligari revsing og/ella sálarligari ágongd yvirhøvur'
+16-2-2-title: 'Tal av offrum fyri ólógligum menniskjahandli fyri hvørjar 100.000 íbúgvar,
+  skift á kyn, aldur og slag av misnýtslu'
+16-2-3-title: 'Partur av ungum kvinnum og monnum 18-29 ár, ið vóru fyri kynsligum
+  harðskapi 18 ára gomul'
 16-3-1-title: 'Partur av harðskapsofrum undanfarnu 12 mánaðirnar, ið fráboðaðu skikkaðum
   myndugleika ella øðrum alment viðurkendum ósemjuloysara, at tey hava verið offur'
 16-3-2-title: 'Partur av fongslaðum, ið ikki hava fingið dóm'
-16-3-3-title: ''
-16-4-1-title: ''
-16-4-2-title: ''
+16-3-3-title: 'Partur av fólkinum, ið hevur verið uppi í ósemjum ella rættartrætum
+  undanfarnu tvey árini, og sum nýtti formligar ella óformligar ósemjuloysarar, skift
+  á slag av ósemjuloysn'
+16-4-1-title: 'Heildarvirði av inngangandi og útgangandi ólógligum peningastreymum
+  (í US dollars)'
+16-4-2-title: 'Partur av inndrignum, funnum ella avhendaðum vápnum har ólógligur uppruni
+  og slóð eru sannað av skikkaðum myndugleika samsvarandi altjóða rættarvenjum'
 16-5-1-title: 'Partur av persónum, ið hava verið í sambandi við ein alment settan
   í minsta lagi eina ferð, og sum mutraðu ein alment settan, ella vórðu bidnir um
   mutur av hesum alment settu, undanfarnu 12 mánaðirnar'
@@ -195,18 +203,22 @@
   av hesum alment settu, undanfarnu 12 mánaðirnar'
 16-6-1-title: 'Almennar útreiðslur sum partur av upprunaliga samtykta fíggjarlóg,
   skift á geira (ella kontuslag ella líknandi)'
-16-6-2-title: ''
+16-6-2-title: 'Partur av fólkinum, ið vóru nøgd við seinastu almennu tænastuni, tey
+  upplivdu'
 16-7-1-title: 'Partur av størvum í lands- og landsluta-stovnum, heruppií (a) lóggávuvald,
   (b) almenn tænasta, og (c) dómsvald samanborið við býtið í landinum, skift á kyn,
   aldur, persónar, ið bera brek, og fólkabólkar'
-16-7-2-title: ''
+16-7-2-title: 'Partur av fólkinum, ið heldur avgerðirtilgongdir fevna um øll og eru
+  eftirgáandi, skift á kyn, aldur, persónar ið bera brek og fólkabólkar'
 16-8-1-title: 'Prosentpartur av limum og atkvøðurættindum hjá menningarlondum í altjóða
   felagsskapum'
 16-9-1-title: 'Partur av børnum undir 5 ár, har føðingin er skrásett hjá almennum
   myndugleika, skift á aldur'
 16-a-1-title: 'Um tað finst ein óheftur landsstovnur fyri mannarættindi, ið lýkur
   París Grundreglurnar hjá Sameindu Tjóða'
-16-b-1-title: ''
+16-b-1-title: 'Partur av fólkinum, ið sigur seg persónliga at hava kent seg fyri mismuni
+  ella ónáðum undanfarnu 12 mánaðir vegna mismunir, sum eru ólógligir sambært altjóða
+  lóg um mannarættindi'
 17-1-1-title: 'Samlaðu almennu inntøkurnar sum partur av BTÚ, skift á keldu'
 17-1-2-title: 'Partur av fíggjarlógini fíggjaður av skattum'
 17-10-1-title: 'Heimsvektaður miðaltollur'

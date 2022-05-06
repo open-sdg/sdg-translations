@@ -1,7 +1,7 @@
 skip_link: 'ຂ້າມໄປຫາເນື້ອຫາຫຼັກ'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'ບໍ່ມີເພດ;'
-disclaimer: 'ນີ້ແມ່ນເວບໄຊທ໌ການພັດທະນາ. ພວກເຮົາຍິນດີຮັບ ຄຳ ຄິດເຫັນ <a href="mailto:%email_address">
+disclaimer: 'ນີ້ແມ່ນເວບໄຊທ໌ການພັດທະນາ. ພວກເຮົາຍິນດີຮັບ ຄຳ ຄິດເຫັນ <a href="mailto:%email_contacts.suggestions">
   ຂອງທ່ານ </a>.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: '17 ເປົ້າ ໝາຍ ໃນການຫັນປ່ຽນໂລກຂອງພວກເຮົາ'

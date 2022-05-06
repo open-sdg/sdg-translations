@@ -16,7 +16,7 @@ disaggregation_status_notapplicable: 'Mimo oblast působnosti'
 disaggregation_status_by_field: 'Rozdělení podle %field'
 not_specified: 'Nespecifikováno'
 reported: 'Nahlášeno'
-description: 'Stav vykazování poskytuje přehled o tom, kolik údajů vykazuje %name
+description: 'Stav vykazování poskytuje přehled o tom, kolik údajů vykazuje %country.name
   z Cílů udržitelného rozvoje (SDG).'
 progress_status: Stav pokroku
 progress_not_available: Nedostupné

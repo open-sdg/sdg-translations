@@ -17,7 +17,7 @@ disaggregation_status_by_field: 'Disaggregazione per %campo'
 not_specified: 'Non specificato'
 reported: 'Segnalato'
 description: 'Lo stato dei rapporti fornisce una panoramica di quanti dati degli Obiettivi
-  di Sviluppo Sostenibile (SDG) %name riporta.'
+  di Sviluppo Sostenibile (SDG) %country.name riporta.'
 progress_status: Stato di avanzamento
 progress_not_available: Non disponibile
 progress_challenges_remain: Le sfide rimangono

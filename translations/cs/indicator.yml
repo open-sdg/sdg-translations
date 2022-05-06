@@ -54,10 +54,10 @@ loading_map: 'Načítání mapy'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'Národní metadata'
 national_metadata_blurb: 'Tato tabulka poskytuje metadata pro aktuální ukazatel dostupný
-  ze statistiky %country_name, který je nejblíže odpovídajícímu globálnímu ukazateli
+  ze statistiky %country.name, který je nejblíže odpovídajícímu globálnímu ukazateli
   SDG. Upozorňujeme, že i když je globální ukazatel SDG plně dostupný ze statistiky
-  %country_adjective, je třeba do této tabulky nahlédnout pro informace o národní
-  metodice a další metadata specifická pro %country_adjective.'
+  %country.adjective, je třeba do této tabulky nahlédnout pro informace o národní
+  metodice a další metadata specifická pro %country.adjective.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'Globální metadata'
 global_metadata_blurb: 'Tato tabulka poskytuje informace o metadatech pro ukazatele

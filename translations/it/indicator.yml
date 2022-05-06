@@ -55,11 +55,11 @@ loading_map: 'Caricamento della mappa'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'Metadati nazionali'
 national_metadata_blurb: 'Questa tabella fornisce metadati per l''indicatore reale
-  disponibile dalle statistiche %country_name più vicino al corrispondente indicatore
+  disponibile dalle statistiche %country.name più vicino al corrispondente indicatore
   SDG globale. Si prega di notare che anche quando l''indicatore SDG globale è completamente
-  disponibile dalle statistiche %country_adjective, questa tabella dovrebbe essere
+  disponibile dalle statistiche %country.adjective, questa tabella dovrebbe essere
   consultata per informazioni sulla metodologia nazionale e altre informazioni sui
-  metadati specifici di %country_adjective.'
+  metadati specifici di %country.adjective.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'Metadati globali'
 global_metadata_blurb: 'Questa tabella fornisce informazioni sui metadati per gli

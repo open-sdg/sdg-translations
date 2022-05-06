@@ -1,7 +1,7 @@
 skip_link: 'Esasy mazmuna geçiň'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'Alfa'
-disclaimer: 'Bu ösüş web sahypasy. <a href="mailto:%email_address"> pikirleriňizi
+disclaimer: 'Bu ösüş web sahypasy. <a href="mailto:%email_contacts.suggestions"> pikirleriňizi
   kabul edýäris </a>.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: 'Dünýämizi özgertmek üçin 17 maksat'

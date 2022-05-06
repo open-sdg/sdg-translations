@@ -16,7 +16,7 @@ disaggregation_status_by_field: 'Disaggregation nach %Feld'
 not_specified: Nicht angegeben
 reported: Gemeldet
 description: Der Berichtsstatus gibt einen Überblick darüber, wie viele Daten zu den
-  Sustainable Development Goals (SDGs) %name meldet.
+  Sustainable Development Goals (SDGs) %country.name meldet.
 progress_status: Status des Fortschritts
 progress_not_available: Nicht verfügbar
 progress_challenges_remain: Herausforderungen bleiben bestehen

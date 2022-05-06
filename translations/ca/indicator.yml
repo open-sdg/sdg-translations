@@ -35,11 +35,11 @@ loading_map: Carregant mapa
 map: Mapa
 national_metadata: Metadades nacionals
 national_metadata_blurb: Aquesta taula proporciona metadades de l'indicador real disponible
-  a partir de les estadístiques de %country_name més properes al corresponent indicador
+  a partir de les estadístiques de %country.name més properes al corresponent indicador
   global SDG. Recordeu que fins i tot quan l'indicador global d'ODS estigui
-  totalment disponible a partir de les estadístiques de %country_adjective, s'ha de
+  totalment disponible a partir de les estadístiques de %country.adjective, s'ha de
   consultar aquesta taula per obtenir informació sobre la metodologia nacional i una altra
-  informació de metadades específics de %country_adjective.
+  informació de metadades específics de %country.adjective.
 no_data_hint: No hi ha opcions disponibles a causa dels filtres anteriors
 select_all: Seleccionar-ho tot
 series: Sèrie

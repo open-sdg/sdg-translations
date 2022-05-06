@@ -1,4 +1,4 @@
-heading: "%name可持续发展目标指标的数据"
+heading: "%country.name可持续发展目标指标的数据"
 instructions: 点击每一个目标查询或自行%before_link搜索%after_link各个国家的可持续发展目标全球指标统计。
 download_all: 下载所有数据
 zip_file: ZIP文件

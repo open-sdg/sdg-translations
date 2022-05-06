@@ -8,5 +8,5 @@ intro_title: 17 mål for å transformere vår verden
 zip_file: ZIP-fil
 download_all: Last ned alle data
 heading: '%navnedata for indikatorer for bærekraftig utvikling'
-instructions: Klikk på hvert mål, eller %før_link-søk, %etter_link for %name statistikk
+instructions: Klikk på hvert mål, eller %før_link-søk, %etter_link for %country.name statistikk
   for bærekraftig utviklingsmåls globale indikatorer.

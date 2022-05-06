@@ -16,7 +16,7 @@ disaggregation_status_by_field: 'Desagregación por %field'
 not_specified: Sin especificar
 reported: Reportado
 description: El estado de los informes proporciona una visión general de la cantidad
-  de datos de los Objetivos de Desarrollo Sostenible (ODS) que %name reporta.
+  de datos de los Objetivos de Desarrollo Sostenible (ODS) que %country.name reporta.
 progress_status: Estado de avance
 progress_not_available: No disponible
 progress_challenges_remain: Siguen los desafíos

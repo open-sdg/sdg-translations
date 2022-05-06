@@ -16,7 +16,7 @@ disaggregation_status_notapplicable: 'Виходить за діапазон'
 disaggregation_status_by_field: 'Дезагрегація за %field'
 not_specified: 'Не вказано'
 reported: 'Опубліковано'
-description: 'Статус звітності містить огляд того, скільки даних %name повідомляє
+description: 'Статус звітності містить огляд того, скільки даних %country.name повідомляє
   про Цілі сталого розвитку.'
 progress_status: Статус виконання
 progress_not_available: Недоступно

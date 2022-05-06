@@ -16,7 +16,7 @@ disaggregation_status_notapplicable: 'Uttan fyri karmin'
 disaggregation_status_by_field: 'Greina eftir %field'
 not_specified: 'Ikki ásett'
 reported: 'Fráboðað'
-description: 'Fráboðanarstøðan vísir yvirlit yvir, hvussu nógvar heimsmálsdátur %name
+description: 'Fráboðanarstøðan vísir yvirlit yvir, hvussu nógvar heimsmálsdátur %country.name
   fráboðar.'
 progress_status: 'Gongdin'
 progress_not_available: 'Ikki tøk'

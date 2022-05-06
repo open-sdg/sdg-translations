@@ -1,7 +1,7 @@
 skip_link: 'Přeskočit na hlavní obsah'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'Abecedně'
-disclaimer: 'Jedná se o vývojové webové stránky. Uvítáme vaši <a href="mailto:%email_address">zpětnou
+disclaimer: 'Jedná se o vývojové webové stránky. Uvítáme vaši <a href="mailto:%email_contacts.suggestions">zpětnou
   vazbu</a>.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: '17 cílů pro proměnu našeho světa'

@@ -20,3 +20,5 @@ progress_not_available: No disponible
 progress_challenges_remain: Queden els reptes
 progress_approaching_target: S'acosta a l'objectiu
 progress_target_achieved: Objectiu assolit
+description: L'estat dels informes proporciona una visió general de quantes dades
+  de l'Objectiu de Desenvolupament Sostenible (ODS) informa %country.name.

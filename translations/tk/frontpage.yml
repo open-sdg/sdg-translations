@@ -10,3 +10,6 @@ download_all: Datahli maglumatlary göçürip alyň
 heading: Durnukly ösüş maksat görkezijileri üçin% at maglumatlary
 instructions: Durnukly ösüş maksatly global görkezijiler üçin% adyň statistikasy üçin
   her bir maksada ýa-da% öň_link gözlegine,% after_link-e basyň.
+heading_short: Durnukly ösüş maksatlary üçin% ýurt.name maglumatlary
+instructions_short: '% Country.name Durnukly Ösüş Maksady global görkeziji maglumatlary
+  üçin her bir maksada basyň.'

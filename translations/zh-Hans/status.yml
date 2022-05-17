@@ -20,3 +20,4 @@ progress_not_available: 不可用
 progress_challenges_remain: 挑战依然存在
 progress_approaching_target: 接近目标
 progress_target_achieved: 实现的目标
+description: 报告状态提供了关于%country.name报告的可持续发展目标（SDG）数据数量的概述。

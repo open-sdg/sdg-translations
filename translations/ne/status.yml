@@ -21,3 +21,5 @@ progress_not_available: उपलब्ध छैन
 progress_challenges_remain: चुनौतीहरू बाँकी नै छन्
 progress_approaching_target: लक्ष्य नजिक
 progress_target_achieved: लक्ष्य हासिल भयो
+description: रिपोर्टिङ स्थितिले कति दिगो विकास लक्ष्य (SDG) डाटा %country.name रिपोर्टहरूको
+  एक सिंहावलोकन प्रदान गर्दछ।

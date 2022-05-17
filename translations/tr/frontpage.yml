@@ -10,3 +10,6 @@ download_all: Tüm verileri indir
 heading: Sürdürülebilir Kalkınma Amacı göstergeleri için %country.name verileri
 instructions: Amaçların üzerine tıklayın veya Sürdürülebilir Kalkınma Amacı küresel
   göstergeleri için %country.name istatistiklerini %before_link arayın, %after_link.
+instructions_short: Ülke.adı Sürdürülebilir Kalkınma Hedefi küresel gösterge verileri
+  için her bir hedefe tıklayın.
+heading_short: Sürdürülebilir Kalkınma Hedefleri için %country.name verileri

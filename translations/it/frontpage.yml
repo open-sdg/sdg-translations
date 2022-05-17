@@ -10,3 +10,6 @@ intro_body: Gli <a href="https://www.un.org/sustainabledevelopment/sustainable-d
   tutti, ovunque. I 17 Obiettivi sono stati adottati da tutti gli Stati membri delle
   Nazioni Unite nel 2015, come parte dell'<a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">Agenda
   2030 per lo sviluppo sostenibile</a>.
+heading_short: Dati di %country.name per gli Obiettivi di sviluppo sostenibile
+instructions_short: Fare clic su ciascun obiettivo per visualizzare i dati relativi
+  agli indicatori globali degli Obiettivi di sviluppo sostenibile di %country.name.

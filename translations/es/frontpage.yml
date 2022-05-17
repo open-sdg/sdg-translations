@@ -1,6 +1,6 @@
-heading: "Datos de %name para los indicadores de los Objetivos de Desarrollo Sostenible"
+heading: "Datos de %country.name para los indicadores de los Objetivos de Desarrollo Sostenible"
 instructions: Haga clic en un objetivo o utilice la %before_link búsqueda %after_link para acceder a
-  los indicadores globales de %name de los Objetivos de Desarrollo Sostenible.
+  los indicadores globales de %country.name de los Objetivos de Desarrollo Sostenible.
 download_all: Descargar todos los datos
 zip_file: archivo zip
 intro_title: 17 objetivos para transformar nuestro mundo

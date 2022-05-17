@@ -54,10 +54,10 @@ loading_map: 'Innlesur kort'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'Innlendis metadátur'
 national_metadata_blurb: 'Henda talvan vísir metadátur fyri tann ávísan, ið er tøkur
-  úr %country_name hagtølum, ið liggur næst upp at altjóða SDG-ávísanum. Gev gætur,
-  at sjálvt tá altjóða SDG-ávísin er fult tøkur úr %country_adjective hagtølum, eigur
+  úr %country.name hagtølum, ið liggur næst upp at altjóða SDG-ávísanum. Gev gætur,
+  at sjálvt tá altjóða SDG-ávísin er fult tøkur úr %country.adjective hagtølum, eigur
   at verða hugt í hesa talva eftir kunning um innlendis háttalag og aðrar upplýsingar
-  um serstakar %country_adjective metadátur.'
+  um serstakar %country.adjective metadátur.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'Altjóða metadátur'
 global_metadata_blurb: 'Henda talvan kunnar um metadáturnar, ið eru ásettar av Hagfrøðinevndini

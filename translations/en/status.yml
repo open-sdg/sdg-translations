@@ -17,7 +17,7 @@ disaggregation_status_by_field: Disaggregation by %field
 not_specified: Not specified
 reported: Reported
 description: Reporting status provides an overview of how much Sustainable Development
-  Goal (SDG) data %name reports.
+  Goal (SDG) data %country.name reports.
 progress_status: Progress status
 progress_not_available: Not available
 progress_challenges_remain: Challenges remain

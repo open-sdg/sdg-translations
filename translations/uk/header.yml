@@ -1,7 +1,7 @@
 skip_link: 'Перейти до основного вмісту'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'Альфа'
-disclaimer: 'Ми вітаємо ваш відгук <a href="mailto:%email_address"></a>.'
+disclaimer: 'Ми вітаємо ваш відгук <a href="mailto:%email_contacts.suggestions"></a>.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: '17 цілей, щоб змінити наш світ'
 high_contrast: 'Висока контрастність'

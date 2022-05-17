@@ -16,7 +16,7 @@ disaggregation_status_by_field: 'Дезагрегация по %-полям'
 not_specified: Не указан
 reported: Сообщение
 description: Статус отчетности дает представление о том, сколько данных по Целям устойчивого
-  развития (ЦУР) сообщает %name.
+  развития (ЦУР) сообщает %country.name.
 progress_status: Состояние прогресса
 progress_not_available: Недоступно
 progress_challenges_remain: Проблемы остаются

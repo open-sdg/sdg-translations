@@ -1,7 +1,7 @@
 skip_link: 'Salta al contenuto principale'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'Alfabetico'
-disclaimer: 'Questo è un sito web di sviluppo. Accogliamo il vostro <a href="mailto:%email_address">feedback</a>.'
+disclaimer: 'Questo è un sito web di sviluppo. Accogliamo il vostro <a href="mailto:%email_contacts.suggestions">feedback</a>.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: '17 obiettivi per trasformare il nostro mondo'
 high_contrast: 'Alto Contrasto'

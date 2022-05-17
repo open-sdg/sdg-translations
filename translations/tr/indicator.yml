@@ -52,10 +52,10 @@ loading: 'Yükleniyor'
 loading_map: 'Harita yükleniyor'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'Ulusal Üst Veriler'
-national_metadata_blurb: 'Bu tablo, %country_name istatistiklerindeki ilgili küresel
+national_metadata_blurb: 'Bu tablo, %country.name istatistiklerindeki ilgili küresel
   SDG göstergesine en yakın olan gerçek gösterge için üst veriler sağlar. Lütfen küresel
-  SDG göstergesi %country_adjective istatistiklerinde tam olarak bulunsa bile, ulusal
-  yöntemler ve diğer %country_adjective özgü üst veriler hakkında bilgi için bu tabloya
+  SDG göstergesi %country.adjective istatistiklerinde tam olarak bulunsa bile, ulusal
+  yöntemler ve diğer %country.adjective özgü üst veriler hakkında bilgi için bu tabloya
   başvurulması gerektiğini unutmayın.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'Küresel Üst Veriler'

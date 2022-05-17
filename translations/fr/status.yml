@@ -16,7 +16,7 @@ disaggregation_status_by_field: 'Désagrégation par %field'
 not_specified: Non spécifié
 reported: Déclaré
 description: L'état des rapports donne un aperçu de la quantité de données sur les
-  objectifs de développement durable (ODD) que %name rapporte.
+  objectifs de développement durable (ODD) que %country.name rapporte.
 progress_status: État d'avancement
 progress_not_available: Indisponible
 progress_challenges_remain: Des défis à relever

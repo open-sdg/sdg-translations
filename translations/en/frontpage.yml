@@ -1,7 +1,7 @@
 instructions: Click on each goal, or %before_link search, %after_link
-  for %name statistics for Sustainable Development Goal global
+  for %country.name statistics for Sustainable Development Goal global
   indicators.
-heading: "%name data for Sustainable Development Goal indicators"
+heading: "%country.name data for Sustainable Development Goal indicators"
 download_all: Download all data
 zip_file: ZIP file
 intro_title: 17 goals to transform our world

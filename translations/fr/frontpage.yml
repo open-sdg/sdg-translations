@@ -1,6 +1,6 @@
-heading: "Données %name pour les indicateurs des objectifs de développement durable"
+heading: "Données %country.name pour les indicateurs des objectifs de développement durable"
 instructions: Cliquez sur chaque objectif, ou %before_link recherchez, %after_link
-  pour %name statistiques pour Sustainable Development Goal global indicateurs.
+  pour %country.name statistiques pour Sustainable Development Goal global indicateurs.
 download_all: Téléchargez toutes les données
 zip_file: fichier zip
 intro_title: 17 objectifs pour transformer notre monde

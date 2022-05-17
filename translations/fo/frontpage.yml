@@ -2,8 +2,8 @@ download_all: Tak niður allar dátur
 intro_title: 17 mál skulu broyta heim okkara
 zip_file: ZIP-fíla
 instructions: Trýst á hvørt málið sær, ella %before_link leita, %after_link eftir
-  %name at fáa hagtøl fyri heimsmálsávísar.
-heading: '%name dátur til heimsmálsávisar'
+  %country.name at fáa hagtøl fyri heimsmálsávísar.
+heading: '%country.name dátur til heimsmálsávisar'
 intro_body: Tey <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">burðardyggu
   menningarmálini (SDG)</a> eru ein áheitan til heimsins tjóðir at gera enda á fátækadømi,
   at verja okkara gongustjørnu og at bøta um lív og framtíðarvánir hjá einum og hvørjum

@@ -1,7 +1,7 @@
 skip_link: 'Ana içeriğe geç'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'Alfa'
-disclaimer: 'Bu bir geliştirme sitesidir. <a href="mailto:%email_address">Geri bildiriminizi</a>
+disclaimer: 'Bu bir geliştirme sitesidir. <a href="mailto:%email_contacts.suggestions">Geri bildiriminizi</a>
   memnuniyetle karşılıyoruz.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: 'Dünyamızı Dönüştürmek İçin 17 Amaç'

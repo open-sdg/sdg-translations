@@ -34,7 +34,7 @@ loading_map: Karte wird geladen
 map: Karte
 national_metadata: Nationale Metadaten
 national_metadata_blurb: Im Folgenden werden Metadaten zu den national verfügbaren
-  Zeitreihen für %country_name zum jeweiligen globalen SDG-Indikator bereitgestellt.
+  Zeitreihen für %country.name zum jeweiligen globalen SDG-Indikator bereitgestellt.
   Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe.
   Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch
   auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen

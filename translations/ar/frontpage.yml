@@ -1,5 +1,5 @@
-heading: "%name بيانات لمؤشرات اهداف التنمية المستدامة"
-instructions: انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name
+heading: "%country.name بيانات لمؤشرات اهداف التنمية المستدامة"
+instructions: انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %country.name
   الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
 download_all: تنزيل جميع البيانات
 zip_file: ملف مضغوط

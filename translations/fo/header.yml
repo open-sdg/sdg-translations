@@ -1,7 +1,7 @@
 skip_link: 'Leyp til høvuðsinnihald'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'Alpha'
-disclaimer: 'Síðan er undir menning. Tú er vælkomin at <a href="mailto:%email_address">viðmerkja
+disclaimer: 'Síðan er undir menning. Tú er vælkomin at <a href="mailto:%email_contacts.suggestions">viðmerkja
   </a> síðuna.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: '17 mál skulu broyta okkara heim'

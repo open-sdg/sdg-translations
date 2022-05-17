@@ -1,7 +1,7 @@
 skip_link: 'Hopp til hovedinnhold'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'Alfa'
-disclaimer: 'Dette er et utviklingsnettsted. Vi ønsker <a href="mailto:%email_address">tilbakemeldinger</a>.'
+disclaimer: 'Dette er et utviklingsnettsted. Vi ønsker <a href="mailto:%email_contacts.suggestions">tilbakemeldinger</a>.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: '17 mål for å transformere vår verden'
 high_contrast: 'Høy kontrast'

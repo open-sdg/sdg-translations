@@ -26,7 +26,7 @@
   (útbúgving, heilsa og almannavernd)'
 1-a-3-title: 'Samlaðar veitingar og ikki-skuld-elvandi tilfløðing, ið er beinleiðis
   sett av til ætlanir aat niðurberja fátækadømi sum partur av BTÚ'
-1-b-1-title: 'Almannar útreiðslur til fátækrahjálp'
+1-b-1-title: 'Almennar útreiðslur burturav til fátøk'
 10-1-1-title: 'Vakstrarferð av húsarhaldsútreiðslum ella miðalinntøka hjá lægstu 40
   prosentini av íbúgvunum og øllum íbúgvunum'
 10-2-1-title: 'Partur av fólkinum, ið livir av minni enn 50 prosent av miðinntøkuni
@@ -238,8 +238,9 @@
 17-16-1-title: 'Tal av londum, sum boða frá betri munadygd í menningarskipanum fyri
   fleir-áhugapartar at hava eftirlit við skipanum, ið stuðla at røkka burðardyggu
   menningarmálunum'
-17-17-1-title: 'Amount í USA gjørdi av almennum-private partners for infrastructure'
-17-18-1-title: 'Statistical capacity indicator for Sustainable Development Goal monitoring'
+17-17-1-title: 'Upphædd í US dollars, sum er tilsøgd almenn-privat partaløg fyri undirstøðukervi'
+17-18-1-title: 'Ávísi fyri hagfrøðiliga førleikan at vaka yvir tey burðardyggu menningarmálini
+  (SDG)'
 17-18-2-title: 'Tal av londum við hagtalslóggávu, ið lýkur grundreglurnar fyri almennum
   hagtølum'
 17-18-3-title: 'Tal av londum við fult fíggjaðari og verksettari ætlan at veita hagtøl,
@@ -252,42 +253,43 @@
 17-2-1-title: 'Netto almennur menningarstuðul, samantalda upphæddin og til minst mentu
   londini sum partur av samlaðu bruttotjóðarinntøkuni (BTI) hjá gevaralondunum í Felagsskapinum
   fyri búskaparligum samstarvi og menning (OECD)'
-17-3-1-title: 'Fremmandafólk beinleiðis íløgur, almenna menn og Suðurkorea-South samstarv
-  sum ein mun av stóra inntøku.'
-17-3-2-title: 'Volume of remittances (in United Usa) as a proportion of total.'
+17-3-1-title: 'Nýtt fæfeingi virkjað til menningarlond frá fleiri keldum'
+17-3-2-title: 'Nøgdin av peningasendingum hjá tilflytarum til heimlandið (í US dollars)
+  sum partur av BTÚ'
 17-4-1-title: 'Skuldargjøld sum partur av útflutningi av vørum og tænastum'
 17-5-1-title: 'Tal av londum, ið hava samtykt og verksett íløgufremjandi tiltøk fyri
   menningarlond, heruppií tey minst mentu londini'
 17-6-1-title: 'Fastnet breiðbands-internethald fyri hvørjar 100 íbúgvar, skift á samskiftisferð'
-17-6-2-title: 'Fixed Internet broadband subscriptions per 100 íbúgvar, við ferð'
+17-6-2-title: 'Fastnet fyri hvørjar 100 íbúgvar, skift á samkiftisferð'
 17-7-1-title: 'Samlaði góðkendi stuðulin til menningarlond at fremja menning, flutning,
   útbreiðslu og spjaðing av umhvørvishollari tøkni'
 17-8-1-title: 'Partur av persónum, ið nýta internet'
-17-9-1-title: 'Dollar value of fíggjar og fakt hjálp (including gjøgnum North-South,
-  South‐South og t.'
+17-9-1-title: 'Dollarvirðið av fíggjarligum og tøkniligum stuðli (heruppií umvegis
+  Norður-Suður og tríkantssamstarv) tilsagdur menningarlond'
 2-1-1-title: 'Prosentpartur av undirføddum'
-2-1-2-title: 'Prevalence of hampulige or álvarsamt mat ísecurity í íbúgvunum, based
-  á mat Insecurity Experience Scale (FIES)'
-2-2-1-title: 'Prevalence of stunting (height for age <-2 standard deviation frá median
-  of World Health Health (WHO) Child Growth Standards) millum børn undir 5 ár av aldrinum'
-2-2-2-title: 'Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation
-  frá median of WHO Child Growth Standards) millum børn undir 5 ár av aldrinum, við
-  type (wasting and ovt)'
-2-2-3-title: 'Prevalence of anaemia in kvinnur aged 15 to 49 ár, by barnsburði status
-  (percentage)'
-2-3-1-title: 'Volume of production per ́d by classes of farming/pastoral/forestry
-  enterprise size'
-2-3-2-title: 'Average inntøku av lítlum-scale matum, við sexum og nous status.'
-2-4-1-title: 'Proportion of agricultural area undir virkin og hjálpir einum landbúnaði.'
-2-5-1-title: 'Number av plantum og djóra tilfeingi til mat og ein landbúnað tryggur
-  í øðrum medium ella long-termum facilitum.'
-2-5-2-title: 'Proportion of local elvir til tíman, sum verður í vanda fyri at vága
-  út.'
-2-a-1-title: 'landbúnað ellaientation index for stjórninaitures'
-2-a-2-title: 'Total alment rennur (official development stuðul pluss aðrar alment
-  rennur) til ein landbúnað sector'
+2-1-2-title: 'Útbreiðsla av nøkrum ella álvarsligum føðslutroti í fólkinum, bygt á
+  ávísan fyri føðslutrygd (FIES - Food Insecurity Experience Scale)'
+2-2-1-title: 'Útbreiðsla av vakstrartarni (hædd fyri aldurin <-2 standardfrávik frá
+  miðvirðinum fyri barnavakstrarstandardinum hjá Heimsheilsustovninum (WHO)) millum
+  børn yngri enn 5 ár'
+2-2-2-title: 'Útbreiðsla av føðslutroti (vekt í mun til hædd >+2 ella <-2 standardfrávik
+  frá miðvirðinum fyri barnavakstrarstandardinum hjá Heimsheilsustovninum (WHO)) millum
+  børn yngri enn 5 ár, skift á slag (soltni og yvirvekt)'
+2-2-3-title: 'Útbreiðsla av blóðtroti hjá kvinnum 15 til 49 ára gamlar, skift á um
+  tað er barnakona ella ikki (prosentpartur)'
+2-3-1-title: 'Framleiðslunøgd fyri hvørja arbeiðseind flokkað eftir stødd á framleiðslueind
+  í jarðarbrúki/húsdýravinnu/skógrøkt'
+2-3-2-title: 'Miðalinntøka hjá lutfalsliga smáum matframleiðarum, skift á kyn og hvørt
+  talan er um upprunafólk'
+2-4-1-title: 'Partur av landbúnaðarlendinum við burðardyggari landbúnaðarframleiðslu'
+2-5-1-title: 'Tal av (a) plantu- og (b) djóraílegutilfeingi at nýta til matna og landbúnað
+  ið er tryggjað varðveislu í annaðhvørt miðallangari ella langari goymslu'
+2-5-2-title: 'Partur av staðbundnum sløgum ið eru mett í vanda fyri at verða týnd'
+2-a-1-title: 'Vísital hjá landbúnaðinum fyri almennar útreiðslur'
+2-a-2-title: 'Samantaldi almenni peningaflutningurin (almenn menningarhjálp umfram
+  onnur almenn fígging) til landbúnaðargeiran'
 2-b-1-title: 'Útflutningsstudningur til landbúnað'
-2-c-1-title: 'Indicator of mat prís anomalies'
+2-c-1-title: 'Ávísi fyri frávik í matvøruprísum'
 3-1-1-title: 'Møður deyðar í barnferð'
 3-1-2-title: 'Partur av føðingum, har heilsufakligt starvsfólk hevur verið til hjálpar'
 3-2-1-title: 'Deyðatíttleikin hjá børnum yngri enn 5 ár'
@@ -302,51 +304,49 @@
 3-4-1-title: 'Deyð av hjarta-æðra-sjúkum, krabbameini, sukursjúku og kroniskum sjúkum
   í andaleiðini fyri hvørjar 100.000 íbúgvar'
 3-4-2-title: 'Sjálvmorð fyri hvørjar 100.000 íbúgvar'
-3-5-1-title: 'Coverage of viðgerðs (pharmacological, sálar og avvenjingarilitation
-  og eftircare services) for evni brúka etingarólags'
+3-5-1-title: 'Dekningur av viðgerðarinntrivum (við heilivági, sálarsosialari viðgerð
+  umframt endurbúgving og eftirviðgerð) fyri bundinskap av rúsevnum'
 3-5-2-title: 'Rúsdrekkanýtsla, reint alkohol fyri hvørt fólkið eldri enn 15 ár'
 3-6-1-title: 'Deyð í ferðsluni fyri hvørjar 100.000 íbúgvar'
 3-7-1-title: 'Partur av øllum kvinnum í barnførum aldri (15-49 ár), ið fáa uppfylt
   sín tørv fyri barnaavmarking við tíðarhóskandi fyribyrging'
 3-7-2-title: 'Føðitíttleiki í móðuraldursbólkinum (10-14 ár og 15-19 ár) fyri hvørjar
   1.000 kvinnur í aldursolkinum'
-3-8-1-title: 'Coverage of essential heilsu services'
-3-8-2-title: 'Proportion av íbúgvunum við stórum húsitures á heilsu sum ein part av
-  totalum arbeiðiiture ella inntøku.'
-3-9-1-title: 'Mortality rate at eggja til hús og amient luft dálking.'
+3-8-1-title: 'Dekningur grundleggjandi heilsutænastum'
+3-8-2-title: 'Partur av fólkinum har stórur partur av húskisútreiðslunum fer til heilsuveitingar,
+  í mun til heildarútreiðslurnar ella -inntøkurnar hjá húskinum'
+3-9-1-title: 'Deyðatalið volt av dálkaða inniluft og luftdálking uttandura'
 3-9-2-title: 'Deyðatalið volt av óreinum vatni, vánaligum kloakkviðurskiftum og vantandi
   reinføri (WASH)'
 3-9-3-title: 'Deyð av óætlaðari eitran fyri hvørjar 100.000 íbúgvar'
 3-a-1-title: 'Aldursjavngjørd útbreiðsla av tubbaknýtslu hjá 15 ára gomlum og eldri'
-3-b-1-title: 'Proportion av málinum, sum eru fjaldur av øllum vacines included í sínum
-  tjóðar programme.'
-3-b-2-title: 'Total net alment menn hjálpa til lækna kanningar og grundleggjandi heilsu
-  sectors'
-3-b-3-title: 'Proportion av heilsu facilitum, sum hava ein core, sum hevur ein core,
-  sum hevur ráð til at gera, og hevur ráð til at fáa eina ótýning'
+3-b-1-title: 'Partur av fólkinum í móttakarabólkinum, ið hevur fingið allar koppingar
+  ásettar í koppingarætlanini fyri landið'
+3-b-2-title: 'Samlað almenn nettomenningarhjálp til læknafrøðiliga gransking og grundleggjandi
+  heilsugeirar'
+3-b-3-title: 'Partur av heilsustovnum, ið hevur ein grundstovn av týðandi alneyðugum
+  heilivági tøkan og fyri rímiligan prís í longdini'
 3-c-1-title: 'Býti og tættleiki av heilsustarvsfólki'
-3-d-1-title: 'International Health Regulations (IHR) capacity and health emergencyness'
-3-d-2-title: 'Percentage of blóðstream infections due to selected antimicrobial-resistant
-  organisms'
-4-1-1-title: 'Proportion of børn og ung fólk (a) í próvtøl 2/3; (b) í endanum av primary;
-  og (c) í endanum av lægri secondary, í minsta lagi eitt minimum, sum er í (i) at
-  lesa og (ii) støddfrøði, við sex'
+3-d-1-title: 'Tilbúgving innan altjóða heilsuviðtøkur (IHR) og fyribúningur til heilsuneyðstøðu'
+3-d-2-title: 'Prosentpartur av blóðeitran vegna útvaldar fjølmótstøðuførar mikroorganismur'
+4-1-1-title: 'Partur av børnum og ungum (a) í 2/3. flokki; (b) við endan av barnaskúlanum
+  og (c) við endan av framhaldsskúlanum, ið hava rokkið minstaførleikar í (i) lesing
+  og (ii) rokning, skift á kyn'
 4-1-2-title: 'Prosentpartur ið fullførir grundleggjandi útbúgving (barnaskúlin, framhaldsskúlin,
   miðnám/yrkisútbúgving)'
-4-2-1-title: 'Proportion av børnum 24-59 mánaðir, sum eru menn, sum eru í góðari heilsu,
-  læra og sálar-being, av sexum'
+4-2-1-title: 'Partur av 24-59 mánaðar gomlum børnum, ið mennast aldurssamsvarandi
+  við heilsu, læring og trivnaði, skift á kyn'
 4-2-2-title: 'Prosentpartur av børnum sum luttaka í skipaðari frálæru (eitt ár áðrenn
   almenna innmeldingaraldurin í barnaskúlan), skift á kyn'
-4-3-1-title: 'Participations av ungdómum og vaksin í formal og ikki-formal útbúgving
-  og training í fyrra 12 mánaðir, við sex'
-4-4-1-title: 'Proportion of ungdóm og vaksin við kunning og samskiftis tøkni (ICT)
-  førleikarnar, við sløg av skillum.'
-4-5-1-title: 'Parity indices (female/male, rural/urban, bottom/top ríkidømi quintile
-  and onnur so sum disability status, elektronous fólks and conflict-affected, as
-  data gerast tøk) for all útbúgving indicators on hendan list, sum kann vera disaggregated'
-4-6-1-title: 'Proportion of population in a given age groupchieving í minsta lagi
-  a fixed level of serfrøðingur í functional (a) literacy and (b) numeracy førleikarnar,
-  by sex'
+4-3-1-title: 'Prosentpartur av ungum og vaksnum í formligari og óformligari útbúgving
+  og læru undanfarnu 12 mánaðir, skift á kyn'
+4-4-1-title: 'Partur av ungum og vaksnum við grundleggjandi førleikum í samskiftis-
+  og kunningartøkni, skift á slag av førleika'
+4-5-1-title: 'Javnmetisvísar (kvinnur/menn, bý/land, fátækasti/ríkasti fimtipartur
+  og onnur tílík tvíbýti so sum avlamisstøðu, upprunafólk og krígsrakt, so hvørt sum
+  dátur verða tøkar) fyri allar útbúgvingarávísarnar á hesum lista, ið kunnu sundurgreinast'
+4-6-1-title: 'Partur av fólkinum í givnum aldursbólki, ið røkkur eitt ávíst minstamark
+  av førleika at (a) lesa og (b) rokna, skift á kyn'
 4-7-1-title: 'Í hvønn mun (i) útbúgving í alheims samborgaraskapi og (ii) útbúgving
   í burðardyggari menning eru partar av almenna a) útbúgvingarpolitikkinum hjá landinum
   b) lesiætlanum, c) læraraútbúgving og d) meting av lesandi'
@@ -354,12 +354,12 @@
   tænastuveiting'
 4-b-1-title: 'Nøgdin av almennum menningarstuðli latin sum lestrarstuðul, skift á
   geira og útbúgvingarslag'
-4-c-1-title: 'Proportion av lærarum við minsta lagi kravdi qualifications, av útbúgving.'
+4-c-1-title: 'Partur av lærarum við kravdu førleikunum, skift á útbúgvingarstig'
 5-1-1-title: 'Um tað finnast lógarkarmar at fremja, handhevja og hava eftirlit við
   javnstøðu og ikki-mismuni millum kyn'
-5-2-1-title: 'Proportion of nakrantíð-partnered kvinnur og gentur, sum vóru 15 ár
-  og eldri evni til likamlig, sex ella sálar harðskap av einum núverandi ella fyrrverandi
-  í 12 mánaðir, av formum av harðskapi og við aldrinum'
+5-2-1-title: 'Partur av kvinnum og gentum eldri enn 15, ið hava verið í parlagi og
+  verið fyri likamligum, kynsligum ella sálarligum harðskapi framdum av núverandi
+  ella fyrrverandi maka undanfarnu 12 mánaðir, skift á slag av harðskapi og aldur'
 5-2-2-title: 'Partur av kvinnum og gentum 15 ár og eldri, ið hava verið fyri kynsligum
   harðskapi framdum av øðrum enn ástarvini undanfarnu 12 mánaðir, skift á aldur og
   brotsstað'
@@ -371,32 +371,30 @@
   á kyn, aldur og staðseting'
 5-5-1-title: 'Partur av sætum hjá kvinnum í (a) tjóðartingum og (b) kommunustýrum'
 5-5-2-title: 'Partur av kvinnum í leiðslustørvum'
-5-6-1-title: 'Proportion of kvinnur 15–49 ár, sum gera teirra egnu avgerðir, sum hava
-  gjørt, contraceptive use and reproductive health umsorgan'
+5-6-1-title: 'Partur av kvinnum 15-49 ár, sum taka egnar upplýstar avgerðir viðvíkjandi
+  kynsligum viðurskiftum, gitnaðarverju og nøringar-heilsurøkt'
 5-6-2-title: 'Tal av londum við lógum og reglum, ið tryggja fulla og eins atgongd
   hjá kvinnum og monnum 15 ár og eldri til kyns- og nøringarheilsutænastur, upplýsing
   og útbúgving'
-5-a-1-title: '(a) Proportion of total agricultural population við owner ella trygt
-  rættindi yvir agricultural land, by sex; og (b) part av kvinnum millum eigarin ella
-  rættindi-bearers of agricultural land, við type of tenure'
+5-a-1-title: '(a) Partur av samlaða fólkatalinum í landbúnaði við ognarrætti ella
+  tryggjaðum rættindum til landunaðarjørð, skift á kyn; og (b) partur av kvinnum millum
+  eigarar ella rættindahavarar til landbúnaðarjørð, skift á slag av rættindum'
 5-a-2-title: 'Partur av londum, har rættarligir karmar (íroknað siðvenjurætt) tryggja
   kvinnum eins rættindi til ognarskap og ræði á jørð'
-5-b-1-title: 'Proportion of individualar, sum eiga eina fartelefon, við sex.'
+5-b-1-title: 'Partur av einstaklingum ið eiga fartelefon, skift á kyn'
 5-c-1-title: 'Partur av londum, ið hava skipanir til at fylgja við í og almannakunngera
   játtanir til javnstøðu millum kynini og máttmenning av kvinnum'
 6-1-1-title: 'Partur av fólkinum, ið fær trygt rikna veiting av drekkivatni'
 6-2-1-title: 'Partur av fólkinum, ið nýtir trygt riknar reinføristænastur, heruppií
   hentleikar at vaska sær um hendurnar við vatni og sápu'
-6-3-1-title: 'Proportion av heimum og í ídnaðarvatnum rennur trygt við øllum góðum
-  viðfarinum.'
+6-3-1-title: 'Partur av spillivatni, ið verður viðgjørt trygt'
 6-3-2-title: 'Partur av vatnkeldum við góðari vatngóðsku'
-6-4-1-title: 'Change in vatn-use efficiency over time'
-6-4-2-title: 'Level av vatni trýsti: feskvatn taka seg aftur sum ein mun av tøkum
-  vatni.'
-6-5-1-title: 'Degree of integrated vatn resources management'
-6-5-2-title: 'Proportion of transboundary basin area við eini skurðviðgerð, sum er
-  til vatn samstarv.'
-6-6-1-title: 'Broyt/broytið í mun til vatn í samband við vatn- og á.'
+6-4-1-title: 'Broyting av vatnnýtslumunadygd við tíðini'
+6-4-2-title: 'Vatnstrongdarstig: feskvatnsútvinning sum partur av tøkum vatnfeingi'
+6-5-1-title: 'Stig av heildarvirkandi vatnfeingisumsiting'
+6-5-2-title: 'Partur av vatnøkjum, sum fara um landamark og sum eru partur av samstarvi
+  um vatnýtslu'
+6-6-1-title: 'Broyting vavi av vatntongdum vistskipanum við tíðini'
 6-a-1-title: 'Nøgd av almennum menningarstuðli tongd at vatn- og reinførismálum, ið
   er partur av stjórnarsamskipaðari útgjaldsætlan'
 6-b-1-title: 'Partur av kommununum, ið hava gjørt og sett í verk politikkir og mannagongdir
@@ -416,7 +414,7 @@
 8-10-2-title: 'Partur av vaksnum (15 á og eldri) ið hava kontu í banka ella øðrum
   fíggjarstovni ella hjá farpeninga-tænastuveitara'
 8-2-1-title: 'Árligur vøkstur av real-BTÚ fyri hvønn arbeiðsvirknan persón'
-8-3-1-title: 'Proportion of informal arbeiði í total arbeiði, við sector og sex.'
+8-3-1-title: 'Partur av óformligum størvum í mun til øll størv, skift á geira og kyn'
 8-4-1-title: 'Tilfarsspor, tilfarsspor upp á íbúgvan og tilfarsspor í mun til BTÚ'
 8-4-2-title: 'Innlendis tilfarsnýtsla, innlendis tilfarsnýtsla upp á íbúgvan og innlendis
   tilfarsnýtslan í mun til BTÚ'
@@ -428,9 +426,9 @@
   skift á kyn og aldur'
 8-8-1-title: 'Deyðiligar og ikki-deyðiligar arbeiðsvanlukkur fyri hvørjar 100.000
   arbeiðarar, skift á kyn og innflytarastøðu'
-8-8-2-title: 'Level of national compliance við mangrovu rættindi (falufrælsi of elektro
-  and collective bargaining) based on International Labour Organization (ILO) textual
-  sources and nationalon, by sex and migrant status'
+8-8-2-title: 'Í hvønn mun landið lýkur arbeiðararættindi (skipanarfrælsi og sáttmálasamráðingar)
+  grundað á ásetingar hjá altjóða arbeiðarafelagsskapinum (ILO) og landsins lóggávu,
+  skift á kyn og innflytarastøðu'
 8-9-1-title: 'Virðisøking frá ferðavinnu, sum partur av BTÚ'
 8-9-2-title: 'Partur av arbeiðsplássunum í ferðavinnuni, ið eru burðardygg'
 8-a-1-title: 'Tilsagnir og útgjøld at stuðla handli'
@@ -438,14 +436,14 @@
   sum serstøk ætlan ella sum partur av landssætlan um arbeiðsvirkni'
 9-1-1-title: 'Partur av fólkinum uttan fyri býarøkir, ið býr nærri enn 2 km við ein
   heilársveg'
-9-1-2-title: 'Ferðafólk og farmar volumear, við mode of transport'
+9-1-2-title: 'Ferðafólkatal og nøgd av vøruflutningi, skift á slag av flutningi'
 9-2-1-title: 'Virðisøking frá ídnaðarvinnu sum partur av BTÚ og fyri hvørt fólkið'
 9-2-2-title: 'Arbeiðsvirkin í framleiðsluvinnuni sum partur av øllum arbeiðsvirknum'
 9-3-1-title: 'Virðisøking frá smáum og miðalstórum virkjum sum partur av virðisøkingini
   í ídnaðarvinnum samlað'
-9-3-2-title: 'Proportion of smá-scaleídnað við einum láni ella linei av keypskorti.'
+9-3-2-title: 'Partur av smáum og miðalstórum virkjum við einum láni ella kredittveitara'
 9-4-1-title: 'CO2-útlát sum partur av virðisøking'
-9-5-1-title: 'Research og menniture sum ein mun av mangrovu.'
+9-5-1-title: 'Útreiðslur til gransking og menning sum partur av BTÚ'
 9-5-2-title: 'Granskarar (í fulltíðar-ársverkum) fyri hvørja millión íbúgvar'
 9-a-1-title: 'Samantald upphædd av almennum altjóða stuðli (almennur menningarstuðul
   umframt onnur almenn fígging) til undirstøðukervi'

@@ -9,6 +9,6 @@ download_all: Stažení všech dat
 heading: '%country.name data pro ukazatele Cílů udržitelného rozvoje'
 instructions: Klikněte na jednotlivé cíle nebo %before_link vyhledejte, %after_link
   %country.name statistiky pro globální ukazatele Cílů udržitelného rozvoje.
-instructions_short: Kliknutím na jednotlivé cíle získáte údaje o globálním indikátoru
-  %country.name Cíle udržitelného rozvoje.
-heading_short: '%country.name údaje pro cíle udržitelného rozvoje'
+instructions_short: Kliknutím na jednotlivé cíle pro %country.name získáte údaje o
+  globálním indikátoru Cílů udržitelného rozvoje.
+heading_short: 'Údaje pro %country.name Cílů udržitelného rozvoje'

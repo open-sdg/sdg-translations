@@ -78,3 +78,4 @@ sub_categories_show: 'Mostrar subcategorías:'
 unit: Unidad
 headline_data: Datos principales
 no_headline_data: No se dispone de datos de cabecera
+download_source_for_disaggregations: Descargar el CSV de origen para los desgloses

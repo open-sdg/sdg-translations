@@ -77,3 +77,4 @@ announce_data_not_available: El gráfico y la tabla no muestran datos.
 sub_categories_show: 'Mostrar subcategorías:'
 unit: Unidad
 headline_data: Datos principales
+no_headline_data: No se dispone de datos de cabecera

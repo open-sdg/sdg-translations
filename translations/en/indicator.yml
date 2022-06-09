@@ -8,6 +8,7 @@ no_headline_data: No headline data available
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
 download_source: Download Source CSV
+download_source_for_disaggregations: Download source CSV for disaggregations
 download_source_title: Download source data as CSV
 download_source_sdmx: Download Source SDMX
 download_source_sdmx_title: Download source data as SDMX

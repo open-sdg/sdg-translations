@@ -4,6 +4,7 @@ clear_selections: Clear selections
 variable_hint: Available when '%field' is selected
 no_data_hint: No options available because of filters above
 headline_data: Headline data
+no_headline_data: No headline data available
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
 download_source: Download Source CSV

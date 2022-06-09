@@ -76,3 +76,4 @@ announce_data_not_available: Diagramm und Tabelle zeigen keine Daten.
 sub_categories_show: 'Unterkategorien anzeigen:'
 unit: Einheit
 headline_data: Schlagzeilendaten
+no_headline_data: Keine Headline-Daten verfügbar

@@ -91,3 +91,5 @@ announce_data_not_available: Diagram og tabell viser ingen data.
 sub_categories_show: 'Vis underkategorier:'
 unit: Enhet
 annotation_series_break: Seriepause
+headline_data: Overskriftsdata
+no_headline_data: Ingen overskriftsdata tilgjengelig

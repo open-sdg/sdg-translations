@@ -75,3 +75,4 @@ sub_categories_show: 'Показать подкатегории:'
 unit: Единица
 headline_data: Данные заголовка
 no_headline_data: Данные по заголовкам отсутствуют
+download_source_for_disaggregations: Загрузить исходный CSV для дезагрегации

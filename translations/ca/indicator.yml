@@ -75,3 +75,4 @@ announce_data_not_available: El gràfic i la taula no mostren dades.
 sub_categories_show: 'Mostra subcategories:'
 unit: Unitat
 headline_data: Dades de titular
+no_headline_data: No hi ha dades de titulars disponibles

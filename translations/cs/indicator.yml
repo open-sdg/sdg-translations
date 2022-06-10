@@ -109,5 +109,6 @@ status: 'Stav ukazatele'
 tags: 'Štítky'
 previous: 'Předchozí ukazatel'
 next: 'Další ukazatel'
-headline_data: Hlavní údaje
-no_headline_data: Nejsou k dispozici žádné souhrnné údaje
+headline_data: Titulní data
+no_headline_data: Nejsou k dispozici žádná souhrnná data
+download_source_for_disaggregations: Stáhněte si zdrojový CSV pro členění

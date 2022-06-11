@@ -73,3 +73,4 @@ sub_categories_show: 'Ішкі санаттарды көрсету:'
 unit: Бірлік
 headline_data: Тақырып деректері
 no_headline_data: Тақырып деректері жоқ
+download_source_for_disaggregations: Бөлу үшін CSV көзін жүктеп алыңыз

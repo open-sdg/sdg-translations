@@ -76,3 +76,4 @@ sub_categories_show: 'Mostra subcategories:'
 unit: Unitat
 headline_data: Dades de titular
 no_headline_data: No hi ha dades de titulars disponibles
+download_source_for_disaggregations: Baixeu CSV font per a les desagregacions

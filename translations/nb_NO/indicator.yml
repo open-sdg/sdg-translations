@@ -93,3 +93,4 @@ unit: Enhet
 annotation_series_break: Seriepause
 headline_data: Overskriftsdata
 no_headline_data: Ingen overskriftsdata tilgjengelig
+download_source_for_disaggregations: Last ned kilde-CSV for oppdelinger

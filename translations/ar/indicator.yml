@@ -71,3 +71,4 @@ sub_categories_show: 'إظهار الفئات الفرعية:'
 unit: وحده
 headline_data: بيانات العنوان
 no_headline_data: لا توجد بيانات العنوان المتاحة
+download_source_for_disaggregations: تنزيل المصدر بتنسيق CSV للحصول على تصنيفات

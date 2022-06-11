@@ -65,3 +65,4 @@ table_column_sort: 单击此列进行排序
 annotation_series_break: 系列突破
 headline_data: 标题数据
 no_headline_data: 没有头条数据
+download_source_for_disaggregations: 下载用于分类的源CSV

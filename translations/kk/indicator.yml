@@ -74,3 +74,6 @@ unit: Бірлік
 headline_data: Тақырып деректері
 no_headline_data: Тақырып деректері жоқ
 download_source_for_disaggregations: Бөлу үшін CSV көзін жүктеп алыңыз
+apply: Қолдану
+cancel: Болдырмау
+change_breakdowns: Бұзылуларды өзгерту

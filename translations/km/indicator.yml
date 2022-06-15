@@ -106,3 +106,6 @@ next: 'សូចនាករបន្ទាប់'
 headline_data: ទិន្នន័យចំណងជើង
 no_headline_data: មិនមានទិន្នន័យចំណងជើងទេ។
 download_source_for_disaggregations: ទាញយកប្រភព CSV សម្រាប់ការបែងចែក
+apply: អនុវត្ត
+cancel: បោះបង់
+change_breakdowns: ផ្លាស់ប្តូរការបំបែក

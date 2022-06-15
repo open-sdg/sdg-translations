@@ -115,3 +115,6 @@ next: 'Prossimo indicatore'
 headline_data: Dati principali
 no_headline_data: Non sono disponibili dati principali
 download_source_for_disaggregations: Scarica il CSV di origine per le disaggregazioni
+apply: Applicare
+cancel: Annullamento
+change_breakdowns: Ripartizione delle modifiche

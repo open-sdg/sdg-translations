@@ -79,3 +79,6 @@ unit: Unité
 headline_data: Données d'en-tête
 no_headline_data: Aucune donnée principale disponible
 download_source_for_disaggregations: Télécharger le CSV source pour les désagrégations
+apply: Appliquer
+cancel: Annuler
+change_breakdowns: Ventilation des changements

@@ -112,3 +112,6 @@ next: 'Další ukazatel'
 headline_data: Titulní data
 no_headline_data: Nejsou k dispozici žádná souhrnná data
 download_source_for_disaggregations: Stáhněte si zdrojový CSV pro rozčlenění
+apply: Použít
+cancel: Zrušit
+change_breakdowns: Rozdělení změn

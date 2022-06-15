@@ -110,3 +110,6 @@ next: 'अर्को सूचक'
 headline_data: हेडलाइन डाटा
 no_headline_data: कुनै शीर्षक डेटा उपलब्ध छैन
 download_source_for_disaggregations: असहमतिहरूका लागि स्रोत CSV डाउनलोड गर्नुहोस्
+apply: निवेदन गर्नु
+cancel: रद्द गर्नुहोस्
+change_breakdowns: ब्रेकडाउनहरू परिवर्तन गर्नुहोस्

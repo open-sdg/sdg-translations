@@ -111,3 +111,6 @@ next: 'Наступний показник'
 headline_data: Дані заголовка
 no_headline_data: Дані заголовка відсутні
 download_source_for_disaggregations: Завантажте вихідний CSV для дезагрегації
+apply: Застосувати
+cancel: Скасувати
+change_breakdowns: Змінити поломки

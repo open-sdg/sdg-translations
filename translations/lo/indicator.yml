@@ -107,3 +107,6 @@ next: 'ຕົວຊີ້ວັດຕໍ່ໄປ'
 headline_data: ຂໍ້ມູນຫົວຂໍ້
 no_headline_data: ບໍ່ມີຂໍ້ມູນຫົວຂໍ້ຂ່າວ
 download_source_for_disaggregations: ດາວໂຫລດແຫຼ່ງ CSV ສໍາລັບການແຍກຕົວ
+apply: ສະໝັກ
+cancel: ຍົກເລີກ
+change_breakdowns: ການປ່ຽນແປງການແບ່ງສ່ວນ

@@ -78,3 +78,6 @@ unit: Einheit
 headline_data: Schlagzeilendaten
 no_headline_data: Keine Headline-Daten verfügbar
 download_source_for_disaggregations: Quell-CSV für Disaggregationen herunterladen
+apply: Bewerbung
+cancel: Abbrechen
+change_breakdowns: Aufschlüsselungen ändern

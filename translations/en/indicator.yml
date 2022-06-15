@@ -113,3 +113,6 @@ status: Indicator status
 tags: Tags
 previous: Previous indicator
 next: Next indicator
+apply: Apply
+cancel: Cancel
+change_breakdowns: Change breakdowns

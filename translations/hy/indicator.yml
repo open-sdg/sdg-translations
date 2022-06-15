@@ -78,3 +78,6 @@ unit: Միավոր
 headline_data: Վերնագրի տվյալներ
 no_headline_data: Վերնագրի տվյալներ չկան
 download_source_for_disaggregations: Ներբեռնեք աղբյուրի CSV-ն տարանջատումների համար
+apply: Դիմել
+cancel: Չեղարկել
+change_breakdowns: Փոխել խափանումները

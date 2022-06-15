@@ -112,3 +112,6 @@ annotation_series_break: Seri sonu
 headline_data: Başlık verileri
 no_headline_data: Manşet veri mevcut değil
 download_source_for_disaggregations: Ayrıştırmalar için kaynak CSV'yi indirin
+apply: Başvurmak
+cancel: İptal
+change_breakdowns: Değişim dökümleri

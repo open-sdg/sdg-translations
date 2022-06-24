@@ -1,5 +1,6 @@
 alpha: ألفا
-disclaimer: هذا موقع تطوير. نرحب <a href="mailto:%email_contacts.suggestions"> بتعليقاتكم </a>
+disclaimer: هذا موقع تطوير. نرحب <a href="mailto:%email_contacts.suggestions"> بتعليقاتكم
+  </a>
 skip_link: انتقل الى المحتويات الرئيسية
 tag_line: 17 اهداف لتحويل عالمنا
 high_contrast: 'تباين عالي'
@@ -8,3 +9,10 @@ enable_high_contrast: تمكين التباين العالي
 disable_high_contrast: تعطيل التباين العالي
 toggle_menu: تبديل القائمة. انقر لتوسيع القائمة أو طيها.
 toggle_search: بحث تبديل. انقر لتوسيع أو تصغير شريط البحث.
+internet_explorer_message_title: لم يعد متصفح الإنترنت هذا مدعومًا
+internet_explorer_message: لقد اكتشفنا أنك تستخدم Internet Explorer لزيارة هذا الموقع.
+  يتم الآن التخلص التدريجي من Internet Explorer بواسطة Microsoft. نتيجة لذلك ، لم
+  يعد هذا الموقع يدعم أي إصدار من Internet Explorer. لن تعمل بعض الميزات الموجودة
+  في هذا الموقع. يجب عليك استخدام متصفح حديث مثل Edge أو Chrome أو Firefox أو Safari.
+  إذا كنت تواجه صعوبة في تثبيت متصفح مختلف أو الوصول إليه ، فيرجى الاتصال بفريق دعم
+  تكنولوجيا المعلومات لديك.

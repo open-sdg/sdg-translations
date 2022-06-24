@@ -11,3 +11,10 @@ enable_high_contrast: 'Contrastokary kontrast açyň'
 disable_high_contrast: 'Contrastokary kontrasty öçüriň'
 toggle_search: 'Geçirmek gözläň. Gözleg setirini giňeltmek ýa-da ýykmak üçin basyň.'
 toggle_menu: 'Menýu üýtgetmek. Menýuny giňeltmek ýa-da ýykmak üçin basyň.'
+internet_explorer_message_title: Bu internet brauzeri indi goldanylmaýar
+internet_explorer_message: Bu web sahypasyna girmek üçin Internet Explorer-den peýdalanýandygyňyzy
+  anykladyk. Internet Explorer indi Microsoft tarapyndan tapgyrlaýyn çykarylýar. Netijede,
+  bu web sahypa indi Internet Explorer-iň islendik wersiýasyny goldamaýar. Bu sahypadaky
+  käbir aýratynlyklar işlemez. Edge, Chrome, Firefox ýa-da Safari ýaly häzirki zaman
+  brauzerini ulanmaly. Başga bir brauzeri gurmakda ýa-da oňa girmekde kynçylyk çekýän
+  bolsaňyz, IT goldaw toparyna ýüz tutmagyňyzy haýyş edýäris.

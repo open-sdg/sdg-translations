@@ -11,3 +11,11 @@ enable_high_contrast: 'Virkja stóran kontrast'
 disable_high_contrast: 'Óvirkja stóran kontrast'
 toggle_search: 'Leitiskiftari. Trýst fyri at víðka ella minka leititeigin.'
 toggle_menu: 'Valmyndaskiftari. Trýst fyri at víðka ella minka valmyndina.'
+internet_explorer_message_title: Hesin internet browserin er ikki longur stuðul
+internet_explorer_message: Vit hava varnast, at tú/tit brúkar/brúka internet Explorer
+  at vitja hesa heimasíðuna. Internet Explorer er nú stig av Microsoft. Sum eitt úrslit,
+  so gevur henda heimasíðan ikki longur stuðul til nakra version av Internet Explorer.
+  Nøkur eyðkenni á hesi síðuni fer ikki at rigga. Tú/tit átti/áttu at brúkt eina nýmótans
+  browser so sum Edge, Chrome, Firefox, ella Safari. Um tú/tit hevur/hava trupult
+  við at seta ella atgongd til eina aðra browser, set/setið teg/tykkum í samband við
+  teg/tykkum.tygum.

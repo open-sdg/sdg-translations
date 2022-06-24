@@ -1,8 +1,8 @@
 skip_link: 'Ana içeriğe geç'
 # This word identifies a software or web project as being in the early stages of development
 alpha: 'Alfa'
-disclaimer: 'Bu bir geliştirme sitesidir. <a href="mailto:%email_contacts.suggestions">Geri bildiriminizi</a>
-  memnuniyetle karşılıyoruz.'
+disclaimer: 'Bu bir geliştirme sitesidir. <a href="mailto:%email_contacts.suggestions">Geri
+  bildiriminizi</a> memnuniyetle karşılıyoruz.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: 'Dünyamızı Dönüştürmek İçin 17 Amaç'
 high_contrast: 'Yüksek karşıtlık'
@@ -11,3 +11,10 @@ enable_high_contrast: 'Yüksek karşıtlığı etkinleştir'
 disable_high_contrast: 'Yüksek karşıtlığı devre dışı bırak'
 toggle_search: 'Arama düğmesi. Arama çubuğunu genişletmek veya daraltmak için tıklayın.'
 toggle_menu: 'Menü düğmesi. Menüyü genişletmek veya daraltmak için tıklayın.'
+internet_explorer_message_title: Bu internet tarayıcısı artık desteklenmiyor
+internet_explorer_message: Bu web sitesini ziyaret etmek için Internet Explorer kullandığınızı
+  tespit ettik. Internet Explorer artık Microsoft tarafından aşamalı olarak kaldırılmaktadır.
+  Sonuç olarak, bu web sitesi artık Internet Explorer'ın herhangi bir sürümünü desteklememektedir.
+  Bu sitedeki bazı özellikler çalışmayacaktır. Edge, Chrome, Firefox veya Safari gibi
+  modern bir tarayıcı kullanmalısınız. Farklı bir tarayıcı kurmakta veya bu tarayıcıya
+  erişmekte zorluk yaşıyorsanız, lütfen BT destek ekibinizle iletişime geçin.

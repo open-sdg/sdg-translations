@@ -8,3 +8,11 @@ enable_high_contrast: Habilitar alt contrast
 disable_high_contrast: Desactivar alt contrast
 toggle_menu: Menú d'alternança. Feu clic per ampliar o reduir el menú.
 toggle_search: Barra de cerca. Feu clic per ampliar o reduir la barra de cerca.
+internet_explorer_message_title: Aquest navegador d'Internet ja no és compatible
+internet_explorer_message: Hem detectat que estàs utilitzant Internet Explorer per
+  visitar aquest lloc web. Internet Explorer ara està sent eliminat gradualment per
+  Microsoft. Com a resultat, aquest lloc web ja no admet cap versió d'Internet Explorer.
+  Algunes funcions d'aquest lloc no funcionaran. Hauríeu d'utilitzar un navegador
+  modern com Edge, Chrome, Firefox o Safari. Si teniu dificultats per instal·lar o
+  accedir a un navegador diferent, poseu-vos en contacte amb el vostre equip d'assistència
+  informàtica.

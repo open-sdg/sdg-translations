@@ -10,3 +10,10 @@ enable_high_contrast: 'Abilita l''alto contrasto'
 disable_high_contrast: 'Disattivare l''alto contrasto'
 toggle_search: 'Alterna la ricerca. Clicca per espandere o ridurre la barra di ricerca.'
 toggle_menu: 'Menu toggle. Clicca per espandere o ridurre il menu.'
+internet_explorer_message_title: Questo browser internet non è più supportato
+internet_explorer_message: Abbiamo rilevato che state utilizzando Internet Explorer
+  per visitare questo sito. Internet Explorer è stato gradualmente eliminato da Microsoft.
+  Di conseguenza, questo sito non supporta più alcuna versione di Internet Explorer.
+  Alcune funzioni di questo sito non funzioneranno. Si consiglia di utilizzare un
+  browser moderno come Edge, Chrome, Firefox o Safari. In caso di difficoltà nell'installazione
+  o nell'accesso a un browser diverso, contattare il team di assistenza informatica.

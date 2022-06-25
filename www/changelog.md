@@ -6,6 +6,14 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## 2.0.0
+
+* Internet Explorer alert translations #280
+* Correct incorrect short goal names #277
+* New translations related to maps #274
+* New translation group for data-related terms, starting with 'Year' #267
+* Switch to OpenSDG-style site configuration parameters #263
+
 ## 1.8.0
 
 * Add Faroese language and icons

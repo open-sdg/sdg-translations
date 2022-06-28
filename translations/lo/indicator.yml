@@ -53,9 +53,9 @@ loading_map: 'ກຳ ລັງໂຫລດແຜນທີ່'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'Metadata ແຫ່ງຊາດ'
 national_metadata_blurb: 'ຕາຕະລາງນີ້ສະ ໜອງ metadata ສຳ ລັບຕົວຊີ້ວັດຕົວຈິງທີ່ມີຈາກສະຖິຕິ%
-  country_name ທີ່ຢູ່ໃກ້ກັບຕົວຊີ້ວັດ SDG ທົ່ວໂລກທີ່ສອດຄ້ອງກັນ. ກະລຸນາຮັບຊາບວ່າເຖິງແມ່ນວ່າຕົວຊີ້ວັດ
-  SDG ທົ່ວໂລກສາມາດ ນຳ ໃຊ້ໄດ້ຢ່າງເຕັມສ່ວນຈາກສະຖິຕິ% country_adjective, ຕາຕະລາງນີ້ຄວນໄດ້ຮັບການປຶກສາຫາລືກ່ຽວກັບຂໍ້ມູນກ່ຽວກັບວິທີການແຫ່ງຊາດແລະຂໍ້ມູນ
-  metadata ອື່ນໆ% country_adjective.'
+ %country.name ທີ່ຢູ່ໃກ້ກັບຕົວຊີ້ວັດ SDG ທົ່ວໂລກທີ່ສອດຄ້ອງກັນ. ກະລຸນາຮັບຊາບວ່າເຖິງແມ່ນວ່າຕົວຊີ້ວັດ
+  SDG ທົ່ວໂລກສາມາດ ນຳ ໃຊ້ໄດ້ຢ່າງເຕັມສ່ວນຈາກສະຖິຕິ%country.adjective, ຕາຕະລາງນີ້ຄວນໄດ້ຮັບການປຶກສາຫາລືກ່ຽວກັບຂໍ້ມູນກ່ຽວກັບວິທີການແຫ່ງຊາດແລະຂໍ້ມູນ
+  metadata ອື່ນໆ%country.adjective.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'Metadata ທົ່ວໂລກ'
 global_metadata_blurb: 'ຕາຕະລາງນີ້ສະ ໜອງ ຂໍ້ມູນກ່ຽວກັບຂໍ້ມູນ metadata ສຳ ລັບຕົວຊີ້ວັດ

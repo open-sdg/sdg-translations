@@ -53,7 +53,7 @@ loading_map: 'កំពុងផ្ទុកផែនទី'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'ម៉េតាទិន្នន័យថ្នាក់ជាតិ'
 national_metadata_blurb: 'តារាងនេះផ្តល់ទិន្នន័យមេតាសម្រាប់សូចនាករជាក់ស្តែងដែលអាចរកបានពីស្ថិតិ%
-  country_name ដែលនៅជិតសូចនាករ SDG សកលដែលត្រូវគ្នា។ សូមកត់សម្គាល់ថាទោះបីជាសូចនាករអេសជីជីសកលអាចប្រើបានយ៉ាងពេញលេញពីស្ថិតិស្ថិតិប្រទេស%
+ %country.name ដែលនៅជិតសូចនាករ SDG សកលដែលត្រូវគ្នា។ សូមកត់សម្គាល់ថាទោះបីជាសូចនាករអេសជីជីសកលអាចប្រើបានយ៉ាងពេញលេញពីស្ថិតិស្ថិតិប្រទេស%
   តារាងនេះគួរតែត្រូវបានពិគ្រោះយោបល់សម្រាប់ព័ត៌មានស្តីពីវិធីសាស្រ្តជាតិនិងព័ត៌មានមេតាដាតាផ្សេងទៀតដែលទាក់ទងនឹងប្រទេស%
   ។'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations

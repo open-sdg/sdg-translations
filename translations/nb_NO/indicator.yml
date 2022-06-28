@@ -50,10 +50,10 @@ loading_map: 'Laster kart'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'Nasjonale metadata'
 national_metadata_blurb: 'Denne tabellen gir metadata for den faktiske indikatoren
-  tilgjengelig fra% country_name statistikk nærmest den tilsvarende globale SDG-indikatoren.
-  Vær oppmerksom på at selv om den globale SDG-indikatoren er tilgjengelig fra% country_adjective
+  tilgjengelig fra%country.name statistikk nærmest den tilsvarende globale SDG-indikatoren.
+  Vær oppmerksom på at selv om den globale SDG-indikatoren er tilgjengelig fra%country.adjective
   statistikk, bør denne tabellen konsulteres for informasjon om nasjonal metodikk
-  og annen% country_adjective-spesifikk metadatainformasjon.'
+  og annen%country.adjective-spesifikk metadatainformasjon.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'Globale metadata'
 global_metadata_blurb: 'Denne tabellen gir informasjon om metadata for SDG-indikatorer

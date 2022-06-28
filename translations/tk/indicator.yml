@@ -55,7 +55,7 @@ loading_map: 'Kartany ýüklemek'
 national_metadata: 'Milli Metadata'
 national_metadata_blurb: 'Bu tablisada degişli global SDG görkezijisine iň ýakyn%
   ýurt_name statistikasyndan bar bolan hakyky görkeziji üçin meta-maglumat berilýär.
-  Global SDG görkezijisi% country_adjective statistika-dan doly elýeterli bolanda-da,
+  Global SDG görkezijisi%country.adjective statistika-dan doly elýeterli bolanda-da,
   milli usulyýet we beýleki% ýurt_adektiw metadata maglumatlary barada maglumat almak
   üçin bu tablisa ýüz tutmalydygyny ýadyňyzdan çykarmaň.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations

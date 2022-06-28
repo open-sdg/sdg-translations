@@ -1,4 +1,4 @@
-instructions: Клацніть кожну ціль або %before_link пошуку% after_link для статистики
+instructions: Клацніть кожну ціль або %before_link пошуку%after_link для статистики
   %country.name для глобальних показників Цілей сталого розвитку.
 heading: '%country.name data для показників Цілей сталого розвитку'
 download_all: Завантажити всі дані

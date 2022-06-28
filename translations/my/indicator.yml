@@ -41,7 +41,7 @@ sub_categories: ကဏ္ဍခွဲများ
 table: ဇယား
 unit_of_measurement: တိုင်းတာသောယူနစါ
 units_type: ယူနစ်များ၏အမျိုးအစားများ
-variable_hint: '''% field'' ကိုရွေးချယ်သောအခါရနိုင်သည်'
+variable_hint: '''%field'' ကိုရွေးချယ်သောအခါရနိုင်သည်'
 view_indicator_list: ရည်မှန်းချက်များအညွှန်းစာရင်းကိုကြည့်ရှုရန်
 data_not_available: 'ဒီအချက်အလက်မရနိုင်ပါ ကျေးဇူးပြု၍ ဖော်ပြရန်အခြားရွေးချယ်စရာအချက်အလက်များကိုရွေးချယ်ပါ။'
 download_source_sdmx: 'SDMX ကိုရယူပါ'

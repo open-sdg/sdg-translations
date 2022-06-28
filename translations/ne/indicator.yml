@@ -1,7 +1,7 @@
 select_all: 'सबै चयन गर्नुहोस्'
 clear_all: 'चयन गरिएको सबै हटाउनुहोस्'
 clear_selections: 'चयनलाई हटाउनुहोस्'
-variable_hint: 'उपलब्ध जब ''% क्षेत्र'' चयन गरिएको छ'
+variable_hint: 'उपलब्ध जब ''%field'' चयन गरिएको छ'
 no_data_hint: 'कुनै पनि विकल्पहरू उपलब्ध छैन किनकी माथी फिल्टरहरू छन्'
 download_headline: 'हेडलाईन CSV डाउनलोड गर्नुहोस्'
 download_headline_title: 'CSV को रूपमा हेडलाइन डाटा डाउनलोड गर्नुहोस्'
@@ -53,10 +53,10 @@ loading: 'लोड हुँदै'
 loading_map: 'नक्शा लोड हुँदै'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'राष्ट्रिय मेटाडाटा'
-national_metadata_blurb: 'यस तालिकाले वैश्विक SDG सूचकको नजिकको% देश_नाम तथ्या .्कबाट
+national_metadata_blurb: 'यस तालिकाले वैश्विक SDG सूचकको नजिकको %country.name तथ्या .्कबाट
   वास्तविक सूचकको लागि मेटाडेटा प्रदान गर्दछ। कृपया नोट गर्नुहोस् कि जब ग्लोबल एसडीजी
-  सूचक% %_ देशिय सांख्यिकीय तथ्या from्कबाट पूर्ण रूपमा उपलब्ध हुन्छ, तब यस तालिकालाई
-  राष्ट्रिय विधि र अन्य% देश_जेष्ट-विशिष्ट मेटाडेटा जानकारीका बारे जानकारी लिनुपर्दछ।'
+  सूचक% देशिय सांख्यिकीय तथ्या from्कबाट पूर्ण रूपमा उपलब्ध हुन्छ, तब यस तालिकालाई
+  राष्ट्रिय विधि र अन्य %country.adjective-विशिष्ट मेटाडेटा जानकारीका बारे जानकारी लिनुपर्दछ।'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'ग्लोबल मेटाडाटा'
 global_metadata_blurb: 'यस तालिकाले एसडीजी संकेतकहरूका लागि मेटाडेटामा जानकारी प्रदान

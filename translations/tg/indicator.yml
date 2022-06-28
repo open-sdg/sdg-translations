@@ -54,10 +54,10 @@ loading_map: 'Харита бор карда мешавад'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'Метамаълумоти миллӣ'
 national_metadata_blurb: 'Ин ҷадвал метамаълумотро барои нишондиҳандаи воқеии аз%
-  статистикаи country_name ба нишондиҳандаи дахлдори SDG глобалӣ наздиктарин пешниҳод
+  статистикаи%country.name ба нишондиҳандаи дахлдори SDG глобалӣ наздиктарин пешниҳод
   мекунад. Илтимос дар хотир гиред, ки ҳатто вақте ки нишондиҳандаи глобалии SDG аз%
-  омори% country_adjective пурра дастрас аст, бо ин ҷадвал бояд барои маълумот дар
-  бораи методологияи миллӣ ва дигар маълумоти метамаълумоти% country_adjective мушаххас
+  омори%country.adjective пурра дастрас аст, бо ин ҷадвал бояд барои маълумот дар
+  бораи методологияи миллӣ ва дигар маълумоти метамаълумоти%country.adjective мушаххас
   машварат карда шавад.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'Метамаълумоти глобалӣ'

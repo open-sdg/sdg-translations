@@ -6,14 +6,14 @@ exploring_data_sources: 'डाटा स्रोतहरू अन्वे�
 not_applicable: 'लागु हुँदैन'
 # Describing a section where the status is reported for each goal
 status_by_goal: 'गोल द्वारा स्थिति'
-status_by_field: '% क्षेत्र द्वारा स्थिति'
+status_by_field: '%field द्वारा स्थिति'
 disaggregation_status: 'असमान स्थिति'
 disaggregation_status_overall: 'समग्रमा असमान स्थिति'
 disaggregation_status_complete: 'पूर्ण रूपमा भिन्न भयो'
 disaggregation_status_inprogress: 'आंशिक रूपमा असहमत'
 disaggregation_status_notstarted: 'अलग छैन'
 disaggregation_status_notapplicable: 'दायरा बाहिर'
-disaggregation_status_by_field: '% क्षेत्र द्वारा असहमति'
+disaggregation_status_by_field: '%field द्वारा असहमति'
 not_specified: 'तोकिएको छैन'
 reported: रिपोर्ट गरियो
 progress_status: प्रगति स्थिति

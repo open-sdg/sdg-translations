@@ -1,7 +1,7 @@
 select_all: 'ເລືອກທັງຫມົດ'
 clear_all: 'ລ້າງທຸກຢ່າງ'
 clear_selections: 'ເລືອກທີ່ຈະແຈ້ງ'
-variable_hint: 'ສາມາດໃຊ້ໄດ້ເມື່ອ ''% field'' ຖືກເລືອກ'
+variable_hint: 'ສາມາດໃຊ້ໄດ້ເມື່ອ ''%field'' ຖືກເລືອກ'
 no_data_hint: 'ບໍ່ມີທາງເລືອກໃດໆເພາະຕົວກອງຂ້າງເທິງ'
 download_headline: 'ດາວໂຫລດຫົວເລື່ອງ CSV'
 download_headline_title: 'ດາວໂຫລດຂໍ້ມູນຫົວຂໍ້ເປັນ CSV'

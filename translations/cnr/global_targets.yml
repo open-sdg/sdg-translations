@@ -1,96 +1,267 @@
-1-1-title: ''
-1-2-title: ''
-1-3-title: ''
-1-4-title: ''
-1-5-title: ''
-1-a-title: ''
-1-b-title: ''
-10-1-title: ''
-10-2-title: ''
-10-3-title: ''
-10-4-title: ''
-10-5-title: ''
-10-6-title: ''
-10-7-title: ''
-10-a-title: ''
-10-b-title: ''
-10-c-title: ''
-11-1-title: ''
-11-2-title: ''
-11-3-title: ''
-11-4-title: ''
-11-5-title: ''
-11-6-title: ''
-11-7-title: ''
-11-a-title: ''
-11-b-title: ''
-11-c-title: ''
-12-1-title: ''
-12-2-title: ''
-12-3-title: ''
-12-4-title: ''
-12-5-title: ''
-12-6-title: ''
-12-7-title: ''
-12-8-title: ''
-12-a-title: ''
-12-b-title: ''
-12-c-title: ''
-13-1-title: ''
-13-2-title: ''
-13-3-title: ''
-13-a-title: ''
-13-b-title: ''
-14-1-title: ''
-14-2-title: ''
-14-3-title: ''
-14-4-title: ''
-14-5-title: ''
-14-6-title: ''
-14-7-title: ''
-14-a-title: ''
-14-b-title: ''
-14-c-title: ''
-15-1-title: ''
-15-2-title: ''
-15-3-title: ''
-15-4-title: ''
-15-5-title: ''
-15-6-title: ''
-15-7-title: ''
-15-8-title: ''
-15-9-title: ''
-15-a-title: ''
-15-b-title: ''
-15-c-title: ''
-16-1-title: ''
-16-10-title: ''
-16-2-title: ''
-16-3-title: ''
-16-4-title: ''
-16-5-title: ''
-16-6-title: ''
-16-7-title: ''
-16-8-title: ''
-16-9-title: ''
-16-a-title: ''
-16-b-title: ''
-17-1-title: ''
-17-10-title: ''
-17-11-title: ''
-17-12-title: ''
-17-13-title: ''
-17-14-title: ''
-17-15-title: ''
-17-16-title: ''
-17-17-title: ''
-17-18-title: ''
-17-19-title: ''
-17-2-title: ''
-17-3-title: ''
-17-4-title: ''
-17-5-title: ''
-17-6-title: ''
+1-1-title: 'Do 2030. iskorijeniti ekstremno siromaštvo za sve ljude i svuda, trenutno
+  mjereno kao ljudi koji žive s manje od 1,25 dolara dnevno'
+1-2-title: 'Do 2030. smanjiti barem za pola udio muškaraca, žena i djece svih uzrasta
+  koji žive u siromaštvu u svim njegovim dimenzijama prema nacionalnim definicijama'
+1-3-title: 'Implementirati odgovarajuće nacionalne sisteme i mjere socijalne zaštite
+  za sve, uključujući i donje granice, i do 2030. godine postići značajnu pokrivenost
+  siromašnih i ugroženih'
+1-4-title: 'Do 2030. osigurati da svi muškarci i žene, posebno siromašni i ugroženi,
+  imaju jednaka prava na ekonomske resurse, kao i pristup osnovnim uslugama, vlasništvo
+  i kontrolu nad zemljom i drugim oblicima imovine, nasljeđe, prirodna bogatstva,
+  odgovarajuće nove tehnologije i finansijske usluge, uključujući mikrofinansiranje'
+1-5-title: 'Do 2030. izgraditi otpornost siromašnih i onih u ranjivim situacijama
+  i smanjiti njihovu izloženost i ranjivost ekstremnim događajima povezanim s klimom
+  i drugim ekonomskim, društvenim i ekološkim šokovima i katastrofama'
+1-a-title: 'Osigurati značajnu mobilizaciju resursa iz različitih izvora, kroz pojačanu
+  razvojnu saradnju, kako bi se obezbijedila adekvatna i predvidljiva sredstva za
+  zemlje u razvoju, posebno najmanje razvijene zemlje, za implementaciju programa
+  i politika za okončanje siromaštva u svim njegovim dimenzijama'
+1-b-title: 'Stvoriti čvrste okvire politike na nacionalnom, regionalnom i međunarodnom
+  nivou, zasnovane na razvojnim strategijama za siromašne i rodno osjetljivim, kako
+  bi se podržalo ubrzano ulaganje u akcije iskorjenjivanja siromaštva'
+10-1-title: 'Do 2030. progresivno ostvariti i održati rast prihoda nižih 40 posto
+  stanovništva po stopi većoj od nacionalnog prosjeka'
+10-2-title: 'Do 2030. osnažiti i promovisati socijalno, ekonomsko i političko uključivanje
+  svih, bez obzira na starost, pol, invaliditet, rasu, etničku pripadnost, porijeklo,
+  vjeru ili ekonomski ili drugi status'
+10-3-title: 'Osigurati jednake mogućnosti i smanjiti nejednakosti ishoda, uključujući
+  eliminisanje diskriminatornih zakona, politika i praksi i promovisanje odgovarajućeg
+  zakonodavstva, politika i akcija u tom pogledu'
+10-4-title: 'Usvojiti politike, posebno fiskalnu, politiku zarada i socijalne zaštite,
+  i progresivno postići veću jednakost'
+10-5-title: 'Poboljšati regulaciju i praćenje globalnih finansijskih tržišta i institucija
+  i ojačati primjenu takvih propisa'
+10-6-title: 'Osigurati pojačanu zastupljenost i glas zemalja u razvoju u donošenju
+  odluka u globalnim međunarodnim ekonomskim i finansijskim institucijama kako bi
+  se pružile efikasnije, kredibilnije, odgovornije i legitimnije institucije'
+10-7-title: 'Omogućavanje uređene, bezbjedne, redovne i odgovorne migracije i mobilnosti
+  ljudi, uključujući sprovođenje planiranih i dobro vođenih migracionih politika'
+10-a-title: 'Sprovesti princip posebnog i različitog tretmana za zemlje u razvoju,
+  posebno najmanje razvijene zemlje, u skladu sa sporazumima Svjetske trgovinske organizacije'
+10-b-title: 'Podsticati zvaničnu razvojnu pomoć i finansijske tokove, uključujući
+  direktne strane investicije, u države u kojima je najveća potreba, posebno najmanje
+  razvijene zemlje, afričke zemlje, male ostrvske države u razvoju i zemlje u razvoju
+  bez izlaza na more, u skladu sa njihovim nacionalnim planovima i programima'
+10-c-title: 'Do 2030. smanjiti na manje od 3 procenta transakcione troškove doznaka
+  migranata i eliminisati koridore za doznake sa troškovima većim od 5 procenata'
+11-1-title: 'Do 2030. obezbijediti svima pristup adekvatnom, bezbjednom i pristupačnom
+  smještaju i osnovnim uslugama i unaprijediti sirotinjske četvrti'
+11-2-title: 'Do 2030. godine obezbijediti pristup bezbjednim, pristupačnim i održivim
+  transportnim sistemima za sve, poboljšavajući bezbjednost na putevima, posebno
+  širenjem javnog prevoza, sa posebnom pažnjom na potrebe onih u ugroženim situacijama,
+  žena, djece, osoba sa invaliditetom i starijih osoba'
+11-3-title: 'Do 2030. poboljšati inkluzivnu i održivu urbanizaciju i kapacitet za
+  participativno, integrisano i održivo planiranje i upravljanje ljudskim naseljima
+  u svim zemljama'
+11-4-title: 'Ojačati napore za zaštitu i očuvanje svjetske kulturne i prirodne baštine'
+11-5-title: 'Do 2030. značajno smanjiti broj umrlih i broj pogođenih ljudi i značajno
+  smanjiti direktne ekonomske gubitke u odnosu na globalni bruto domaći proizvod
+  uzrokovan katastrofama, uključujući katastrofe povezane sa vodom, sa fokusom na
+  zaštitu siromašnih i ljudi u ranjivim situacijama'
+11-6-title: 'Do 2030. smanjiti negativan uticaj gradova na životnu sredinu po glavi
+  stanovnika, uključujući obraćanje posebne pažnje na kvalitet vazduha i upravljanje
+  komunalnim i drugim otpadom'
+11-7-title: 'Do 2030. godine obijezbediti univerzalni pristup bezbjednim, inkluzivnim
+  i pristupačnim, zelenim i javnim prostorima, posebno za žene i djecu, starije osobe
+  i osobe sa invaliditetom'
+11-a-title: 'Podržati pozitivne ekonomske, socijalne i ekološke veze između urbanih,
+  periurbanih i ruralnih područja jačanjem nacionalnog i regionalnog planiranja razvoja'
+11-b-title: 'Do 2020. godine značajno povećati broj gradova i ljudskih naselja koji
+  usvajaju i sprovode integrisane politike i planove za inkluziju, efikasnost resursa,
+  ublažavanje i prilagođavanje klimatskim promjenama, otpornost na katastrofe, i razviti
+  i implementirati, u skladu sa Sendajskim okvirom za Smanjenje rizika od katastrofa
+  2015–2030, holističko upravljanje rizikom od katastrofa na svim nivoima'
+11-c-title: 'Podržati najmanje razvijene zemlje, uključujući finansijsku i tehničku
+  pomoć, u izgradnji održivih i otpornih zgrada koristeći lokalne materijale'
+12-1-title: 'Sprovesti 10-godišnji okvir programa o održivim obrascima potrošnje i
+  proizvodnje, sve zemlje preduzimaju akcije, a razvijene zemlje preuzimaju vođstvo,
+  uzimajući u obzir razvoj i sposobnosti zemalja u razvoju'
+12-2-title: 'Do 2030. godine postići održivo upravljanje i efikasno korišćenje prirodnih
+  resursa'
+12-3-title: 'Do 2030. prepoloviti globalni otpad hrane po glavi stanovnika na maloprodajnom
+  i potrošačkom nivou i smanjiti gubitke hrane duž lanaca proizvodnje i snabdijevanja,
+  uključujući gubitke posle žetve'
+12-4-title: 'Do 2020. godine postići ekološki prihvatljivo upravljanje hemikalijama
+  i svim otpadom tokom njihovog životnog ciklusa, u skladu sa dogovorenim međunarodnim
+  okvirima, i značajno smanjiti njihovo ispuštanje u vazduh, vodu i zemljište kako
+  bi se smanjili njihovi negativni uticaji na zdravlje ljudi i životnu sredinu'
+12-5-title: 'Do 2030. značajno smanjiti stvaranje otpada kroz prevenciju, smanjenje,
+  reciklažu i ponovnu upotrebu'
+12-6-title: 'Podsticati kompanije, posebno velike i transnacionalne kompanije, da
+  usvoje održive prakse i da integrišu informacije o održivosti u svoj ciklus izvještavanja'
+12-7-title: 'Promovisati prakse javnih nabavki koje su održive, u skladu sa nacionalnim
+  politikama i prioritetima'
+12-8-title: 'Do 2030. obezbijediti da ljudi svuda imaju relevantne informacije i svijest
+  o održivom razvoju i životnim stilovima u skladu sa prirodom'
+12-a-title: 'Podržati zemlje u razvoju da ojačaju svoje naučne i tehnološke kapacitete
+  za kretanje ka održivijim obrascima potrošnje i proizvodnje'
+12-b-title: 'Razviti i primijeniti alate za praćenje uticaja održivog razvoja za
+  održivi turizam koji otvara radna mjesta i promoviše lokalnu kulturu i proizvode'
+12-c-title: 'Racionalizovati neefikasne subvencije za fosilna goriva koje podstiču
+  rasipnu potrošnju uklanjanjem poremećaja tržišta, u skladu sa nacionalnim okolnostima,
+  uključujući restrukturiranje oporezivanja i postepeno ukidanje štetnih subvencija,
+  tamo gdje one postoje, kako bi odražavale njihov uticaj na životnu sredinu, uzimajući
+  u potpunosti u obzir specifične potrebe i stanja zemalja u razvoju i minimiziranje
+  mogućih negativnih uticaja na njihov razvoj na način koji štiti siromašne i ugrožene
+  zajednice'
+13-1-title: 'Ojačati otpornost i sposobnost prilagođavanja na opasnosti vezane za
+  klimu i prirodne katastrofe u svim zemljama'
+13-2-title: 'Integrisati mjere klimatskih promjena u nacionalne politike, strategije
+  i planiranje'
+13-3-title: 'Poboljšati obrazovanje, podizanje svijesti i ljudske i institucionalne
+  kapacitete za ublažavanje klimatskih promjena, prilagođavanje, smanjenje uticaja
+  i rano upozoravanje'
+13-a-title: 'Sprovesti obavezu koju su preuzele razvijene zemlje potpisnice u okviru
+  Okvirne konvencije Ujedinjenih nacija o klimatskim promjenama u cilju zajedničkog
+  mobilisanja 100 milijardi dolara godišnje do 2020. godine iz svih izvora kako bi
+  se odgovorilo na potrebe zemalja u razvoju u kontekstu značajnih akcija za ublažavanje
+  posljedica i transparentnosti u primjeni i u potpunosti operacionalizovati Zeleni
+  klimatski fond kroz njegovu kapitalizaciju što je prije moguće'
+13-b-title: 'Promovisati mehanizme za podizanje kapaciteta za efikasno planiranje
+  i upravljanje klimatskim promjenama u najmanje razvijenim zemljama i malim ostrvskim
+  državama u razvoju, uključujući fokusiranje na žene, mlade i lokalne i marginalizovane
+  zajednice'
+14-1-title: 'Do 2025. spriječiti i značajno smanjiti zagađenje mora svih vrsta, posebno
+  od aktivnosti na kopnu, uključujući morske ostatke i zagađenje hranljivim materijama'
+14-2-title: 'Do 2020. održivo upravljati i štititi morske i obalne ekosisteme kako
+  bi se izbjegli značajni negativni uticaji, uključujući jačanje njihove otpornosti,
+  i preduzeti mjere za njihovu obnovu kako bi se postigli zdravi i produktivni okeani'
+14-3-title: 'Minimizirati i pozabaviti se uticajima acidifikacije okeana, kroz poboljšanu
+  naučnu saradnju na svim nivoima'
+14-4-title: 'Do 2020. efektivno regulisati lov i okončati prekomjerni izlov, nezakonit,
+  neprijavljen i neregulisan ribolov i destruktivne ribolovne prakse i implementirati
+  naučno zasnovane planove upravljanja, kako bi se riblji fondovi obnovili u najkraćem
+  mogućem roku, barem do nivoa koji može proizvesti maksimalni održivi prinos što
+  je određeno njihovim biološkim karakteristikama'
+14-5-title: 'Do 2020. očuvati najmanje 10 posto obalnih i morskih područja, u skladu
+  sa nacionalnim i međunarodnim pravom i na osnovu najboljih dostupnih naučnih informacija'
+14-6-title: 'Do 2020. godine zabraniti određene oblike subvencija u ribarstvu koje
+  doprinose prevelikom kapacitetu i prekomjernom izlovu, eliminisati subvencije koje
+  doprinose nelegalnom, neprijavljenom i neregulisanom ribolovu i uzdržati se od uvođenja
+  novih takvih subvencija, prepoznajući da bi odgovarajući i efikasan poseban i
+  diferencijalni tretman za zemlje u razvoju i manje razvijene zemlje trebalo da bude
+  sastavni dio pregovora Svjetske trgovinske organizacije o subvencionisanju ribarstva'
+14-7-title: 'Do 2030. povećati ekonomske benefite za male ostrvske države u razvoju
+  i manje razvijene zemlje od održivog korišćenja morskih resursa, kroz održivo upravljanje
+  ribarstvom, akvakulturom i turizmom'
+14-a-title: 'Povećati naučna znanja, razviti istraživačke kapacitete i prenijeti
+  morsku tehnologiju, uzimajući u obzir kriterijume i smjernice Međuvladine okeanografske
+  komisije o transferu morske tehnologije, kako bi se poboljšalo zdravlje okeana i
+  povećao doprinos morskog biodiverziteta razvoju zemalja u razvoju, posebno malih
+  ostrvskih država u razvoju i manje razvijenih zemalja'
+14-b-title: 'Omogućiti pristup malim zanatskim ribarima morskim resursima i tržištima'
+14-c-title: 'Unaprijediti očuvanje i održivo korišćenje okeana i njihovih resursa
+  primjenom međunarodnog prava kao u Konvenciji Ujedinjenih nacija o pravu mora, koja
+  obezbjeđuje pravni okvir za očuvanje i održivo korišćenje okeana i njihovih resursa,
+  kao u paragrafu 158 „Budućnost koju želimo“'
+15-1-title: 'Do 2020. godine obezbijediti očuvanje, obnovu i održivo korišćenje kopnenih
+  i slatkovodnih ekosistema i njihovih usluga, posebno šuma, močvara, planina i sušnih
+  područja, u skladu sa obavezama iz međunarodnih sporazuma'
+15-2-title: 'Do 2020. promovisati implementaciju održivog upravljanja svim vrstama
+  šuma, zaustaviti krčenje šuma, obnoviti degradirane šume i značajno povećati pošumljavanje
+  i ponovno pošumljavanje na globalnom nivou'
+15-3-title: 'Do 2030. godine, boriti se protiv dezertifikacije, obnoviti degradiranu
+  zemlju i zemljište, uključujući zemljište pogođeno dezertifikacijom, sušom i poplavama,
+  i nastojati da se eliminiše degradacija zemljišta u svijetu'
+15-4-title: 'Do 2030. obezbijediti očuvanje planinskih ekosistema, uključujući njihov
+  biodiverzitet, kako bi se poboljšao njihov kapacitet za pružanje koristi koje su
+  od suštinskog značaja za održivi razvoj'
+15-5-title: 'Preduzeti hitne i značajne mjere da se smanji degradacija prirodnih staništa,
+  zaustavi gubitak biodiverziteta i, do 2020. godine, zaštiti i spriječi izumiranje
+  ugroženih vrsta'
+15-6-title: 'Promovisati fer i pravičnu podjelu koristi koje proizilaze iz korišćenja
+  genetskih resursa i promovisati odgovarajući pristup takvim resursima, kako je
+  međunarodno dogovoreno'
+15-7-title: 'Preduzeti hitne mjere za zaustavljanje krivolova i trgovine zaštićenim
+  vrstama flore i faune i rješavanje potražnje i ponude ilegalnih proizvoda od divljih
+  životinja'
+15-8-title: 'Do 2020. godine uvesti mjere za sprječavanje unošenja i značajno smanjenje
+  uticaja invazivnih stranih vrsta na kopnene i vodene ekosisteme i kontrolu ili iskorjenjivanje
+  prioritetnih vrsta'
+15-9-title: 'Do 2020. integrisati vrijednosti ekosistema i biodiverziteta u nacionalno
+  i lokalno planiranje, razvojne procese, strategije za smanjenje siromaštva'
+15-a-title: 'Mobilisati i značajno povećati finansijska sredstva iz svih izvora za
+  očuvanje i održivo korišćenje biodiverziteta i ekosistema'
+15-b-title: 'Mobilisati značajne resurse iz svih izvora i na svim nivoima za finansiranje
+  održivog upravljanja šumama i pružiti adekvatne podsticaje zemljama u razvoju da
+  unaprijede takvo upravljanje, uključujući očuvanje i pošumljavanje'
+15-c-title: 'Povećati globalnu podršku naporima u borbi protiv krivolova i trgovine
+  zaštićenim vrstama, uključujući povećanje kapaciteta lokalnih zajednica da traže
+  mogućnosti za održivi život'
+16-1-title: 'Značajno smanjiti sve oblike nasilja i povezane stope smrtnosti svuda'
+16-10-title: 'Osigurati pristup javnosti informacijama i zaštititi osnovne slobode,
+  u skladu sa nacionalnim zakonodavstvom i međunarodnim sporazumima'
+16-2-title: 'Prekinuti zlostavljanje, eksploataciju, trgovinu ljudima i sve oblike
+  nasilja i torture nad djecom'
+16-3-title: 'Promovisati vladavinu prava na nacionalnom i međunarodnom nivou i obezbijediti
+  jednak pristup pravdi za sve'
+16-4-title: 'Do 2030. značajno smanjiti ilegalne finansijske tokove i tokove oružja,
+  ojačati oporavak i vraćanje ukradene imovine i boriti se protiv svih oblika organizovanog
+  kriminala'
+16-5-title: 'Znatno smanjiti korupciju i mito u svim njihovim oblicima'
+16-6-title: 'Razviti efikasne, odgovorne i transparentne institucije na svim nivoima'
+16-7-title: 'Osigurati odgovorno, inkluzivno, participativno i reprezentativno donošenje
+  odluka na svim nivoima'
+16-8-title: 'Proširiti i ojačati učešće zemalja u razvoju u institucijama globalnog
+  upravljanja'
+16-9-title: 'Do 2030. obezbijediti pravni identitet za sve, uključujući registraciju
+  rođenja'
+16-a-title: 'Ojačati relevantne nacionalne institucije, kroz međunarodnu saradnju,
+  za izgradnju kapaciteta na svim nivoima, posebno u zemljama u razvoju, za sprječavanje
+  nasilja i borbu protiv terorizma i kriminala'
+16-b-title: 'Promovisati i sprovoditi nediskriminatorne zakone i politike za održivi
+  razvoj'
+17-1-title: 'Ojačati mobilizaciju domaćih resursa, kroz međunarodnu podršku zemljama
+  u razvoju, kako bi se poboljšao domaći kapacitet za naplatu poreza i drugih prihoda'
+17-10-title: 'Promovisati univerzalni, na pravilima zasnovan, otvoren, nediskriminatoran
+  i pravičan multilateralni trgovinski sistem u okviru Svjetske trgovinske organizacije
+  i kroz zaključenje pregovora u okviru razvojne agende iz Dohe'
+17-11-title: 'Značajno povećati izvoz zemalja u razvoju, posebno u cilju udvostručavanja
+  udjela najmanje razvijenih zemalja u globalnom izvozu do 2020. godine'
+17-12-title: 'Realizovati blagovremenu implementaciju pristupa tržištu bez carina
+  i kvota na trajnoj osnovi za sve manje razvijene zemlje, u skladu sa odlukama Svjetske
+  trgovinske organizacije, uključujući obezbjeđivanje da preferencijalna pravila
+  o porijeklu koja se primjenjuju za uvoz iz manje razvijenih zemalja budu transparentna
+  i jednostavna i doprinose olakšavanju pristupa tržištu'
+17-13-title: 'Unaprijediti globalnu makroekonomsku stabilnost, uključujući koordinaciju
+  politika i koherentnost politike'
+17-14-title: 'Povećati koherentnost politika za održivi razvoj'
+17-15-title: 'Poštujte politički prostor i vođstvo svake zemlje u uspostavljanju i
+  implementaciji politike za iskorjenjivanje siromaštva i održivi razvoj'
+17-16-title: 'Unaprijediti Globalno partnerstvo za održivi razvoj, dopunjeno partnerstvima
+  sa više zainteresovanih strana koja mobilizuju i dijele znanje, stručnost, tehnologiju
+  i finansijske resurse, kako bi se podržalo postizanje ciljeva održivog razvoja u
+  svim zemljama, posebno u zemljama u razvoju'
+17-17-title: 'Podsticati i promovisati efektivno javno, javno-privatno i civilno društvo
+  partnerstva, nadovezujući se na iskustva i strategije partnerstva'
+17-18-title: 'Do 2020. poboljšati podršku za izgradnju kapaciteta za zemlje u razvoju,
+  uključujući manje razvijene zemlje i male ostrvske države u razvoju, kako bi se
+  značajno povećala dostupnost visokokvalitetnih, pravovremenih i pouzdanih podataka
+  razvrstanih po prihodima, polu, starosti, rasi, etničkoj pripadnosti, migracijama,
+  invaliditetu, geografskoj lokaciji i drugim karakteristikama relevantnim u nacionalnim
+  kontekstima'
+17-19-title: 'Do 2030. nadograđivati postojeće inicijative za razvoj mjerenja napretka
+  u održivom razvoju koja dopunjuju bruto domaći proizvod i podržavaju izgradnju
+  statističkih kapaciteta u zemljama u razvoju'
+17-2-title: 'Razvijene zemlje da u potpunosti sprovedu svoje obaveze zvanične razvojne
+  pomoći, uključujući obavezu mnogih razvijenih zemalja da postignu cilj od 0,7
+  odsto bruto nacionalnog dohotka za zvaničnu razvojnu pomoć (ODA/BNI) zemljama u
+  razvoju i 0,15 do 0,20 odsto ODA /BND prema najmanje razvijenim zemljama; Pružaoci
+  ODA se ohrabruju da razmotre postavljanje cilja da obezbijede najmanje 0,20 odsto
+  ODA/BND u manje razvijenim zemljama'
+17-3-title: 'Mobilizovati dodatna finansijska sredstva za zemlje u razvoju iz više
+  izvora'
+17-4-title: 'Pomoći zemljama u razvoju u postizanju dugoročne održivosti duga kroz
+  koordinisane politike koje imaju za cilj podsticanje finansiranja duga, otklanjanje
+  dugova i restrukturiranje duga, po potrebi, i rješavanje spoljnog duga visoko zaduženih
+  siromašnih zemalja kako bi se smanjio problem duga'
+17-5-title: 'Usvojiti i implementirati režime promocije investicija za manje razvijene
+  zemlje'
+17-6-title: 'Unaprijediti regionalnu i međunarodnu saradnju sjever-jug, jug-jug i
+  trouglastu regionalnu i međunarodnu saradnju i pristup nauci, tehnologiji i inovacijama
+  i unaprijediti razmjenu znanja pod obostrano dogovorenim uslovima, kroz poboljšanu
+  koordinaciju između postojećih mehanizama, posebno na nivou Ujedinjenih nacija,
+  i kroz globalni mehanizam za olakšavanje tehnologije'
 17-7-title: ''
 17-8-title: ''
 17-9-title: ''

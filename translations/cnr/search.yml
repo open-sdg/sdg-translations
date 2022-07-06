@@ -1,0 +1,12 @@
+search: 'Pretraga'
+# This refers to a section of the site for performing keyword searches to find particular indicators
+indicator_search: 'Pretraga indikatora'
+# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
+search_results_for: 'Rezultati pretrage za'
+found_in: 'pronađeno u'
+keywords: 'Ključne riječi'
+# A message for the user - after they have performed an online search - to indicate that their search produced no results
+no_results: 'Nema rezultata'
+did_you_mean: 'da li ste mislili'
+results_found: 'Rezultati pronađeni'
+adjust_your_search: 'Pokušajte prilagoditi pretragu da pronađete ono što tražite.'

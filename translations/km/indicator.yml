@@ -1,7 +1,7 @@
 select_all: 'ជ្រើសយកទាំងអស់'
 clear_all: 'លុបចេញ​ទាំងអស់'
 clear_selections: 'ការជ្រើសរើសច្បាស់'
-variable_hint: 'អាចប្រើបាននៅពេល ''% field'' ត្រូវបានជ្រើសរើស'
+variable_hint: 'អាចប្រើបាននៅពេល ''%field'' ត្រូវបានជ្រើសរើស'
 no_data_hint: 'មិនមានជំរើសទេដោយសារត្រងខាងលើ'
 download_headline: 'ទាញយកចំណងជើងស៊ីអេសអេស'
 download_headline_title: 'ទាញយកទិន្នន័យចំណងជើងជា CSV'

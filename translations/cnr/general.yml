@@ -1,0 +1,27 @@
+# This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
+indicator: 'Indikator'
+# This is the plural version of the indicator key
+indicators: 'Indikatori'
+# This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
+goal: 'Cilj'
+# This is the plural version of the goal key
+goals: 'Ciljevi'
+sdg: 'Ciljevi održivog razvoja'
+# This refers to the 'home page' of a website
+home: 'Naslovna'
+loading: 'Učitavanje rezultata pretrage'
+opens_new_window: 'otvara se u novom prozoru'
+hide: 'sakriti'
+target: 'Zadatak'
+targets: 'Zadaci'
+twitter: 'Twitter'
+facebook: 'Facebook'
+built_using_open_sdg: 'Napravljeno koristeći platformu Open SDG'
+page: 'Stranica'
+pages: 'Stranice'
+targets_and_indicators: 'Zadaci i indikatori'
+# A label of "Warning" to place before some other text.
+label_warning: "Upozorenje:"
+# A phrase to use as a site-wide page title.
+site_title: 'Indikatori za Ciljeve održivog razvoja'
+back_to_top: 'Povratak na početak'

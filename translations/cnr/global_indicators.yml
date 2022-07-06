@@ -1,62 +1,124 @@
-1-1-1-title: ''
-1-2-1-title: ''
-1-2-2-title: ''
-1-3-1-title: ''
-1-4-1-title: ''
-1-4-2-title: ''
-1-5-1-title: ''
-1-5-2-title: ''
-1-5-3-title: ''
-1-5-4-title: ''
-1-a-1-title: ''
-1-a-2-title: ''
-1-a-3-title: ''
-1-b-1-title: ''
-10-1-1-title: ''
-10-2-1-title: ''
-10-3-1-title: ''
-10-4-1-title: ''
-10-4-2-title: ''
-10-5-1-title: ''
-10-6-1-title: ''
-10-7-1-title: ''
-10-7-2-title: ''
-10-7-3-title: ''
-10-7-4-title: ''
-10-a-1-title: ''
-10-b-1-title: ''
-10-c-1-title: ''
-11-1-1-title: ''
-11-2-1-title: ''
-11-3-1-title: ''
-11-3-2-title: ''
-11-4-1-title: ''
-11-5-1-title: ''
-11-5-2-title: ''
-11-6-1-title: ''
-11-6-2-title: ''
-11-7-1-title: ''
-11-7-2-title: ''
-11-a-1-title: ''
-11-b-1-title: ''
-11-b-2-title: ''
-11-c-1-title: ''
-12-1-1-title: ''
-12-2-1-title: ''
-12-2-2-title: ''
-12-3-1-title: ''
-12-4-1-title: ''
-12-4-2-title: ''
-12-5-1-title: ''
-12-6-1-title: ''
-12-7-1-title: ''
-12-8-1-title: ''
-12-a-1-title: ''
-12-b-1-title: ''
-12-c-1-title: ''
-13-1-1-title: ''
-13-1-2-title: ''
-13-1-3-title: ''
+1-1-1-title: 'Procenat stanovništva koje živi ispod međunarodne linije siromaštva
+  prema polu, starosti, statusu zaposlenja i geografskoj lokaciji (urbano/ruralno)'
+1-2-1-title: 'Procenat stanovništva koje živi ispod nacionalne granice siromaštva,
+  prema polu i starosti'
+1-2-2-title: 'Udio muškaraca, žena i djece svih uzrasta koji žive u siromaštvu u svim
+  njegovim dimenzijama prema nacionalnim definicijama'
+1-3-1-title: 'Procenat stanovništva obuhvaćenog nivoima/sistemima socijalne zaštite,
+  po polu, po izdvajanju dece, nezaposlenih, starijih, osoba sa invaliditetom, trudnica,
+  novorođenčadi, žrtava povreda na radu i siromašnih i ugroženih'
+1-4-1-title: 'Procenat stanovništva koje živi u domaćinstvima sa pristupom osnovnim
+  uslugama'
+1-4-2-title: 'Procenat ukupnog odraslog stanovništva sa sigurnim zakupnim pravima
+  na zemljište, (a) sa zakonski priznatom dokumentacijom i (b) koji svoja prava na
+  zemljište doživljavaju sigurnim, prema polu i vrsti zakupa'
+1-5-1-title: 'Broj umrlih, nestalih i direktno pogođenih osoba pripisanih katastrofama
+  na 100 000 stanovnika'
+1-5-2-title: 'Direktni ekonomski gubitak koji se pripisuje katastrofama u odnosu na
+  globalni bruto domaći proizvod (BDP)'
+1-5-3-title: 'Broj zemalja koje usvajaju i primjenjuju nacionalne strategije za smanjenje
+  rizika od katastrofa u skladu sa Sendai okvirom za smanjenje rizika od katastrofa
+  2015–2030'
+1-5-4-title: 'Procenat lokalnih samouprava koje usvajaju i primjenjuju lokalne strategije
+  smanjenja rizika od katastrofa u skladu sa nacionalnim strategijama smanjenja rizika
+  od katastrofa'
+1-a-1-title: 'Ukupni grantovi zvanične razvojne pomoći od svih donatora koji se fokusiraju
+  na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca'
+1-a-2-title: 'Udio ukupne državne potrošnje na osnovne usluge (obrazovanje, zdravstvo
+  i socijalna zaštita)'
+1-a-3-title: 'Zbir ukupnih grantova i priliva koji ne stvaraju dugove direktno alociranih
+  na programe smanjenja siromaštva kao proporcija BDP-a'
+1-b-1-title: 'Javna socijalna potrošnja u korist siromašnih'
+10-1-1-title: 'Stope rasta potrošnje domaćinstava ili prihoda po glavi stanovnika
+  među donjih 40 procenata stanovništva i ukupnog stanovništva'
+10-2-1-title: 'Procenat ljudi koji žive ispod 50 odsto srednjeg prihoda, prema polu,
+  starosti i osobama sa invaliditetom'
+10-3-1-title: 'Procenat stanovništva koje je prijavilo da se lično osjećalo diskriminisano
+  ili uznemiravano u prethodnih 12 mjeseci po osnovu diskriminacije zabranjene međunarodnim
+  pravom o ljudskim pravima'
+10-4-1-title: 'Učešće rada u BDP-u'
+10-4-2-title: 'Redistributivni uticaj fiskalne politike'
+10-5-1-title: 'Indikatori finansijske stabilnosti'
+10-6-1-title: 'Udio članova i prava glasa zemalja u razvoju u međunarodnim organizacijama'
+10-7-1-title: 'Troškovi zapošljavanja koje snosi zaposleni kao proporcija mjesečnog
+  prihoda zarađenog u zemlji odredišta'
+10-7-2-title: 'Broj zemalja sa migracionim politikama koje omogućavaju urednu, sigurnu,
+  redovnu i odgovornu migraciju i mobilnost ljudi'
+10-7-3-title: 'Broj ljudi koji su umrli ili nestali u procesu migracije prema međunarodnoj
+  destinaciji'
+10-7-4-title: 'Procenat stanovništva koji su izbjeglice, prema zemlji porijekla'
+10-a-1-title: 'Udio tarifnih linija koje se primjenjuju na uvoz iz najmanje razvijenih
+  zemalja i zemalja u razvoju sa nultom tarifom'
+10-b-1-title: 'Ukupni tokovi resursa za razvoj, od strane primaoca i zemalja donatora
+  i vrste protoka (npr. Zvanična razvojna pomoć, direktna strana ulaganja i drugi
+  tokovi)'
+10-c-1-title: 'Troškovi doznake kao proporcija doznačenog iznosa'
+11-1-1-title: 'Procenat gradskog stanovništva koje živi u sirotinjskim četvrtima,
+  neformalnim naseljima ili neadekvatnim stanovanjima'
+11-2-1-title: 'Procenat stanovništva koje ima povoljan pristup javnom prevozu, prema
+  polu, starosti i osobama sa invaliditetom'
+11-3-1-title: 'Odnos stope potrošnje zemljišta i stope rasta stanovništva'
+11-3-2-title: 'Udio gradova sa strukturom direktnog učešća civilnog društva u urbanističkom
+  planiranju i upravljanju koji funkcionišu redovno i demokratski'
+11-4-1-title: 'Ukupni izdaci po glavi stanovnika za očuvanje, zaštitu i očuvanje cjelokupnog
+  kulturnog i prirodnog nasljeđa, prema izvoru finansiranja (javni, privatni), vrsti
+  baštine (kulturno, prirodno) i nivou vlasti (nacionalna, regionalna i lokalna/opštinska)'
+11-5-1-title: 'Broj umrlih, nestalih i direktno pogođenih osoba pripisanih katastrofama
+  na 100 000 stanovnika'
+11-5-2-title: 'Direktan ekonomski gubitak u odnosu na globalni BDP, šteta na kritičnoj
+  infrastrukturi i broj poremećaja osnovnih usluga, koji se pripisuju katastrofama'
+11-6-1-title: 'Udio čvrstog komunalnog otpada sakupljenog i kojim se upravlja u kontrolisanim
+  objektima od ukupnog nastalog komunalnog otpada, po gradovima'
+11-6-2-title: 'Godišnji srednji nivoi finih čestica (npr. PM2.5 i PM10) u gradovima
+  (prema broju stanovnika)'
+11-7-1-title: 'Prosječni udio izgrađenog područja gradova koji je otvoren prostor
+  za javnu upotrebu za sve, prema polu, starosti i osobama s invaliditetom'
+11-7-2-title: 'Udio osoba koje su bile žrtve fizičkog ili seksualnog uznemiravanja,
+  prema polu, starosti, statusu invaliditeta i mjestu događaja, u prethodnih 12 mjeseci'
+11-a-1-title: 'Broj zemalja koje imaju nacionalne urbane politike ili regionalne razvojne
+  planove koji (a) odgovaraju dinamici stanovništva; (b) osiguravaju uravnotežen teritorijalni
+  razvoj; i (c) povećavaju lokalni fiskalni prostor'
+11-b-1-title: 'Broj zemalja koje usvajaju i provode nacionalne strategije za smanjenje
+  rizika od katastrofa u skladu sa Sendai okvirom za smanjenje rizika od katastrofa
+  2015-2030'
+11-b-2-title: 'Udio lokalnih samouprava koje usvajaju i provode lokalne strategije
+  smanjenja rizika od katastrofa u skladu sa nacionalnim strategijama smanjenja rizika
+  od katastrofa'
+11-c-1-title: 'Udio finansijske podrške manje razvijenim zemljama koja se dodjeljuje
+  za izgradnju i rekonstrukciju održivih, otpornih i resursno efikasnih zgrada koristeći
+  lokalne materijale'
+12-1-1-title: 'Broj zemalja koje razvijaju, usvajaju ili provode instrumente politike
+  čiji je cilj da podrže prelazak na održivu potrošnju i proizvodnju'
+12-2-1-title: 'Materijalni otisak, materijalni otisak po glavi stanovnika i materijalni
+  otisak po BDP-u'
+12-2-2-title: 'Domaća potrošnja materijala, domaća potrošnja materijala po glavi stanovnika
+  i domaća potrošnja materijala po BDP-u'
+12-3-1-title: '(a) Indeks gubitka hrane i (b) indeks otpada od hrane'
+12-4-1-title: 'Broj strana u međunarodnim multilateralnim ekološkim sporazumima o
+  opasnom otpadu i drugim hemikalijama koje ispunjavaju svoje obaveze i obaveze u
+  prenošenju informacija kako se zahtijeva svakim relevantnim sporazumom'
+12-4-2-title: '(a) Opasni otpad proizveden po glavi stanovnika; i (b) udio tretiranog
+  opasnog otpada, prema vrsti tretmana'
+12-5-1-title: 'Nacionalna stopa recikliranja, tone recikliranog materijala'
+12-6-1-title: 'Broj kompanija koje objavljuju izvještaje o održivosti'
+12-7-1-title: 'Stepen implementacije održivih politika javnih nabavki i akcionog plana'
+12-8-1-title: 'Stepen do kojeg su (i) obrazovanje o globalnom građanstvu i (ii) obrazovanje
+  za održivi razvoj uključeni u (a) nacionalne obrazovne politike; (b) nastavni planovi
+  i programi; (c) obrazovanje nastavnika; i (d) ocjenjivanje učenika'
+12-a-1-title: 'Instalirani kapaciteti za proizvodnju obnovljive energije u zemljama
+  u razvoju (u vatima po glavi stanovnika)'
+12-b-1-title: 'Implementacija standardnih računovodstvenih alata za praćenje ekonomskih
+  i ekoloških aspekata održivosti turizma'
+12-c-1-title: 'Iznos subvencija za fosilna goriva po jedinici BDP-a (proizvodnja i
+  potrošnja)'
+13-1-1-title: 'Broj umrlih, nestalih i direktno pogođenih osoba pripisanih katastrofama
+  na 100 000 stanovnika'
+13-1-2-title: 'Broj zemalja koje usvajaju i sprovode nacionalne strategije za smanjenje
+  rizika od katastrofa u skladu sa Sendai okvirom za smanjenje rizika od katastrofa
+  2015-2030'
+13-1-3-title: 'Udio lokalnih samouprava koje usvajaju i sprovode lokalne strategije
+  smanjenja rizika od katastrofa u skladu sa nacionalnim strategijama smanjenja rizika
+  od katastrofa'
 13-2-1-title: ''
 13-2-2-title: ''
 13-3-1-title: ''

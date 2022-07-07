@@ -111,7 +111,7 @@ status: 'Status indikatora'
 # Label describing the "tags" for an indicator
 tags: 'Oznake'
 previous: 'Prethodni indikator'
-next: 'Naredni indikator'
+next: 'Sljedeći indikator'
 apply: 'Primijeniti'
 cancel: 'Poništiti'
 change_breakdowns: 'Promjena kvarova'

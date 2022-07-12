@@ -9,7 +9,7 @@ computation_units: 'Jedinica mjere'
 # A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
 goal_meta_link: 'Link na metapodatke UN-a'
 # A label describing information - the numeric code for a particular indicator
-indicator: 'Oznaka indikatora'
+indicator: 'Broj indikatora'
 # A label describing information - the definition for a particular indicator - as provided by the United Nations
 indicator_definition: 'Opis globalnog indikatora'
 # A label describing information - the name of a particular indicator

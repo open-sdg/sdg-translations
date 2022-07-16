@@ -17,7 +17,7 @@ disaggregation_status_by_field: 'Disagregacija po %field'
 not_specified: 'Nije određeno'
 reported: 'Prijavljeno'
 description: 'Status izvještavanja pruža pregled o količini podataka o Ciljevima održivog
-  razvoja (COR) o kojima %country.name izvještava.'
+  razvoja (COR) o kojima se izvještava u %country.name.'
 progress_status: 'Status napretka'
 progress_not_available: 'Nije dostupno'
 progress_challenges_remain: 'Izazovi ostaju'

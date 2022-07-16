@@ -5,21 +5,21 @@ variable_hint: Available when '%field' is selected
 no_data_hint: No options available because of filters above
 headline_data: Headline data
 no_headline_data: No headline data available
-download_headline: Download Headline CSV
+download_headline: Download headline data (.csv)
 download_headline_title: Download headline data as CSV
-download_source: Download Source CSV
-download_source_for_disaggregations: Download source CSV for disaggregations
+download_source: Download source data (.csv)
+download_source_for_disaggregations: Download source data for disaggregations (.csv)
 download_source_title: Download source data as CSV
-download_source_sdmx: Download Source SDMX
+download_source_sdmx: Download source SDMX (.xml)
 download_source_sdmx_title: Download source data as SDMX
-download_chart: Download Chart CSV
-download_table: Download Table CSV
-download_csv: Download CSV
-download_csv_title: Download as CSV
-download_chart_image: Download Chart Image
-download_chart_image_title: Download chart as image
-download_geojson: Download GeoJSON
-download_geojson_title: Download as GeoJSON
+download_chart: Download chart data (.csv)
+download_table: Download table data (.csv)
+download_csv: Download data (.csv)
+download_csv_title: Download data as CSV
+download_chart_image: Download chart image (.png)
+download_chart_image_title: Download chart image as PNG
+download_geojson: Download map data (.geojson)
+download_geojson_title: Download map data as GeoJSON
 # A label describing information - where some data originally came from
 source: Source
 # A button that displays information about where some data originally came from

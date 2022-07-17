@@ -12,3 +12,4 @@ instructions: Klikněte na jednotlivé cíle nebo %before_link vyhledejte, %afte
 instructions_short: Kliknutím na jednotlivé cíle pro %country.name získáte údaje o
   globálním indikátoru Cílů udržitelného rozvoje.
 heading_short: 'Údaje pro %country.name Cílů udržitelného rozvoje'
+instructions_shorter: Vyberte každý cíl pro údaje o indikátorech.

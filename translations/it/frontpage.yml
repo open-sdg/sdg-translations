@@ -13,3 +13,4 @@ intro_body: Gli <a href="https://www.un.org/sustainabledevelopment/sustainable-d
 heading_short: Dati di %country.name per gli Obiettivi di sviluppo sostenibile
 instructions_short: Fare clic su ciascun obiettivo per visualizzare i dati relativi
   agli indicatori globali degli Obiettivi di sviluppo sostenibile di %country.name.
+instructions_shorter: Selezionare ciascun obiettivo per i dati dell'indicatore.

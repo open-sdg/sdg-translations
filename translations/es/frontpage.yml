@@ -15,3 +15,4 @@ intro_body: Los <a href="https://www.un.org/sustainabledevelopment/es">Objetivos
 heading_short: Datos de %country.name para los Objetivos de Desarrollo Sostenible
 instructions_short: Haga clic en cada objetivo para ver los datos de los indicadores
   globales de los Objetivos de Desarrollo Sostenible.
+instructions_shorter: Seleccione cada objetivo para los datos del indicador.

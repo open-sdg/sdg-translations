@@ -22,3 +22,4 @@ progress_approaching_target: S'acosta a l'objectiu
 progress_target_achieved: Objectiu assolit
 description: L'estat dels informes proporciona una visió general de quantes dades
   de l'Objectiu de Desenvolupament Sostenible (ODS) informa %country.name.
+no_data_available: No hi ha dades disponibles

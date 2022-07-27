@@ -15,3 +15,4 @@ intro_body: Els <a href="https://www.un.org/sustainabledevelopment/es">Objectius
 heading_short: Dades de %country.name per als Objectius de Desenvolupament Sostenible
 instructions_short: Feu clic a cada objectiu per obtenir les dades d'indicadors globals
   de l'Objectiu de Desenvolupament Sostenible de %country.name.
+instructions_shorter: Seleccioneu cada objectiu per a les dades dels indicadors.

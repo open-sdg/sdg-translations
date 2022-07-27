@@ -14,3 +14,4 @@ intro_body: Les <a href="https://www.un.org/sustainabledevelopment/fr">objectifs
 instructions_short: Cliquez sur chaque objectif pour obtenir des données sur les indicateurs
   mondiaux des objectifs de développement durable de %country.name.
 heading_short: Données de %country.name pour les objectifs de développement durable
+instructions_shorter: Sélectionnez chaque objectif pour les données de l'indicateur.

@@ -116,3 +116,10 @@ next: Next indicator
 apply: Apply
 cancel: Cancel
 change_breakdowns: Change breakdowns
+source_logo: Logo
+publications: Publications
+publication: Publication
+publication_title: Title
+publication_description: Description
+publication_date: Date
+related_indicators: Related indicators

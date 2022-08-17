@@ -79,3 +79,4 @@ download_source_for_disaggregations: Загрузить исходный CSV д�
 apply: Применить
 cancel: Отмена
 change_breakdowns: Разбивка изменений
+empty_metadata_placeholder: Недоступно для данного показателя

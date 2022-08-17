@@ -114,3 +114,4 @@ download_source_for_disaggregations: Завантажте вихідний CSV �
 apply: Застосувати
 cancel: Скасувати
 change_breakdowns: Змінити поломки
+empty_metadata_placeholder: Недоступно для цього показника

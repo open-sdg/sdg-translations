@@ -115,3 +115,4 @@ download_source_for_disaggregations: Stáhněte si zdrojový CSV pro rozčleněn
 apply: Použít
 cancel: Zrušit
 change_breakdowns: Přehledy změn
+empty_metadata_placeholder: Pro tento ukazatel není k dispozici

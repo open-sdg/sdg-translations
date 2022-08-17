@@ -118,3 +118,4 @@ download_source_for_disaggregations: Scarica il CSV di origine per le disaggrega
 apply: Applicare
 cancel: Annullamento
 change_breakdowns: Ripartizione delle modifiche
+empty_metadata_placeholder: Non disponibile per questo indicatore

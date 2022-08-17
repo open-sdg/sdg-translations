@@ -77,3 +77,4 @@ download_source_for_disaggregations: Бөлу үшін CSV көзін жүкте
 apply: Қолдану
 cancel: Болдырмау
 change_breakdowns: Бұзылуларды өзгерту
+empty_metadata_placeholder: Бұл көрсеткіш үшін қол жетімді емес

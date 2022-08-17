@@ -81,3 +81,4 @@ download_source_for_disaggregations: Ներբեռնեք աղբյուրի CSV-ն 
 apply: Դիմել
 cancel: Չեղարկել
 change_breakdowns: Փոխել խափանումները
+empty_metadata_placeholder: Հասանելի չէ այս ցուցանիշի համար

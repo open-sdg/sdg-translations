@@ -75,3 +75,4 @@ download_source_for_disaggregations: تنزيل المصدر بتنسيق CSV ل
 apply: يتقدم
 cancel: يلغي
 change_breakdowns: تغيير الأعطال
+empty_metadata_placeholder: غير متوفر لهذا المؤشر

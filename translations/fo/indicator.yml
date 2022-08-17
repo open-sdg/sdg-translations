@@ -114,3 +114,4 @@ download_source_for_disaggregations: Download source CSV for disaggregations
 apply: Aplike
 cancel: Avlýsa
 change_breakdowns: Change breakdowns
+empty_metadata_placeholder: Ikki tøk til hetta ídicator

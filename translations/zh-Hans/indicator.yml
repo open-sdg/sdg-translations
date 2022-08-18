@@ -69,3 +69,4 @@ download_source_for_disaggregations: 下载用于分类的源CSV
 apply: 申请
 cancel: 取消
 change_breakdowns: 变化的细目
+empty_metadata_placeholder: 本指标不适用

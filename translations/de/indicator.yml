@@ -81,3 +81,4 @@ download_source_for_disaggregations: Quell-CSV für Disaggregationen herunterlad
 apply: Bewerbung
 cancel: Abbrechen
 change_breakdowns: Aufschlüsselungen ändern
+empty_metadata_placeholder: Für diesen Indikator nicht verfügbar

@@ -82,3 +82,4 @@ download_source_for_disaggregations: Descargar el CSV de origen para los desglos
 apply: Aplicar
 cancel: Cancelar
 change_breakdowns: Desglose de los cambios
+empty_metadata_placeholder: No disponible para este indicador

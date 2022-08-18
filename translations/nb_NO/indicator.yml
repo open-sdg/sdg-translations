@@ -97,3 +97,4 @@ download_source_for_disaggregations: Last ned kilde-CSV for oppdelinger
 apply: Søke om
 cancel: Avbryt
 change_breakdowns: Endre sammenbrudd
+empty_metadata_placeholder: Ikke tilgjengelig for denne indikatoren

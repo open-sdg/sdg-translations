@@ -115,3 +115,4 @@ download_source_for_disaggregations: Ayrıştırmalar için kaynak CSV'yi indiri
 apply: Başvurmak
 cancel: İptal
 change_breakdowns: Değişim dökümleri
+empty_metadata_placeholder: Bu gösterge için mevcut değil

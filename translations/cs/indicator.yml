@@ -3,20 +3,20 @@ clear_all: 'Vymazat vše'
 clear_selections: 'Vyčistit výběr'
 variable_hint: 'K dispozici, když je vybrána možnost ''%field'''
 no_data_hint: 'Žádné možnosti nejsou k dispozici kvůli výše uvedeným filtrům'
-download_headline: 'Stáhnout záhlaví CSV'
+download_headline: 'Stáhnout data záhlaví (.csv)'
 download_headline_title: 'Stáhněte si data záhlaví jako CSV'
-download_source: 'Stáhnout zdrojový CSV'
+download_source: 'Stáhnout zdrojová data (.csv)'
 download_source_title: 'Stáhnout zdrojová data jako CSV'
-download_source_sdmx: 'Stáhnout zdroj SDMX'
+download_source_sdmx: 'Stáhnout zdroj SDMX (.xml)'
 download_source_sdmx_title: 'Stažení zdrojových dat jako SDMX'
-download_chart: 'Stáhnout graf CSV'
-download_table: 'Stáhnout tabulku CSV'
-download_csv: 'Stáhnout CSV'
-download_csv_title: 'Stáhnout jako CSV'
-download_chart_image: 'Stáhnout obrázek grafu'
-download_chart_image_title: 'Stáhnout graf jako obrázek'
-download_geojson: 'Stáhnout GeoJSON'
-download_geojson_title: 'Stáhnout jako GeoJSON'
+download_chart: 'Stáhnout data grafu (.csv)'
+download_table: 'Stáhnout data tabulky (.csv)'
+download_csv: 'Stáhnout data (.csv)'
+download_csv_title: 'Stáhnout data jako CSV'
+download_chart_image: 'Stáhnout obrázek grafu (.png)'
+download_chart_image_title: 'Stáhnout graf jako obrázek PNG'
+download_geojson: 'Stáhnout mapová data (.geojson)'
+download_geojson_title: 'Stáhnout mapová data jako GeoJSON'
 # A label describing information - where some data originally came from
 source: 'Zdroj'
 # A button that displays information about where some data originally came from
@@ -111,8 +111,8 @@ previous: 'Předchozí ukazatel'
 next: 'Další ukazatel'
 headline_data: Titulní data
 no_headline_data: Nejsou k dispozici žádná souhrnná data
-download_source_for_disaggregations: Stáhněte si zdrojový CSV pro rozčlenění
+download_source_for_disaggregations: Stáhnout zdrojová data pro členění (.csv)
 apply: Použít
 cancel: Zrušit
 change_breakdowns: Přehledy změn
-empty_metadata_placeholder: Pro tento ukazatel není k dispozici
+empty_metadata_placeholder: Není k dispozici pro tento ukazatel

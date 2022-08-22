@@ -41,7 +41,7 @@ sub_categories: 'Підкатегорії'
 # A label of "Show sub-categories" to display before a particular sub-category's name
 sub_categories_show: "Показати підкатегорії:"
 series_help: 'Виберіть категорії зі списків нижче, щоб переглянути різні розбивки
-  даних. Деякі з них не будуть доступні, поки не буде обрано більш високий рівень.'
+  даних. Деякі з них не будуть доступні, поки не буде обрано вищий рівень.'
 legend_help: 'Натисніть на легенду, щоб видалити окремі рядки з діаграми.'
 # A button that displays some data in the form of a chart
 chart: 'Діаграма'

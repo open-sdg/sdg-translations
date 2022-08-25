@@ -117,3 +117,4 @@ apply: Apply
 cancel: Cancel
 change_breakdowns: Change breakdowns
 empty_metadata_placeholder: Not available for this indicator
+total: Total

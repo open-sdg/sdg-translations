@@ -83,3 +83,4 @@ apply: Appliquer
 cancel: Annuler
 change_breakdowns: Ventilation des changements
 empty_metadata_placeholder: Non disponible pour cet indicateur
+total: Total

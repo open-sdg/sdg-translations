@@ -80,3 +80,4 @@ apply: Применить
 cancel: Отмена
 change_breakdowns: Разбивка изменений
 empty_metadata_placeholder: Недоступно для данного показателя
+total: Всего

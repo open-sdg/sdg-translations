@@ -15,3 +15,5 @@ internet_explorer_message: Hemos detectado que está utilizando Internet Explore
   características de este sitio no funcionarán. Debe utilizar un navegador moderno
   como Edge, Chrome, Firefox o Safari. Si tiene dificultades para instalar o acceder
   a un navegador diferente, póngase en contacto con su equipo de asistencia informática.
+show_menu: Mostrar el menú de navegación
+hide_menu: Ocultar el menú de navegación

@@ -70,7 +70,7 @@ global_metadata_blurb: This table provides information on metadata for SDG
   <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
   is provided by the UN Statistics Division.
 # A button for editing some content
-edit: Edit
+edit: Edit Indicator
 # A button for editing data
 edit_data: Edit Data
 # A button for editing metadata
@@ -100,11 +100,11 @@ chart_annotation: Chart annotation
 # Description of the year slider on maps.
 map_year_slider: Year slider
 # Description of a search field on maps.
-map_search: Search
+map_search: Map search
 # Description of a button that hides the search field on maps.
-map_search_hide: Hide search
+map_search_hide: Hide map search
 # Description of a button that shows the search field on maps.
-map_search_show: Show search
+map_search_show: Show map search
 # Instructions for using the data table columns for sorting.
 table_column_sort: Click to sort by this column
 # Label describing the status of an indicator

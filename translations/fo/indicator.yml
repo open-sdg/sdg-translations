@@ -108,9 +108,9 @@ status: 'Støða hjá ávísa'
 tags: 'Frámerki'
 previous: 'Undanfarni ávísi'
 next: 'Næsti ávísi'
-headline_data: Headline data
-no_headline_data: Eingin høvdiðline data tøk
-download_source_for_disaggregations: Download source CSV for disaggregations
+headline_data: Dátur til yvirskrift
+no_headline_data: Ongar dátur tøkar til yvirskrift
+download_source_for_disaggregations: Tak niður keldudátur fyri sundurgreiningar (.csv)
 apply: Aplike
 cancel: Avlýsa
 change_breakdowns: Change breakdowns

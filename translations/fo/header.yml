@@ -13,11 +13,10 @@ toggle_search: 'Leitiskiftari. Trýst fyri at víðka ella minka leititeigin.'
 toggle_menu: 'Valmyndaskiftari. Trýst fyri at víðka ella minka valmyndina.'
 internet_explorer_message_title: Hesin internet-kagin er ikki longur stuðlaður
 internet_explorer_message: Vit hava varnast, at tú/tit brúkar/brúka internet Explorer
-  at vitja hesa heimasíðuna. Internet Explorer er nú stig av Microsoft. Sum eitt úrslit,
-  so gevur henda heimasíðan ikki longur stuðul til nakra version av Internet Explorer.
-  Nøkur eyðkenni á hesi síðuni fer ikki at rigga. Tú/tit átti/áttu at brúkt eina nýmótans
-  browser so sum Edge, Chrome, Firefox, ella Safari. Um tú/tit hevur/hava trupult
-  við at seta ella atgongd til eina aðra browser, set/setið teg/tykkum í samband við
-  teg/tykkum.tygum.
-show_menu: Vís navigation menu
-hide_menu: Hide navigation menu
+  at vitja hesa heimasíðuna. Internet Microsoft tekur nú Explorer stigvíst aftur.
+  Tessvegna stuðlar henda heimasíðan ikki longur nakra útgávu av Internet Explorer.
+  Nakrir týðandi liðir á hesi síðuni fara ikki at rigga. Ein nýggjari kagi skuldi
+  verið nýttur, so sum Edge, Chrome, Firefox, ella Safari. Spyr avvarðandi kt-deil,
+  um trupulleikar eru at skifta til annan kaga.
+show_menu: Vís valmynd til at finna runt
+hide_menu: Krógva valmynd til at finna runt

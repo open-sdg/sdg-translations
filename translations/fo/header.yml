@@ -11,7 +11,7 @@ enable_high_contrast: 'Virkja stóran kontrast'
 disable_high_contrast: 'Óvirkja stóran kontrast'
 toggle_search: 'Leitiskiftari. Trýst fyri at víðka ella minka leititeigin.'
 toggle_menu: 'Valmyndaskiftari. Trýst fyri at víðka ella minka valmyndina.'
-internet_explorer_message_title: Hesin internet browserin er ikki longur stuðul
+internet_explorer_message_title: Hesin internet-kagin er ikki longur stuðlaður
 internet_explorer_message: Vit hava varnast, at tú/tit brúkar/brúka internet Explorer
   at vitja hesa heimasíðuna. Internet Explorer er nú stig av Microsoft. Sum eitt úrslit,
   so gevur henda heimasíðan ikki longur stuðul til nakra version av Internet Explorer.

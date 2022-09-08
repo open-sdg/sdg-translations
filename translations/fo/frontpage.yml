@@ -1,4 +1,4 @@
-download_all: Tak niður allar dátur
+download_all: Tak niður allar dátur (.zip)
 intro_title: 17 mál skulu broyta heim okkara
 zip_file: ZIP-fíla
 instructions: Trýst á hvørt málið sær, ella %before_link leita, %after_link eftir

@@ -64,7 +64,7 @@ global_metadata_blurb: 'Tato tabulka poskytuje informace o metadatech pro ukazat
   SDG, jak je definovala Statistická komise OSN. <a href="https://unstats.un.org/sdgs/metadata/">Kompletní
   globální metadata</a> poskytuje Statistická divize OSN.'
 # A button for editing some content
-edit: 'Upravit'
+edit: 'Upravit indikátor'
 # A button for editing data
 edit_data: 'Upravit data'
 # A button for editing metadata
@@ -96,11 +96,11 @@ chart_annotation: 'Anotace grafu'
 # Description of the year slider on maps.
 map_year_slider: 'Posuvník roku'
 # Description of a search field on maps.
-map_search: 'Hledat'
+map_search: 'Hledat v mapě'
 # Description of a button that hides the search field on maps.
-map_search_hide: 'Skrýt hledání'
+map_search_hide: 'Skrýt hledání v mapě'
 # Description of a button that shows the search field on maps.
-map_search_show: 'Zobrazit vyhledávání'
+map_search_show: 'Zobrazit hledání v mapě'
 # Instructions for using the data table columns for sorting.
 table_column_sort: 'Kliknutím seřadíte podle tohoto sloupce'
 # Label describing the status of an indicator

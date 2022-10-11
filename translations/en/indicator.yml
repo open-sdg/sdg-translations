@@ -105,13 +105,23 @@ map_search: Map search
 map_search_hide: Hide map search
 # Description of a button that shows the search field on maps.
 map_search_show: Show map search
+# Description of a button that cancels what has been typed into the map search.
+map_search_cancel: Clear map search
+# Description of a button that zooms in on the map.
 map_zoom_in: Zoom in on map
+# Description of a button that zooms out on the map.
 map_zoom_out: Zoom out on map
+# Description of a button that resets the zoom to the default.
 map_zoom_home: Reset to default map zoom
+# Description of a button that starts the map fullscreen.
 map_fullscreen: View map fullscreen
+# Description of a button that stops the map fullscreen.
 map_fullscreen_exit: Exit fullscreen map
+# Description of a button that changes the map to the previous time period (eg, year).
 map_slider_back: View map data for previous time period
+# Description of a button that changes the map to the next time period (eg, year).
 map_slider_forward: View map data for next time period
+# Description of the screen-reader instructions for keyboard usage of the map time slider.
 map_slider_keyboard: View map data throughout time period by using left and right arrow keys
 # Instructions for using the data table columns for sorting.
 table_column_sort: Click to sort by this column
@@ -119,10 +129,17 @@ table_column_sort: Click to sort by this column
 status: Indicator status
 # Label describing the "tags" for an indicator
 tags: Tags
+# Label for a button that takes the user to the previous indicator.
 previous: Previous indicator
+# Label for a button that takes the user to the next indicator.
 next: Next indicator
+# Label for a button that applies changes to the disaggregations displayed on the map.
 apply: Apply
+# Label for a button that cancels changes to the disaggregations displayed on the map.
 cancel: Cancel
+# Label for a button that opens a popup where the map disaggregations can be changed.
 change_breakdowns: Change breakdowns
+# Label for a standard phrase to show when there is a no content for a particular metadata field.
 empty_metadata_placeholder: Not available for this indicator
+# Text for an "aggregate" option in the map disaggregation popup.
 total: Total

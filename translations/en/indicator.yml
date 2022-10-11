@@ -123,6 +123,8 @@ map_slider_back: View map data for previous time period
 map_slider_forward: View map data for next time period
 # Description of the screen-reader instructions for keyboard usage of the map time slider.
 map_slider_keyboard: View map data throughout time period by using left and right arrow keys
+# Description of the on-screen instructions for mouse usage of the map time slider.
+map_slider_mouse: Navigate map data by time period
 # Instructions for using the data table columns for sorting.
 table_column_sort: Click to sort by this column
 # Label describing the status of an indicator

@@ -105,6 +105,14 @@ map_search: Map search
 map_search_hide: Hide map search
 # Description of a button that shows the search field on maps.
 map_search_show: Show map search
+map_zoom_in: Zoom in on map
+map_zoom_out: Zoom out on map
+map_zoom_home: Reset map zoom
+map_fullscreen: View map fullscreen
+map_fullscreen_exit: Exit fullscreen map
+map_slider_back: View map data for previous time period
+map_slider_forward: View map data for next time period
+map_slider_keyboard: View map data throughout time period by using left and right arrow keys
 # Instructions for using the data table columns for sorting.
 table_column_sort: Click to sort by this column
 # Label describing the status of an indicator

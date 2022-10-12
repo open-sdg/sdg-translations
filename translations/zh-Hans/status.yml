@@ -22,3 +22,4 @@ progress_approaching_target: 接近目标
 progress_target_achieved: 实现的目标
 description: 报告状态提供了关于 %country.name 报告的可持续发展目标（SDG）数据数量的概述。
 no_data_available: 无数据
+progress_help: 对照2030年的目标，我们做得如何？

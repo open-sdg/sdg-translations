@@ -1,4 +1,4 @@
-exploring_data_sources: 'Ուսումնասիրել տվյալների աղբյուրները'
+exploring_data_sources: 'Տվյալների աղբյուրների ուսումնասիրում'
 overall_reporting_status: Հաշվետվության ընդհանուր կարգավիճակ
 reported_online: 'Առցանց հաշվետվություն'
 reporting_status: 'Հաշվետվության կարգավիճակը'
@@ -14,7 +14,7 @@ disaggregation_status_notstarted: 'Առանձնացված չէ'
 disaggregation_status_notapplicable: 'Շրջանակից դուրս'
 disaggregation_status_by_field: 'Տարանջատում ըստ% դաշտի'
 not_specified: Նշված չէ
-reported: Հաղորդել են
+reported: Ներկայացված
 description: 'Հաշվետվության կարգավիճակը տալիս է ակնարկ, թե որքանով են Կայուն զարգացման
   նպատակի (SDG)%% անունները հաղորդում:'
 progress_status: Առաջընթացի կարգավիճակը
@@ -23,3 +23,4 @@ progress_challenges_remain: Մարտահրավերները մնում են
 progress_approaching_target: Թիրախին մոտենալը
 progress_target_achieved: Նպատակը հասել է
 no_data_available: Տվյալներ չկան
+progress_help: 'Ինչպե՞ս ենք մենք գործում 2030 թվականի թիրախի դեմ:'

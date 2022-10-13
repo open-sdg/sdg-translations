@@ -1,4 +1,5 @@
 previous: 'Önceki amaç'
 next: 'Sonraki amaç'
-description: '%country.name Sürdürülebilir Kalkınma Amacı küresel göstergelerine ilişkin istatistikleri
-  görmek için her bir amaca tıklayın.'
+description: '%country.name Sürdürülebilir Kalkınma Amacı küresel göstergelerine ilişkin
+  istatistikleri görmek için her bir amaca tıklayın.'
+indicators_for_goal: Amaç için hedefleri ve göstergeleri görüntüle

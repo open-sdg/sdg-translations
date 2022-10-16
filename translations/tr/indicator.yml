@@ -117,3 +117,14 @@ cancel: İptal
 change_breakdowns: Değişim dökümleri
 empty_metadata_placeholder: Bu gösterge için mevcut değil
 total: Toplam
+map_slider_mouse: Harita verilerinde zaman dilimine göre gezinme
+map_search_cancel: Harita aramasını temizleyin
+map_zoom_in: Haritayı yakınlaştırın
+map_zoom_out: Harita üzerinde uzaklaştırma
+map_zoom_home: Varsayılan harita yakınlaştırmasına sıfırla
+map_fullscreen: Haritayı tam ekran görüntüle
+map_fullscreen_exit: Tam ekran haritadan çık
+map_slider_back: Önceki zaman dilimi için harita verilerini görüntüleyin
+map_slider_forward: Bir sonraki zaman dilimi için harita verilerini görüntüleyin
+map_slider_keyboard: Sol ve sağ ok tuşlarını kullanarak zaman dilimi boyunca harita
+  verilerini görüntüleyin

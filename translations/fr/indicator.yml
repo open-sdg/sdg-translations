@@ -84,3 +84,14 @@ cancel: Annuler
 change_breakdowns: Ventilation des changements
 empty_metadata_placeholder: Non disponible pour cet indicateur
 total: Total
+map_zoom_home: Rétablir le zoom par défaut de la carte
+map_slider_back: Visualiser les données de la carte pour la période précédente
+map_slider_mouse: Naviguer dans les données cartographiques par période de temps
+map_search_cancel: Recherche claire sur la carte
+map_zoom_in: Zoom sur la carte
+map_zoom_out: Zoom arrière sur la carte
+map_fullscreen: Afficher la carte en plein écran
+map_fullscreen_exit: Quitter la carte en plein écran
+map_slider_forward: Afficher les données cartographiques pour la période suivante
+map_slider_keyboard: Visualisez les données de la carte sur une période donnée en
+  utilisant les touches fléchées gauche et droite.

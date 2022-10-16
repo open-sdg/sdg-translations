@@ -112,3 +112,13 @@ cancel: ຍົກເລີກ
 change_breakdowns: ການປ່ຽນແປງການແບ່ງສ່ວນ
 empty_metadata_placeholder: ບໍ່ມີສໍາລັບຕົວຊີ້ວັດນີ້
 total: ທັງໝົດ
+map_search_cancel: ລຶບການຊອກຫາແຜນທີ່
+map_zoom_in: ຂະຫຍາຍຢູ່ໃນແຜນທີ່
+map_fullscreen: ເບິ່ງແຜນທີ່ເຕັມຈໍ
+map_fullscreen_exit: ອອກຈາກແຜນທີ່ເຕັມຈໍ
+map_slider_back: ເບິ່ງຂໍ້ມູນແຜນທີ່ສໍາລັບໄລຍະເວລາທີ່ຜ່ານມາ
+map_zoom_out: ຊູມອອກໃນແຜນທີ່
+map_zoom_home: ຣີເຊັດເປັນການຊູມແຜນທີ່ເລີ່ມຕົ້ນ
+map_slider_forward: ເບິ່ງຂໍ້ມູນແຜນທີ່ສໍາລັບໄລຍະເວລາຕໍ່ໄປ
+map_slider_keyboard: ເບິ່ງຂໍ້ມູນແຜນທີ່ຕະຫຼອດໄລຍະເວລາໂດຍການໃຊ້ປຸ່ມລູກສອນຊ້າຍ ແລະຂວາ
+map_slider_mouse: ນຳທາງຂໍ້ມູນແຜນທີ່ຕາມໄລຍະເວລາ

@@ -71,3 +71,13 @@ cancel: 取消
 change_breakdowns: 变化的细目
 empty_metadata_placeholder: 本指标不适用
 total: 共计
+map_search_cancel: 清晰的地图搜索
+map_slider_keyboard: 通过使用左右方向键查看整个时间段的地图数据
+map_zoom_in: 放大地图
+map_zoom_out: 放大地图
+map_zoom_home: 重置为默认的地图缩放
+map_fullscreen: 全屏查看地图
+map_fullscreen_exit: 退出全屏地图
+map_slider_back: 查看上一时间段的地图数据
+map_slider_forward: 查看下一时间段的地图数据
+map_slider_mouse: 按时间段浏览地图数据

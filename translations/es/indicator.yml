@@ -84,3 +84,14 @@ cancel: Cancelar
 change_breakdowns: Desglose de los cambios
 empty_metadata_placeholder: No disponible para este indicador
 total: Total
+map_zoom_home: Restablecer el zoom del mapa por defecto
+map_slider_mouse: Navegar por los datos del mapa por periodo de tiempo
+map_search_cancel: Búsqueda clara en el mapa
+map_zoom_in: Ampliar el mapa
+map_zoom_out: Alejar el mapa
+map_fullscreen: Ver mapa a pantalla completa
+map_fullscreen_exit: Salir del mapa a pantalla completa
+map_slider_back: Ver los datos del mapa del período anterior
+map_slider_forward: Ver los datos del mapa para el siguiente periodo de tiempo
+map_slider_keyboard: Vea los datos del mapa a lo largo del periodo de tiempo utilizando
+  las teclas de flecha izquierda y derecha

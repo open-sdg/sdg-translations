@@ -1,5 +1,6 @@
 1-1-1-title: Proporción de la población que vive por debajo del umbral internacional
-  de pobreza por sexo, edad, situación laboral y ubicación geográfica (urbana/rural)
+  de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica
+  (urbana o rural)
 1-2-1-title: Proporción de la población que vive por debajo del umbral nacional
   de pobreza, desglosada por sexo y edad
 1-2-2-title: Proporción de hombres, mujeres y niños de todas las edades que viven
@@ -10,9 +11,9 @@
   los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables
 1-4-1-title: Proporción de la población que vive en hogares con acceso a los servicios
   básicos
-1-4-2-title: 'Proporción de la población adulta total con derechos seguros de tenencia
-  de la tierra, (a) con documentación legalmente reconocida, y (b) que percibe sus
-  derechos a la tierra como seguros, por sexo y tipo de tenencia'
+1-4-2-title: 'Proporción del total de la población adulta con derechos seguros de
+  tenencia de la tierra: a) que posee documentación reconocida legalmente al respecto
+  y b) considera seguros sus derechos, desglosada por sexo y tipo de tenencia'
 1-5-1-title: Número de personas muertas, desaparecidas y afectadas directamente atribuido
   a desastres por cada 100.000 habitantes
 1-5-2-title: Pérdidas económicas directas atribuidas a los desastres en relación
@@ -117,10 +118,10 @@
 12-6-1-title: Número de empresas que publican informes sobre sostenibilidad
 12-7-1-title: Grado de aplicación de políticas y planes de acción sostenibles en
   materia de adquisiciones públicas
-12-8-1-title: "Grado de integración de (i) la educación para la ciudadanía mundial\
-  \ y (ii) la educación para el desarrollo sostenible en (a) las políticas educativas\
-  \ nacionales; (b) los planes de estudio; (c) la formación del profesorado; y (d)\
-  \ la evaluación de los alumnos"
+12-8-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación\
+  \ para el desarrollo sostenible se incorporan en a) las políticas nacionales de\
+  \ educación, b) los planes de estudio, c) la formación del profesorado y d) la evaluación\
+  \ de los estudiantes"
 12-a-1-title: Capacidad instalada de generación de energía renovable en los países
   en desarrollo (expresada en vatios per cápita)
 12-b-1-title: Aplicación de instrumentos normalizados de contabilidad para hacer
@@ -140,10 +141,10 @@
   estrategias a largo plazo y planes y estrategias nacionales de adaptación y estrategias
   indicadas en comunicaciones sobre la adaptación y comunicaciones nacionales
 13-2-2-title: Emisiones totales de gases de efecto invernadero por año
-13-3-1-title: "Grado de integración de (i) la educación para la ciudadanía mundial\
-  \ y (ii) la educación para el desarrollo sostenible en (a) las políticas educativas\
-  \ nacionales; (b) los planes de estudio; (c) la formación del profesorado; y (d)\
-  \ la evaluación de los alumnos"
+13-3-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación\
+  \ para el desarrollo sostenible se incorporan en a) las políticas nacionales de\
+  \ educación, b) los planes de estudio, c) la formación del profesorado y d) la evaluación\
+  \ de los estudiantes"
 13-3-2-title: Número de países que han comunicado una mayor creación de capacidad
   institucional, sistémica e individual para implementar actividades de adaptación,
   mitigación y transferencia de tecnología, y medidas de desarrollo
@@ -351,7 +352,7 @@
 2-c-1-title: Indicador de anomalías en los precios de los alimentos
 3-1-1-title: Tasa de mortalidad materna
 3-1-2-title: Proporción de partos atendidos por personal sanitario especializado
-3-2-1-title: Tasa de mortalidad de menores de 5 años
+3-2-1-title: Tasa de mortalidad de niños menores de 5 años
 3-2-2-title: Tasa de mortalidad neonatal
 3-3-1-title: Número de nuevas infecciones por el VIH por cada 1.000 habitantes no
   infectados, desglosado por sexo, edad y poblaciones clave
@@ -415,10 +416,10 @@
 4-6-1-title: Proporción de la población en un grupo de edad determinado que ha alcanzado
   al menos un nivel fijo de competencia funcional en a) alfabetización y b) nociones
   elementales de aritmética, desglosada por sexo
-4-7-1-title: "Grado de integración de (i) la educación para la ciudadanía mundial\
-  \ y (ii) la educación para el desarrollo sostenible en (a) las políticas educativas\
-  \ nacionales; (b) los planes de estudio; (c) la formación del profesorado; y (d)\
-  \ la evaluación de los alumnos"
+4-7-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación\
+  \ para el desarrollo sostenible se incorporan en a) las políticas nacionales de\
+  \ educación, b) los planes de estudio, c) la formación del profesorado y d) la evaluación\
+  \ de los estudiantes"
 4-a-1-title: Proporción de escuelas que ofrecen servicios básicos, desglosada por
   tipo de servicio
 4-b-1-title: Volumen de la asistencia oficial para el desarrollo destinada a becas,
@@ -462,9 +463,8 @@
   para ese fin
 6-1-1-title: Proporción de la población que utiliza servicios de suministro de agua
   potable gestionados sin riesgos
-6-2-1-title: 'Proporción de la población que utiliza (a) servicios de saneamiento
-  gestionados de forma segura y (b) una instalación para lavarse las manos con agua
-  y jabón'
+6-2-1-title: 'Proporción de la población que utiliza: a) servicios de saneamiento
+  gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón'
 6-3-1-title: Proporción de los flujos de aguas residuales domésticas e industriales
   tratados de manera adecuada
 6-3-2-title: Proporción de masas de agua de buena calidad

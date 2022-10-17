@@ -120,3 +120,14 @@ cancel: Annullamento
 change_breakdowns: Ripartizione delle modifiche
 empty_metadata_placeholder: Non disponibile per questo indicatore
 total: Totale
+map_search_cancel: Ricerca su mappa chiara
+map_zoom_in: Zoom sulla mappa
+map_zoom_out: Zoom out sulla mappa
+map_fullscreen_exit: Uscita dalla mappa a schermo intero
+map_slider_back: Visualizzare i dati della mappa per il periodo di tempo precedente
+map_zoom_home: Ripristina lo zoom predefinito della mappa
+map_fullscreen: Visualizza la mappa a schermo intero
+map_slider_forward: Visualizzare i dati della mappa per il periodo successivo
+map_slider_keyboard: Visualizzare i dati della mappa per tutto il periodo di tempo
+  utilizzando i tasti freccia sinistra e destra.
+map_slider_mouse: Navigare tra i dati della mappa per periodo di tempo

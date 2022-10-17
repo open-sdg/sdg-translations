@@ -83,3 +83,14 @@ cancel: Abbrechen
 change_breakdowns: Aufschlüsselungen ändern
 empty_metadata_placeholder: Für diesen Indikator nicht verfügbar
 total: Insgesamt
+map_search_cancel: Übersichtliche Kartensuche
+map_slider_back: Ansicht der Kartendaten für den vorherigen Zeitraum
+map_slider_forward: Ansicht der Kartendaten für den nächsten Zeitabschnitt
+map_zoom_in: Vergrößern der Karte
+map_zoom_out: Karte verkleinern
+map_zoom_home: Zurücksetzen auf den Standardkartenzoom
+map_fullscreen: Karte im Vollbildmodus anzeigen
+map_fullscreen_exit: Karte im Vollbildmodus beenden
+map_slider_keyboard: Ansicht der Kartendaten über den gesamten Zeitraum mit den Pfeiltasten
+  links und rechts
+map_slider_mouse: Navigieren in Kartendaten nach Zeiträumen

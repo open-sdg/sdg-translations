@@ -77,3 +77,14 @@ cancel: يلغي
 change_breakdowns: تغيير الأعطال
 empty_metadata_placeholder: غير متوفر لهذا المؤشر
 total: المجموع
+map_search_cancel: مسح البحث في الخريطة
+map_zoom_in: تكبير الخريطة
+map_zoom_out: تصغير الخريطة
+map_zoom_home: إعادة التعيين إلى تكبير الخريطة الافتراضي
+map_fullscreen: اعرض الخريطة بملء الشاشة
+map_fullscreen_exit: الخروج من خريطة ملء الشاشة
+map_slider_forward: عرض بيانات الخريطة للفترة الزمنية القادمة
+map_slider_keyboard: اعرض بيانات الخريطة طوال الفترة الزمنية باستخدام مفاتيح الأسهم
+  لليسار ولليمين
+map_slider_mouse: تنقل بيانات الخريطة حسب الفترة الزمنية
+map_slider_back: عرض بيانات الخريطة لفترة زمنية سابقة

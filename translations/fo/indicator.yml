@@ -116,3 +116,14 @@ cancel: Strika
 change_breakdowns: Broyt sundurgreiningar
 empty_metadata_placeholder: Ikki til taks til henda ávísan
 total: Tilsamans
+map_search_cancel: Clear mwen ap leita eftir.
+map_slider_back: View mwen ap data for fyrra tíð.
+map_zoom_in: Zoom in on mwen ap
+map_zoom_out: Zoom out on mwen ap
+map_zoom_home: Reset to default mwen ap zoom
+map_fullscreen: View mwen ap fullscreen
+map_fullscreen_exit: Exit fullscreen mwen ap
+map_slider_forward: View mwen ap data for næstu ferð.
+map_slider_keyboard: View mwen ap data gjøgnum tíðina við at brúka vinstra og høgra
+  píl lyklarnar.
+map_slider_mouse: Navigate mwen ap data by period

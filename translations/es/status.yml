@@ -13,14 +13,14 @@ disaggregation_status_inprogress: 'Parcialmente desagregado'
 disaggregation_status_notstarted: 'No desagregado'
 disaggregation_status_notapplicable: 'Fuera de alcance'
 disaggregation_status_by_field: 'Desagregación por %field'
-not_specified: Sin especificar
-reported: Reportado
+not_specified: No se especifica
+reported: Informado
 description: El estado de los informes proporciona una visión general de la cantidad
-  de datos de los Objetivos de Desarrollo Sostenible (ODS) que %country.name reporta.
-progress_status: Estado de avance
-progress_not_available: No disponible
+  de datos de los Objetivos de Desarrollo Sostenible (ODS) que %nombre.país reporta.
+progress_status: Estado del progreso
+progress_not_available: No hay datos
 progress_challenges_remain: Siguen los desafíos
-progress_approaching_target: Aproximación al objetivo
-progress_target_achieved: Objetivo alcanzado
-no_data_available: No hay datos disponibles
-progress_help: ¿Cómo vamos con respecto al objetivo de 2030?
+progress_approaching_target: Acercándose al objetivo
+progress_target_achieved: Objetivo cumplido
+no_data_available: Datos no disponibles
+progress_help: ¿Cómo vamos con respecto al objetivo del 2030?

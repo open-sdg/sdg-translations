@@ -99,3 +99,14 @@ cancel: Avbryt
 change_breakdowns: Endre sammenbrudd
 empty_metadata_placeholder: Ikke tilgjengelig for denne indikatoren
 total: Total
+map_fullscreen: Se kart i fullskjerm
+map_search_cancel: Tøm kartsøk
+map_zoom_in: Zoom inn på kartet
+map_zoom_out: Zoom ut på kartet
+map_zoom_home: Tilbakestill til standard kartzoom
+map_fullscreen_exit: Avslutt kart i fullskjerm
+map_slider_back: Se kartdata for forrige tidsperiode
+map_slider_forward: Se kartdata for neste tidsperiode
+map_slider_keyboard: Vis kartdata gjennom tidsperioden ved å bruke venstre og høyre
+  piltaster
+map_slider_mouse: Naviger kartdata etter tidsperiode

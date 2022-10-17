@@ -3,7 +3,7 @@ heading: "Datos de %country.name para los indicadores de los Objetivos de Desarr
 instructions: Haga clic en un objetivo o utilice la %before_link búsqueda %after_link
   para acceder a los indicadores globales de %country.name de los Objetivos de Desarrollo
   Sostenible.
-download_all: Descargar todos los datos
+download_all: Descargar todos los datos (.zip)
 zip_file: archivo zip
 intro_title: 17 objetivos para transformar nuestro mundo
 intro_body: Los <a href="https://www.un.org/sustainabledevelopment/es">Objetivos de
@@ -13,7 +13,7 @@ intro_body: Los <a href="https://www.un.org/sustainabledevelopment/es">Objetivos
   de las Naciones Unidas en 2015, como parte de la <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=S">Agenda
   2030 para el Desarrollo Sostenible</a>.
 heading_short: Datos de %country.name para los Objetivos de Desarrollo Sostenible
-instructions_short: Haga clic en cada objetivo para ver los datos de los indicadores
-  globales de los Objetivos de Desarrollo Sostenible.
+instructions_short: Haga clic en cada objetivo para ver los datos del indicador global
+  de los Objetivos de Desarrollo Sostenible de %country.name.
 instructions_shorter: Seleccione cada objetivo para los datos del indicador.
 file_size: Tamaño

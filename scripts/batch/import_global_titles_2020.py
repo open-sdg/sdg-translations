@@ -88,6 +88,9 @@ def sdg_text_without_number(text, number):
     return normalized
 
 def clean_indicator_title(title):
+  # Remove new lines.
+  title = title.replace('\n', '')
+
   last = title[-1]
   if last == 'i':
     return title[:-1]

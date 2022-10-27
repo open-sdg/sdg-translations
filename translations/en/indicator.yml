@@ -143,5 +143,7 @@ cancel: Cancel
 change_breakdowns: Change breakdowns
 # Label for a standard phrase to show when there is a no content for a particular metadata field.
 empty_metadata_placeholder: Not available for this indicator
+# Label for a standard phrase to show when there is a no content for a particular sources field.
+empty_metadata_placeholder_sources: Not available for this source
 # Text for an "aggregate" option in the map disaggregation popup.
 total: Total

@@ -93,3 +93,4 @@ map_slider_forward: Consulta les dades del mapa per al proper període de temps
 map_slider_keyboard: Visualitza les dades del mapa durant tot el període de temps
   utilitzant les tecles de fletxa esquerra i dreta
 map_slider_mouse: Navega per les dades del mapa per període de temps
+empty_metadata_placeholder_sources: No disponible per a aquesta font

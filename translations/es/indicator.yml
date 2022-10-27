@@ -97,3 +97,4 @@ map_slider_forward: Ver los datos del mapa para el siguiente periodo de tiempo
 map_slider_keyboard: Vea los datos del mapa a lo largo del periodo de tiempo utilizando
   las teclas de flecha izquierda y derecha
 annotation_series_break: Ruptura de la serie
+empty_metadata_placeholder_sources: No disponible para esta fuente

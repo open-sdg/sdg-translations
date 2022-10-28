@@ -110,3 +110,4 @@ map_slider_forward: Se kartdata for neste tidsperiode
 map_slider_keyboard: Vis kartdata gjennom tidsperioden ved å bruke venstre og høyre
   piltaster
 map_slider_mouse: Naviger kartdata etter tidsperiode
+empty_metadata_placeholder_sources: Ikke tilgjengelig for denne kilden

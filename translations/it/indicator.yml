@@ -131,3 +131,4 @@ map_slider_forward: Visualizzare i dati della mappa per il periodo successivo
 map_slider_keyboard: Visualizzare i dati della mappa per tutto il periodo di tempo
   utilizzando i tasti freccia sinistra e destra.
 map_slider_mouse: Navigare tra i dati della mappa per periodo di tempo
+empty_metadata_placeholder_sources: Non disponibile per questa fonte

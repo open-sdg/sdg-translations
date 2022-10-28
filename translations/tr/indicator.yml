@@ -128,3 +128,4 @@ map_slider_back: Önceki zaman dilimi için harita verilerini görüntüleyin
 map_slider_forward: Bir sonraki zaman dilimi için harita verilerini görüntüleyin
 map_slider_keyboard: Sol ve sağ ok tuşlarını kullanarak zaman dilimi boyunca harita
   verilerini görüntüleyin
+empty_metadata_placeholder_sources: Bu kaynak için mevcut değil

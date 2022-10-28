@@ -81,3 +81,4 @@ map_fullscreen_exit: 退出全屏地图
 map_slider_back: 查看上一时间段的地图数据
 map_slider_forward: 查看下一时间段的地图数据
 map_slider_mouse: 按时间段浏览地图数据
+empty_metadata_placeholder_sources: 该来源不适用

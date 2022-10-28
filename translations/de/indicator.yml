@@ -94,3 +94,4 @@ map_fullscreen_exit: Karte im Vollbildmodus beenden
 map_slider_keyboard: Ansicht der Kartendaten über den gesamten Zeitraum mit den Pfeiltasten
   links und rechts
 map_slider_mouse: Navigieren in Kartendaten nach Zeiträumen
+empty_metadata_placeholder_sources: Für diese Quelle nicht verfügbar

@@ -16,5 +16,8 @@ internet_explorer_message: Bu web sitesini ziyaret etmek için Internet Explorer
   tespit ettik. Internet Explorer artık Microsoft tarafından aşamalı olarak kaldırılmaktadır.
   Sonuç olarak, bu web sitesi artık Internet Explorer'ın herhangi bir sürümünü desteklememektedir.
   Bu sitedeki bazı özellikler çalışmayacaktır. Edge, Chrome, Firefox veya Safari gibi
-  modern bir tarayıcı kullanmalısınız. Farklı bir tarayıcı kurmakta veya bu tarayıcıya
-  erişmekte zorluk yaşıyorsanız, lütfen BT destek ekibinizle iletişime geçin.
+  modern bir tarayıcı kullanmalısınız. Farklı bir tarayıcı kurmakta veya erişmekte
+  zorluk yaşıyorsanız, lütfen BT destek ekibinizle iletişime geçin.
+show_menu: Gezinti menüsünü göster
+hide_menu: Gezinti menüsünü gizle
+logo_title: Ana sayfaya git

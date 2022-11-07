@@ -53,10 +53,11 @@ loading: 'लोड हुँदै'
 loading_map: 'नक्शा लोड हुँदै'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'राष्ट्रिय मेटाडाटा'
-national_metadata_blurb: 'यस तालिकाले वैश्विक SDG सूचकको नजिकको %country.name तथ्या .्कबाट
-  वास्तविक सूचकको लागि मेटाडेटा प्रदान गर्दछ। कृपया नोट गर्नुहोस् कि जब ग्लोबल एसडीजी
-  सूचक% देशिय सांख्यिकीय तथ्या from्कबाट पूर्ण रूपमा उपलब्ध हुन्छ, तब यस तालिकालाई
-  राष्ट्रिय विधि र अन्य %country.adjective-विशिष्ट मेटाडेटा जानकारीका बारे जानकारी लिनुपर्दछ।'
+national_metadata_blurb: 'यस तालिकाले वैश्विक SDG सूचकको नजिकको %country.name तथ्या
+  .्कबाट वास्तविक सूचकको लागि मेटाडेटा प्रदान गर्दछ। कृपया नोट गर्नुहोस् कि जब ग्लोबल
+  एसडीजी सूचक% देशिय सांख्यिकीय तथ्या from्कबाट पूर्ण रूपमा उपलब्ध हुन्छ, तब यस तालिकालाई
+  राष्ट्रिय विधि र अन्य %country.adjective-विशिष्ट मेटाडेटा जानकारीका बारे जानकारी
+  लिनुपर्दछ।'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'ग्लोबल मेटाडाटा'
 global_metadata_blurb: 'यस तालिकाले एसडीजी संकेतकहरूका लागि मेटाडेटामा जानकारी प्रदान
@@ -113,3 +114,17 @@ download_source_for_disaggregations: असहमतिहरूका लाग
 apply: निवेदन गर्नु
 cancel: रद्द गर्नुहोस्
 change_breakdowns: ब्रेकडाउनहरू परिवर्तन गर्नुहोस्
+empty_metadata_placeholder: यो सूचकको लागि उपलब्ध छैन
+total: कुल
+map_search_cancel: नक्सा खोज खाली गर्नुहोस्
+map_zoom_in: नक्सामा जुम इन गर्नुहोस्
+map_fullscreen_exit: फुलस्क्रिन नक्साबाट बाहिर निस्कनुहोस्
+map_zoom_out: नक्सामा जुम आउट गर्नुहोस्
+map_zoom_home: पूर्वनिर्धारित नक्सा जुममा रिसेट गर्नुहोस्
+map_fullscreen: नक्सा फुलस्क्रिन हेर्नुहोस्
+map_slider_back: अघिल्लो समय अवधिको लागि नक्सा डेटा हेर्नुहोस्
+map_slider_forward: अर्को समय अवधिको लागि नक्सा डेटा हेर्नुहोस्
+map_slider_keyboard: बायाँ र दायाँ तीर कुञ्जीहरू प्रयोग गरेर समय अवधिभर नक्शा डेटा
+  हेर्नुहोस्
+map_slider_mouse: समय अवधि द्वारा नक्सा डाटा नेभिगेट गर्नुहोस्
+empty_metadata_placeholder_sources: यो स्रोतको लागि उपलब्ध छैन

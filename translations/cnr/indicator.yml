@@ -1,107 +1,117 @@
 select_all: 'Označi sve'
 clear_all: 'Obriši sve'
 clear_selections: 'Obrišite odabire'
-variable_hint: ''
-no_data_hint: ''
-headline_data: ''
-no_headline_data: ''
-download_headline: ''
-download_headline_title: ''
-download_source: ''
-download_source_for_disaggregations: ''
-download_source_title: ''
-download_source_sdmx: ''
-download_source_sdmx_title: ''
-download_chart: ''
-download_table: ''
-download_csv: ''
-download_csv_title: ''
-download_chart_image: ''
-download_chart_image_title: ''
-download_geojson: ''
-download_geojson_title: ''
+variable_hint: 'Dostupno kada je odabrano ''%field'''
+no_data_hint: 'Nema dostupnih opcija zbog gornjih filtera'
+headline_data: 'Naslovni podaci'
+no_headline_data: 'Nema dostupnih naslovnih podataka'
+download_headline: 'Preuzmite naslovni CSV'
+download_headline_title: 'Preuzmite podatke naslova kao CSV'
+download_source: 'Preuzmite izvorni CSV'
+download_source_for_disaggregations: 'Preuzmite izvorni CSV za disagregacije'
+download_source_title: 'Preuzmite izvorne podatke kao CSV'
+download_source_sdmx: 'Preuzmite izvorni SDMX'
+download_source_sdmx_title: 'Preuzmite izvorne podatke kao SDMX'
+download_chart: 'Preuzmite CSV grafik'
+download_table: 'Preuzmite CSV tabelu'
+download_csv: 'Preuzmite CSV'
+download_csv_title: 'Preuzmite kao CSV'
+download_chart_image: 'Preuzmite sliku grafika'
+download_chart_image_title: 'Preuzmite grafik kao sliku'
+download_geojson: 'Preuzmite GeoJSON'
+download_geojson_title: 'Preuzmite kao GeoJSON'
 # A label describing information - where some data originally came from
-source: ''
+source: 'Izvor'
 # A button that displays information about where some data originally came from
-sources: ''
+sources: 'Izvori'
 # A label describing information - a description of the geographical area covered by a dataset
-geographical_area: ''
+geographical_area: 'Geografsko područje'
 # A label describing information - the unit of measurement that is being represented in a dataset
-unit_of_measurement: ''
+unit_of_measurement: 'Jedinica mjere'
 # A shorter version of the "Unit" label.
-unit: ''
+unit: 'Jedinica'
 # A label describing information - any general information about a dataset - displayed below the data visualization on the page
-footnote: ''
+footnote: 'Fusnota'
 # The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
-units_type: ''
+units_type: 'Tip jedinica'
 # The label of a widget that allows the user to change the series that is being represented in a data visualization
-series: ''
-dataset_size_warning: ''
-view_indicator_list: ''
+series: 'Niz'
+dataset_size_warning: 'Previše je skupova podataka za prikaz na grafiku. Neće se sve
+  prikazati dok ne uklonite neke odabire.'
+view_indicator_list: 'Pogledajte listu indikatora ovog cilja'
 # A label describing a section of the page that allows the user to filter data by sub-category
-sub_categories: ''
+sub_categories: 'Potkategorije'
 # A label of "Show sub-categories" to display before a particular sub-category's name
-sub_categories_show: ""
-series_help: ''
-legend_help: ''
+sub_categories_show: "Prikaži potkategorije:"
+series_help: 'Odaberite kategorije iz padajućih menija u nastavku da vidite različite
+  tipove podataka. Neki neće biti dostupni dok se ne odabere viši nivo.'
+legend_help: 'Kliknite na legendu da uklonite pojedinačne linije sa grafika.'
 # A button that displays some data in the form of a chart
-chart: ''
+chart: 'Grafik'
 # A button that displays some data in the form of a table (rows and columns)
-table: ''
+table: 'Tabela'
 # A button that displays some data in the form of a map
-map: ''
-loading: ''
-loading_map: ''
+map: 'Mapa'
+loading: 'Učitavanje'
+loading_map: 'Učitavanje mape'
 # A button that displays the national metadata about a particular indicator - as provided by that country
-national_metadata: ''
-national_metadata_blurb: ''
+national_metadata: 'Nacionalni metapodaci'
+national_metadata_blurb: 'Ova tabela pruža metapodatke za stvarni indikator koji je
+  dostupan iz statistike %country.name najbliže odgovarajućem globalnom indikatoru
+  COR. Imajte na umu da čak i kada je globalni indikator COR u potpunosti dostupan
+  iz %country.adjective statistike, ovu tabelu treba konsultovati za informacije o
+  nacionalnoj metodologiji i druge informacije o %country.adjective metapodacima.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
-global_metadata: ''
-global_metadata_blurb: ''
+global_metadata: 'Globalni metapodaci'
+global_metadata_blurb: 'Ova tabela pruža informacije o metapodacima za OCR indikatore
+  kako ih je definisala Statistička komisija UN-a. <a href="https://unstats.un.org/sdgs/metadata/">Kompletne
+  globalne metapodatke</a> obezbjeđuje Odjeljenje za statistiku UN-a.'
 # A button for editing some content
-edit: ''
+edit: 'Urediti'
 # A button for editing data
-edit_data: ''
+edit_data: 'Urediti podatke'
 # A button for editing metadata
-edit_metadata: ''
+edit_metadata: 'Urediti metapodatke'
 # A button for editing configuration
-edit_configuration: ''
+edit_configuration: 'Urediti konfiguraciju'
 # A message that displays when a chart has no data to display because of the
 # user's choices.
-data_not_available: ''
+data_not_available: 'Ovi podaci nijesu dostupni. Molimo odaberite alternativne podatke
+  za prikaz.'
 # A message that is announced when there is no data on the chart/table
-announce_data_not_available: ''
+announce_data_not_available: 'Na grafiku i tabeli nema podataka.'
 # A message that is announced when the data is added to the chart/table
-announce_data_added: ''
+announce_data_added: 'Grafik i tabela su ažurirani kako bi uključili podatke.'
 # A message that is announced when the data is removed from the chart/table
-announce_data_removed: ''
+announce_data_removed: 'Grafik i tabela su ažurirani kako bi se isključili podaci.'
 # A message that points out an alternative display for visual data
-data_tabular_alternative: ''
+data_tabular_alternative: 'Kao alternativu tabelarnih podataka pogledajte Tabelu.'
 # Instructions for navigating data with a keyboard
-data_keyboard_navigation: ''
+data_keyboard_navigation: 'Pritisnite enter da biste pretraživali podatke pomoću tipki
+  sa strelicama lijevo i desno.'
 # Description of the "plot legend" which displays beneath charts
-plot_legend_description: ""
+plot_legend_description: "Legenda grafika: lista linija uključenih u grafik"
 # Common annotation displayed on graphs for the 2030 target.
-annotation_2030_target: ''
-annotation_series_break: ''
+annotation_2030_target: 'Cilj indikatora 2030'
+annotation_series_break: 'Prekid niza'
 # Label describing an annotation on a chart/graph.
-chart_annotation: ''
+chart_annotation: 'Označavanje grafika'
 # Description of the year slider on maps.
-map_year_slider: ''
+map_year_slider: 'Klizač za godinu'
 # Description of a search field on maps.
-map_search: ''
+map_search: 'Pretraga'
 # Description of a button that hides the search field on maps.
-map_search_hide: ''
+map_search_hide: 'Sakrij pretragu'
 # Description of a button that shows the search field on maps.
-map_search_show: ''
+map_search_show: 'Prikaži pretragu'
 # Instructions for using the data table columns for sorting.
-table_column_sort: ''
+table_column_sort: 'Kliknite da biste sortirali po ovoj koloni'
 # Label describing the status of an indicator
-status: ''
+status: 'Status indikatora'
 # Label describing the "tags" for an indicator
-tags: ''
-previous: ''
-next: ''
-apply: ''
-cancel: ''
-change_breakdowns: ''
+tags: 'Oznake'
+previous: 'Prethodni indikator'
+next: 'Sljedeći indikator'
+apply: 'Primijeniti'
+cancel: 'Poništiti'
+change_breakdowns: 'Promjena kvarova'

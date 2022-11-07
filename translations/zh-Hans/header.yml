@@ -11,3 +11,6 @@ toggle_search: 搜索切换。单击可展开或折叠搜索栏。
 internet_explorer_message_title: 该互联网浏览器已不再被支持
 internet_explorer_message: 我们检测到您使用的是IE浏览器来访问本网站。Internet Explorer现在正被微软逐步淘汰。因此，本网站不再支持任何版本的Internet
   Explorer。本网站的一些功能将无法使用。你应该使用一个现代浏览器，如Edge、Chrome、Firefox或Safari。如果你在安装或访问不同的浏览器时遇到困难，请联系你的IT支持团队。
+show_menu: 显示导航菜单
+hide_menu: 隐藏导航菜单
+logo_title: 转到主页

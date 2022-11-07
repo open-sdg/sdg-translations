@@ -2,3 +2,4 @@ previous: 'Obiettivo precedente'
 next: 'Prossimo obiettivo'
 description: 'Clicca su ogni obiettivo per vedere le statistiche degli indicatori
   globali di %country.name Sustainable Development Goal.'
+indicators_for_goal: Visualizza gli obiettivi e gli indicatori per il Goal

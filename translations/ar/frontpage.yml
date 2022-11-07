@@ -12,3 +12,5 @@ intro_body: <a href="https://www.un.org/sustainabledevelopment/ar/">أهداف �
 heading_short: "%country.name بيانات أهداف التنمية المستدامة"
 instructions_short: انقر فوق كل هدف لـ %country.name بيانات المؤشر العالمي لهدف التنمية
   المستدامة.
+instructions_shorter: حدد كل هدف لبيانات المؤشر.
+file_size: بحجم

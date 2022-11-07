@@ -5,21 +5,21 @@ variable_hint: Available when '%field' is selected
 no_data_hint: No options available because of filters above
 headline_data: Headline data
 no_headline_data: No headline data available
-download_headline: Download Headline CSV
+download_headline: Download headline data (.csv)
 download_headline_title: Download headline data as CSV
-download_source: Download Source CSV
-download_source_for_disaggregations: Download source CSV for disaggregations
+download_source: Download source data (.csv)
+download_source_for_disaggregations: Download source data for disaggregations (.csv)
 download_source_title: Download source data as CSV
-download_source_sdmx: Download Source SDMX
+download_source_sdmx: Download source SDMX (.xml)
 download_source_sdmx_title: Download source data as SDMX
-download_chart: Download Chart CSV
-download_table: Download Table CSV
-download_csv: Download CSV
-download_csv_title: Download as CSV
-download_chart_image: Download Chart Image
-download_chart_image_title: Download chart as image
-download_geojson: Download GeoJSON
-download_geojson_title: Download as GeoJSON
+download_chart: Download chart data (.csv)
+download_table: Download table data (.csv)
+download_csv: Download data (.csv)
+download_csv_title: Download data as CSV
+download_chart_image: Download chart image (.png)
+download_chart_image_title: Download chart image as PNG
+download_geojson: Download map data (.geojson)
+download_geojson_title: Download map data as GeoJSON
 # A label describing information - where some data originally came from
 source: Source
 # A button that displays information about where some data originally came from
@@ -70,7 +70,7 @@ global_metadata_blurb: This table provides information on metadata for SDG
   <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
   is provided by the UN Statistics Division.
 # A button for editing some content
-edit: Edit
+edit: Edit Indicator
 # A button for editing data
 edit_data: Edit Data
 # A button for editing metadata
@@ -100,19 +100,50 @@ chart_annotation: Chart annotation
 # Description of the year slider on maps.
 map_year_slider: Year slider
 # Description of a search field on maps.
-map_search: Search
+map_search: Map search
 # Description of a button that hides the search field on maps.
-map_search_hide: Hide search
+map_search_hide: Hide map search
 # Description of a button that shows the search field on maps.
-map_search_show: Show search
+map_search_show: Show map search
+# Description of a button that cancels what has been typed into the map search.
+map_search_cancel: Clear map search
+# Description of a button that zooms in on the map.
+map_zoom_in: Zoom in on map
+# Description of a button that zooms out on the map.
+map_zoom_out: Zoom out on map
+# Description of a button that resets the zoom to the default.
+map_zoom_home: Reset to default map zoom
+# Description of a button that starts the map fullscreen.
+map_fullscreen: View map fullscreen
+# Description of a button that stops the map fullscreen.
+map_fullscreen_exit: Exit fullscreen map
+# Description of a button that changes the map to the previous time period (eg, year).
+map_slider_back: View map data for previous time period
+# Description of a button that changes the map to the next time period (eg, year).
+map_slider_forward: View map data for next time period
+# Description of the screen-reader instructions for keyboard usage of the map time slider.
+map_slider_keyboard: View map data throughout time period by using left and right arrow keys
+# Description of the on-screen instructions for mouse usage of the map time slider.
+map_slider_mouse: Navigate map data by time period
 # Instructions for using the data table columns for sorting.
 table_column_sort: Click to sort by this column
 # Label describing the status of an indicator
 status: Indicator status
 # Label describing the "tags" for an indicator
 tags: Tags
+# Label for a button that takes the user to the previous indicator.
 previous: Previous indicator
+# Label for a button that takes the user to the next indicator.
 next: Next indicator
+# Label for a button that applies changes to the disaggregations displayed on the map.
 apply: Apply
+# Label for a button that cancels changes to the disaggregations displayed on the map.
 cancel: Cancel
+# Label for a button that opens a popup where the map disaggregations can be changed.
 change_breakdowns: Change breakdowns
+# Label for a standard phrase to show when there is a no content for a particular metadata field.
+empty_metadata_placeholder: Not available for this indicator
+# Label for a standard phrase to show when there is a no content for a particular sources field.
+empty_metadata_placeholder_sources: Not available for this source
+# Text for an "aggregate" option in the map disaggregation popup.
+total: Total

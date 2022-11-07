@@ -17,9 +17,11 @@ disaggregation_status_by_field: 'Greina eftir %field'
 not_specified: 'Ikki ásett'
 reported: 'Fráboðað'
 description: 'Fráboðanarstøðan vísir yvirlit yvir, hvussu nógvar heimsmálsdátur %country.name
-  fráboðar.'
+  fráboða.'
 progress_status: 'Gongdin'
 progress_not_available: 'Ikki tøk'
 progress_challenges_remain: 'Avbjóðingar eru'
 progress_approaching_target: 'Nærkast málinum'
 progress_target_achieved: 'Málið rokkið'
+no_data_available: Ongar dátur tøkar
+progress_help: Hvussu gera vit ímóti 2030 mál?

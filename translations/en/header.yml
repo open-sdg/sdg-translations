@@ -17,3 +17,6 @@ internet_explorer_message: We have detected that you are using Internet Explorer
   any version of Internet Explorer. Some features on this site will not work. You should use a modern
   browser such as Edge, Chrome, Firefox, or Safari. If you have difficulty installing or accessing a
   different browser, please contact your IT support team.
+show_menu: Show navigation menu
+hide_menu: Hide navigation menu
+logo_title: Go to homepage

@@ -5,21 +5,21 @@ data_not_available: Esta información no está disponible. Elija datos alternati
   para mostrar.
 dataset_size_warning: Hay demasiados conjuntos de datos para mostrar en el gráfico.
   No todo se mostrará hasta que elimine algunas selecciones.
-download_chart: Descargar CSV de gráfico
-download_csv: Descargar CSV
-download_csv_title: Descargar como CSV
-download_headline: Descargar CSV global
+download_chart: Descargar los datos del gráfico (.csv)
+download_csv: Descargar los datos (.csv)
+download_csv_title: Descargar los datos como CSV
+download_headline: Descargar los datos de los titulares (.csv)
 download_headline_title: Descargar datos globales como CSV
-download_source: Descargar CSV fuente
+download_source: Descargar datos de origen (.csv)
 download_source_title: Descargar los datos fuente como CSV
-download_source_sdmx: Descargar SDMX fuente
+download_source_sdmx: Descargar el código fuente SDMX (.xml)
 download_source_sdmx_title: Descargar los datos fuente como SDMX
-download_table: Descargar la tabla CSV
-download_chart_image: Descargar imagen del gráfico
-download_chart_image_title: Descargar gráfico como imagen
-download_geojson: Descargar GeoJSON
-download_geojson_title: Descargar como GeoJSON
-edit: Editar
+download_table: Descargar los datos de la tabla (.csv)
+download_chart_image: Descargar la imagen del gráfico (.png)
+download_chart_image_title: Descargar la imagen del gráfico como PNG
+download_geojson: Descargar los datos del mapa (.geojson)
+download_geojson_title: Descargar los datos del mapa como GeoJSON
+edit: Editar el indicador
 edit_data: Editar datos
 edit_metadata: Editar metadatos
 footnote: Nota
@@ -55,30 +55,46 @@ units_type: Tipo de unidades
 variable_hint: Disponible cuando se selecciona «%field»
 view_indicator_list: Ver la lista de indicadores de este objetivo
 edit_configuration: Editar la configuración
-next: Siguiente indicador
+next: Indicador siguiente
 previous: Indicador anterior
 tags: Etiquetas
 status: Estado del indicador
-table_column_sort: Haga clic para ordenar por esta columna
-map_search_show: Mostrar búsqueda
-map_search_hide: ocultar búsqueda
-map_search: Buscar
+table_column_sort: Pulse para ordenar por esta columna
+map_search_show: Mostrar búsqueda en el mapa
+map_search_hide: Ocultar la búsqueda en los mapas
+map_search: Búsqueda en el mapa
 map_year_slider: Deslizador del año
-chart_annotation: Anotación en el gráfico
-annotation_2030_target: Meta 2030
+chart_annotation: Anotación en un gráfico
+annotation_2030_target: Objetivo del indicador para 2030
 plot_legend_description: 'Leyenda del gráfico: lista de líneas incluidas en el gráfico'
 data_keyboard_navigation: Pulse Enter para navegar por los puntos de datos con las
   teclas de flecha izquierda y derecha.
-data_tabular_alternative: Para la alternativa de datos tabulares, véase la pestaña
-  Tabla.
+data_tabular_alternative: Para la alternativa de datos en forma de tabla, véase la
+  pestaña Tabla.
 announce_data_removed: Gráfico y tabla actualizados para excluir los datos.
 announce_data_added: Gráfico y tabla actualizados para incluir los datos.
-announce_data_not_available: El gráfico y la tabla no muestran datos.
+announce_data_not_available: La tabla y el gráfico no muestran datos.
 sub_categories_show: 'Mostrar subcategorías:'
 unit: Unidad
 headline_data: Datos principales
-no_headline_data: No se dispone de datos de cabecera
-download_source_for_disaggregations: Descargar el CSV de origen para los desgloses
+no_headline_data: No hay datos principales disponibles
+download_source_for_disaggregations: Descargar los datos de origen para los desgloses
+  (.csv)
 apply: Aplicar
 cancel: Cancelar
-change_breakdowns: Desglose de los cambios
+change_breakdowns: Cambiar los desgloses
+empty_metadata_placeholder: No disponible para este indicador
+total: Total
+map_zoom_home: Restablecer el zoom predeterminado del mapa
+map_slider_mouse: Navegar por los datos del mapa por periodo de tiempo
+map_search_cancel: Borrar búsqueda en el mapa
+map_zoom_in: Zoom en el mapa
+map_zoom_out: Reducir el mapa
+map_fullscreen: Ver mapa a pantalla completa
+map_fullscreen_exit: Salir del mapa a pantalla completa
+map_slider_back: Ver datos de los mapas para el período de tiempo anterior
+map_slider_forward: Ver los datos del mapa para el siguiente periodo de tiempo
+map_slider_keyboard: Vea los datos del mapa a lo largo del periodo de tiempo utilizando
+  las teclas de flecha izquierda y derecha
+annotation_series_break: Ruptura de la serie
+empty_metadata_placeholder_sources: No disponible para esta fuente

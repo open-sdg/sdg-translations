@@ -5,10 +5,12 @@ intro_body: <a href="https://www.un.org/sustainabledevelopment/sustainable-devel
   pro udržitelný rozvoj do roku 2030</a>.
 intro_title: 17 cílů, jak změnit náš svět
 zip_file: Soubor ZIP
-download_all: Stažení všech dat
+download_all: Stažení všech dat (.zip)
 heading: '%country.name data pro ukazatele Cílů udržitelného rozvoje'
 instructions: Klikněte na jednotlivé cíle nebo %before_link vyhledejte, %after_link
   %country.name statistiky pro globální ukazatele Cílů udržitelného rozvoje.
 instructions_short: Kliknutím na jednotlivé cíle pro %country.name získáte údaje o
   globálním indikátoru Cílů udržitelného rozvoje.
 heading_short: 'Údaje pro %country.name Cílů udržitelného rozvoje'
+instructions_shorter: Vyberte každý cíl pro údaje indikátoru.
+file_size: Velikost

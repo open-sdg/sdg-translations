@@ -3,20 +3,20 @@ clear_all: 'Frável allar'
 clear_selections: 'Frável valdar'
 variable_hint: 'Tøkar tá ''%field'' er valt'
 no_data_hint: 'Ongar dátur tí filtur eru omanfyri'
-download_headline: 'Tak niður CSV við yvirskrift'
+download_headline: 'Tak niður dátur til yvirskrift (.csv)'
 download_headline_title: 'Tak niður yvirskriftsdátur sum CSV'
-download_source: 'Tak niður keldu sum CSV'
+download_source: 'Tak niður keldudátur (.csv)'
 download_source_title: 'Tak niður keldudátur sum CSV'
-download_source_sdmx: 'Tak niður SDMX sum keldu'
+download_source_sdmx: 'Tak niður SDMX-keldudátur (.xml)'
 download_source_sdmx_title: 'Tak niður keldudátur sum SDMX'
-download_chart: 'Tak niður talmynd sum CSV'
-download_table: 'Tak niður talvu sum CSV'
-download_csv: 'Tak niður CSV'
-download_csv_title: 'Tak niður sum CSV'
-download_chart_image: 'Tak niður talmynd sum mynd'
-download_chart_image_title: 'Tak niður talmynd sum mynd'
-download_geojson: 'Tak niður GeoJSON'
-download_geojson_title: 'Tak niður sum GeoJSON'
+download_chart: 'Tak niður talmyndadátur (.csv)'
+download_table: 'Tak niður talvu (.csv)'
+download_csv: 'Tak niður dátur (.csv)'
+download_csv_title: 'Tak dátur niður sum CSV'
+download_chart_image: 'Tak niður talmynd sum mynd (.png)'
+download_chart_image_title: 'Tak niður talmynd sum PNG-mynd'
+download_geojson: 'Tak kortdátur niður (.geojson)'
+download_geojson_title: 'Tak kortdátur niður sum GeoJSON'
 # A label describing information - where some data originally came from
 source: 'Kelda'
 # A button that displays information about where some data originally came from
@@ -64,7 +64,7 @@ global_metadata_blurb: 'Henda talvan kunnar um metadáturnar, ið eru ásettar a
   hjá ST. <a href="https://unstats.un.org/sdgs/metadata/">Fullfíggjaðar altjóða metadátur</a>
   frá Hagfrøðistovninum hjá ST.'
 # A button for editing some content
-edit: 'Rætta'
+edit: 'Rætta ávísa'
 # A button for editing data
 edit_data: 'Rætta dátur'
 # A button for editing metadata
@@ -95,11 +95,11 @@ chart_annotation: 'Viðmerking til talmynd'
 # Description of the year slider on maps.
 map_year_slider: 'Ársdragil'
 # Description of a search field on maps.
-map_search: 'Leita'
+map_search: 'Leita í korti'
 # Description of a button that hides the search field on maps.
-map_search_hide: 'Krógva leiting'
+map_search_hide: 'Krógva kortleiting'
 # Description of a button that shows the search field on maps.
-map_search_show: 'Vís leiting'
+map_search_show: 'Vís kortleiting'
 # Instructions for using the data table columns for sorting.
 table_column_sort: 'Trýst fyri at raðskipa eftir hesum teiginum'
 # Label describing the status of an indicator
@@ -108,9 +108,23 @@ status: 'Støða hjá ávísa'
 tags: 'Frámerki'
 previous: 'Undanfarni ávísi'
 next: 'Næsti ávísi'
-headline_data: Headline data
-no_headline_data: Eingin høvdiðline data tøk
-download_source_for_disaggregations: Download source CSV for disaggregations
-apply: Aplike
-cancel: Avlýsa
-change_breakdowns: Change breakdowns
+headline_data: Dátur til yvirskrift
+no_headline_data: Ongar dátur tøkar til yvirskrift
+download_source_for_disaggregations: Tak niður keldudátur fyri sundurgreiningar (.csv)
+apply: Set í verk
+cancel: Strika
+change_breakdowns: Broyt sundurgreiningar
+empty_metadata_placeholder: Ikki til taks til henda ávísan
+total: Tilsamans
+map_search_cancel: Clear mwen ap leita eftir.
+map_slider_back: View mwen ap data for fyrra tíð.
+map_zoom_in: Zoom in on mwen ap
+map_zoom_out: Zoom out on mwen ap
+map_zoom_home: Reset to default mwen ap zoom
+map_fullscreen: View mwen ap fullscreen
+map_fullscreen_exit: Exit fullscreen mwen ap
+map_slider_forward: View mwen ap data for næstu ferð.
+map_slider_keyboard: View mwen ap data gjøgnum tíðina við at brúka vinstra og høgra
+  píl lyklarnar.
+map_slider_mouse: Navigate mwen ap data by period
+empty_metadata_placeholder_sources: Ikki tøk til hesa source

@@ -53,7 +53,7 @@ loading_map: 'កំពុងផ្ទុកផែនទី'
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: 'ម៉េតាទិន្នន័យថ្នាក់ជាតិ'
 national_metadata_blurb: 'តារាងនេះផ្តល់ទិន្នន័យមេតាសម្រាប់សូចនាករជាក់ស្តែងដែលអាចរកបានពីស្ថិតិ%
- %country.name ដែលនៅជិតសូចនាករ SDG សកលដែលត្រូវគ្នា។ សូមកត់សម្គាល់ថាទោះបីជាសូចនាករអេសជីជីសកលអាចប្រើបានយ៉ាងពេញលេញពីស្ថិតិស្ថិតិប្រទេស%
+  %country.name ដែលនៅជិតសូចនាករ SDG សកលដែលត្រូវគ្នា។ សូមកត់សម្គាល់ថាទោះបីជាសូចនាករអេសជីជីសកលអាចប្រើបានយ៉ាងពេញលេញពីស្ថិតិស្ថិតិប្រទេស%
   តារាងនេះគួរតែត្រូវបានពិគ្រោះយោបល់សម្រាប់ព័ត៌មានស្តីពីវិធីសាស្រ្តជាតិនិងព័ត៌មានមេតាដាតាផ្សេងទៀតដែលទាក់ទងនឹងប្រទេស%
   ។'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
@@ -109,3 +109,16 @@ download_source_for_disaggregations: ទាញយកប្រភព CSV សម�
 apply: អនុវត្ត
 cancel: បោះបង់
 change_breakdowns: ផ្លាស់ប្តូរការបំបែក
+empty_metadata_placeholder: មិនមានសម្រាប់សូចនាករនេះទេ។
+total: សរុប
+map_fullscreen: មើលផែនទីពេញអេក្រង់
+map_search_cancel: ជម្រះការស្វែងរកផែនទី
+map_zoom_in: ពង្រីកនៅលើផែនទី
+map_zoom_out: ពង្រីកនៅលើផែនទី
+map_zoom_home: កំណត់ឡើងវិញទៅការពង្រីកផែនទីលំនាំដើម
+map_fullscreen_exit: ចេញពីផែនទីពេញអេក្រង់
+map_slider_back: មើលទិន្នន័យផែនទីសម្រាប់រយៈពេលមុន។
+map_slider_forward: មើលទិន្នន័យផែនទីសម្រាប់រយៈពេលបន្ទាប់
+map_slider_keyboard: មើលទិន្នន័យផែនទីពេញមួយរយៈពេលដោយប្រើគ្រាប់ចុចព្រួញឆ្វេង និងស្តាំ
+map_slider_mouse: រុករកទិន្នន័យផែនទីតាមរយៈពេល
+empty_metadata_placeholder_sources: មិនមានសម្រាប់ប្រភពនេះទេ។

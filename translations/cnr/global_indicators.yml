@@ -1,252 +1,476 @@
-1-1-1-title: ''
-1-2-1-title: ''
-1-2-2-title: ''
-1-3-1-title: ''
-1-4-1-title: ''
-1-4-2-title: ''
-1-5-1-title: ''
-1-5-2-title: ''
-1-5-3-title: ''
-1-5-4-title: ''
-1-a-1-title: ''
-1-a-2-title: ''
-1-a-3-title: ''
-1-b-1-title: ''
-10-1-1-title: ''
-10-2-1-title: ''
-10-3-1-title: ''
-10-4-1-title: ''
-10-4-2-title: ''
-10-5-1-title: ''
-10-6-1-title: ''
-10-7-1-title: ''
-10-7-2-title: ''
-10-7-3-title: ''
-10-7-4-title: ''
-10-a-1-title: ''
-10-b-1-title: ''
-10-c-1-title: ''
-11-1-1-title: ''
-11-2-1-title: ''
-11-3-1-title: ''
-11-3-2-title: ''
-11-4-1-title: ''
-11-5-1-title: ''
-11-5-2-title: ''
-11-6-1-title: ''
-11-6-2-title: ''
-11-7-1-title: ''
-11-7-2-title: ''
-11-a-1-title: ''
-11-b-1-title: ''
-11-b-2-title: ''
-11-c-1-title: ''
-12-1-1-title: ''
-12-2-1-title: ''
-12-2-2-title: ''
-12-3-1-title: ''
-12-4-1-title: ''
-12-4-2-title: ''
-12-5-1-title: ''
-12-6-1-title: ''
-12-7-1-title: ''
-12-8-1-title: ''
-12-a-1-title: ''
-12-b-1-title: ''
-12-c-1-title: ''
-13-1-1-title: ''
-13-1-2-title: ''
-13-1-3-title: ''
-13-2-1-title: ''
-13-2-2-title: ''
-13-3-1-title: ''
-13-3-2-title: ''
-13-a-1-title: ''
-13-b-1-title: ''
-14-1-1-title: ''
-14-2-1-title: ''
-14-3-1-title: ''
-14-4-1-title: ''
-14-5-1-title: ''
-14-6-1-title: ''
-14-7-1-title: ''
-14-a-1-title: ''
-14-b-1-title: ''
-14-c-1-title: ''
-15-1-1-title: ''
-15-1-2-title: ''
-15-2-1-title: ''
-15-3-1-title: ''
-15-4-1-title: ''
-15-4-2-title: ''
-15-5-1-title: ''
-15-6-1-title: ''
-15-7-1-title: ''
-15-8-1-title: ''
-15-9-1-title: ''
-15-a-1-title: ''
-15-b-1-title: ''
-15-c-1-title: ''
-16-1-1-title: ''
-16-1-2-title: ''
-16-1-3-title: ''
-16-1-4-title: ''
-16-10-1-title: ''
-16-10-2-title: ''
-16-2-1-title: ''
-16-2-2-title: ''
-16-2-3-title: ''
-16-3-1-title: ''
-16-3-2-title: ''
-16-3-3-title: ''
-16-4-1-title: ''
-16-4-2-title: ''
-16-5-1-title: ''
-16-5-2-title: ''
-16-6-1-title: ''
-16-6-2-title: ''
-16-7-1-title: ''
-16-7-2-title: ''
-16-8-1-title: ''
-16-9-1-title: ''
-16-a-1-title: ''
-16-b-1-title: ''
-17-1-1-title: ''
-17-1-2-title: ''
-17-10-1-title: ''
-17-11-1-title: ''
-17-12-1-title: ''
-17-13-1-title: ''
-17-14-1-title: ''
-17-15-1-title: ''
-17-16-1-title: ''
-17-17-1-title: ''
-17-18-1-title: ''
-17-18-2-title: ''
-17-18-3-title: ''
-17-19-1-title: ''
-17-19-2-title: ''
-17-2-1-title: ''
-17-3-1-title: ''
-17-3-2-title: ''
-17-4-1-title: ''
-17-5-1-title: ''
-17-6-1-title: ''
-17-6-2-title: ''
-17-7-1-title: ''
-17-8-1-title: ''
-17-9-1-title: ''
-2-1-1-title: ''
-2-1-2-title: ''
-2-2-1-title: ''
-2-2-2-title: ''
-2-2-3-title: ''
-2-3-1-title: ''
-2-3-2-title: ''
-2-4-1-title: ''
-2-5-1-title: ''
-2-5-2-title: ''
-2-a-1-title: ''
-2-a-2-title: ''
-2-b-1-title: ''
-2-c-1-title: ''
-3-1-1-title: ''
-3-1-2-title: ''
-3-2-1-title: ''
-3-2-2-title: ''
-3-3-1-title: ''
-3-3-2-title: ''
-3-3-3-title: ''
-3-3-4-title: ''
-3-3-5-title: ''
-3-4-1-title: ''
-3-4-2-title: ''
-3-5-1-title: ''
-3-5-2-title: ''
-3-6-1-title: ''
-3-7-1-title: ''
-3-7-2-title: ''
-3-8-1-title: ''
-3-8-2-title: ''
-3-9-1-title: ''
-3-9-2-title: ''
-3-9-3-title: ''
-3-a-1-title: ''
-3-b-1-title: ''
-3-b-2-title: ''
-3-b-3-title: ''
-3-c-1-title: ''
-3-d-1-title: ''
-3-d-2-title: ''
-4-1-1-title: ''
-4-1-2-title: ''
-4-2-1-title: ''
-4-2-2-title: ''
-4-3-1-title: ''
-4-4-1-title: ''
-4-5-1-title: ''
-4-6-1-title: ''
-4-7-1-title: ''
-4-a-1-title: ''
-4-b-1-title: ''
-4-c-1-title: ''
-5-1-1-title: ''
-5-2-1-title: ''
-5-2-2-title: ''
-5-3-1-title: ''
-5-3-2-title: ''
-5-4-1-title: ''
-5-5-1-title: ''
-5-5-2-title: ''
-5-6-1-title: ''
-5-6-2-title: ''
-5-a-1-title: ''
-5-a-2-title: ''
-5-b-1-title: ''
-5-c-1-title: ''
-6-1-1-title: ''
-6-2-1-title: ''
-6-3-1-title: ''
-6-3-2-title: ''
-6-4-1-title: ''
-6-4-2-title: ''
-6-5-1-title: ''
-6-5-2-title: ''
-6-6-1-title: ''
-6-a-1-title: ''
-6-b-1-title: ''
-7-1-1-title: ''
-7-1-2-title: ''
-7-2-1-title: ''
-7-3-1-title: ''
-7-a-1-title: ''
-7-b-1-title: ''
-8-1-1-title: ''
-8-10-1-title: ''
-8-10-2-title: ''
-8-2-1-title: ''
-8-3-1-title: ''
-8-4-1-title: ''
-8-4-2-title: ''
-8-5-1-title: ''
-8-5-2-title: ''
-8-6-1-title: ''
-8-7-1-title: ''
-8-8-1-title: ''
-8-8-2-title: ''
-8-9-1-title: ''
-8-9-2-title: ''
-8-a-1-title: ''
-8-b-1-title: ''
-9-1-1-title: ''
-9-1-2-title: ''
-9-2-1-title: ''
-9-2-2-title: ''
-9-3-1-title: ''
-9-3-2-title: ''
-9-4-1-title: ''
-9-5-1-title: ''
-9-5-2-title: ''
-9-a-1-title: ''
-9-b-1-title: ''
-9-c-1-title: ''
+1-1-1-title: 'Procenat stanovništva koje živi ispod međunarodne linije siromaštva
+  prema polu, starosti, statusu zaposlenja i geografskoj lokaciji (urbano/ruralno)'
+1-2-1-title: 'Procenat stanovništva koje živi ispod nacionalne granice siromaštva,
+  prema polu i starosti'
+1-2-2-title: 'Udio muškaraca, žena i djece svih uzrasta koji žive u siromaštvu u svim
+  njegovim dimenzijama prema nacionalnim definicijama'
+1-3-1-title: 'Procenat stanovništva obuhvaćenog nivoima/sistemima socijalne zaštite,
+  po polu, po izdvajanju dece, nezaposlenih, starijih, osoba sa invaliditetom, trudnica,
+  novorođenčadi, žrtava povreda na radu i siromašnih i ugroženih'
+1-4-1-title: 'Procenat stanovništva koje živi u domaćinstvima sa pristupom osnovnim
+  uslugama'
+1-4-2-title: 'Procenat ukupnog odraslog stanovništva sa sigurnim zakupnim pravima
+  na zemljište, (a) sa zakonski priznatom dokumentacijom i (b) koji svoja prava na
+  zemljište doživljavaju sigurnim, prema polu i vrsti zakupa'
+1-5-1-title: 'Broj umrlih, nestalih i direktno pogođenih osoba pripisanih katastrofama
+  na 100 000 stanovnika'
+1-5-2-title: 'Direktni ekonomski gubitak koji se pripisuje katastrofama u odnosu na
+  globalni bruto domaći proizvod (BDP)'
+1-5-3-title: 'Broj zemalja koje usvajaju i primjenjuju nacionalne strategije za smanjenje
+  rizika od katastrofa u skladu sa Sendai okvirom za smanjenje rizika od katastrofa
+  2015–2030'
+1-5-4-title: 'Procenat lokalnih samouprava koje usvajaju i primjenjuju lokalne strategije
+  smanjenja rizika od katastrofa u skladu sa nacionalnim strategijama smanjenja rizika
+  od katastrofa'
+1-a-1-title: 'Ukupni grantovi zvanične razvojne pomoći od svih donatora koji se fokusiraju
+  na smanjenje siromaštva kao udio u bruto nacionalnom dohotku zemlje primaoca'
+1-a-2-title: 'Udio ukupne državne potrošnje na osnovne usluge (obrazovanje, zdravstvo
+  i socijalna zaštita)'
+1-a-3-title: 'Zbir ukupnih grantova i priliva koji ne stvaraju dugove direktno alociranih
+  na programe smanjenja siromaštva kao proporcija BDP-a'
+1-b-1-title: 'Javna socijalna potrošnja u korist siromašnih'
+10-1-1-title: 'Stope rasta potrošnje domaćinstava ili prihoda po glavi stanovnika
+  među donjih 40 procenata stanovništva i ukupnog stanovništva'
+10-2-1-title: 'Procenat ljudi koji žive ispod 50 odsto srednjeg prihoda, prema polu,
+  starosti i osobama sa invaliditetom'
+10-3-1-title: 'Procenat stanovništva koje je prijavilo da se lično osjećalo diskriminisano
+  ili uznemiravano u prethodnih 12 mjeseci po osnovu diskriminacije zabranjene međunarodnim
+  pravom o ljudskim pravima'
+10-4-1-title: 'Učešće rada u BDP-u'
+10-4-2-title: 'Redistributivni uticaj fiskalne politike'
+10-5-1-title: 'Indikatori finansijske stabilnosti'
+10-6-1-title: 'Udio članova i prava glasa zemalja u razvoju u međunarodnim organizacijama'
+10-7-1-title: 'Troškovi zapošljavanja koje snosi zaposleni kao proporcija mjesečnog
+  prihoda zarađenog u zemlji odredišta'
+10-7-2-title: 'Broj zemalja sa migracionim politikama koje omogućavaju urednu, sigurnu,
+  redovnu i odgovornu migraciju i mobilnost ljudi'
+10-7-3-title: 'Broj ljudi koji su umrli ili nestali u procesu migracije prema međunarodnoj
+  destinaciji'
+10-7-4-title: 'Procenat stanovništva koji su izbjeglice, prema zemlji porijekla'
+10-a-1-title: 'Udio tarifnih linija koje se primjenjuju na uvoz iz najmanje razvijenih
+  zemalja i zemalja u razvoju sa nultom tarifom'
+10-b-1-title: 'Ukupni tokovi resursa za razvoj, od strane primaoca i zemalja donatora
+  i vrste protoka (npr. Zvanična razvojna pomoć, direktna strana ulaganja i drugi
+  tokovi)'
+10-c-1-title: 'Troškovi doznake kao proporcija doznačenog iznosa'
+11-1-1-title: 'Procenat gradskog stanovništva koje živi u sirotinjskim četvrtima,
+  neformalnim naseljima ili neadekvatnim stanovanjima'
+11-2-1-title: 'Procenat stanovništva koje ima povoljan pristup javnom prevozu, prema
+  polu, starosti i osobama sa invaliditetom'
+11-3-1-title: 'Odnos stope potrošnje zemljišta i stope rasta stanovništva'
+11-3-2-title: 'Udio gradova sa strukturom direktnog učešća civilnog društva u urbanističkom
+  planiranju i upravljanju koji funkcionišu redovno i demokratski'
+11-4-1-title: 'Ukupni izdaci po glavi stanovnika za očuvanje, zaštitu i očuvanje cjelokupnog
+  kulturnog i prirodnog nasljeđa, prema izvoru finansiranja (javni, privatni), vrsti
+  baštine (kulturno, prirodno) i nivou vlasti (nacionalna, regionalna i lokalna/opštinska)'
+11-5-1-title: 'Broj umrlih, nestalih i direktno pogođenih osoba pripisanih katastrofama
+  na 100 000 stanovnika'
+11-5-2-title: 'Direktan ekonomski gubitak u odnosu na globalni BDP, šteta na kritičnoj
+  infrastrukturi i broj poremećaja osnovnih usluga, koji se pripisuju katastrofama'
+11-6-1-title: 'Udio čvrstog komunalnog otpada sakupljenog i kojim se upravlja u kontrolisanim
+  objektima od ukupnog nastalog komunalnog otpada, po gradovima'
+11-6-2-title: 'Godišnji srednji nivoi finih čestica (npr. PM2.5 i PM10) u gradovima
+  (prema broju stanovnika)'
+11-7-1-title: 'Prosječni udio izgrađenog područja gradova koji je otvoren prostor
+  za javnu upotrebu za sve, prema polu, starosti i osobama s invaliditetom'
+11-7-2-title: 'Udio osoba koje su bile žrtve fizičkog ili seksualnog uznemiravanja,
+  prema polu, starosti, statusu invaliditeta i mjestu događaja, u prethodnih 12 mjeseci'
+11-a-1-title: 'Broj zemalja koje imaju nacionalne urbane politike ili regionalne razvojne
+  planove koji (a) odgovaraju dinamici stanovništva; (b) osiguravaju uravnotežen teritorijalni
+  razvoj; i (c) povećavaju lokalni fiskalni prostor'
+11-b-1-title: 'Broj zemalja koje usvajaju i provode nacionalne strategije za smanjenje
+  rizika od katastrofa u skladu sa Sendai okvirom za smanjenje rizika od katastrofa
+  2015-2030'
+11-b-2-title: 'Udio lokalnih samouprava koje usvajaju i provode lokalne strategije
+  smanjenja rizika od katastrofa u skladu sa nacionalnim strategijama smanjenja rizika
+  od katastrofa'
+11-c-1-title: 'Udio finansijske podrške manje razvijenim zemljama koja se dodjeljuje
+  za izgradnju i rekonstrukciju održivih, otpornih i resursno efikasnih zgrada koristeći
+  lokalne materijale'
+12-1-1-title: 'Broj zemalja koje razvijaju, usvajaju ili provode instrumente politike
+  čiji je cilj da podrže prelazak na održivu potrošnju i proizvodnju'
+12-2-1-title: 'Materijalni otisak, materijalni otisak po glavi stanovnika i materijalni
+  otisak po BDP-u'
+12-2-2-title: 'Domaća potrošnja materijala, domaća potrošnja materijala po glavi stanovnika
+  i domaća potrošnja materijala po BDP-u'
+12-3-1-title: '(a) Indeks gubitka hrane i (b) indeks otpada od hrane'
+12-4-1-title: 'Broj strana u međunarodnim multilateralnim ekološkim sporazumima o
+  opasnom otpadu i drugim hemikalijama koje ispunjavaju svoje obaveze i obaveze u
+  prenošenju informacija kako se zahtijeva svakim relevantnim sporazumom'
+12-4-2-title: '(a) Opasni otpad proizveden po glavi stanovnika; i (b) udio tretiranog
+  opasnog otpada, prema vrsti tretmana'
+12-5-1-title: 'Nacionalna stopa recikliranja, tone recikliranog materijala'
+12-6-1-title: 'Broj kompanija koje objavljuju izvještaje o održivosti'
+12-7-1-title: 'Stepen implementacije održivih politika javnih nabavki i akcionog plana'
+12-8-1-title: 'Stepen do kojeg su (i) obrazovanje o globalnom građanstvu i (ii) obrazovanje
+  za održivi razvoj uključeni u (a) nacionalne obrazovne politike; (b) nastavni planovi
+  i programi; (c) obrazovanje nastavnika; i (d) ocjenjivanje učenika'
+12-a-1-title: 'Instalirani kapaciteti za proizvodnju obnovljive energije u zemljama
+  u razvoju (u vatima po glavi stanovnika)'
+12-b-1-title: 'Implementacija standardnih računovodstvenih alata za praćenje ekonomskih
+  i ekoloških aspekata održivosti turizma'
+12-c-1-title: 'Iznos subvencija za fosilna goriva po jedinici BDP-a (proizvodnja i
+  potrošnja)'
+13-1-1-title: 'Broj umrlih, nestalih i direktno pogođenih osoba pripisanih katastrofama
+  na 100 000 stanovnika'
+13-1-2-title: 'Broj zemalja koje usvajaju i sprovode nacionalne strategije za smanjenje
+  rizika od katastrofa u skladu sa Sendai okvirom za smanjenje rizika od katastrofa
+  2015-2030'
+13-1-3-title: 'Udio lokalnih samouprava koje usvajaju i sprovode lokalne strategije
+  smanjenja rizika od katastrofa u skladu sa nacionalnim strategijama smanjenja rizika
+  od katastrofa'
+13-2-1-title: 'Broj zemalja s nacionalno utvrđenim doprinosima, dugoročnim strategijama,
+  nacionalnim planovima adaptacije, strategijama kako je navedeno u komunikacijama
+  o adaptaciji i nacionalnim komunikacijama'
+13-2-2-title: 'Ukupna emisija gasova staklene bašte godišnje'
+13-3-1-title: 'U kojoj su mjeri (i) obrazovanje za globalno građanstvo i (ii) obrazovanje
+  za održivi razvoj uključeni u (a) nacionalne obrazovne politike; (b) nastavne planove
+  i programe; (c) obrazovanje nastavnika; i (d) ocjenjivanje studenata'
+13-3-2-title: 'Broj zemalja koje su saopštile jačanje institucionalne, sistemske i
+  individualne izgradnje kapaciteta za implementaciju aktivnosti prilagođavanja, ublažavanja
+  i prenosa tehnologije i razvoja'
+13-a-1-title: 'Iznosi osigurani i mobilizovani u američkim dolarima po godini u odnosu
+  na stalni postojeći cilj kolektivne mobilizacije od 100 milijardi dolara do 2025.
+  godine'
+13-b-1-title: 'Broj najnerazvijenijih zemalja i malih ostrvskih država u razvoju sa
+  nacionalno određenim doprinosima, dugoročnim strategijama, nacionalnim planovima
+  prilagođavanja, strategijama kako je navedeno u komunikacijama o prilagođavanju
+  i nacionalnim komunikacijama'
+14-1-1-title: '(a) Indeks priobalne eutrofikacije; i (b) gustina plastičnih ostataka'
+14-2-1-title: 'Broj zemalja koje koriste pristupe zasnovane na ekosistemima u upravljanju
+  morskim područjima'
+14-3-1-title: 'Prosječna morska kisjelost (pH) izmjerena na dogovorenom skupu reprezentativnih
+  stanica za uzorkovanje'
+14-4-1-title: 'Udio ribljeg fonda unutar biološki održivog nivoa'
+14-5-1-title: 'Pokrivenost zaštićenih područja u odnosu na morska područja'
+14-6-1-title: 'Stepen implementacije međunarodnih instrumenata za borbu protiv nelegalnog,
+  neprijavljenog i neregulisanog ribolova'
+14-7-1-title: 'Održivo ribarstvo kao udio BDP-a u malim ostrvskim državama u razvoju,
+  manje razvijenim zemljama i svim zemljama'
+14-a-1-title: 'Udio od ukupnog budžeta za istraživanje koji se izdvaja za istraživanja
+  u oblasti pomorske tehnologije'
+14-b-1-title: 'Stepen primjene pravnog/regulatornog/političkog/institucionalnog okvira
+  koji priznaje i štiti prava pristupa za malo ribarstvo'
+14-c-1-title: 'Broj zemalja koje ostvaruju napredak u ratifikaciji, prihvatanju i
+  implementaciji kroz pravne, političke i institucionalne okvire, instrumenata vezanih
+  za okeane koji sprovode međunarodno pravo, kako je navedeno u Konvenciji Ujedinjenih
+  nacija o pravu mora, za očuvanje i održivo korišćenje okeana i njihovih resursa'
+15-1-1-title: 'Površina šuma kao udio ukupne površine zemljišta'
+15-1-2-title: 'Udio važnih lokaliteta za kopneni i slatkovodni biodiverzitet koji
+  su pokriveni zaštićenim područjima, prema tipu ekosistema'
+15-2-1-title: 'Napredak u pravcu održivog upravljanja šumama'
+15-3-1-title: 'Udio zemljišta koje je degradirano u ukupnoj površini zemljišta'
+15-4-1-title: 'Pokrivenost zaštićenim područjima važnih lokacija za biodiverzitet
+  planina'
+15-4-2-title: 'Indeks zelenog pokrivača planine'
+15-5-1-title: 'Indeks crvene liste'
+15-6-1-title: 'Broj zemalja koje su usvojile zakonodavne, administrativne i političke
+  okvire kako bi osigurale pravednu i pravičnu podjelu koristi'
+15-7-1-title: 'Udio divljih životinja kojima se trguje koje su bile krivolovljene
+  ili se njima ilegalno trgovalo'
+15-8-1-title: 'Udio zemalja koje usvajaju relevantno nacionalno zakonodavstvo i adekvatne
+  resurse za prevenciju ili kontrolu invazivnih stranih vrsta'
+15-9-1-title: '(a) Broj zemalja koje su postavile nacionalne ciljeve u skladu sa ili
+  sličnim Cilju 2 za biodiverzitet iz Aičija iz Strateškog plana za biodiverzitet
+  2011–2020 u svojim nacionalnim strategijama i akcionim planovima za biodiverzitet
+  i napretku koji je prijavljen ka ovim ciljevima; i (b) integraciju biodiverziteta
+  u nacionalne sisteme računovodstva i izveštavanja, definisane kao implementacija
+  Sistema ekološko-ekonomskog računovodstva'
+15-a-1-title: '(a) Zvanična razvojna pomoć za očuvanje i održivo korišćenje biodiverziteta;
+  i (b) ostvareni prihodi i mobilisana finansijska sredstva iz ekonomskih instrumenata
+  relevantnih za biodiverzitet'
+15-b-1-title: '(a) Zvanična razvojna pomoć za očuvanje i održivo korišćenje biodiverziteta;
+  i (b) ostvareni prihodi i mobilisana finansijska sredstva iz ekonomskih instrumenata
+  relevantnih za biodiverzitet'
+15-c-1-title: 'Udio divljih životinja kojima se trguje i koje su bile krivolovljene
+  ili se njima ilegalno trgovalo'
+16-1-1-title: 'Broj žrtava namjernog ubistva na 100 000 stanovnika, prema polu i starosti'
+16-1-2-title: 'Smrtni slučajevi uzrokovani sukobima na 100 000 stanovnika, prema polu,
+  starosti i uzroku'
+16-1-3-title: 'Procenat stanovništva koji je bio izložen (a) fizičkom nasilju, (b)
+  psihičkom nasilju i (c) seksualnom nasilju u prethodnih 12 mjeseci'
+16-1-4-title: 'Procenat stanovništva koji se osjeća bezbjedno šetajući samostalno
+  po području u kojem živi'
+16-10-1-title: 'Broj verifikovanih slučajeva ubistva, otmice, prisilnog nestanka,
+  proizvoljnog pritvaranja i mučenja novinara, povezanih medijskih kadrova, sindikalaca
+  i zagovornika ljudskih prava u prethodnih 12 mjeseci'
+16-10-2-title: 'Broj zemalja koje usvajaju i primjenjuju ustavne, zakonske i/ili političke
+  garancije za javni pristup informacijama'
+16-2-1-title: 'Procenat djece uzrasta od 1 do 17 godina koja su doživjela bilo kakvo
+  fizičko kažnjavanje i/ili psihološku agresiju od strane staratelja u posljednjih
+  mjesec dana'
+16-2-2-title: 'Broj žrtava trgovine ljudima na 100 000 stanovnika, prema polu, starosti
+  i obliku eksploatacije'
+16-2-3-title: 'Procenat mladih žena i muškaraca starosti 18–29 godina koji su doživjeli
+  seksualno nasilje do 18 godina'
+16-3-1-title: 'Procenat žrtava nasilja u prethodnih 12 mjeseci koje su prijavile svoju
+  viktimizaciju nadležnim organima ili drugim zvanično priznatim mehanizmima za rješavanje
+  sukoba'
+16-3-2-title: 'Neosuđeni pritvorenici kao udio ukupne zatvorske populacije'
+16-3-3-title: 'Procenat stanovništva koji je doživeo spor u posljednje dvije godine
+  i koji je pristupio formalnom ili neformalnom mehanizmu za rješavanje sporova, prema
+  vrsti mehanizma'
+16-4-1-title: 'Ukupna vrijednost ulaznih i spoljnih nezakonitih finansijskih tokova
+  (u tekućim američkim dolarima)'
+16-4-2-title: 'Udeo zaplijenjenog, pronađenog ili predatog oružja čije je nezakonito
+  porijeklo ili kontekst utvrdio nadležni organ u skladu sa međunarodnim instrumentima'
+16-5-1-title: 'Udio osoba koje su imale barem jedan kontakt sa javnim funkcionerom
+  i koje su dale mito javnom funkcioneru, ili su im ti javni funkcioneri tražili mito
+  u prethodnih 12 mjeseci'
+16-5-2-title: 'Udio preduzeća koja su imala barem jedan kontakt sa javnim službenikom
+  i koja su platila mito javnom službeniku ili su im ti javni službenici tražili mito
+  tokom prethodnih 12 mjeseci'
+16-6-1-title: 'Primarni državni rashodi kao udio prvobitno odobrenog budžeta, po sektoru
+  (ili prema budžetskim kodovima ili slično)'
+16-6-2-title: 'Udio stanovništva zadovoljnog svojim posljednjim iskustvom javnih usluga'
+16-7-1-title: 'Proporcije pozicija u nacionalnim i lokalnim institucijama, uključujući
+  (a) zakonodavna tijela; (b) javne službe; i (c) pravosuđe, u poređenju sa nacionalnom
+  distribucijom, prema polu, starosti, osobama sa invaliditetom i grupama stanovništva'
+16-7-2-title: 'Udio stanovništva koji vjeruje da je donošenje odluka inkluzivno i
+  odgovorno, prema polu, starosti, invalidnosti i grupi stanovništva'
+16-8-1-title: 'Udio članova i prava glasa zemalja u razvoju u međunarodnim organizacijama'
+16-9-1-title: 'Udio djece mlađe od 5 godina čija su rođenja upisana u registar civilnih
+  organa, prema starosti'
+16-a-1-title: 'Postojanje nezavisnih nacionalnih institucija za ljudska prava u skladu
+  sa Pariškim principima'
+16-b-1-title: 'Udio stanovništva koje je prijavilo da se lično osjećalo diskriminisano
+  ili uznemiravano u prethodnih 12 mjeseci na osnovu diskriminacije zabranjene međunarodnim
+  pravom o ljudskim pravima'
+17-1-1-title: 'Ukupni državni prihod kao udio BDP-a, prema izvoru'
+17-1-2-title: 'Udio domaćeg budžeta koji se finansira domaćim porezima'
+17-10-1-title: 'Svjetski ponderisani tarifni prosek'
+17-11-1-title: 'Udio zemalja u razvoju i manje razvijenih zemalja u globalnom izvozu'
+17-12-1-title: 'Ponderisane prosječne tarife sa kojima se suočavaju zemlje u razvoju,
+  manje razvijene zemlje i male ostrvske države u razvoju'
+17-13-1-title: 'Makroekonomska kontrolna tabla'
+17-14-1-title: 'Broj zemalja sa uspostavljenim mehanizmima za poboljšanje koherentnosti
+  politika održivog razvoja'
+17-15-1-title: 'Obim upotrebe okvira rezultata i alata za planiranje u vlasništvu
+  države od strane pružalaca razvojne saradnje'
+17-16-1-title: 'Broj zemalja koje izvještavaju o napretku u okvirima za praćenje
+  efektivnosti razvoja sa više zainteresovanih strana koji podržavaju postizanje ciljeva
+  održivog razvoja'
+17-17-1-title: 'Iznos u američkim dolarima posvećen javno-privatnim partnerstvima
+  za infrastrukturu'
+17-18-1-title: 'Pokazatelj statističkih kapaciteta za praćenje ciljeva održivog razvoja'
+17-18-2-title: 'Broj zemalja koje imaju nacionalno statističko zakonodavstvo koje
+  je u skladu sa Osnovnim principima zvanične statistike'
+17-18-3-title: 'Broj zemalja sa nacionalnim statističkim planom koji je u potpunosti
+  finansiran i koji se sprovodi, prema izvoru finansiranja'
+17-19-1-title: 'Dolarska vrijednost svih resursa stavljenih na raspolaganje za jačanje
+  statističkih kapaciteta u zemljama u razvoju'
+17-19-2-title: 'Udio zemalja koje su (a) izvršile najmanje jedan popis stanovništva
+  i stambenog fonda u posljednjih 10 godina; i (b) ostvarili 100 posto upisa rođenih
+  i 80 posto upisa umrlih'
+17-2-1-title: 'Neto zvanična razvojna pomoć, ukupna i po manje razvijenim zemljama,
+  kao proporcija u bruto nacionalnom dohotku donatora (BND) Komiteta za razvojnu pomoć
+  Organizacije za ekonomsku saradnju i razvoj (OECD)'
+17-3-1-title: 'Direktne strane investicije, zvanična razvojna pomoć i saradnja jug-jug
+  kao proporcija bruto nacionalnog dohotka'
+17-3-2-title: 'Obim doznaka (u američkim dolarima) kao proporcija ukupnog BDP-a'
+17-4-1-title: 'Otplata duga kao proporcija izvoza roba i usluga'
+17-5-1-title: 'Broj zemalja koje usvajaju i sprovode režime promocije investicija
+  za zemlje u razvoju, uključujući manje razvijene zemlje'
+17-6-1-title: 'Pretplate na fiksni širokopojasni internet na 100 stanovnika, po brzini'
+17-6-2-title: 'Pretplate na fiksni širokopojasni internet na 100 stanovnika, po brzini'
+17-7-1-title: 'Ukupan iznos sredstava za zemlje u razvoju za promovisanje razvoja,
+  prenosa i širenja ekološki prihvatljivih tehnologija'
+17-8-1-title: 'Udio pojedinaca koji koriste internet'
+17-9-1-title: 'Dolarska vrijednost finansijske i tehničke pomoći (kroz saradnju sjever-jug,
+  jug-jug i trouglastu saradnju) posvećene zemljama u razvoju'
+2-1-1-title: 'Prevalencija pothranjenosti'
+2-1-2-title: 'Prevalencija umjerene ili teške nesigurnosti hrane u populaciji, na
+  osnovu skale iskustva u nebezbjednosti hrane (FIES)'
+2-2-1-title: 'Prevalencija zaostajanja u rastu (visina za dob <-2 standardne devijacije
+  od medijana standarda rasta djece Svjetske zdravstvene organizacije (WHO)) među
+  djecom mlađom od 5 godina'
+2-2-2-title: 'Prevalencija pothranjenosti (težina u odnosu na visinu >+2 ili <-2 standardna
+  devijacija od medijana standarda rasta djece Svjetske zdravstvene organizacije)
+  među djecom mlađom od 5 godina, prema tipu (gubljenje i prekomjerna tjelesna težina)'
+2-2-3-title: 'Prevalencija anemije kod žena starosti od 15 do 49 godina, prema statusu
+  trudnoće (procenat)'
+2-3-1-title: 'Obim proizvodnje po jedinici rada po klasama veličine poljoprivrednog/pastirskog/šumarskog
+  preduzeća'
+2-3-2-title: 'Prosječan prihod malih proizvođača hrane, prema polu i statusu starosjedioca'
+2-4-1-title: 'Udio poljoprivrednih površina pod produktivnom i održivom poljoprivredom'
+2-5-1-title: 'Broj biljnih i životinjskih genetičkih resursa za hranu i poljoprivredu
+  osiguranih u srednjoročnim ili dugoročnim objektima za konzervaciju'
+2-5-2-title: 'Udeo lokalnih rasa koje su klasifikovane kao ugrožene izumiranjem'
+2-a-1-title: 'Indeks poljoprivredne orijentacije za državne rashode'
+2-a-2-title: 'Ukupni zvanični tokovi (zvanična razvojna pomoć plus drugi zvanični
+  tokovi) u sektoru poljoprivrede'
+2-b-1-title: 'Subvencije za izvoz poljoprivrednih proizvoda'
+2-c-1-title: 'Indikator anomalija cijena hrane'
+3-1-1-title: 'Stopa smrtnosti majki'
+3-1-2-title: 'Udio porođaja kojima prisustvuje kvalifikovano zdravstveno osoblje'
+3-2-1-title: 'Stopa smrtnosti ispod 5 godina'
+3-2-2-title: 'Stopa neonatalne smrtnosti'
+3-3-1-title: 'Broj novih HIV infekcija na 1 000 nezaražene populacije, prema polu,
+  starosti i ključnim populacijama'
+3-3-2-title: 'Incidencija tuberkuloze na 100 000 stanovnika'
+3-3-3-title: 'Učestalost malarije na 1 000 stanovnika'
+3-3-4-title: 'Incidencija hepatitisa B na 100 000 stanovnika'
+3-3-5-title: 'Broj ljudi kojima su potrebne intervencije protiv zanemarenih tropskih
+  bolesti'
+3-4-1-title: 'Stopa smrtnosti koja se pripisuje kardiovaskularnim bolestima, raku,
+  dijabetesu ili hroničnoj respiratornoj bolesti'
+3-4-2-title: 'Stopa smrtnosti od samoubistava'
+3-5-1-title: 'Pokrivenost intervencija liječenja (farmakoloških, psihosocijalnih i
+  usluga rehabilitacije i naknadne njege) za poremećaje povezane sa upotrebom supstanci'
+3-5-2-title: 'Potrošnja alkohola po glavi stanovnika (starosti od 15 godina i više)
+  u toku kalendarske godine u litrima čistog alkohola'
+3-6-1-title: 'Stopa smrtnosti od povreda u saobraćaju'
+3-7-1-title: 'Udio žena u reproduktivnom dobu (15-49 godina) koje imaju potrebu za
+  planiranjem porodice savremenim metodama'
+3-7-2-title: 'Stopa nataliteta adolescenata (10-14 godina; 15-19 godina) na 1 000
+  žena u toj starosnoj grupi'
+3-8-1-title: 'Pokrivenost osnovnih zdravstvenih usluga'
+3-8-2-title: 'Udio stanovništva sa velikim izdacima domaćinstva za zdravstvo kao udio
+  u ukupnim rashodima ili prihodima domaćinstva'
+3-9-1-title: 'Stopa mortaliteta pripisana zagađenju vazduha u domaćinstvu i okolini'
+3-9-2-title: 'Stopa smrtnosti koja se pripisuje nesigurnoj vodi, nesigurnoj sanitaciji
+  i nedostatku higijene (izloženost uslugama nesigurne vode, sanitacije i higijene
+  za sve (WASH))'
+3-9-3-title: 'Stopa smrtnosti koja se pripisuje nenamjernom trovanju'
+3-a-1-title: 'Standardizovana prevalencija trenutne upotrebe duvana među osobama starijim
+  od 15 godina'
+3-b-1-title: 'Udio ciljne populacije obuhvaćene svim vakcinama uključenim u njihov
+  nacionalni program'
+3-b-2-title: 'Ukupna neto službena razvojna pomoć medicinskim istraživanjima i osnovnim
+  zdravstvenim sektorima'
+3-b-3-title: 'Udio zdravstvenih ustanova koje imaju osnovni set relevantnih esencijalnih
+  ljekova dostupnih i pristupačnih na održivoj osnovi'
+3-c-1-title: 'Gustina i distribucija zdravstvenih radnika'
+3-d-1-title: 'Kapacitet međunarodnih zdravstvenih propisa (IHR) i spremnost za hitne
+  zdravstvene situacije'
+3-d-2-title: 'Procenat infekcija krvotoka zbog odabranih organizama otpornih na antimikrobne
+  ljekove'
+4-1-1-title: 'Udio djece i mladih (a) u 2/3 razredima; (b) na kraju osnovnog; i (c)
+  na kraju niže srednje škole koji dostižu minimalni nivo znanja (i) čitanja i (ii)
+  matematike, prema polu'
+4-1-2-title: 'Stopa završetka (osnovno obrazovanje, niže srednje obrazovanje, više
+  srednje obrazovanje)'
+4-2-1-title: 'Procenat djece uzrasta 24-59 mjeseci koja su u razvoju u zdravlju, učenju
+  i psihosocijalnom blagostanju, prema polu'
+4-2-2-title: 'Stopa učešća u organizovanom učenju (godinu dana prije zvaničnog uzrasta
+  za ulazak u osnovno obrazovanje), po polu'
+4-3-1-title: 'Stopa učešća mladih i odraslih u formalnom i neformalnom obrazovanju
+  i obuci u prethodnih 12 mjeseci, po polu'
+4-4-1-title: 'Udio mladih i odraslih sa vještinama informacionih i komunikacionih
+  tehnologija (IKT), prema vrsti vještine'
+4-5-1-title: 'Indeksi pariteta (žene/muškarci, ruralni/urbani, najniži/najviši kvintil
+  bogatstva i drugi kao što su status invalidnosti, autohtoni narodi i ugroženi sukobima,
+  kako podaci postanu dostupni) za sve indikatore obrazovanja na ovoj listi koji se
+  mogu razdvojiti'
+4-6-1-title: 'Proporcija stanovništva u datoj starosnoj grupi koja postiže barem fiksni
+  nivo znanja u funkcionalnoj (a) pismenosti i (b) matematičkim vještinama, prema
+  polu'
+4-7-1-title: 'Mjera u kojoj su (i) obrazovanje o globalnom građanstvu i (ii) obrazovanje
+  za održivi razvoj uključeni u (a) nacionalne obrazovne politike; (b) nastavne planove
+  i programe; (c) obrazovanje nastavnika; i (d) ocjenjivanje učenika'
+4-a-1-title: 'Procenat škola koje nude osnovne usluge, prema vrsti usluga'
+4-b-1-title: 'Obim tokova zvanične razvojne pomoći za stipendije po sektoru i vrsti
+  studija'
+4-c-1-title: 'Procenat nastavnika sa minimalno potrebnim kvalifikacijama, prema nivou
+  obrazovanja'
+5-1-1-title: 'Postojanje pravnih okvira za promovisanje, sprovođenje i praćenje jednakosti
+  i nediskriminacije na osnovu pola'
+5-2-1-title: 'Procenat žena i djevojaka koje su imale partnera od 15 godina i više
+  koje su bile izložene fizičkom, seksualnom ili psihičkom nasilju od strane sadašnjeg
+  ili bivšeg intimnog partnera u prethodnih 12 mjeseci, prema obliku nasilja i prema
+  godinama'
+5-2-2-title: 'Procenat žena i djevojčica od 15 godina i više koje su bile izložene
+  seksualnom nasilju od strane osoba koje nisu intimni partner u prethodnih 12 mjeseci,
+  prema starosti i mjestu događaja'
+5-3-1-title: 'Procenat žena starosti 20–24 godine koje su bile u braku ili u zajednici
+  prije 15 i prije 18 godina starosti'
+5-3-2-title: 'Procenat djevojaka i žena starosti od 15 do 49 godina koje su bile podvrgnute
+  sakaćenju/rezanju ženskih genitalija, prema godinama'
+5-4-1-title: 'Procenat vremena provedenog na neplaćenim poslovima u kući i njezi,
+  prema polu, starosti i lokaciji'
+5-5-1-title: 'Procenat mjesta koje imaju žene u (a) nacionalnim parlamentima i (b)
+  lokalnim samoupravama'
+5-5-2-title: 'Udio žena na rukovodećim pozicijama'
+5-6-1-title: 'Procenat žena starosti od 15 do 49 godina koje donose sopstvene i informisane
+  odluke u vezi sa seksualnim odnosima, upotrebom kontraceptiva i reproduktivnom zdravstvenom
+  zaštitom'
+5-6-2-title: 'Broj zemalja sa zakonima i propisima koji garantuju pun i jednak pristup
+  ženama i muškarcima starijim od 15 godina seksualnoj i reproduktivnoj zdravstvenoj
+  zaštiti, informacijama i obrazovanju'
+5-a-1-title: '(a) Proporcija ukupnog poljoprivrednog stanovništva sa vlasništvom ili
+  sigurnim pravima nad poljoprivrednim zemljištem, prema polu; i (b) udio žena među
+  vlasnicima ili nosiocima prava na poljoprivredno zemljište, prema vrsti posjeda'
+5-a-2-title: 'Procenat zemalja u kojima pravni okvir (uključujući običajno pravo)
+  garantuje ženama jednaka prava na vlasništvo nad zemljom i/ili kontrolu'
+5-b-1-title: 'Procenat pojedinaca koji posjeduju mobilni telefon, prema polu'
+5-c-1-title: 'Procenat zemalja sa sistemima za praćenje i izdvajanje javnih sredstava
+  za rodnu ravnopravnost i osnaživanje žena'
+6-1-1-title: 'Procenat stanovništva koji koristi bezbjedne servise za upravljane uslugama
+  pijaće vode'
+6-2-1-title: 'Procenat stanovništva koji koristi (a) bezbjedno upravljane sanitarne
+  usluge i (b) objekat za pranje ruku sapunom i vodom'
+6-3-1-title: 'Udio kućnih i industrijskih otpadnih voda koje se bezbjedno tretiraju'
+6-3-2-title: 'Udio vodenih tijela sa dobrim kvalitetom okolne vode'
+6-4-1-title: 'Promjena efikasnosti korišćenja vode tokom vremena'
+6-4-2-title: 'Nivo vodenog stresa: povlačenje slatke vode kao proporcija raspoloživih
+  slatkovodnih resursa'
+6-5-1-title: 'Stepen integrisanog upravljanja vodenim resursima'
+6-5-2-title: 'Proporcija prekograničnog sliva sa operativnim aranžmanom za vodnu saradnju'
+6-6-1-title: 'Promjena obima ekosistema povezanih sa vodom tokom vremena'
+6-a-1-title: 'Iznos zvanične razvojne pomoći u vezi sa vodom i kanalizacijom koja
+  je dio plana potrošnje kojim koordinira vlada'
+6-b-1-title: 'Udio lokalnih administrativnih jedinica sa utvrđenim i operativnim politikama
+  i procedurama za učešće lokalnih zajednica u upravljanju vodama i kanalizacijom'
+7-1-1-title: 'Procenat stanovništva sa pristupom električnoj energiji'
+7-1-2-title: 'Procenat stanovništva koje se primarno oslanja na čista goriva i tehnologije'
+7-2-1-title: 'Učešće obnovljive energije u ukupnoj finalnoj potrošnji energije'
+7-3-1-title: 'Energetski intenzitet mjeren u smislu primarne energije i BDP-a'
+7-a-1-title: 'Međunarodni finansijski tokovi prema zemljama u razvoju kao podrška
+  istraživanju i razvoju čiste energije i proizvodnji obnovljive energije, uključujući
+  i hibridne sisteme'
+7-b-1-title: 'Instalirani kapaciteti za proizvodnju obnovljive energije u zemljama
+  u razvoju (u vatima po glavi stanovnika)'
+8-1-1-title: 'Godišnja stopa rasta realnog BDP-a po glavi stanovnika'
+8-10-1-title: '(a) Broj filijala komercijalnih banaka na 100 000 odraslih i (b) broj
+  bankomata (bankomata) na 100 000 odraslih'
+8-10-2-title: 'Procenat odraslih (15 godina i stariji) sa računom u banci ili drugoj
+  finansijskoj instituciji ili kod pružaoca usluga mobilnog novca'
+8-2-1-title: 'Godišnja stopa rasta realnog BDP-a po zapošljenom licu'
+8-3-1-title: 'Udio neformalne zaposlenosti u ukupnoj zaposlenosti, po sektoru i polu'
+8-4-1-title: 'Materijalni otisak, materijalni otisak po glavi stanovnika i materijalni
+  otisak po BDP-u'
+8-4-2-title: 'Domaća potrošnja materijala, domaća potrošnja materijala po glavi
+  stanovnika i domaća potrošnja materijala po BDP-u'
+8-5-1-title: 'Prosječne zarade zaposlenih po satu, po polu, starosti, zanimanju i
+  osobama sa invaliditetom'
+8-5-2-title: 'Stopa nezaposlenosti, prema polu, starosti i osobama sa invaliditetom'
+8-6-1-title: 'Procenat mladih (starosti 15–24 godine) koji nijesu u obrazovanju, zaposlenju
+  ili u obuci'
+8-7-1-title: 'Udio i broj djece uzrasta 5–17 godina angažovane na dječijem radu, po
+  polu i starosti'
+8-8-1-title: 'Fatalne i nefatalne povrede na radu na 100 000 radnika, prema polu i
+  migrantskom statusu'
+8-8-2-title: 'Nivo nacionalnog poštovanja radnih prava (sloboda udruživanja i kolektivno
+  pregovaranje) na osnovu tekstualnih izvora Međunarodne organizacije rada (ILO) i
+  nacionalnog zakonodavstva, prema polu i statusu migranata'
+8-9-1-title: 'Turizam direktnog BDP-a kao proporcija ukupnog BDP-a i u stopi rasta'
+8-9-2-title: 'Udio radnih mjesta u industrijama održivog turizma od ukupnih radnih
+  mjesta u turizmu'
+8-a-1-title: 'Pomoć za trgovinske obaveze i isplate'
+8-b-1-title: 'Postojanje razvijene i operacionalizovane nacionalne strategije za zapošljavanje
+  mladih, kao posebne strategije ili kao dijela nacionalne strategije zapošljavanja'
+9-1-1-title: 'Procenat seoskog stanovništva koje živi u krugu od 2 km od puta tokom
+  svih godišnjih doba'
+9-1-2-title: 'Obim putnika i tereta, prema vidovima transporta'
+9-2-1-title: 'Dodatna vrijednost proizvodnje kao proporcija BDP-a i po glavi stanovnika'
+9-2-2-title: 'Zaposlenost u proizvodnji kao proporcija ukupne zaposlenosti'
+9-3-1-title: 'Udio malih industrija u ukupnoj dodatoj vrijednosti industrije'
+9-3-2-title: 'Procenat malih industrija koje imaju zajam ili kreditnu liniju'
+9-4-1-title: 'Emisija CO2 po jedinici dodate vrijednosti'
+9-5-1-title: 'Izdaci za istraživanje i razvoj kao proporcija BDP-a'
+9-5-2-title: 'Istraživači (u ekvivalentu punog radnog vremena) na milion stanovnika'
+9-a-1-title: 'Ukupna zvanična međunarodna podrška (zvanična razvojna pomoć plus drugi
+  zvanični tokovi) infrastrukturi'
+9-b-1-title: 'Udio dodate vrijednosti srednje i visokotehnološke industrije u ukupnoj
+  dodatoj vrijednosti'
+9-c-1-title: 'Procenat stanovništva pokrivenog mobilnom mrežom, prema tehnologiji'

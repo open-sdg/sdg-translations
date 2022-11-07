@@ -6,6 +6,12 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## 2.1.0
+
+* Add goal icons for Nepali
+* Add Montenegrin language
+* Add new translation strings for Open SDG features
+
 ## 2.0.0
 
 * Internet Explorer alert translations #280

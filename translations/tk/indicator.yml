@@ -115,3 +115,17 @@ download_source_for_disaggregations: Aýralyk üçin çeşme CSV-ni göçürip a
 cancel: Elatyr
 change_breakdowns: Bölümleri üýtgediň
 apply: Giriş
+empty_metadata_placeholder: Bu görkeziji üçin elýeterli däl
+total: Jemi
+map_search_cancel: Karta gözlegini arassala
+map_zoom_in: Kartada ulaldyň
+map_zoom_out: Kartada ulaldyň
+map_zoom_home: Kartany ýakynlaşdyrmak üçin täzeden düzüň
+map_fullscreen: Kartanyň doly ekranyny görüň
+map_fullscreen_exit: Doly ekran kartasyndan çykyň
+map_slider_back: Öňki döwür üçin karta maglumatlaryny görüň
+map_slider_forward: Indiki döwür üçin karta maglumatlaryny görüň
+map_slider_keyboard: Çep we sag ok düwmelerini ulanyp, wagtyň dowamynda karta maglumatlaryny
+  görüň
+map_slider_mouse: Karta maglumatlaryny wagt boýunça geziň
+empty_metadata_placeholder_sources: Bu çeşme üçin elýeterli däl

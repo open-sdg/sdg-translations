@@ -116,3 +116,17 @@ download_source_for_disaggregations: Манбаи CSV-ро барои тақси
 apply: Муроҷиат кунед
 cancel: Бекор кардан
 change_breakdowns: Тағйир додани тақсимот
+empty_metadata_placeholder: Барои ин нишондиҳанда дастрас нест
+total: Ҳамагӣ
+map_search_cancel: Ҷустуҷӯи харитаро тоза кунед
+map_zoom_in: Дар харита калон кунед
+map_zoom_out: Дар харита хурд кунед
+map_zoom_home: Ба андозаи пешфарзии харита баргардонед
+map_fullscreen: Намоиши харитаи пурра экран
+map_fullscreen_exit: Харитаи пурра экранро тарк кунед
+map_slider_back: Дидани маълумоти харита барои давраи гузашта
+map_slider_forward: Дидани маълумоти харита барои давраи оянда
+map_slider_keyboard: Бо истифода аз калидҳои тирчаи чап ва рост маълумоти харитаро
+  дар тӯли вақт дидан кунед
+map_slider_mouse: Маълумоти харитаро аз рӯи вақт паймоиш кунед
+empty_metadata_placeholder_sources: Барои ин манбаъ дастрас нест

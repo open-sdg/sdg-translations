@@ -12,3 +12,5 @@ intro_body: <a href="https://www.un.org/sustainabledevelopment/ru/">Тұрақт
 instructions_short: '%country.name Тұрақты даму мақсаты жаһандық индикатор деректері
   үшін әрбір мақсатты басыңыз.'
 heading_short: '%country.name деректері Тұрақты даму мақсаттары үшін'
+instructions_shorter: Көрсеткіш деректері үшін әрбір мақсатты таңдаңыз.
+file_size: Өлшем

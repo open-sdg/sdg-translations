@@ -4,6 +4,7 @@ reported_online: Reported online
 statistics_in_progress: Statistics in progress
 exploring_data_sources: Exploring data sources
 not_applicable: Not applicable
+no_data_available: No data available
 # Describing a section where the status is reported for each goal
 status_by_goal: Status by goal
 status_by_field: Status by %field
@@ -23,3 +24,4 @@ progress_not_available: Not available
 progress_challenges_remain: Challenges remain
 progress_approaching_target: Approaching target
 progress_target_achieved: Target achieved
+progress_help: How are we doing against the 2030 target?

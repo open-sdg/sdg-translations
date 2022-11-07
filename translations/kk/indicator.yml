@@ -77,3 +77,17 @@ download_source_for_disaggregations: Бөлу үшін CSV көзін жүкте
 apply: Қолдану
 cancel: Болдырмау
 change_breakdowns: Бұзылуларды өзгерту
+empty_metadata_placeholder: Бұл көрсеткіш үшін қол жетімді емес
+total: Барлығы
+map_fullscreen: Картаны толық экранда қарау
+map_fullscreen_exit: Толық экранды картадан шығу
+map_slider_back: Алдыңғы уақыт кезеңіндегі карта деректерін көру
+map_slider_forward: Келесі уақыт кезеңі үшін карта деректерін қараңыз
+map_slider_keyboard: Сол және оң жақ көрсеткі пернелерді пайдалану арқылы уақыт кезеңі
+  бойынша карта деректерін қараңыз
+map_search_cancel: Картадан іздеуді өшіріңіз
+map_zoom_in: Картада үлкейту
+map_zoom_out: Картада кішірейту
+map_zoom_home: Әдепкі карта масштабын қалпына келтіріңіз
+map_slider_mouse: Уақыт кезеңі бойынша карта деректерін шарлау
+empty_metadata_placeholder_sources: Бұл дереккөз үшін қолжетімді емес

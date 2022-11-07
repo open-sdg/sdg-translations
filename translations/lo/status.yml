@@ -23,3 +23,5 @@ progress_approaching_target: ໃກ້ຮອດເປົ້າໝາຍ
 progress_target_achieved: ເປົ້າໝາຍບັນລຸໄດ້
 description: ສະຖານະການລາຍງານໃຫ້ພາບລວມຂອງເປົ້າໝາຍການພັດທະນາແບບຍືນຍົງ (SDG) ຫຼາຍປານໃດ
   ລາຍງານ %country.name.
+no_data_available: ບໍ່ມີຂໍ້ມູນ
+progress_help: ພວກເຮົາເຮັດແນວໃດຕໍ່ກັບເປົ້າຫມາຍ 2030?

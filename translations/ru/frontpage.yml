@@ -13,3 +13,5 @@ intro_body: <a href="https://www.un.org/sustainabledevelopment/ru/">Цели в 
 instructions_short: Нажмите на каждую цель, чтобы получить данные о глобальных показателях
   Целей устойчивого развития %country.name.
 heading_short: '%country.name данные для Целей устойчивого развития'
+instructions_shorter: Выберите каждую цель для получения данных по индикаторам.
+file_size: Размер

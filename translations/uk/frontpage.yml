@@ -12,3 +12,5 @@ intro_body: <a href="https://www.un.org/sustainabledevelopment/sustainable-devel
 instructions_short: Натисніть на кожну ціль для глобальних даних індикаторів %country.name
   Цілі сталого розвитку.
 heading_short: '%country.name дані для Цілей сталого розвитку'
+instructions_shorter: Виберіть кожну ціль для даних індикатора.
+file_size: Розмір

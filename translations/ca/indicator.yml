@@ -80,3 +80,17 @@ download_source_for_disaggregations: Baixeu CSV font per a les desagregacions
 apply: Aplicar
 cancel: Cancel · lar
 change_breakdowns: Canviar avaries
+empty_metadata_placeholder: No disponible per a aquest indicador
+total: Total
+map_search_cancel: Neteja la cerca al mapa
+map_zoom_in: Amplia el mapa
+map_zoom_out: Allunya el mapa
+map_zoom_home: Restableix el zoom del mapa predeterminat
+map_fullscreen: Veure mapa a pantalla completa
+map_fullscreen_exit: Sortir del mapa a pantalla completa
+map_slider_back: Consulta les dades del mapa del període de temps anterior
+map_slider_forward: Consulta les dades del mapa per al proper període de temps
+map_slider_keyboard: Visualitza les dades del mapa durant tot el període de temps
+  utilitzant les tecles de fletxa esquerra i dreta
+map_slider_mouse: Navega per les dades del mapa per període de temps
+empty_metadata_placeholder_sources: No disponible per a aquesta font

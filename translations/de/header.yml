@@ -15,8 +15,11 @@ internet_explorer_message_title: Der Internet-Browser wird nicht mehr unterstüt
 internet_explorer_message: Wir haben festgestellt, dass Sie den Internet Explorer
   verwenden, um diese Website zu besuchen. Der Internet Explorer wird von Microsoft
   nicht mehr unterstützt. Aus diesem Grund hat diese Website ebenfalls die Unterstützung
-   für alle Versionen des Internet Explorers eingestellt, einige Bereiche auf dieser
-   Website werden daher nicht oder nur eingeschränkt funktionieren. Bitte verwenden
-   Sie einen modernen Browser wie Edge, Chrome, Firefox oder Safari. Wenn Sie
-   Schwierigkeiten haben, einen anderen Browser zu installieren oder darauf zuzugreifen,
-   wenden Sie sich bitte an Ihr IT-Supportteam.
+  für alle Versionen des Internet Explorers eingestellt, einige Bereiche auf dieser
+  Website werden daher nicht oder nur eingeschränkt funktionieren. Bitte verwenden
+  Sie einen modernen Browser wie Edge, Chrome, Firefox oder Safari. Wenn Sie Schwierigkeiten
+  haben, einen anderen Browser zu installieren oder darauf zuzugreifen, wenden Sie
+  sich bitte an Ihr IT-Supportteam.
+show_menu: Navigationsmenü anzeigen
+hide_menu: Navigationsmenü ausblenden
+logo_title: Zur Homepage gehen

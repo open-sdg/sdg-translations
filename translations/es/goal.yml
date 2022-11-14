@@ -1,6 +1,6 @@
 previous: 'Objetivo anterior'
-next: 'Siguiente objetivo'
+next: 'Próximo objetivo'
 goal: Objetivo
-description: Haga clic en cada objetivo para ver las estadísticas de %country.name
-  indicadores globales de los Objetivos de Desarrollo Sostenible.
+description: Haga clic en cada objetivo para ver las estadísticas de los indicadores
+  globales de los Objetivos de Desarrollo Sostenible de %country.name.
 indicators_for_goal: Ver las metas e indicadores del Objetivo

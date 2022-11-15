@@ -117,15 +117,15 @@ cancel: Zrušit
 change_breakdowns: Přehledy změn
 empty_metadata_placeholder: Není k dispozici pro tento ukazatel
 total: Celkem
-map_zoom_home: Obnovení výchozího zvětšení mapy
+map_zoom_home: Obnovení výchozího přiblížení mapy
 map_fullscreen: Zobrazit mapu na celou obrazovku
-map_fullscreen_exit: Ukončení mapy na celou obrazovku
+map_fullscreen_exit: Ukončení zobrazení mapy na celou obrazovku
 map_slider_back: Zobrazení mapových dat za předchozí časové období
-map_slider_forward: Zobrazení dat mapy pro další časové období
+map_slider_forward: Zobrazení mapových dat pro další časové období
 map_slider_keyboard: Zobrazení mapových dat v průběhu časového období pomocí šipek
-  vlevo a vpravo.
-map_slider_mouse: Navigace v mapových datech podle časového období
+  vlevo a vpravo
+map_slider_mouse: Procházejte mapová data podle časového období
 map_search_cancel: Přehledné vyhledávání na mapě
 map_zoom_in: Přiblížení mapy
-map_zoom_out: Zvětšení mapy
+map_zoom_out: Oddálení mapy
 empty_metadata_placeholder_sources: Pro tento zdroj není k dispozici

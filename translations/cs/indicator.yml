@@ -125,7 +125,7 @@ map_slider_forward: Zobrazení mapových dat pro další časové období
 map_slider_keyboard: Zobrazení mapových dat v průběhu časového období pomocí šipek
   vlevo a vpravo
 map_slider_mouse: Procházejte mapová data podle časového období
-map_search_cancel: Přehledné vyhledávání na mapě
+map_search_cancel: Vymazat hledání v mapě
 map_zoom_in: Přiblížení mapy
 map_zoom_out: Oddálení mapy
 empty_metadata_placeholder_sources: Pro tento zdroj není k dispozici

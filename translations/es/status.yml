@@ -15,8 +15,9 @@ disaggregation_status_notapplicable: 'Fuera de alcance'
 disaggregation_status_by_field: 'Desagregación por %field'
 not_specified: No se especifica
 reported: Informado
-description: El estado del informen proporciona una descripción general de la cantidad
-  de datos del Sustainable Development Goal (SDG) que se informa para %country.name.
+description: El estado de los informes proporciona una descripción general de la cantidad
+  de datos de los Objetivos de Desarrollo Sostenible (ODS) que informa %country.name
+  .
 progress_status: Estado del progreso
 progress_not_available: No hay datos
 progress_challenges_remain: Siguen los desafíos

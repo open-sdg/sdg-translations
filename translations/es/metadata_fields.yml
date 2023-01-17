@@ -3,7 +3,7 @@ computation_calculations: Cálculos
 computation_definitions: Definiciones
 computation_units: Unidad de medida
 goal_meta_link: Enlace a los metadatos de la ONU
-indicator: Número de indicador
+indicator: Número del indicador
 indicator_definition: Descripción del indicador global
 indicator_name: Nombre del indicador
 indicator_sort_order: Orden de visualización del indicador (dentro de la página de
@@ -73,7 +73,7 @@ source_url_3: Enlace a la fuente de datos
 source_url_4: Enlace a la fuente de datos
 source_url_5: Enlace a la fuente de datos
 source_url_6: Enlace a la fuente de datos
-target: Nombre de destino
+target: Nombre del objetivo
 target_id: Número meta
 un_custodian_agency: Agencia de custodia de la ONU
 un_designated_tier: Nivel designado por la ONU

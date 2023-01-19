@@ -55,7 +55,7 @@ units_type: Tipo de unidades
 variable_hint: Disponible cuando se selecciona «%field»
 view_indicator_list: Ver la lista de indicadores de este objetivo
 edit_configuration: Editar la configuración
-next: Indicador próximo
+next: Siguiente indicador
 previous: Indicador anterior
 tags: Etiquetas
 status: Estado del indicador

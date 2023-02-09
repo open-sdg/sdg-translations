@@ -147,3 +147,9 @@ empty_metadata_placeholder: Not available for this indicator
 empty_metadata_placeholder_sources: Not available for this source
 # Text for an "aggregate" option in the map disaggregation popup.
 total: Total
+# Label indicating that an indicator is a proxy for a global indicator.
+proxy: Proxy
+# Description of what a proxy indicator is.
+proxy_description: This indicator contains some alternative data to those
+  specified by the United Nations (UN). The data displayed are the closest
+  match currently available.

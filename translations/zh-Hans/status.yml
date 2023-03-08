@@ -1,5 +1,5 @@
 exploring_data_sources: 探索数据源
-overall_reporting_status: 总体报告情况
+overall_reporting_status: 整体上报状况
 reported_online: 已在线上上报
 reporting_status: 上报状况
 statistics_in_progress: 统计在进行中
@@ -7,19 +7,19 @@ not_applicable: 不适用
 status_by_goal: 目标状况
 status_by_field: 状态%field
 disaggregation_status: '分列状况'
-disaggregation_status_overall: '总体分类状况'
-disaggregation_status_complete: '全面分类'
+disaggregation_status_overall: '整体分类状况'
+disaggregation_status_complete: '全部分类'
 disaggregation_status_inprogress: '部分分类'
 disaggregation_status_notstarted: '未分类'
 disaggregation_status_notapplicable: '不在范围内'
-disaggregation_status_by_field: '按%字段分列'
+disaggregation_status_by_field: '按 %field 分列'
 not_specified: 未标明
-reported: 已举报
+reported: 已上报
 progress_status: 进度情况
 progress_not_available: 不可用
 progress_challenges_remain: 挑战依然存在
 progress_approaching_target: 接近目标
 progress_target_achieved: 实现的目标
 description: 报告状态提供了关于 %country.name 报告的可持续发展目标（SDG）数据数量的概述。
-no_data_available: 无数据
+no_data_available: 无可用数据
 progress_help: 对照2030年的目标，我们做得如何？

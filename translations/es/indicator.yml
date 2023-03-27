@@ -98,3 +98,7 @@ map_slider_keyboard: Vea los datos del mapa a lo largo del periodo de tiempo uti
   las teclas de flecha izquierda y derecha
 annotation_series_break: Ruptura de la serie
 empty_metadata_placeholder_sources: No disponible para esta fuente
+proxy: Proxy
+proxy_description: Este indicador contiene algunos datos alternativos a los especificados
+  por la Organización de las Naciones Unidas (ONU). Los datos mostrados son la coincidencia
+  más cercana disponible actualmente.

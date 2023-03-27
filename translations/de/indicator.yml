@@ -95,3 +95,7 @@ map_slider_keyboard: Ansicht der Kartendaten über den gesamten Zeitraum mit den
   links und rechts
 map_slider_mouse: Navigieren in Kartendaten nach Zeiträumen
 empty_metadata_placeholder_sources: Für diese Quelle nicht verfügbar
+proxy: Vollmacht
+proxy_description: Dieser Indikator enthält einige alternative Daten zu den von den
+  Vereinten Nationen (UN) angegebenen Daten. Die angezeigten Daten entsprechen den
+  derzeit verfügbaren Daten am ehesten.

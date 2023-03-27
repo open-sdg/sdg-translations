@@ -130,6 +130,6 @@ map_zoom_in: Přiblížení mapy
 map_zoom_out: Oddálení mapy
 empty_metadata_placeholder_sources: Pro tento zdroj není k dispozici
 proxy: Proxy
-proxy_description: Tento ukazatel obsahuje některé alternativní údaje k údajům stanoveným
+proxy_description: Tento indikátor obsahuje některé alternativní údaje k údajům stanoveným
   Organizací spojených národů (OSN). Zobrazené údaje jsou nejbližšími údaji, které
   jsou v současné době k dispozici.

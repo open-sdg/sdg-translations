@@ -98,5 +98,5 @@ map_slider_keyboard: Visualisez les données de la carte sur une période donné
 empty_metadata_placeholder_sources: Non disponible pour cette source
 proxy: Proxy
 proxy_description: Cet indicateur contient des données alternatives à celles spécifiées
-  par les Nations Unies (ONU). Les données affichées sont celles qui correspondent
-  le mieux aux données actuellement disponibles.
+  par les Nations Unies (NU). Cet indicateur est la meilleure correspondance actuellement
+  disponible.

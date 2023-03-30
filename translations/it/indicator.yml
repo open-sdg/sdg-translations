@@ -134,5 +134,5 @@ map_slider_mouse: Navigare tra i dati della mappa per periodo di tempo
 empty_metadata_placeholder_sources: Non disponibile per questa fonte
 proxy: Proxy
 proxy_description: Questo indicatore contiene alcuni dati alternativi a quelli specificati
-  dalle Nazioni Unite (ONU). I dati visualizzati sono i più simili a quelli attualmente
-  disponibili.
+  dalle Nazioni Unite (ONU). Questo indicatore rappresenta la corrispondenza più adeguata
+  attualmente disponibile.

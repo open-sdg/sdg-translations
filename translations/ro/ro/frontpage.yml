@@ -1,0 +1,12 @@
+instructions: Click on each goal, or %before_link search, %after_link
+  for %country.name statistics for Sustainable Development Goal global
+  indicators.
+instructions_short: Click on each goal for %country.name Sustainable Development Goal global indicator data.
+instructions_shorter: Select each goal for indicator data.
+heading: "%country.name data for Sustainable Development Goal indicators"
+heading_short: "%country.name data for the Sustainable Development Goals"
+download_all: Download all data (.zip)
+zip_file: ZIP file
+file_size: Size
+intro_title: 17 goals to transform our world
+intro_body: The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">2030 Agenda for Sustainable Development</a>.

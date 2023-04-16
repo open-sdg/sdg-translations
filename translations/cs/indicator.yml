@@ -107,8 +107,8 @@ table_column_sort: 'Kliknutím seřadíte podle tohoto sloupce'
 status: 'Stav ukazatele'
 # Label describing the "tags" for an indicator
 tags: 'Štítky'
-previous: 'Předchozí ukazatel'
-next: 'Další ukazatel'
+previous: 'Předchozí indikátor'
+next: 'Další indikátor'
 headline_data: Titulní data
 no_headline_data: Nejsou k dispozici žádná souhrnná data
 download_source_for_disaggregations: Stáhnout zdrojová data pro členění (.csv)
@@ -131,5 +131,5 @@ map_zoom_out: Oddálení mapy
 empty_metadata_placeholder_sources: Pro tento zdroj není k dispozici
 proxy: Proxy
 proxy_description: Tento indikátor obsahuje některé alternativní údaje k údajům stanoveným
-  Organizací spojených národů (OSN). Zobrazené údaje jsou nejbližšími údaji, které
-  jsou v současné době k dispozici.
+  Organizací spojených národů (OSN). Tento indikátor je nejvhodnější shodou, která
+  je v současné době k dispozici.

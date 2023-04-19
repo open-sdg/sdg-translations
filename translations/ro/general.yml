@@ -6,22 +6,22 @@ indicators: Indicatori
 goal: Obiectiv
 # This is the plural version of the goal key
 goals: Obiective
-sdg: Sustainable Development Goals
+sdg: Obiectivele de Dezvoltare Durabilă
 # This refers to the 'home page' of a website
-home: Acasa
-loading: Loading search results
-opens_new_window: opens in a new window
+home: Acasă
+loading: Se încarcă rezultatele căutării
+opens_new_window: se deschide în fereastră nouă
 hide: ascunde
-target: Tinta
-targets: Tinte
+target: Ținta
+targets: Ținte
 twitter: Twitter
 facebook: Facebook
-built_using_open_sdg: Built using Open SDG
+built_using_open_sdg: Creat utilizând Open SDG
 page: Pagina
 pages: Pagini
-targets_and_indicators: Tinte si indicatori
+targets_and_indicators: Ținte și indicatori
 # A label of "Warning" to place before some other text.
-label_warning: "Warning:"
+label_warning: "Avertizare:"
 # A phrase to use as a site-wide page title.
-site_title: Indicators For The Sustainable Development Goals
-back_to_top: Inapoi sus
+site_title: Indicatori pentru Obiectivele de Dezvoltare Durabilă
+back_to_top: Sus

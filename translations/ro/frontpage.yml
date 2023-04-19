@@ -1,12 +1,11 @@
-instructions: Click on each goal, or %before_link search, %after_link
-  for %country.name statistics for Sustainable Development Goal global
-  indicators.
-instructions_short: Click on each goal for %country.name Sustainable Development Goal global indicator data.
-instructions_shorter: Select each goal for indicator data.
-heading: "%country.name data for Sustainable Development Goal indicators"
-heading_short: "%country.name data for the Sustainable Development Goals"
-download_all: Download all data (.zip)
-zip_file: ZIP file
-file_size: Size
-intro_title: 17 goals to transform our world
-intro_body: The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">2030 Agenda for Sustainable Development</a>.
+instructions: Faceți click pe fiecare obiectiv, sau %before_link căutați, %after_link
+  pentru %country.name statistici pentru indicatorii globali ai Obiectivelor de Dezvoltare Durabilă.
+instructions_short: Faceți click pe fiecare obiectiv pentru %country.name pentru a accesa datele pentru indicatorii globali ai Obiectivelor de Dezvoltare Durabilă.
+instructions_shorter: Selectați fiecare obiectiv pentru a accesa datele.
+heading: "%country.name - statistici pentru indicatorii globali ai Obiectivelor de Dezvoltare Durabilă"
+heading_short: "%country.name - statistici pentru Obiectivele de Dezvoltare Durabilă"
+download_all: Descarcă toate datele (.zip)
+zip_file: fișier ZIP
+file_size: Mărimea
+intro_title: 17 obiective pentru a transforma lumea
+intro_body: <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Obiectivele de Dezvoltare Durabilă (ODD)</a> reprezintă un apel universal de a acționa pentru a pune capăt sărăciei, a proteja planeta și a îmbunătăți viețile și perspectivele tuturor, pretutindeni. Cele 17 obiective au fost adoptate  de toate statele membre ONU în 2015, ca parte a <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang= E">Agendei 2030 pentru dezvoltare durabilă</a>.

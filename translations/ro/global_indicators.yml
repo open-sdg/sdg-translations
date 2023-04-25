@@ -1,0 +1,519 @@
+1-1-1-title: 'Proporția populației care trăiește sub pragul internațional de sărăcie,
+  pe sexe, vârste, statut profesional și localizare geografică (urban/rural)'
+1-2-1-title: 'Proporția populației care trăiește sub pragul național de sărăcie, pe
+  sexe și vârste'
+1-2-2-title: 'Proporția de bărbați, femei și copii de toate vârstele care trăiesc
+  în sărăcie în toate dimensiunile sale, conform definițiilor naționale'
+1-3-1-title: 'Proporția populației care beneficiază de niveluri/sisteme minime de
+  protecție socială, pe sexe, distingând copiii, șomerii, persoanele în vârstă, persoanele
+  cu handicap, femeile însărcinate, nou-născuții, victimele accidentelor de muncă,
+  precum și persoanele sărace și vulnerabile.'
+1-4-1-title: 'Proporția populației care locuiește în gospodării cu acces la servicii
+  de bază'
+1-4-2-title: 'Proporția din totalul populației adulte cu drepturi de proprietate sigure
+  asupra terenurilor, (a) cu documente recunoscute legal și (b) care își consideră
+  drepturile de proprietate asupra terenurilor ca fiind sigure, pe sexe și tipuri
+  de proprietate'
+1-5-1-title: 'Numărul de decese, de persoane dispărute și de persoane direct afectate
+  atribuite dezastrelor la 100 000 de locuitori'
+1-5-2-title: 'Pierderi economice directe atribuite dezastrelor în raport cu produsul
+  intern brut (PIB) global'
+1-5-3-title: 'Numărul de țări care adoptă și pun în aplicare strategii naționale de
+  reducere a riscului de dezastre în conformitate cu Cadrul Sendai pentru reducerea
+  riscului de dezastre 2015-2030'
+1-5-4-title: 'Proporția de administrații locale care adoptă și pun în aplicare strategii
+  locale de reducere a riscului de dezastre în conformitate cu strategiile naționale
+  de reducere a riscului de dezastre'
+1-a-1-title: 'Totalul granturilor de asistență oficială pentru dezvoltare de la toți
+  donatorii care se concentrează pe reducerea sărăciei, ca procent din venitul național
+  brut al țării beneficiare'
+1-a-2-title: 'Proporția din totalul cheltuielilor publice pentru servicii esențiale
+  (educație, sănătate și protecție socială)'
+1-a-3-title: 'Suma totală a granturilor și a intrărilor care nu sunt generatoare de
+  datorii alocate direct programelor de reducere a sărăciei ca proporție din PIB'
+1-b-1-title: 'Cheltuieli sociale publice în favoarea săracilor'
+10-1-1-title: 'Ratele de creștere a cheltuielilor gospodăriilor sau a venitului pe
+  cap de locuitor în rândul celor mai mici 40 % din populație și a populației totale'
+10-2-1-title: 'Proporția de persoane care trăiesc sub 50% din venitul mediu, pe sexe,
+  vârste și persoane cu dizabilități'
+10-3-1-title: 'Proporția populației care declară că s-a simțit personal discriminată
+  sau hărțuită în ultimele 12 luni pe baza unui motiv de discriminare interzis de
+  legislația internațională privind drepturile omului'
+10-4-1-title: 'Ponderea forței de muncă în PIB'
+10-4-2-title: 'Impactul redistributiv al politicii fiscale'
+10-5-1-title: 'Indicatori de soliditate financiară'
+10-6-1-title: 'Proporția de membri și drepturile de vot ale țărilor în curs de dezvoltare
+  în cadrul organizațiilor internaționale'
+10-7-1-title: 'Costul de recrutare suportat de angajat ca proporție din venitul lunar
+  obținut în țara de destinație'
+10-7-2-title: 'Numărul de țări cu politici de migrație care facilitează o migrație
+  și o mobilitate a persoanelor ordonată, sigură, regulată și responsabilă'
+10-7-3-title: 'Numărul de persoane care au murit sau au dispărut în procesul de migrație
+  spre o destinație internațională'
+10-7-4-title: 'Proporția de refugiați în rândul populației, în funcție de țara de
+  origine'
+10-a-1-title: 'Proporția liniilor tarifare aplicate importurilor din țările cel mai
+  puțin dezvoltate și din țările în curs de dezvoltare cu taxe vamale zero'
+10-b-1-title: 'Fluxurile totale de resurse pentru dezvoltare, pe țări beneficiare
+  și donatoare și pe tipuri de fluxuri (de exemplu, asistență oficială pentru dezvoltare,
+  investiții străine directe și alte fluxuri)'
+10-c-1-title: 'Costurile de remitere ca proporție din suma trimisă'
+11-1-1-title: 'Proporția populației urbane care locuiește în mahalale, așezări informale
+  sau locuințe necorespunzătoare'
+11-2-1-title: 'Proporția populației care are acces convenabil la transportul public,
+  pe sexe, vârste și persoane cu dizabilități'
+11-3-1-title: 'Raportul dintre rata de consum de teren și rata de creștere a populației'
+11-3-2-title: 'Proporția de orașe cu o structură de participare directă a societății
+  civile la planificarea și gestionarea urbană care funcționează în mod regulat și
+  democratic'
+11-4-1-title: 'Cheltuielile totale pe cap de locuitor pentru conservarea, protecția
+  și salvarea întregului patrimoniu cultural și natural, pe surse de finanțare (publice,
+  private), tipuri de patrimoniu (cultural, natural) și niveluri de guvernare (național,
+  regional și local/municipal)'
+11-5-1-title: 'Numărul de decese, de persoane dispărute și de persoane direct afectate
+  atribuite dezastrelor la 100 000 de locuitori'
+11-5-2-title: 'Pierderi economice directe în raport cu PIB-ul global, daune aduse
+  infrastructurilor critice și numărul de întreruperi ale serviciilor de bază, atribuite
+  dezastrelor'
+11-6-1-title: 'Proporția de deșeuri municipale solide colectate și gestionate în instalații
+  controlate din totalul deșeurilor municipale generate, pe orașe'
+11-6-2-title: 'Nivelurile medii anuale ale particulelor fine (de exemplu, PM2,5 și
+  PM10) în orașe (ponderate în funcție de populație)'
+11-7-1-title: 'Ponderea medie din suprafața construită a orașelor care reprezintă
+  spații deschise pentru uz public pentru toți, pe sexe, vârste și persoane cu handicap'
+11-7-2-title: 'Proporția de persoane care au fost victime ale hărțuirii fizice sau
+  sexuale, pe sexe, vârste, handicap și locul în care s-a produs, în ultimele 12 luni'
+11-a-1-title: 'Numărul de țări care dispun de politici urbane naționale sau de planuri
+  de dezvoltare regională care (a) răspund la dinamica populației; (b) asigură o dezvoltare
+  teritorială echilibrată; și (c) sporesc spațiul fiscal local'
+11-b-1-title: 'Numărul de țări care adoptă și pun în aplicare strategii naționale
+  de reducere a riscului de dezastre în conformitate cu Cadrul Sendai pentru reducerea
+  riscului de dezastre 2015-2030'
+11-b-2-title: 'Proporția de administrații locale care adoptă și pun în aplicare strategii
+  locale de reducere a riscului de dezastre în conformitate cu strategiile naționale
+  de reducere a riscului de dezastre'
+11-c-1-title: 'Proporția sprijinului financiar acordat țărilor cel mai puțin dezvoltate
+  care este alocată pentru construcția și modernizarea clădirilor durabile, rezistente
+  și eficiente din punct de vedere al utilizării resurselor, utilizând materiale locale'
+12-1-1-title: 'Numărul de țări care elaborează, adoptă sau pun în aplicare instrumente
+  de politică menite să sprijine trecerea la un consum și o producție durabile'
+12-2-1-title: 'Amprenta materială, amprenta materială pe cap de locuitor și amprenta
+  materială pe PIB'
+12-2-2-title: 'Consumul intern de materiale, consumul intern de materiale pe cap de
+  locuitor și consumul intern de materiale pe PIB'
+12-3-1-title: '(a) indicele pierderilor de alimente și (b) indicele deșeurilor alimentare'
+12-4-1-title: 'Numărul de părți la acordurile internaționale multilaterale de mediu
+  privind deșeurile periculoase și alte substanțe chimice care își îndeplinesc angajamentele
+  și obligațiile de transmitere a informațiilor, conform cerințelor fiecărui acord
+  relevant'
+12-4-2-title: '(a) deșeurile periculoase generate pe cap de locuitor; și (b) proporția
+  de deșeuri periculoase tratate, în funcție de tipul de tratare'
+12-5-1-title: 'Rata națională de reciclare, tone de materiale reciclate'
+12-6-1-title: 'Numărul de companii care publică rapoarte de sustenabilitate'
+12-7-1-title: 'Gradul de implementare a politicilor de achiziții publice durabile
+  și a planului de acțiune'
+12-8-1-title: 'Măsura în care (i) educația pentru cetățenie globală și (ii) educația
+  pentru dezvoltare durabilă sunt integrate în (a) politicile educaționale naționale;
+  (b) programele școlare; (c) formarea profesorilor; și (d) evaluarea elevilor.'
+12-a-1-title: 'Capacitatea instalată de generare a energiei din surse regenerabile
+  în țările în curs de dezvoltare (în wați pe cap de locuitor)'
+12-b-1-title: 'Implementarea unor instrumente contabile standard pentru monitorizarea
+  aspectelor economice și de mediu ale durabilității turismului.'
+12-c-1-title: 'Valoarea subvențiilor pentru combustibili fosili pe unitate de PIB
+  (producție și consum)'
+13-1-1-title: 'Numărul de decese, de persoane dispărute și de persoane direct afectate
+  atribuite dezastrelor la 100 000 de locuitori'
+13-1-2-title: 'Numărul de țări care adoptă și pun în aplicare strategii naționale
+  de reducere a riscului de dezastre în conformitate cu Cadrul Sendai pentru reducerea
+  riscului de dezastre 2015-2030'
+13-1-3-title: 'Proporția de administrații locale care adoptă și pun în aplicare strategii
+  locale de reducere a riscului de dezastre în conformitate cu strategiile naționale
+  de reducere a riscului de dezastre'
+13-2-1-title: 'Numărul de țări cu contribuții determinate la nivel național, strategii
+  pe termen lung, planuri naționale de adaptare, strategii raportate în comunicările
+  privind adaptarea și comunicările naționale'
+13-2-2-title: 'Emisiile totale de gaze cu efect de seră pe an'
+13-3-1-title: 'Măsura în care (i) educația pentru cetățenie globală și (ii) educația
+  pentru dezvoltare durabilă sunt integrate în (a) politicile educaționale naționale;
+  (b) programele școlare; (c) formarea profesorilor; și (d) evaluarea elevilor.'
+13-3-2-title: 'Numărul de țări care au comunicat consolidarea capacităților instituționale,
+  sistemice și individuale în vederea punerii în aplicare a acțiunilor de adaptare,
+  de atenuare, de transfer de tehnologie și de dezvoltare.'
+13-a-1-title: 'Sumele furnizate și mobilizate în dolari SUA pe an în raport cu obiectivul
+  de mobilizare colectivă existent și continuu al angajamentului de 100 de miliarde
+  de dolari până în 2025'
+13-b-1-title: 'Numărul de țări cel mai puțin dezvoltate și de state insulare mici
+  în curs de dezvoltare care au contribuții determinate la nivel național, strategii
+  pe termen lung, planuri naționale de adaptare, strategii raportate în comunicările
+  privind adaptarea și comunicări naționale'
+14-1-1-title: '(a) indicele de eutrofizare a coastelor; și (b) densitatea resturilor
+  de plastic.'
+14-2-1-title: 'Numărul de țări care utilizează abordări bazate pe ecosisteme pentru
+  gestionarea zonelor marine'
+14-3-1-title: 'Aciditatea marină medie (pH) măsurată la o serie convenită de stații
+  de eșantionare reprezentative'
+14-4-1-title: 'Proporția de stocuri de pește care se încadrează în nivelurile biologic
+  sustenabile'
+14-5-1-title: 'Acoperirea zonelor protejate în raport cu zonele marine'
+14-6-1-title: 'Gradul de punere în aplicare a instrumentelor internaționale care vizează
+  combaterea pescuitului ilegal, nedeclarat și nereglementat'
+14-7-1-title: 'Pescuitul durabil ca proporție din PIB în statele insulare mici în
+  curs de dezvoltare, în țările cel mai puțin dezvoltate și în toate țările'
+14-a-1-title: 'Proporția din bugetul total de cercetare alocată cercetării în domeniul
+  tehnologiei marine'
+14-b-1-title: 'Gradul de aplicare a unui cadru juridic/regulamentar/ politic/instituțional
+  care recunoaște și protejează drepturile de acces pentru pescuitul la scară mică'
+14-c-1-title: 'Numărul de țări care înregistrează progrese în ceea ce privește ratificarea,
+  acceptarea și punerea în aplicare, prin intermediul cadrelor juridice, politice
+  și instituționale, a instrumentelor legate de oceane care pun în aplicare dreptul
+  internațional, astfel cum este reflectat în Convenția Națiunilor Unite asupra dreptului
+  mării, pentru conservarea și utilizarea durabilă a oceanelor și a resurselor acestora.'
+15-1-1-title: 'Suprafața forestieră ca proporție din suprafața totală a terenului'
+15-1-2-title: 'Proporția de situri importante pentru biodiversitatea terestră și de
+  apă dulce care sunt acoperite de zone protejate, pe tipuri de ecosisteme'
+15-2-1-title: 'Progrese în direcția gestionării durabile a pădurilor'
+15-3-1-title: 'Proporția de terenuri degradate în raport cu suprafața totală a terenurilor'
+15-4-1-title: 'Acoperirea de către ariile protejate a siturilor importante pentru
+  biodiversitatea montană'
+15-4-2-title: 'Indicele de acoperire Mountain Green'
+15-5-1-title: 'Indicele listei roșii'
+15-6-1-title: 'Numărul de țări care au adoptat cadre legislative, administrative și
+  politice pentru a asigura o repartizare corectă și echitabilă a beneficiilor'
+15-7-1-title: 'Proporția de animale sălbatice comercializate care au fost braconate
+  sau au făcut obiectul unui trafic ilicit'
+15-8-1-title: 'Proporția de țări care adoptă legislația națională relevantă și care
+  dispun de resurse adecvate pentru prevenirea sau controlul speciilor exotice invazive'
+15-9-1-title: '(a) numărul de țări care au stabilit obiective naționale în conformitate
+  cu sau similare cu obiectivul 2 de la Aichi privind biodiversitatea din Planul strategic
+  pentru biodiversitate 2011-2020 în strategia și planurile de acțiune naționale privind
+  biodiversitatea și progresele raportate în vederea atingerii acestor obiective;
+  și (b) integrarea biodiversității în sistemele naționale de contabilitate și raportare,
+  definită ca fiind punerea în aplicare a Sistemului de contabilitate economică și
+  de mediu'
+15-a-1-title: '(a) asistența oficială pentru dezvoltare privind conservarea și utilizarea
+  durabilă a biodiversității; și (b) veniturile generate și finanțările mobilizate
+  din instrumente economice relevante pentru biodiversitate'
+15-b-1-title: '(a) asistența oficială pentru dezvoltare privind conservarea și utilizarea
+  durabilă a biodiversității; și (b) veniturile generate și finanțările mobilizate
+  din instrumente economice relevante pentru biodiversitate'
+15-c-1-title: 'Proporția de animale sălbatice comercializate care au fost braconate
+  sau au făcut obiectul unui trafic ilicit'
+16-1-1-title: 'Numărul de victime ale omuciderilor intenționate la 100.000 de locuitori,
+  pe sexe și vârste'
+16-1-2-title: 'Decese legate de conflicte la 100.000 de locuitori, pe sexe, vârste
+  și cauze'
+16-1-3-title: 'Proporția populației care a fost supusă (a) violenței fizice, (b) violenței
+  psihologice și (c) violenței sexuale în ultimele 12 luni'
+16-1-4-title: 'Proporția populației care se simte în siguranță când merge singură
+  pe jos în zona în care locuiește'
+16-10-1-title: 'Numărul de cazuri verificate de ucidere, răpire, dispariție forțată,
+  detenție arbitrară și tortură a jurnaliștilor, a personalului asociat din mass-media,
+  a sindicaliștilor și a apărătorilor drepturilor omului în ultimele 12 luni.'
+16-10-2-title: 'Numărul de țări care adoptă și pun în aplicare garanții constituționale,
+  legale și/sau politice pentru accesul public la informații'
+16-2-1-title: 'Proporția de copii cu vârsta cuprinsă între 1-17 ani care au fost supuși
+  la pedepse fizice și/sau agresiune psihologică din partea îngrijitorilor în ultima
+  lună'
+16-2-2-title: 'Numărul de victime ale traficului de persoane la 100 000 de locuitori,
+  pe sexe, vârste și forme de exploatare'
+16-2-3-title: 'Proporția de femei și bărbați tineri cu vârste cuprinse între 18 și
+  29 de ani care au fost victime ale violenței sexuale până la vârsta de 18 ani'
+16-3-1-title: 'Proporția victimelor violenței în ultimele 12 luni care au raportat
+  victimizarea lor autorităților competente sau altor mecanisme de soluționare a conflictelor
+  recunoscute oficial'
+16-3-2-title: 'Ponderea deținuților nepedepsiți în totalul populației penitenciare'
+16-3-3-title: 'Proporția populației care s-a confruntat cu un litigiu în ultimii doi
+  ani și care a accesat un mecanism formal sau informal de soluționare a litigiilor,
+  în funcție de tipul de mecanism'
+16-4-1-title: 'Valoarea totală a fluxurilor financiare ilicite de intrare și de ieșire
+  (în dolari SUA curente)'
+16-4-2-title: 'Proporția de arme confiscate, găsite sau predate a căror origine sau
+  context ilicit a fost depistat sau stabilit de o autoritate competentă în conformitate
+  cu instrumentele internaționale'
+16-5-1-title: 'Proporția persoanelor care au avut cel puțin un contact cu un funcționar
+  public și care au plătit mită unui funcționar public sau cărora li s-a cerut mită
+  de către aceștia în ultimele 12 luni'
+16-5-2-title: 'Proporția întreprinderilor care au avut cel puțin un contact cu un
+  funcționar public și care au plătit mită unui funcționar public sau cărora li s-a
+  cerut mită de către funcționarii publici în ultimele 12 luni'
+16-6-1-title: 'Cheltuieli ale administrației publice primare ca proporție din bugetul
+  inițial aprobat, pe sectoare (sau pe coduri bugetare sau similar)'
+16-6-2-title: 'Proporția populației mulțumite de ultima lor experiență cu serviciile
+  publice'
+16-7-1-title: 'Proporțiile de posturi în instituțiile naționale și locale, inclusiv
+  (a) în legislativele; (b) în serviciul public; și (c) în sistemul judiciar, în comparație
+  cu distribuția națională, pe sexe, vârste, persoane cu handicap și grupuri de populație.'
+16-7-2-title: 'Proporția populației care consideră că procesul de luare a deciziilor
+  este incluziv și receptiv, pe sexe, vârste, dizabilități și grupuri de populație'
+16-8-1-title: 'Proporția de membri și drepturile de vot ale țărilor în curs de dezvoltare
+  în cadrul organizațiilor internaționale'
+16-9-1-title: 'Proporția copiilor cu vârsta sub 5 ani a căror naștere a fost înregistrată
+  la o autoritate civilă, în funcție de vârstă'
+16-a-1-title: 'Existența unor instituții naționale independente pentru drepturile
+  omului, în conformitate cu Principiile de la Paris'
+16-b-1-title: 'Proporția populației care declară că s-a simțit personal discriminată
+  sau hărțuită în ultimele 12 luni pe baza unui motiv de discriminare interzis de
+  legislația internațională privind drepturile omului'
+17-1-1-title: 'Veniturile publice totale ca proporție din PIB, pe surse'
+17-1-2-title: 'Proporția bugetului intern finanțat din taxe interne'
+17-10-1-title: 'Media tarifară ponderată la nivel mondial'
+17-11-1-title: 'Ponderea țărilor în curs de dezvoltare și a țărilor cel mai puțin
+  dezvoltate în exporturile mondiale'
+17-12-1-title: 'Tarifele medii ponderate cu care se confruntă țările în curs de dezvoltare,
+  țările cel mai puțin dezvoltate și statele insulare mici în curs de dezvoltare'
+17-13-1-title: 'Tablou de bord macroeconomic'
+17-14-1-title: 'Numărul de țări care dispun de mecanisme pentru a spori coerența politicilor
+  de dezvoltare durabilă'
+17-15-1-title: 'Gradul de utilizare a cadrelor de rezultate și a instrumentelor de
+  planificare proprii fiecărei țări de către furnizorii de cooperare pentru dezvoltare'
+17-16-1-title: 'Numărul de țări care raportează progresele înregistrate în cadrele
+  de monitorizare a eficacității dezvoltării cu participarea mai multor părți interesate
+  care sprijină realizarea obiectivelor de dezvoltare durabilă'
+17-17-1-title: 'Suma în dolari SUA angajată în parteneriate public-private pentru
+  infrastructură'
+17-18-1-title: 'Indicatorul capacității statistice pentru monitorizarea Obiectivelor
+  de Dezvoltare Durabilă'
+17-18-2-title: 'Numărul de țări care au o legislație statistică națională în conformitate
+  cu principiile fundamentale ale statisticilor oficiale'
+17-18-3-title: 'Numărul de țări cu un plan statistic național finanțat integral și
+  în curs de punere în aplicare, pe surse de finanțare'
+17-19-1-title: 'Valoarea în dolari a tuturor resurselor puse la dispoziție pentru
+  consolidarea capacității statistice în țările în curs de dezvoltare'
+17-19-2-title: 'Proporția de țări care (a) au efectuat cel puțin un recensământ al
+  populației și locuințelor în ultimii 10 ani; și (b) au înregistrat 100 % din nașteri
+  și 80 % din decese.'
+17-2-1-title: 'Asistența oficială netă pentru dezvoltare, totală și pentru țările
+  cel mai puțin dezvoltate, ca proporție din venitul național brut (VNB) al donatorilor
+  din cadrul Comitetului de asistență pentru dezvoltare al Organizației pentru Cooperare
+  și Dezvoltare Economică (OCDE)'
+17-3-1-title: 'Investițiile străine directe, asistența oficială pentru dezvoltare
+  și cooperarea Sud-Sud ca proporție din venitul național brut'
+17-3-2-title: 'Volumul remitențelor (în dolari SUA) ca proporție din PIB-ul total'
+17-4-1-title: 'Serviciul datoriei ca proporție din exporturile de bunuri și servicii'
+17-5-1-title: 'Numărul de țări care adoptă și pun în aplicare regimuri de promovare
+  a investițiilor pentru țările în curs de dezvoltare, inclusiv pentru țările cel
+  mai puțin dezvoltate'
+17-6-1-title: 'Abonamente la internet fix în bandă largă la 100 de locuitori, în funcție
+  de viteză'
+17-6-2-title: 'Abonamente la internet fix în bandă largă la 100 de locuitori, în funcție
+  de viteză'
+17-7-1-title: 'Valoarea totală a finanțării destinate țărilor în curs de dezvoltare
+  pentru promovarea dezvoltării, transferului, diseminării și difuzării tehnologiilor
+  ecologice.'
+17-8-1-title: 'Proporția de persoane fizice care utilizează internetul'
+17-9-1-title: 'Valoarea în dolari a asistenței financiare și tehnice (inclusiv prin
+  intermediul cooperării nord-sud, sud-sud și triunghiulare) angajată în favoarea
+  țărilor în curs de dezvoltare'
+2-1-1-title: 'Prevalența subnutriției'
+2-1-2-title: 'Prevalența insecurității alimentare moderate sau severe în rândul populației,
+  pe baza Scalei experienței de insecuritate alimentară (FIES).'
+2-2-1-title: 'Prevalența întârzierilor în creștere (înălțime pentru vârstă <-2 deviații
+  standard de la mediana standardelor de creștere a copiilor ale Organizației Mondiale
+  a Sănătății (OMS)) în rândul copiilor sub 5 ani.'
+2-2-2-title: 'Prevalența malnutriției (greutate în raport cu înălțimea >+2 sau <-2
+  deviații standard față de mediana standardelor OMS de creștere a copilului) în rândul
+  copiilor cu vârsta sub 5 ani, în funcție de tipul de malnutriție (epuizare și exces
+  de greutate)'
+2-2-3-title: 'Prevalența anemiei la femeile cu vârsta cuprinsă între 15 și 49 de ani,
+  în funcție de starea de graviditate (procente)'
+2-3-1-title: 'Volumul producției pe unitate de muncă, pe clase de mărime a întreprinderii
+  agricole/pastorale/forestiere'
+2-3-2-title: 'Venitul mediu al micilor producători de alimente, pe sexe și statut
+  de indigeni'
+2-4-1-title: 'Ponderea suprafeței agricole în agricultura productivă și durabilă'
+2-5-1-title: 'Numărul de resurse genetice vegetale și animale pentru alimentație și
+  agricultură asigurate în instalații de conservare pe termen mediu sau lung'
+2-5-2-title: 'Proporția de rase locale clasificate ca fiind în pericol de dispariție'
+2-a-1-title: 'Indicele de orientare agricolă pentru cheltuielile publice'
+2-a-2-title: 'Totalul fluxurilor oficiale (asistență oficială pentru dezvoltare plus
+  alte fluxuri oficiale) către sectorul agricol'
+2-b-1-title: 'Subvenții la exportul de produse agricole'
+2-c-1-title: 'Indicator al anomaliilor prețurilor la produsele alimentare'
+3-1-1-title: 'Rata mortalității materne'
+3-1-2-title: 'Proporția nașterilor asistate de personal medical calificat'
+3-2-1-title: 'Rata de mortalitate a copiilor sub 5 ani'
+3-2-2-title: 'Rata mortalității neonatale'
+3-3-1-title: 'Numărul de noi infecții cu HIV la 1 000 de persoane neinfectate, pe
+  sexe, vârste și populații cheie'
+3-3-2-title: 'Incidența tuberculozei la 100.000 de locuitori'
+3-3-3-title: 'Incidența malariei la 1.000 de locuitori'
+3-3-4-title: 'Incidența hepatitei B la 100.000 de locuitori'
+3-3-5-title: 'Numărul de persoane care necesită intervenții împotriva bolilor tropicale
+  neglijate'
+3-4-1-title: 'Rata de mortalitate atribuită bolilor cardiovasculare, cancerului, diabetului
+  sau bolilor respiratorii cronice'
+3-4-2-title: 'Rata mortalității prin sinucidere'
+3-5-1-title: 'Acoperirea intervențiilor de tratament (farmacologic, psihosocial și
+  servicii de reabilitare și de îngrijire ulterioară) pentru tulburările legate de
+  consumul de substanțe.'
+3-5-2-title: 'Consumul de alcool pe cap de locuitor (în vârstă de 15 ani și peste)
+  într-un an calendaristic, în litri de alcool pur'
+3-6-1-title: 'Rata de deces din cauza leziunilor cauzate de accidentele rutiere'
+3-7-1-title: 'Proporția femeilor de vârstă reproductivă (15-49 de ani) cărora le este
+  satisfăcută nevoia de planificare familială prin metode moderne'
+3-7-2-title: 'Rata nașterilor în rândul adolescentelor (10-14 ani; 15-19 ani) la 1.000
+  de femei din grupa de vârstă respectivă'
+3-8-1-title: 'Acoperirea serviciilor medicale esențiale'
+3-8-2-title: 'Proporția populației cu cheltuieli mari ale gospodăriei pentru sănătate
+  ca pondere din totalul cheltuielilor sau veniturilor gospodăriei'
+3-9-1-title: 'Rata de mortalitate atribuită poluării aerului din gospodării și din
+  aerul înconjurător'
+3-9-2-title: 'Rata de mortalitate atribuită apei nesigure, salubrizării nesigure și
+  lipsei de igienă (expunere la servicii nesigure de apă, salubritate și igienă pentru
+  toți (WASH))'
+3-9-3-title: 'Rata de mortalitate atribuită otrăvirii neintenționate'
+3-a-1-title: 'Prevalența standardizată pe vârstă a consumului actual de tutun în rândul
+  persoanelor cu vârsta de 15 ani și peste'
+3-b-1-title: 'Proporția din populația țintă acoperită de toate vaccinurile incluse
+  în programul lor național'
+3-b-2-title: 'Totalul asistenței oficiale nete pentru dezvoltare destinate cercetării
+  medicale și sectoarelor de bază din domeniul sănătății'
+3-b-3-title: 'Proporția unităților sanitare care dispun de un set de bază de medicamente
+  esențiale relevante, disponibile și accesibile în mod durabil'
+3-c-1-title: 'Densitatea și distribuția lucrătorilor din domeniul sănătății'
+3-d-1-title: 'Capacitatea Regulamentului sanitar internațional (RSI) și pregătirea
+  pentru situații de urgență în domeniul sănătății'
+3-d-2-title: 'Procentul de infecții din sânge datorate unor organisme selectate rezistente
+  la antimicrobiene'
+4-1-1-title: 'Proporția de copii și tineri (a) din clasele 2/3; (b) de la sfârșitul
+  ciclului primar; și (c) de la sfârșitul ciclului secundar inferior care ating cel
+  puțin un nivel minim de competență la (i) citire și (ii) matematică, pe sexe'
+4-1-2-title: 'Rata de finalizare a studiilor (învățământ primar, învățământ secundar
+  inferior, învățământ secundar superior)'
+4-2-1-title: 'Proporția de copii cu vârste cuprinse între 24 și 59 de luni care se
+  află pe drumul cel bun din punct de vedere al dezvoltării în ceea ce privește sănătatea,
+  învățarea și bunăstarea psihosocială, pe sexe'
+4-2-2-title: 'Rata de participare la învățământul organizat (cu un an înainte de vârsta
+  oficială de intrare în învățământul primar), pe sexe'
+4-3-1-title: 'Rata de participare a tinerilor și adulților la educație și formare
+  formală și non-formală în ultimele 12 luni, pe sexe'
+4-4-1-title: 'Proporția de tineri și adulți cu competențe în domeniul tehnologiei
+  informației și comunicațiilor (TIC), pe tipuri de competențe'
+4-5-1-title: 'Indicii de paritate (femei/bărbați, rural/urban, quintila inferioară/superioară
+  de bogăție și alții, cum ar fi statutul de handicap, popoarele indigene și persoanele
+  afectate de conflicte, pe măsură ce datele devin disponibile) pentru toți indicatorii
+  de educație de pe această listă care pot fi dezagregate.'
+4-6-1-title: 'Proporția populației dintr-o anumită grupă de vârstă care atinge cel
+  puțin un nivel fix de competență în ceea ce privește competențele funcționale (a)
+  de citire și scriere și (b) de calcul, pe sexe'
+4-7-1-title: 'Măsura în care (i) educația pentru cetățenie globală și (ii) educația
+  pentru dezvoltare durabilă sunt integrate în (a) politicile educaționale naționale;
+  (b) programele școlare; (c) formarea profesorilor; și (d) evaluarea elevilor.'
+4-a-1-title: 'Ponderea școlilor care oferă servicii de bază, pe tipuri de servicii'
+4-b-1-title: 'Volumul fluxurilor de asistență oficială pentru dezvoltare pentru burse,
+  pe sectoare și tipuri de studii'
+4-c-1-title: 'Proporția cadrelor didactice cu calificările minime necesare, în funcție
+  de nivelul de educație'
+5-1-1-title: 'dacă există sau nu cadre juridice care să promoveze, să aplice și să
+  monitorizeze egalitatea și nediscriminarea pe bază de sex'
+5-2-1-title: 'Proporția femeilor și fetelor în vârstă de 15 ani și peste care au fost
+  vreodată partenere și care au fost supuse violenței fizice, sexuale sau psihologice
+  din partea unui partener intim actual sau fost în ultimele 12 luni, în funcție de
+  forma de violență și de vârstă'
+5-2-2-title: 'Proporția femeilor și fetelor în vârstă de 15 ani și mai mult care au
+  fost supuse violenței sexuale de către alte persoane decât partenerul intim în ultimele
+  12 luni, în funcție de vârstă și de locul în care a avut loc incidentul'
+5-3-1-title: 'Proporția de femei cu vârsta cuprinsă între 20 și 24 de ani care au
+  fost căsătorite sau într-o uniune înainte de vârsta de 15 ani și înainte de 18 ani'
+5-3-2-title: 'Proporția de fete și femei cu vârsta cuprinsă între 15 și 49 de ani
+  care au fost supuse mutilării/tăierii genitale feminine, pe vârste'
+5-4-1-title: 'Proporția de timp petrecut în activități casnice și de îngrijire neremunerate,
+  pe sexe, vârste și locații'
+5-5-1-title: 'Proporția de locuri deținute de femei în (a) parlamentele naționale
+  și (b) administrațiile locale'
+5-5-2-title: 'Proporția de femei în funcții de conducere'
+5-6-1-title: 'Proporția femeilor cu vârsta cuprinsă între 15-49 de ani care iau propriile
+  decizii în cunoștință de cauză în ceea ce privește relațiile sexuale, utilizarea
+  contraceptivelor și îngrijirea sănătății reproductive'
+5-6-2-title: 'Numărul de țări cu legi și reglementări care garantează accesul deplin
+  și egal al femeilor și bărbaților cu vârsta de 15 ani și peste la asistență, informare
+  și educație în domeniul sănătății sexuale și reproductive.'
+5-a-1-title: '(a) Proporția din totalul populației agricole cu drept de proprietate
+  sau cu drepturi sigure asupra terenurilor agricole, pe sexe; și (b) ponderea femeilor
+  printre proprietarii sau deținătorii de drepturi asupra terenurilor agricole, pe
+  tipuri de proprietate'
+5-a-2-title: 'Proporția de țări în care cadrul juridic (inclusiv dreptul cutumiar)
+  garantează drepturi egale pentru femei în ceea ce privește proprietatea și/sau controlul
+  asupra terenurilor'
+5-b-1-title: 'Proporția persoanelor fizice care dețin un telefon mobil, pe sexe'
+5-c-1-title: 'Proporția de țări care dispun de sisteme de urmărire și alocare publică
+  pentru egalitatea de gen și emanciparea femeilor'
+6-1-1-title: 'Proporția populației care utilizează servicii de apă potabilă gestionate
+  în condiții de siguranță'
+6-2-1-title: 'Proporția populației care utilizează (a) servicii de salubritate gestionate
+  în condiții de siguranță și (b) o instalație de spălare a mâinilor cu apă și săpun'
+6-3-1-title: 'Proporția de fluxuri de ape uzate menajere și industriale tratate în
+  condiții de siguranță'
+6-3-2-title: 'Proporția de corpuri de apă cu o calitate bună a apei înconjurătoare'
+6-4-1-title: 'Schimbarea în timp a eficienței utilizării apei'
+6-4-2-title: 'Nivelul de stres hidric: prelevarea de apă dulce ca proporție din resursele
+  de apă dulce disponibile'
+6-5-1-title: 'Gradul de gestionare integrată a resurselor de apă'
+6-5-2-title: 'Proporția de bazine transfrontaliere cu un acord operațional de cooperare
+  în domeniul apei'
+6-6-1-title: 'Modificarea în timp a extinderii ecosistemelor legate de apă'
+6-a-1-title: 'Valoarea asistenței oficiale pentru dezvoltare legate de apă și canalizare
+  care face parte dintr-un plan de cheltuieli coordonat de guvern'
+6-b-1-title: 'Proporția unităților administrative locale cu politici și proceduri
+  stabilite și operaționale pentru participarea comunităților locale la gestionarea
+  apei și canalizării'
+7-1-1-title: 'Proporția populației cu acces la energie electrică'
+7-1-2-title: 'Proporția populației care se bazează în principal pe combustibili și
+  tehnologii nepoluante'
+7-2-1-title: 'Ponderea energiei din surse regenerabile în consumul final total de
+  energie'
+7-3-1-title: 'Intensitatea energetică măsurată în termeni de energie primară și PIB'
+7-a-1-title: 'Fluxurile financiare internaționale către țările în curs de dezvoltare
+  în sprijinul cercetării și dezvoltării în domeniul energiei curate și al producției
+  de energie regenerabilă, inclusiv în sisteme hibride'
+7-b-1-title: 'Capacitatea instalată de generare a energiei din surse regenerabile
+  în țările în curs de dezvoltare (în wați pe cap de locuitor)'
+8-1-1-title: 'Rata anuală de creștere a PIB real pe cap de locuitor'
+8-10-1-title: '(a) numărul de sucursale ale băncilor comerciale la 100 000 de adulți
+  și (b) numărul de bancomate la 100 000 de adulți.'
+8-10-2-title: 'Proporția adulților (15 ani și peste) care au un cont la o bancă sau
+  la o altă instituție financiară sau la un furnizor de servicii de bani mobili'
+8-2-1-title: 'Rata anuală de creștere a PIB-ului real pe persoană ocupată'
+8-3-1-title: 'Ponderea ocupării informale în totalul ocupării forței de muncă, pe
+  sectoare și sexe'
+8-4-1-title: 'Amprenta materială, amprenta materială pe cap de locuitor și amprenta
+  materială pe PIB'
+8-4-2-title: 'Consumul intern de materiale, consumul intern de materiale pe cap de
+  locuitor și consumul intern de materiale pe PIB'
+8-5-1-title: 'Câștigurile medii orare ale angajaților, pe sexe, vârste, ocupații și
+  persoane cu dizabilități'
+8-5-2-title: 'Rata șomajului, pe sexe, vârste și persoane cu dizabilități'
+8-6-1-title: 'Proporția de tineri (15-24 de ani) care nu urmează o formă de educație,
+  de ocupare a forței de muncă sau de formare profesională'
+8-7-1-title: 'Proporția și numărul de copii cu vârsta cuprinsă între 5 și 17 ani implicați
+  în munca copiilor, pe sexe și vârste'
+8-8-1-title: 'Accidente de muncă mortale și non mortale la 100.000 de lucrători, pe
+  sexe și statut de migrant'
+8-8-2-title: 'Nivelul de respectare la nivel național a drepturilor muncii (libertatea
+  de asociere și de negociere colectivă) pe baza surselor textuale ale Organizației
+  Internaționale a Muncii (OIM) și a legislației naționale, pe sexe și statut de migrant'
+8-9-1-title: 'PIB-ul direct al turismului ca pondere în PIB-ul total și în rata de
+  creștere'
+8-9-2-title: 'Proporția locurilor de muncă în industriile turistice durabile din totalul
+  locurilor de muncă din turism'
+8-a-1-title: 'Angajamentele și plățile pentru ajutorul pentru comerț'
+8-b-1-title: 'Existența unei strategii naționale dezvoltate și operaționalizate pentru
+  ocuparea forței de muncă în rândul tinerilor, ca strategie distinctă sau ca parte
+  a unei strategii naționale de ocupare a forței de muncă.'
+9-1-1-title: 'Proporția populației rurale care locuiește la mai puțin de 2 km de un
+  drum pentru toate anotimpurile'
+9-1-2-title: 'Volumele de pasageri și de mărfuri, pe moduri de transport'
+9-2-1-title: 'Valoarea adăugată în industria prelucrătoare ca proporție din PIB și
+  pe cap de locuitor'
+9-2-2-title: 'Ocuparea forței de muncă în industria prelucrătoare ca proporție din
+  totalul ocupării forței de muncă'
+9-3-1-title: 'Proporția industriilor mici în valoarea adăugată totală a industriei'
+9-3-2-title: 'Proporția de industrii mici cu un împrumut sau o linie de credit'
+9-4-1-title: 'Emisiile de CO2 pe unitate de valoare adăugată'
+9-5-1-title: 'Cheltuielile pentru cercetare și dezvoltare ca procent din PIB'
+9-5-2-title: 'Cercetători (în echivalent normă întreagă) la un milion de locuitori'
+9-a-1-title: 'Totalul sprijinului internațional oficial (asistență oficială pentru
+  dezvoltare plus alte fluxuri oficiale) pentru infrastructură'
+9-b-1-title: 'Ponderea valorii adăugate a industriei de tehnologie medie și înaltă
+  în valoarea adăugată totală'
+9-c-1-title: 'Proporția populației acoperită de o rețea mobilă, în funcție de tehnologie'

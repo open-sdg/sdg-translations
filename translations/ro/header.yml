@@ -1,0 +1,24 @@
+skip_link: 'Treci la conținutul principal'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'Alpha'
+disclaimer: 'Acesta este un site de dezvoltare. Vă așteptăm cu drag <a href="mailto:%email_contacts.suggestions">feedback</a>.'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: '17 obiective pentru a ne transforma lumea'
+high_contrast: 'Contrast ridicat'
+default_contrast: 'Contrastul implicit'
+enable_high_contrast: 'Activați contrastul ridicat'
+disable_high_contrast: 'Dezactivați contrastul ridicat'
+toggle_search: 'Comutator de căutare. Faceți clic pentru a mări sau micșora bara de
+  căutare.'
+toggle_menu: 'Meniu de comutare. Faceți clic pentru a mări sau micșora meniul.'
+internet_explorer_message_title: 'Acest browser de internet nu mai este suportat'
+internet_explorer_message: 'Am detectat că utilizați Internet Explorer pentru a vizita
+  acest site web. Internet Explorer este în prezent eliminat treptat de Microsoft.
+  Prin urmare, acest site web nu mai acceptă nicio versiune de Internet Explorer.
+  Unele funcții de pe acest site nu vor funcționa. Ar trebui să folosiți un browser
+  modern, cum ar fi Edge, Chrome, Firefox sau Safari. Dacă întâmpinați dificultăți
+  în instalarea sau accesarea unui alt browser, vă rugăm să contactați echipa de asistență
+  IT.'
+show_menu: 'Afișați meniul de navigare'
+hide_menu: 'Ascundeți meniul de navigare'
+logo_title: 'Mergeți la pagina de pornire'

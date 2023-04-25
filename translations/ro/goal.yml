@@ -1,4 +1,5 @@
-previous: ''
-next: ''
-description: ''
-indicators_for_goal: ''
+previous: 'Obiectiv anterior'
+next: 'Următorul obiectiv'
+description: 'Faceți clic pe fiecare obiectiv pentru a vedea statisticile pentru indicatorii
+  globali ai obiectivelor de dezvoltare durabilă %country.name.'
+indicators_for_goal: 'Vizualizați țintele și indicatorii pentru obiectivul'

@@ -1,0 +1,13 @@
+search: 'Căutare'
+# This refers to a section of the site for performing keyword searches to find particular indicators
+indicator_search: 'Căutarea indicatorului'
+# A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
+search_results_for: 'Rezultatele căutării pentru'
+found_in: 'găsit în'
+keywords: 'Cuvinte cheie'
+# A message for the user - after they have performed an online search - to indicate that their search produced no results
+no_results: 'Nu există rezultate'
+did_you_mean: 'ai vrut să spui'
+results_found: 'Rezultate găsite'
+adjust_your_search: 'Încercați să vă ajustați căutarea pentru a găsi ceea ce căutați.'
+site_search: 'Căutare pe site'

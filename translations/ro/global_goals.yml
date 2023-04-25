@@ -1,34 +1,50 @@
-1-short: ''
-1-title: ''
-10-short: ''
-10-title: ''
-11-short: ''
-11-title: ''
-12-short: ''
-12-title: ''
-13-short: ''
-13-title: ''
-14-short: ''
-14-title: ''
-15-short: ''
-15-title: ''
-16-short: ''
-16-title: ''
-17-short: ''
-17-title: ''
-2-short: ''
-2-title: ''
-3-short: ''
-3-title: ''
-4-short: ''
-4-title: ''
-5-short: ''
-5-title: ''
-6-short: ''
-6-title: ''
-7-short: ''
-7-title: ''
-8-short: ''
-8-title: ''
-9-short: ''
-9-title: ''
+1-short: 'Fără sărăcie'
+1-title: 'Să punem capăt sărăciei în toate formele sale, oriunde în lume'
+10-short: 'Reducerea inegalităților'
+10-title: 'Reducerea inegalităților în interiorul și între țări'
+11-short: 'Orașe și comunități durabile'
+11-title: 'Asigurarea unor orașe și așezări umane incluzive, sigure, rezistente și
+  durabile'
+12-short: 'Consum și producție responsabilă'
+12-title: 'Asigurarea unor modele de consum și de producție durabile'
+13-short: 'Acțiuni climatice'
+13-title: 'Să ia măsuri urgente pentru a combate schimbările climatice și efectele
+  acestora'
+14-short: 'Viața sub apă'
+14-title: 'Conservarea și utilizarea durabilă a oceanelor, a mărilor și a resurselor
+  marine în scopul dezvoltării durabile'
+15-short: 'Viața pe uscat'
+15-title: 'Protejarea, refacerea și promovarea utilizării durabile a ecosistemelor
+  terestre, gestionarea durabilă a pădurilor, combaterea deșertificării, oprirea și
+  inversarea degradării terenurilor și stoparea pierderii biodiversității.'
+16-short: 'Pace, justiție și instituții puternice'
+16-title: 'Promovarea unor societăți pașnice și favorabile incluziunii pentru o dezvoltare
+  durabilă, asigurarea accesului la justiție pentru toți și crearea unor instituții
+  eficiente, responsabile și favorabile incluziunii la toate nivelurile.'
+17-short: 'Parteneriate pentru atingerea obiectivelor'
+17-title: 'Consolidarea mijloacelor de punere în aplicare și revitalizarea Parteneriatului
+  global pentru dezvoltare durabilă'
+2-short: 'Foamete zero'
+2-title: 'Eliminarea foametei, asigurarea securității alimentare și a unei nutriții
+  îmbunătățite și promovarea agriculturii durabile'
+3-short: 'Sănătate și bunăstare bună'
+3-title: 'Asigurarea unei vieți sănătoase și promovarea bunăstării pentru toți, la
+  toate vârstele'
+4-short: 'Educație de calitate'
+4-title: 'Asigurarea unei educații de calitate incluzive și echitabile și promovarea
+  oportunităților de învățare pe tot parcursul vieții pentru toți.'
+5-short: 'Egalitatea de gen'
+5-title: 'Realizarea egalității de gen și emanciparea tuturor femeilor și fetelor'
+6-short: 'Apă curată și salubritate'
+6-title: 'Asigurarea disponibilității și a gestionării durabile a apei și a canalizării
+  pentru toți.'
+7-short: 'Energie curată și la prețuri accesibile'
+7-title: 'Asigurarea accesului la energie modernă, fiabilă, durabilă și modernă la
+  prețuri accesibile pentru toți.'
+8-short: 'Muncă decentă și creștere economică'
+8-title: 'Promovarea unei creșteri economice susținute, favorabile incluziunii și
+  durabile, a ocupării depline și productive a forței de muncă și a muncii decente
+  pentru toți.'
+9-short: 'Industrie, inovare și infrastructură'
+9-title: 'Construirea unei infrastructuri reziliente, promovarea unei industrializări
+  incluzive și durabile și încurajarea inovării'

@@ -1,1 +1,17 @@
-{}
+download_all: Descărcați toate datele (.zip)
+zip_file: Fișier ZIP
+instructions: Faceți clic pe fiecare obiectiv, sau %before_link search, %after_link
+  for %country.name statistics for Sustainable Development Goal global indicators.
+instructions_short: Faceți clic pe fiecare obiectiv pentru a obține date privind indicatorii
+  globali ai obiectivelor de dezvoltare durabilă %country.name.
+heading: '%country.name date pentru indicatorii Obiectivelor de Dezvoltare Durabilă'
+instructions_shorter: Selectați fiecare obiectiv pentru datele indicatorilor.
+heading_short: '%country.name date pentru Obiectivele de Dezvoltare Durabilă'
+file_size: Dimensiune
+intro_title: 17 obiective pentru a ne transforma lumea
+intro_body: <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Obiectivele
+  de dezvoltare durabilă (ODD)</a> reprezintă un apel universal la acțiune pentru
+  a pune capăt sărăciei, a proteja planeta și a îmbunătăți viața și perspectivele
+  tuturor, oriunde în lume. Cele 17 obiective au fost adoptate de toate statele membre
+  ale ONU în 2015, ca parte a <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">Agenda
+  2030 pentru dezvoltare durabilă</a>.

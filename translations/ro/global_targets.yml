@@ -1,169 +1,586 @@
-1-1-title: ''
-1-2-title: ''
-1-3-title: ''
-1-4-title: ''
-1-5-title: ''
-1-a-title: ''
-1-b-title: ''
-10-1-title: ''
-10-2-title: ''
-10-3-title: ''
-10-4-title: ''
-10-5-title: ''
-10-6-title: ''
-10-7-title: ''
-10-a-title: ''
-10-b-title: ''
-10-c-title: ''
-11-1-title: ''
-11-2-title: ''
-11-3-title: ''
-11-4-title: ''
-11-5-title: ''
-11-6-title: ''
-11-7-title: ''
-11-a-title: ''
-11-b-title: ''
-11-c-title: ''
-12-1-title: ''
-12-2-title: ''
-12-3-title: ''
-12-4-title: ''
-12-5-title: ''
-12-6-title: ''
-12-7-title: ''
-12-8-title: ''
-12-a-title: ''
-12-b-title: ''
-12-c-title: ''
-13-1-title: ''
-13-2-title: ''
-13-3-title: ''
-13-a-title: ''
-13-b-title: ''
-14-1-title: ''
-14-2-title: ''
-14-3-title: ''
-14-4-title: ''
-14-5-title: ''
-14-6-title: ''
-14-7-title: ''
-14-a-title: ''
-14-b-title: ''
-14-c-title: ''
-15-1-title: ''
-15-2-title: ''
-15-3-title: ''
-15-4-title: ''
-15-5-title: ''
-15-6-title: ''
-15-7-title: ''
-15-8-title: ''
-15-9-title: ''
-15-a-title: ''
-15-b-title: ''
-15-c-title: ''
-16-1-title: ''
-16-10-title: ''
-16-2-title: ''
-16-3-title: ''
-16-4-title: ''
-16-5-title: ''
-16-6-title: ''
-16-7-title: ''
-16-8-title: ''
-16-9-title: ''
-16-a-title: ''
-16-b-title: ''
-17-1-title: ''
-17-10-title: ''
-17-11-title: ''
-17-12-title: ''
-17-13-title: ''
-17-14-title: ''
-17-15-title: ''
-17-16-title: ''
-17-17-title: ''
-17-18-title: ''
-17-19-title: ''
-17-2-title: ''
-17-3-title: ''
-17-4-title: ''
-17-5-title: ''
-17-6-title: ''
-17-7-title: ''
-17-8-title: ''
-17-9-title: ''
-2-1-title: ''
-2-2-title: ''
-2-3-title: ''
-2-4-title: ''
-2-5-title: ''
-2-a-title: ''
-2-b-title: ''
-2-c-title: ''
-3-1-title: ''
-3-2-title: ''
-3-3-title: ''
-3-4-title: ''
-3-5-title: ''
-3-6-title: ''
-3-7-title: ''
-3-8-title: ''
-3-9-title: ''
-3-a-title: ''
-3-b-title: ''
-3-c-title: ''
-3-d-title: ''
-4-1-title: ''
-4-2-title: ''
-4-3-title: ''
-4-4-title: ''
-4-5-title: ''
-4-6-title: ''
-4-7-title: ''
-4-a-title: ''
-4-b-title: ''
-4-c-title: ''
-5-1-title: ''
-5-2-title: ''
-5-3-title: ''
-5-4-title: ''
-5-5-title: ''
-5-6-title: ''
-5-a-title: ''
-5-b-title: ''
-5-c-title: ''
-6-1-title: ''
-6-2-title: ''
-6-3-title: ''
-6-4-title: ''
-6-5-title: ''
-6-6-title: ''
-6-a-title: ''
-6-b-title: ''
-7-1-title: ''
-7-2-title: ''
-7-3-title: ''
-7-a-title: ''
-7-b-title: ''
-8-1-title: ''
-8-10-title: ''
-8-2-title: ''
-8-3-title: ''
-8-4-title: ''
-8-5-title: ''
-8-6-title: ''
-8-7-title: ''
-8-8-title: ''
-8-9-title: ''
-8-a-title: ''
-8-b-title: ''
-9-1-title: ''
-9-2-title: ''
-9-3-title: ''
-9-4-title: ''
-9-5-title: ''
-9-a-title: ''
-9-b-title: ''
-9-c-title: ''
+1-1-title: 'Până în 2030, să eradicăm sărăcia extremă pentru toți oamenii de pretutindeni,
+  măsurată în prezent ca fiind persoanele care trăiesc cu mai puțin de 1,25 dolari
+  pe zi.'
+1-2-title: 'Până în 2030, reducerea cel puțin la jumătate a proporției bărbaților,
+  femeilor și copiilor de toate vârstele care trăiesc în sărăcie în toate dimensiunile
+  sale, în conformitate cu definițiile naționale.'
+1-3-title: 'Să pună în aplicare sisteme și măsuri de protecție socială adecvate la
+  nivel național pentru toți, inclusiv pentru podele, și să realizeze până în 2030
+  o acoperire substanțială a persoanelor sărace și vulnerabile.'
+1-4-title: 'Până în 2030, să se asigure că toți bărbații și femeile, în special cei
+  săraci și vulnerabili, au drepturi egale la resurse economice, precum și acces la
+  servicii de bază, proprietate și control asupra terenurilor și altor forme de proprietate,
+  moștenire, resurse naturale, noi tehnologii adecvate și servicii financiare, inclusiv
+  microfinanțare.'
+1-5-title: 'Până în 2030, consolidarea rezilienței persoanelor sărace și a celor aflate
+  în situații vulnerabile și reducerea expunerii și vulnerabilității acestora la evenimente
+  extreme legate de climă și la alte șocuri și dezastre economice, sociale și de mediu.'
+1-a-title: 'să asigure o mobilizare semnificativă a resurselor dintr-o varietate de
+  surse, inclusiv printr-o cooperare consolidată pentru dezvoltare, pentru a oferi
+  mijloace adecvate și previzibile pentru ca țările în curs de dezvoltare, în special
+  țările cel mai puțin dezvoltate, să pună în aplicare programe și politici pentru
+  a pune capăt sărăciei în toate dimensiunile sale.'
+1-b-title: 'Crearea unor cadre politice solide la nivel național, regional și internațional,
+  bazate pe strategii de dezvoltare favorabile săracilor și sensibile la dimensiunea
+  de gen, pentru a sprijini investițiile accelerate în acțiunile de eradicare a sărăciei.'
+10-1-title: 'Până în 2030, realizarea progresivă și susținerea creșterii veniturilor
+  celor 40 % din populația de la baza clasamentului la o rată mai mare decât media
+  națională.'
+10-2-title: 'Până în 2030, să împuternicească și să promoveze incluziunea socială,
+  economică și politică a tuturor, indiferent de vârstă, sex, handicap, rasă, etnie,
+  origine, religie sau statut economic sau de altă natură.'
+10-3-title: 'să asigure egalitatea de șanse și să reducă inegalitățile de rezultate,
+  inclusiv prin eliminarea legilor, politicilor și practicilor discriminatorii și
+  prin promovarea unei legislații, a unor politici și a unor acțiuni adecvate în acest
+  sens.'
+10-4-title: 'Adoptarea de politici, în special de politici fiscale, salariale și de
+  protecție socială, și realizarea progresivă a unei mai mari egalități.'
+10-5-title: 'să îmbunătățească reglementarea și monitorizarea piețelor și instituțiilor
+  financiare mondiale și să consolideze punerea în aplicare a acestor reglementări'
+10-6-title: 'să asigure o mai bună reprezentare a țărilor în curs de dezvoltare în
+  procesul decizional în cadrul instituțiilor economice și financiare internaționale
+  globale, pentru a crea instituții mai eficiente, credibile, responsabile și legitime'
+10-7-title: 'să faciliteze o migrație și o mobilitate a persoanelor ordonată, sigură,
+  regulată și responsabilă, inclusiv prin punerea în aplicare a unor politici de migrație
+  planificate și bine gestionate'
+10-a-title: 'să pună în aplicare principiul tratamentului special și diferențiat pentru
+  țările în curs de dezvoltare, în special pentru țările cel mai puțin dezvoltate,
+  în conformitate cu acordurile Organizației Mondiale a Comerțului'
+10-b-title: 'să încurajeze asistența oficială pentru dezvoltare și fluxurile financiare,
+  inclusiv investițiile străine directe, către statele în care nevoile sunt cele mai
+  mari, în special către țările cel mai puțin dezvoltate, țările africane, statele
+  insulare mici în curs de dezvoltare și țările în curs de dezvoltare fără ieșire
+  la mare, în conformitate cu planurile și programele lor naționale'
+10-c-title: 'Până în 2030, reducerea la mai puțin de 3 % a costurilor de tranzacționare
+  a transferurilor de bani ale migranților și eliminarea coridoarelor de transferuri
+  de bani cu costuri mai mari de 5 %.'
+11-1-title: 'Până în 2030, să asigure accesul tuturor la locuințe și servicii de bază
+  adecvate, sigure și la prețuri accesibile și să modernizeze cartierele sărace.'
+11-2-title: 'Până în 2030, să asigure accesul tuturor la sisteme de transport sigure,
+  accesibile, la prețuri accesibile și durabile, îmbunătățind siguranța rutieră, în
+  special prin extinderea transportului public, acordând o atenție deosebită nevoilor
+  celor aflați în situații vulnerabile, femeilor, copiilor, persoanelor cu handicap
+  și persoanelor în vârstă.'
+11-3-title: 'Până în 2030, consolidarea urbanizării incluzive și durabile și a capacității
+  de planificare și gestionare participativă, integrată și durabilă a așezărilor umane
+  în toate țările.'
+11-4-title: 'să intensifice eforturile de protejare și de salvgardare a patrimoniului
+  cultural și natural al lumii'
+11-5-title: 'Până în 2030, reducerea semnificativă a numărului de decese și a numărului
+  de persoane afectate și reducerea substanțială a pierderilor economice directe în
+  raport cu produsul intern brut global cauzate de dezastre, inclusiv de dezastrele
+  legate de apă, cu accent pe protejarea persoanelor sărace și a celor aflate în situații
+  vulnerabile.'
+11-6-title: 'Până în 2030, reducerea impactului negativ al orașelor asupra mediului
+  pe cap de locuitor, inclusiv prin acordarea unei atenții deosebite calității aerului
+  și gestionării deșeurilor municipale și a altor deșeuri.'
+11-7-title: 'Până în 2030, să asigure accesul universal la spații verzi și publice
+  sigure, incluzive și accesibile, în special pentru femei și copii, persoane în vârstă
+  și persoane cu handicap.'
+11-a-title: 'Sprijinirea legăturilor economice, sociale și de mediu pozitive între
+  zonele urbane, periurbane și rurale prin consolidarea planificării dezvoltării naționale
+  și regionale.'
+11-b-title: 'Până în 2020, să crească substanțial numărul orașelor și așezărilor umane
+  care adoptă și pun în aplicare politici și planuri integrate în vederea incluziunii,
+  a eficienței resurselor, a atenuării și adaptării la schimbările climatice, a rezilienței
+  la dezastre și să dezvolte și să pună în aplicare, în conformitate cu Cadrul Sendai
+  pentru reducerea riscului de dezastre 2015-2030, o gestionare holistică a riscului
+  de dezastre la toate nivelurile.'
+11-c-title: 'Sprijinirea țărilor cel mai puțin dezvoltate, inclusiv prin asistență
+  financiară și tehnică, în construirea de clădiri durabile și rezistente care să
+  utilizeze materiale locale.'
+12-1-title: 'să pună în aplicare cadrul decenal de programe privind modelele de consum
+  și de producție durabile, toate țările acționând, cu țările dezvoltate în frunte,
+  ținând seama de dezvoltarea și capacitățile țărilor în curs de dezvoltare'
+12-2-title: 'Până în 2030, să realizeze gestionarea durabilă și utilizarea eficientă
+  a resurselor naturale.'
+12-3-title: 'Până în 2030, înjumătățirea risipei de alimente pe cap de locuitor la
+  nivel mondial la nivelul comerțului cu amănuntul și al consumatorilor și reducerea
+  pierderilor de alimente de-a lungul lanțurilor de producție și de aprovizionare,
+  inclusiv a pierderilor post-recoltare.'
+12-4-title: 'Până în 2020, să asigure gestionarea ecologică a substanțelor chimice
+  și a tuturor deșeurilor pe tot parcursul ciclului de viață al acestora, în conformitate
+  cu cadrele internaționale convenite, și să reducă în mod semnificativ emisiile acestora
+  în aer, apă și sol, pentru a minimiza impactul negativ al acestora asupra sănătății
+  umane și a mediului.'
+12-5-title: 'Până în 2030, reducerea substanțială a generării de deșeuri prin prevenire,
+  reducere, reciclare și reutilizare.'
+12-6-title: 'să încurajeze companiile, în special companiile mari și transnaționale,
+  să adopte practici durabile și să integreze informațiile privind dezvoltarea durabilă
+  în ciclul lor de raportare'
+12-7-title: 'Promovarea practicilor de achiziții publice care sunt durabile, în conformitate
+  cu politicile și prioritățile naționale.'
+12-8-title: 'Până în 2030, să ne asigurăm că oamenii de pretutindeni dispun de informațiile
+  relevante și de conștientizarea necesităților pentru o dezvoltare durabilă și un
+  stil de viață în armonie cu natura.'
+12-a-title: 'Sprijinirea țărilor în curs de dezvoltare pentru a-și consolida capacitatea
+  științifică și tehnologică de a trece la modele de consum și de producție mai durabile'
+12-b-title: 'Elaborarea și punerea în aplicare a unor instrumente de monitorizare
+  a impactului dezvoltării durabile pentru un turism durabil care creează locuri de
+  muncă și promovează cultura și produsele locale.'
+12-c-title: 'să raționalizeze subvențiile ineficiente pentru combustibilii fosili
+  care încurajează consumul risipitor prin eliminarea denaturărilor pieței, în conformitate
+  cu circumstanțele naționale, inclusiv prin restructurarea impozitării și eliminarea
+  treptată a acestor subvenții dăunătoare, acolo unde acestea există, pentru a reflecta
+  impactul lor asupra mediului, ținând seama pe deplin de nevoile și condițiile specifice
+  ale țărilor în curs de dezvoltare și reducând la minimum posibilele efecte negative
+  asupra dezvoltării acestora, într-un mod care să protejeze săracii și comunitățile
+  afectate'
+13-1-title: 'Consolidarea rezilienței și a capacității de adaptare la pericolele legate
+  de climă și la dezastrele naturale în toate țările.'
+13-2-title: 'Integrarea măsurilor privind schimbările climatice în politicile, strategiile
+  și planificarea naționale'
+13-3-title: 'Îmbunătățirea educației, a sensibilizării și a capacității umane și instituționale
+  în ceea ce privește atenuarea schimbărilor climatice, adaptarea, reducerea impactului
+  și avertizarea timpurie'
+13-a-title: 'să pună în aplicare angajamentul asumat de țările dezvoltate care sunt
+  părți la Convenția-cadru a Organizației Națiunilor Unite asupra schimbărilor climatice
+  de a mobiliza în comun 100 de miliarde de dolari anual până în 2020 din toate sursele
+  pentru a răspunde nevoilor țărilor în curs de dezvoltare în contextul unor acțiuni
+  de atenuare semnificative și al transparenței în ceea ce privește punerea în aplicare
+  și să operaționalizeze pe deplin Fondul verde pentru climă prin capitalizarea sa
+  cât mai curând posibil'
+13-b-title: 'Promovarea mecanismelor de creștere a capacității de planificare și gestionare
+  eficientă a schimbărilor climatice în țările cel mai puțin dezvoltate și în statele
+  insulare mici în curs de dezvoltare, inclusiv cu accent pe femei, tineri și comunități
+  locale și marginalizate.'
+14-1-title: 'Până în 2025, prevenirea și reducerea semnificativă a poluării marine
+  de toate tipurile, în special a poluării provenite din activități terestre, inclusiv
+  a deșeurilor marine și a poluării cu nutrienți.'
+14-2-title: 'Până în 2020, să gestioneze și să protejeze în mod durabil ecosistemele
+  marine și costiere pentru a evita efectele negative semnificative, inclusiv prin
+  consolidarea rezilienței acestora, și să ia măsuri de refacere a acestora în vederea
+  obținerii unor oceane sănătoase și productive.'
+14-3-title: 'Reducerea la minimum și abordarea impactului acidificării oceanelor,
+  inclusiv printr-o cooperare științifică sporită la toate nivelurile.'
+14-4-title: 'Până în 2020, să reglementeze în mod eficient recoltarea și să pună capăt
+  pescuitului excesiv, pescuitului ilegal, nedeclarat și nereglementat și practicilor
+  de pescuit distructive și să pună în aplicare planuri de gestionare bazate pe date
+  științifice, pentru a reface stocurile de pește în cel mai scurt timp posibil, cel
+  puțin la niveluri care pot produce un randament maxim durabil, astfel cum este determinat
+  de caracteristicile lor biologice.'
+14-5-title: 'Până în 2020, să conserve cel puțin 10 % din zonele costiere și marine,
+  în conformitate cu legislația națională și internațională și pe baza celor mai bune
+  informații științifice disponibile.'
+14-6-title: 'Până în 2020, să interzică anumite forme de subvenții în domeniul pescuitului
+  care contribuie la supracapacitate și la pescuitul excesiv, să elimine subvențiile
+  care contribuie la pescuitul ilegal, nedeclarat și nereglementat și să se abțină
+  de la introducerea de noi subvenții de acest tip, recunoscând că un tratament special
+  și diferențiat adecvat și eficient pentru țările în curs de dezvoltare și pentru
+  țările cel mai puțin dezvoltate ar trebui să facă parte integrantă din negocierile
+  Organizației Mondiale a Comerțului privind subvențiile în domeniul pescuitului.'
+14-7-title: 'Până în 2030, creșterea beneficiilor economice ale statelor insulare
+  mici în curs de dezvoltare și ale țărilor cel mai puțin dezvoltate din utilizarea
+  durabilă a resurselor marine, inclusiv prin gestionarea durabilă a pescuitului,
+  a acvaculturii și a turismului.'
+14-a-title: 'sporirea cunoștințelor științifice, dezvoltarea capacității de cercetare
+  și transferul de tehnologie marină, ținând seama de criteriile și orientările Comisiei
+  oceanografice interguvernamentale privind transferul de tehnologie marină, pentru
+  a îmbunătăți sănătatea oceanelor și pentru a spori contribuția biodiversității marine
+  la dezvoltarea țărilor în curs de dezvoltare, în special a statelor insulare mici
+  în curs de dezvoltare și a țărilor cel mai puțin dezvoltate'
+14-b-title: 'Asigurarea accesului micilor pescari artizanali la resursele marine și
+  la piețe'
+14-c-title: 'să consolideze conservarea și utilizarea durabilă a oceanelor și a resurselor
+  acestora prin punerea în aplicare a dreptului internațional, astfel cum se reflectă
+  în Convenția Națiunilor Unite asupra dreptului mării, care oferă cadrul juridic
+  pentru conservarea și utilizarea durabilă a oceanelor și a resurselor acestora,
+  astfel cum se reamintește la punctul 158 din "Viitorul pe care ni-l dorim".'
+15-1-title: 'Până în 2020, să asigure conservarea, refacerea și utilizarea durabilă
+  a ecosistemelor terestre și a celor de apă dulce interioare și a serviciilor acestora,
+  în special a pădurilor, a zonelor umede, a munților și a zonelor aride, în conformitate
+  cu obligațiile asumate în cadrul acordurilor internaționale.'
+15-2-title: 'Până în 2020, promovarea punerii în aplicare a gestionării durabile a
+  tuturor tipurilor de păduri, stoparea defrișărilor, refacerea pădurilor degradate
+  și creșterea substanțială a împăduririi și reîmpăduririi la nivel mondial.'
+15-3-title: 'Până în 2030, să combată deșertificarea, să refacă terenurile și solurile
+  degradate, inclusiv terenurile afectate de deșertificare, secetă și inundații, și
+  să depună eforturi pentru a obține o lume neutră din punct de vedere al degradării
+  terenurilor.'
+15-4-title: 'Până în 2030, să asigure conservarea ecosistemelor montane, inclusiv
+  a biodiversității acestora, pentru a le spori capacitatea de a furniza beneficii
+  esențiale pentru dezvoltarea durabilă.'
+15-5-title: 'să ia măsuri urgente și semnificative pentru a reduce degradarea habitatelor
+  naturale, pentru a stopa pierderea biodiversității și, până în 2020, pentru a proteja
+  și a preveni dispariția speciilor amenințate.'
+15-6-title: 'să promoveze o repartizare corectă și echitabilă a beneficiilor care
+  decurg din utilizarea resurselor genetice și să promoveze un acces adecvat la aceste
+  resurse, astfel cum s-a convenit la nivel internațional'
+15-7-title: 'să ia măsuri urgente pentru a pune capăt braconajului și traficului de
+  specii protejate de floră și faună și să abordeze atât cererea, cât și oferta de
+  produse ilegale din specii sălbatice'
+15-8-title: 'Până în 2020, să introducă măsuri de prevenire a introducerii și de reducere
+  semnificativă a impactului speciilor exotice invazive asupra ecosistemelor terestre
+  și acvatice și să controleze sau să eradicheze speciile prioritare.'
+15-9-title: 'Până în 2020, să integreze valorile ecosistemelor și ale biodiversității
+  în planificarea națională și locală, în procesele de dezvoltare, în strategiile
+  de reducere a sărăciei și în contabilitate.'
+15-a-title: 'Mobilizarea și creșterea semnificativă a resurselor financiare din toate
+  sursele pentru conservarea și utilizarea durabilă a biodiversității și a ecosistemelor.'
+15-b-title: 'să mobilizeze resurse semnificative din toate sursele și la toate nivelurile
+  pentru a finanța gestionarea durabilă a pădurilor și să ofere stimulente adecvate
+  țărilor în curs de dezvoltare pentru a promova o astfel de gestionare, inclusiv
+  pentru conservare și reîmpădurire'
+15-c-title: 'să consolideze sprijinul global pentru eforturile de combatere a braconajului
+  și a traficului de specii protejate, inclusiv prin creșterea capacității comunităților
+  locale de a căuta oportunități de mijloace de subzistență durabile.'
+16-1-title: 'Reducerea semnificativă a tuturor formelor de violență și a ratelor de
+  mortalitate aferente peste tot.'
+16-10-title: 'să asigure accesul publicului la informații și să protejeze libertățile
+  fundamentale, în conformitate cu legislația națională și cu acordurile internaționale'
+16-2-title: 'Să punem capăt abuzului, exploatării, traficului și tuturor formelor
+  de violență și tortură împotriva copiilor'
+16-3-title: 'Promovarea statului de drept la nivel național și internațional și asigurarea
+  accesului egal la justiție pentru toți.'
+16-4-title: 'Până în 2030, reducerea semnificativă a fluxurilor financiare ilicite
+  și a fluxurilor de arme, consolidarea recuperării și returnării bunurilor furate
+  și combaterea tuturor formelor de criminalitate organizată.'
+16-5-title: 'reducerea substanțială a corupției și a mitei sub toate formele lor'
+16-6-title: 'Dezvoltarea unor instituții eficiente, responsabile și transparente la
+  toate nivelurile'
+16-7-title: 'Asigurarea unui proces decizional receptiv, incluziv, participativ și
+  reprezentativ la toate nivelurile'
+16-8-title: 'extinderea și consolidarea participării țărilor în curs de dezvoltare
+  la instituțiile de guvernanță mondială'
+16-9-title: 'Până în 2030, asigurarea identității legale pentru toți, inclusiv înregistrarea
+  nașterii.'
+16-a-title: 'să consolideze instituțiile naționale relevante, inclusiv prin cooperare
+  internațională, în vederea consolidării capacităților la toate nivelurile, în special
+  în țările în curs de dezvoltare, pentru a preveni violența și a combate terorismul
+  și criminalitatea'
+16-b-title: 'Promovarea și punerea în aplicare a legilor și politicilor nediscriminatorii
+  pentru dezvoltarea durabilă'
+17-1-title: 'Consolidarea mobilizării resurselor interne, inclusiv prin intermediul
+  sprijinului internațional acordat țărilor în curs de dezvoltare, pentru a îmbunătăți
+  capacitatea internă de colectare a impozitelor și a altor venituri.'
+17-10-title: 'să promoveze un sistem comercial multilateral universal, bazat pe norme,
+  deschis, nediscriminatoriu și echitabil în cadrul Organizației Mondiale a Comerțului,
+  inclusiv prin încheierea negocierilor în cadrul Agendei de dezvoltare de la Doha'
+17-11-title: 'creșterea semnificativă a exporturilor țărilor în curs de dezvoltare,
+  în special în vederea dublării cotei țărilor cel mai puțin dezvoltate în cadrul
+  exporturilor mondiale până în 2020'
+17-12-title: 'să pună în aplicare în timp util accesul pe piață fără taxe vamale și
+  fără contingente, în mod durabil, pentru toate țările cel mai puțin dezvoltate,
+  în conformitate cu deciziile Organizației Mondiale a Comerțului, inclusiv prin asigurarea
+  faptului că normele de origine preferențiale aplicabile importurilor din țările
+  cel mai puțin dezvoltate sunt transparente și simple și contribuie la facilitarea
+  accesului pe piață'
+17-13-title: 'Consolidarea stabilității macroeconomice globale, inclusiv prin coordonarea
+  și coerența politicilor.'
+17-14-title: 'Consolidarea coerenței politicilor în favoarea dezvoltării durabile'
+17-15-title: 'să respecte spațiul politic și capacitatea de conducere a fiecărei țări
+  de a stabili și de a pune în aplicare politici de eradicare a sărăciei și de dezvoltare
+  durabilă'
+17-16-title: 'să consolideze parteneriatul global pentru dezvoltare durabilă, completat
+  de parteneriate între mai multe părți interesate care să mobilizeze și să facă schimb
+  de cunoștințe, expertiză, tehnologie și resurse financiare, pentru a sprijini realizarea
+  Obiectivelor de dezvoltare durabilă în toate țările, în special în țările în curs
+  de dezvoltare'
+17-17-title: 'să încurajeze și să promoveze parteneriate eficiente între sectorul
+  public, sectorul public-privat și societatea civilă, pe baza experienței și a strategiilor
+  de finanțare ale parteneriatelor.'
+17-18-title: 'Până în 2020, să consolideze sprijinul acordat țărilor în curs de dezvoltare,
+  inclusiv țărilor cel mai puțin dezvoltate și statelor insulare mici în curs de dezvoltare,
+  pentru a spori în mod semnificativ disponibilitatea unor date de înaltă calitate,
+  oportune și fiabile, defalcate în funcție de venit, sex, vârstă, rasă, etnie, statut
+  migrator, handicap, localizare geografică și alte caracteristici relevante în context
+  național.'
+17-19-title: 'Până în 2030, să se bazeze pe inițiativele existente pentru a elabora
+  măsurători ale progreselor în materie de dezvoltare durabilă care să completeze
+  produsul intern brut și să sprijine consolidarea capacităților statistice în țările
+  în curs de dezvoltare.'
+17-2-title: 'țările dezvoltate să își pună în aplicare pe deplin angajamentele privind
+  asistența oficială pentru dezvoltare, inclusiv angajamentul asumat de multe țări
+  dezvoltate de a atinge obiectivul de 0,7 % din venitul național brut pentru asistența
+  oficială pentru dezvoltare (AOD/RNB) pentru țările în curs de dezvoltare și de 0,15-0,20
+  % din AOD/RNB pentru țările cel mai puțin dezvoltate; furnizorii de AOD sunt încurajați
+  să ia în considerare stabilirea unui obiectiv de a furniza cel puțin 0,20 % din
+  AOD/RNB pentru țările cel mai puțin dezvoltate'
+17-3-title: 'Mobilizarea de resurse financiare suplimentare pentru țările în curs
+  de dezvoltare din mai multe surse'
+17-4-title: 'să ajute țările în curs de dezvoltare să atingă o sustenabilitate a datoriei
+  pe termen lung prin politici coordonate care vizează promovarea finanțării datoriei,
+  reducerea și restructurarea datoriei, după caz, și să abordeze problema datoriei
+  externe a țărilor sărace puternic îndatorate pentru a reduce dificultățile legate
+  de datorie'
+17-5-title: 'Adoptarea și punerea în aplicare a unor regimuri de promovare a investițiilor
+  pentru țările cel mai puțin dezvoltate'
+17-6-title: 'să consolideze cooperarea regională și internațională nord-sud, sud-sud
+  și triunghiulară în domeniul științei, tehnologiei și inovării și accesul la acestea
+  și să îmbunătățească schimbul de cunoștințe în condiții convenite de comun acord,
+  inclusiv printr-o mai bună coordonare între mecanismele existente, în special la
+  nivelul Organizației Națiunilor Unite, și printr-un mecanism global de facilitare
+  a tehnologiei'
+17-7-title: 'Promovarea dezvoltării, transferului, diseminării și difuzării tehnologiilor
+  ecologice către țările în curs de dezvoltare în condiții favorabile, inclusiv în
+  condiții concesionale și preferențiale, după cum s-a convenit de comun acord.'
+17-8-title: 'să operaționalizeze pe deplin, până în 2017, banca de tehnologie și mecanismul
+  de consolidare a capacităților în domeniul științei, tehnologiei și inovării pentru
+  țările cel mai puțin dezvoltate și să sporească utilizarea tehnologiei generice,
+  în special a tehnologiei informației și comunicațiilor'
+17-9-title: 'să consolideze sprijinul internațional pentru punerea în aplicare a unei
+  consolidări eficiente și specifice a capacităților în țările în curs de dezvoltare
+  pentru a sprijini planurile naționale de punere în aplicare a tuturor Obiectivelor
+  de Dezvoltare Durabilă, inclusiv prin intermediul cooperării nord-sud, sud-sud și
+  triunghiulare'
+2-1-title: 'Până în 2030, să punem capăt foametei și să asigurăm accesul tuturor persoanelor,
+  în special al celor sărace și al celor aflate în situații vulnerabile, inclusiv
+  al copiilor, la alimente sigure, nutritive și suficiente pe tot parcursul anului.'
+2-2-title: 'Până în 2030, să pună capăt tuturor formelor de malnutriție, inclusiv
+  să atingă, până în 2025, obiectivele convenite la nivel internațional privind întârzierile
+  în creștere și epuizarea la copiii cu vârsta sub 5 ani, și să răspundă nevoilor
+  nutriționale ale adolescentelor, femeilor însărcinate și care alăptează și ale persoanelor
+  în vârstă.'
+2-3-title: 'Până în 2030, dublarea productivității agricole și a veniturilor micilor
+  producători de alimente, în special ale femeilor, ale popoarelor indigene, ale fermierilor
+  familiali, ale pastorilor și ale pescarilor, inclusiv prin acces sigur și egal la
+  terenuri, la alte resurse de producție și la factori de producție, la cunoștințe,
+  la servicii financiare, la piețe și la oportunități de creare de valoare adăugată
+  și de ocupare a forței de muncă în afara fermei.'
+2-4-title: 'Până în 2030, să asigure sisteme de producție alimentară durabile și să
+  pună în aplicare practici agricole rezistente care să crească productivitatea și
+  producția, care să contribuie la menținerea ecosistemelor, care să consolideze capacitatea
+  de adaptare la schimbările climatice, la fenomenele meteorologice extreme, la secetă,
+  la inundații și la alte dezastre și care să îmbunătățească progresiv calitatea terenurilor
+  și a solului.'
+2-5-title: 'Până în 2020, să mențină diversitatea genetică a semințelor, a plantelor
+  cultivate și a animalelor de fermă și domestice, precum și a speciilor sălbatice
+  înrudite cu acestea, inclusiv prin intermediul unor bănci de semințe și de plante
+  bine gestionate și diversificate la nivel național, regional și internațional, și
+  să promoveze accesul la beneficiile care decurg din utilizarea resurselor genetice
+  și a cunoștințelor tradiționale asociate, precum și repartizarea corectă și echitabilă
+  a acestora, astfel cum s-a convenit la nivel internațional.'
+2-a-title: 'creșterea investițiilor, inclusiv prin intermediul unei cooperări internaționale
+  consolidate, în infrastructura rurală, în cercetarea agricolă și în serviciile de
+  extensie, în dezvoltarea tehnologică și în băncile de gene pentru plante și animale,
+  pentru a spori capacitatea de producție agricolă în țările în curs de dezvoltare,
+  în special în țările cel mai puțin dezvoltate'
+2-b-title: 'să corecteze și să prevină restricțiile și denaturările comerciale de
+  pe piețele agricole mondiale, inclusiv prin eliminarea paralelă a tuturor formelor
+  de subvenții la exportul de produse agricole și a tuturor măsurilor de export cu
+  efect echivalent, în conformitate cu mandatul Rundei de dezvoltare de la Doha'
+2-c-title: 'să adopte măsuri pentru a asigura buna funcționare a piețelor de produse
+  alimentare de bază și a instrumentelor derivate ale acestora și să faciliteze accesul
+  în timp util la  la informațiile de pe piață, inclusiv cele privind rezervele de
+  alimente, pentru a contribui la limitarea volatilității extreme a prețurilor la
+  alimente'
+3-1-title: 'Până în 2030, reducerea ratei globale a mortalității materne la mai puțin
+  de 70 la 100.000 de nașteri vii.'
+3-2-title: 'Până în 2030, să pună capăt deceselor evitabile ale nou-născuților și
+  ale copiilor cu vârsta sub 5 ani, toate țările urmărind să reducă mortalitatea neonatală
+  la cel puțin 12 la 1.000 de nașteri vii și mortalitatea copiilor sub 5 ani la cel
+  puțin 25 la 1.000 de nașteri vii.'
+3-3-title: 'Până în 2030, să pună capăt epidemiilor de SIDA, tuberculoză, malarie
+  și boli tropicale neglijate și să combată hepatita, bolile transmise prin apă și
+  alte boli transmisibile.'
+3-4-title: 'Până în 2030, reducerea cu o treime a mortalității premature cauzate de
+  bolile netransmisibile prin prevenire și tratament și promovarea sănătății mintale
+  și a bunăstării.'
+3-5-title: 'Consolidarea prevenirii și tratamentului abuzului de substanțe, inclusiv
+  a abuzului de stupefiante și a consumului nociv de alcool'
+3-6-title: 'Până în 2020, înjumătățirea numărului de decese și răniri cauzate de accidentele
+  rutiere la nivel mondial'
+3-7-title: 'Până în 2030, să asigure accesul universal la servicii de sănătate sexuală
+  și reproductivă, inclusiv în ceea ce privește planificarea familială, informarea
+  și educația, precum și integrarea sănătății reproductive în strategiile și programele
+  naționale.'
+3-8-title: 'Realizarea unei acoperiri universale a sănătății, inclusiv protecția împotriva
+  riscurilor financiare, accesul la servicii de sănătate esențiale de calitate și
+  accesul la medicamente și vaccinuri esențiale sigure, eficiente, de calitate și
+  la prețuri accesibile pentru toți.'
+3-9-title: 'Până în 2030, reducerea substanțială a numărului de decese și de îmbolnăviri
+  cauzate de substanțe chimice periculoase și de poluarea și contaminarea aerului,
+  apei și solului.'
+3-a-title: 'să consolideze punerea în aplicare a Convenției-cadru a Organizației Mondiale
+  a Sănătății privind controlul tutunului în toate țările, după caz'
+3-b-title: 'să sprijine cercetarea și dezvoltarea de vaccinuri și medicamente pentru
+  bolile transmisibile și netransmisibile care afectează în primul rând țările în
+  curs de dezvoltare, să asigure accesul la medicamente și vaccinuri esențiale la
+  prețuri accesibile, în conformitate cu Declarația de la Doha privind Acordul TRIPS
+  și sănătatea publică, care afirmă dreptul țărilor în curs de dezvoltare de a utiliza
+  pe deplin dispozițiile Acordului privind aspectele legate de comerț ale drepturilor
+  de proprietate intelectuală în ceea ce privește flexibilitatea pentru a proteja
+  sănătatea publică și, în special, de a asigura accesul tuturor la medicamente'
+3-c-title: 'să sporească substanțial finanțarea sănătății și recrutarea, dezvoltarea,
+  formarea și menținerea forței de muncă în domeniul sănătății în țările în curs de
+  dezvoltare, în special în țările cel mai puțin dezvoltate și în statele insulare
+  mici în curs de dezvoltare'
+3-d-title: 'Consolidarea capacității tuturor țărilor, în special a țărilor în curs
+  de dezvoltare, de avertizare timpurie, de reducere a riscurilor și de gestionare
+  a riscurilor pentru sănătate la nivel național și mondial.'
+4-1-title: 'Până în 2030, să se asigure că toate fetele și toți băieții finalizează
+  un învățământ primar și secundar gratuit, echitabil și de calitate, care să conducă
+  la rezultate de învățare relevante și eficiente.'
+4-2-title: 'Până în 2030, să se asigure că toate fetele și toți băieții au acces la
+  dezvoltare timpurie, îngrijire și educație preșcolară de calitate, astfel încât
+  să fie pregătiți pentru învățământul primar.'
+4-3-title: 'Până în 2030, să asigure accesul egal al tuturor femeilor și bărbaților
+  la un învățământ tehnic, profesional și terțiar de calitate și la prețuri accesibile,
+  inclusiv la învățământul universitar.'
+4-4-title: 'Până în 2030, creșterea substanțială a numărului de tineri și de adulți
+  care au competențe relevante, inclusiv competențe tehnice și profesionale, pentru
+  ocuparea forței de muncă, locuri de muncă decente și spirit antreprenorial.'
+4-5-title: 'Până în 2030, să elimine disparitățile de gen în educație și să asigure
+  accesul egal la toate nivelurile de educație și formare profesională pentru persoanele
+  vulnerabile, inclusiv persoanele cu handicap, popoarele indigene și copiii aflați
+  în situații vulnerabile.'
+4-6-title: 'Până în 2030, să se asigure că toți tinerii și o proporție substanțială
+  de adulți, atât bărbați cât și femei, vor fi alfabetizați și vor ști să calculeze.'
+4-7-title: 'Până în 2030, să se asigure că toți cursanții dobândesc cunoștințele și
+  competențele necesare pentru a promova dezvoltarea durabilă, inclusiv, printre altele,
+  prin educație pentru dezvoltare durabilă și stiluri de viață durabile, drepturile
+  omului, egalitatea de gen, promovarea unei culturi a păcii și a non-violenței, cetățenia
+  mondială și aprecierea diversității culturale și a contribuției culturii la dezvoltarea
+  durabilă.'
+4-a-title: 'Să construiască și să modernizeze unitățile de învățământ care să țină
+  cont de copii, de handicap și de gen și să ofere tuturor un mediu de învățare sigur,
+  non-violent, incluziv și eficient.'
+4-b-title: 'Până în 2020, să extindă substanțial, la nivel global, numărul de burse
+  disponibile pentru țările în curs de dezvoltare, în special pentru țările cel mai
+  puțin dezvoltate, statele insulare mici în curs de dezvoltare și țările africane,
+  pentru înscrierea în învățământul superior, inclusiv în programe de formare profesională
+  și de tehnologie a informației și comunicațiilor, tehnice, inginerești și științifice,
+  în țările dezvoltate și în alte țări în curs de dezvoltare.'
+4-c-title: 'Până în 2030, să crească în mod substanțial oferta de cadre didactice
+  calificate, inclusiv prin cooperare internațională pentru formarea cadrelor didactice
+  în țările în curs de dezvoltare, în special în țările cel mai puțin dezvoltate și
+  în micile state insulare în curs de dezvoltare.'
+5-1-title: 'Să punem capăt tuturor formelor de discriminare împotriva tuturor femeilor
+  și fetelor de pretutindeni'
+5-2-title: 'Să elimine toate formele de violență împotriva tuturor femeilor și fetelor
+  în sfera publică și privată, inclusiv traficul și exploatarea sexuală și alte tipuri
+  de exploatare.'
+5-3-title: 'Să elimine toate practicile dăunătoare, cum ar fi căsătoria timpurie și
+  forțată a copiilor și mutilarea genitală a femeilor.'
+5-4-title: 'să recunoască și să valorizeze munca de îngrijire și munca domestică neremunerată
+  prin furnizarea de servicii publice, infrastructură și politici de protecție socială
+  și prin promovarea responsabilității partajate în cadrul gospodăriei și al familiei,
+  după cum este adecvat la nivel național.'
+5-5-title: 'să asigure participarea deplină și efectivă a femeilor și șanse egale
+  de conducere la toate nivelurile de luare a deciziilor în viața politică, economică
+  și publică.'
+5-6-title: 'să asigure accesul universal la sănătatea sexuală și reproductivă și la
+  drepturile reproductive, astfel cum s-a convenit în conformitate cu Programul de
+  acțiune al Conferinței internaționale privind populația și dezvoltarea și cu Platforma
+  de acțiune de la Beijing, precum și cu documentele finale ale conferințelor de revizuire
+  ale acestora'
+5-a-title: 'să întreprindă reforme pentru a acorda femeilor drepturi egale la resursele
+  economice, precum și accesul la proprietatea și controlul asupra terenurilor și
+  a altor forme de proprietate, la serviciile financiare, la moștenire și la resursele
+  naturale, în conformitate cu legislația națională.'
+5-b-title: 'să sporească utilizarea tehnologiei generice, în special a tehnologiei
+  informației și comunicațiilor, pentru a promova emanciparea femeilor'
+5-c-title: 'să adopte și să consolideze politici solide și o legislație aplicabilă
+  pentru promovarea egalității de gen și pentru emanciparea tuturor femeilor și fetelor
+  la toate nivelurile.'
+6-1-title: 'Până în 2030, realizarea accesului universal și echitabil la apă potabilă
+  sigură și la prețuri accesibile pentru toți.'
+6-2-title: 'Până în 2030, să asigure accesul tuturor la condiții de igienă și de salubritate
+  adecvate și echitabile și să pună capăt defecației în aer liber, acordând o atenție
+  specială nevoilor femeilor și fetelor și celor aflați în situații vulnerabile.'
+6-3-title: 'Până în 2030, îmbunătățirea calității apei prin reducerea poluării, eliminarea
+  deversărilor și reducerea la minimum a eliberării de substanțe chimice și materiale
+  periculoase, reducerea la jumătate a proporției de ape uzate netratate și creșterea
+  substanțială a reciclării și a reutilizării în condiții de siguranță la nivel mondial.'
+6-4-title: 'Până în 2030, creșterea substanțială a eficienței utilizării apei în toate
+  sectoarele și asigurarea unor prelevări și a unei aprovizionări durabile cu apă
+  dulce pentru a aborda problema deficitului de apă și pentru a reduce substanțial
+  numărul de persoane care suferă din cauza deficitului de apă.'
+6-5-title: 'Până în 2030, să pună în aplicare gestionarea integrată a resurselor de
+  apă la toate nivelurile, inclusiv prin cooperare transfrontalieră, după caz.'
+6-6-title: 'Până în 2020, protejarea și refacerea ecosistemelor legate de apă, inclusiv
+  a munților, pădurilor, zonelor umede, râurilor, acviferelor și lacurilor.'
+6-a-title: 'Până în 2030, extinderea cooperării internaționale și a sprijinului acordat
+  țărilor în curs de dezvoltare pentru consolidarea capacităților în ceea ce privește
+  activitățile și programele legate de apă și canalizare, inclusiv recoltarea apei,
+  desalinizarea, utilizarea eficientă a apei, tratarea apelor uzate, tehnologiile
+  de reciclare și reutilizare.'
+6-b-title: 'Sprijinirea și consolidarea participării comunităților locale la îmbunătățirea
+  gestionării apei și a canalizării.'
+7-1-title: 'Până în 2030, asigurarea accesului universal la servicii energetice moderne,
+  fiabile și la prețuri accesibile.'
+7-2-title: 'Până în 2030, creșterea substanțială a ponderii energiei din surse regenerabile
+  în mixul energetic mondial.'
+7-3-title: 'Până în 2030, dublarea ratei globale de îmbunătățire a eficienței energetice.'
+7-a-title: 'Până în 2030, să consolideze cooperarea internațională pentru a facilita
+  accesul la cercetarea și tehnologia în domeniul energiei curate, inclusiv la energia
+  regenerabilă, la eficiența energetică și la tehnologii avansate și mai puțin poluante
+  în domeniul combustibililor fosili, și să promoveze investițiile în infrastructura
+  energetică și în tehnologia energiei curate.'
+7-b-title: 'Până în 2030, să extindă infrastructura și să modernizeze tehnologia pentru
+  furnizarea de servicii energetice moderne și durabile pentru toți în țările în curs
+  de dezvoltare, în special în țările cel mai puțin dezvoltate, în micile state insulare
+  în curs de dezvoltare și în țările în curs de dezvoltare fără ieșire la mare, în
+  conformitate cu programele lor de sprijin respective.'
+8-1-title: 'să susțină creșterea economică pe cap de locuitor în funcție de circumstanțele
+  naționale și, în special, o creștere a produsului intern brut de cel puțin 7 % pe
+  an în țările cel mai puțin dezvoltate'
+8-10-title: 'Consolidarea capacității instituțiilor financiare naționale de a încuraja
+  și extinde accesul tuturor la serviciile bancare, de asigurare și financiare.'
+8-2-title: 'atingerea unor niveluri mai ridicate de productivitate economică prin
+  diversificare, modernizare tehnologică și inovare, inclusiv prin concentrarea pe
+  sectoarele cu valoare adăugată ridicată și pe cele cu utilizare intensivă a forței
+  de muncă.'
+8-3-title: 'să promoveze politici orientate spre dezvoltare care să sprijine activitățile
+  productive, crearea de locuri de muncă decente, spiritul antreprenorial, creativitatea
+  și inovarea și să încurajeze formalizarea și creșterea microîntreprinderilor și
+  a întreprinderilor mici și mijlocii, inclusiv prin accesul la servicii financiare.'
+8-4-title: 'să îmbunătățească progresiv, până în 2030, eficiența resurselor la nivel
+  mondial în ceea ce privește consumul și producția și să depună eforturi pentru a
+  disocia creșterea economică de degradarea mediului, în conformitate cu Cadrul decenal
+  de programe privind consumul și producția durabile, țările dezvoltate urmând să
+  preia inițiativa.'
+8-5-title: 'Până în 2030, să se realizeze ocuparea integrală și productivă a forței
+  de muncă și o muncă decentă pentru toate femeile și bărbații, inclusiv pentru tineri
+  și persoanele cu handicap, precum și un salariu egal pentru o muncă de valoare egală.'
+8-6-title: 'Până în 2020, reducerea substanțială a proporției de tineri care nu au
+  un loc de muncă, nu urmează o formă de educație sau de formare profesională.'
+8-7-title: 'să ia măsuri imediate și eficiente pentru a eradica munca forțată, pentru
+  a pune capăt sclaviei moderne și traficului de persoane și pentru a asigura interzicerea
+  și eliminarea celor mai grave forme de muncă a copiilor, inclusiv recrutarea și
+  utilizarea copiilor soldați, iar până în 2025 să pună capăt muncii copiilor sub
+  toate formele sale'
+8-8-title: 'să protejeze drepturile lucrătorilor și să promoveze medii de lucru sigure
+  și securizate pentru toți lucrătorii, inclusiv pentru lucrătorii migranți, în special
+  pentru femeile migrante, și pentru cei care au un loc de muncă precar'
+8-9-title: 'Până în 2030, să elaboreze și să pună în aplicare politici de promovare
+  a turismului durabil care să creeze locuri de muncă și să promoveze cultura și produsele
+  locale.'
+8-a-title: 'să sporească sprijinul acordat țărilor în curs de dezvoltare, în special
+  țărilor cel mai puțin dezvoltate, inclusiv prin intermediul cadrului integrat consolidat
+  pentru asistența tehnică legată de comerț pentru țările cel mai puțin dezvoltate'
+8-b-title: 'Până în 2020, să elaboreze și să pună în aplicare o strategie globală
+  pentru ocuparea forței de muncă în rândul tinerilor și să pună în aplicare Pactul
+  mondial pentru locuri de muncă al Organizației Internaționale a Muncii.'
+9-1-title: 'Dezvoltarea unei infrastructuri de calitate, fiabile, durabile și rezistente,
+  inclusiv a unei infrastructuri regionale și transfrontaliere, pentru a sprijini
+  dezvoltarea economică și bunăstarea umană, punând accentul pe un acces accesibil
+  și echitabil pentru toți.'
+9-2-title: 'să promoveze o industrializare favorabilă incluziunii și durabilă și,
+  până în 2030, să crească în mod semnificativ ponderea industriei în ocuparea forței
+  de muncă și în produsul intern brut, în conformitate cu circumstanțele naționale,
+  și să dubleze ponderea acesteia în țările cel mai puțin dezvoltate'
+9-3-title: 'creșterea accesului întreprinderilor industriale și al altor întreprinderi
+  de mici dimensiuni, în special în țările în curs de dezvoltare, la servicii financiare,
+  inclusiv la credite la prețuri accesibile, și integrarea acestora în lanțurile valorice
+  și pe piețe'
+9-4-title: 'Până în 2030, modernizarea infrastructurii și modernizarea industriilor
+  pentru a le face durabile, prin creșterea eficienței utilizării resurselor și o
+  mai mare adoptare de tehnologii și procese industriale ecologice și nepoluante,
+  toate țările luând măsuri în funcție de capacitățile lor respective.'
+9-5-title: 'să intensifice cercetarea științifică, să îmbunătățească capacitățile
+  tehnologice ale sectoarelor industriale din toate țările, în special din țările
+  în curs de dezvoltare, inclusiv, până în 2030, să încurajeze inovarea și să crească
+  substanțial numărul de lucrători în domeniul cercetării și dezvoltării la 1 milion
+  de locuitori și cheltuielile publice și private pentru cercetare și dezvoltare.'
+9-a-title: 'facilitarea dezvoltării durabile și rezistente a infrastructurii în țările
+  în curs de dezvoltare prin intermediul unui sprijin financiar, tehnologic și tehnic
+  sporit pentru țările africane, țările cel mai puțin dezvoltate, țările în curs de
+  dezvoltare fără ieșire la mare și statele insulare mici în curs de dezvoltare'
+9-b-title: 'să sprijine dezvoltarea tehnologică internă, cercetarea și inovarea în
+  țările în curs de dezvoltare, inclusiv prin asigurarea unui mediu politic favorabil,
+  printre altele, pentru diversificarea industrială și adăugarea de valoare la produsele
+  de bază'
+9-c-title: 'să sporească în mod semnificativ accesul la tehnologia informației și
+  a comunicațiilor și să depună eforturi pentru a asigura accesul universal și la
+  prețuri accesibile la internet în țările cel mai puțin dezvoltate până în 2020'

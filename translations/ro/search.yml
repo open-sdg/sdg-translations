@@ -1,13 +1,13 @@
-search: Cauta
+search: Caută
 # This refers to a section of the site for performing keyword searches to find particular indicators
-indicator_search: Cauta indicator
+indicator_search: Caută indicator
 # A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
-search_results_for: cauta rezultate pentru
-found_in: gasit in
+search_results_for: caută rezultate pentru
+found_in: găsit în
 keywords: Cuvinte cheie
 # A message for the user - after they have performed an online search - to indicate that their search produced no results
 no_results: Nu sunt rezultate
-did_you_mean: ai vrut să spui
+did_you_mean: ați vrut să scrieți
 results_found: Rezultate găsite
-adjust_your_search: Try adjusting your search to find what you're looking for.
-site_search: Cautare site
+adjust_your_search: Încercați să ajustați căutarea pentru a găsi ceea ce căutați.
+site_search: Căutare site

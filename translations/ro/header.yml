@@ -1,22 +1,22 @@
-skip_link: Skip to main content
+skip_link: Sari la conținutul principal
 # This word identifies a software or web project as being in the early stages of development
 alpha: Alpha
-disclaimer: This is a development website. We welcome your
-  <a href="mailto:%email_contacts.suggestions">feedback</a>.
+disclaimer: Acesta este un site în dezvotlare. This is a development website. Salutăm
+  <a href="mailto:%email_contacts.suggestions">feedback-ul Dvs.</a>.
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
-tag_line: 17 Goals to Transform our World
-high_contrast: High contrast
-default_contrast: Default contrast
-enable_high_contrast: Enable high contrast
-disable_high_contrast: Disable high contrast
-toggle_search: Search toggle. Click to expand or collapse the search bar.
-toggle_menu: Menu toggle. Click to expand or collapse the menu.
-internet_explorer_message_title: This internet browser is no longer supported
-internet_explorer_message: We have detected that you are using Internet Explorer to visit this website.
-  Internet Explorer is now being phased out by Microsoft. As a result, this website no longer supports
-  any version of Internet Explorer. Some features on this site will not work. You should use a modern
-  browser such as Edge, Chrome, Firefox, or Safari. If you have difficulty installing or accessing a
-  different browser, please contact your IT support team.
-show_menu: Show navigation menu
-hide_menu: Hide navigation menu
-logo_title: Go to homepage
+tag_line: 17 Obiective pentru a transforma Lumea
+high_contrast: Contrast înalt
+default_contrast: Contrast implicit
+enable_high_contrast: Activează contrastul înalt
+disable_high_contrast: Dezactivează contrastul înalt
+toggle_search: Comutare de căutare. Faceți clic pentru a extinde sau restrânge bara de căutare.
+toggle_menu: Comutare meniu. Faceți clic pentru a extinde sau restrânge meniul.
+internet_explorer_message_title: Acest browser de internet nu mai este acceptat
+internet_explorer_message: Am detectat că utilizați Internet Explorer pentru a vizita acest site web.
+   Internet Explorer este acum eliminat treptat de Microsoft. Ca urmare, acest site web nu mai acceptă
+   orice versiune de Internet Explorer. Unele funcții de pe acest site nu vor funcționa. Ar trebui să folosiți un alt
+   browser precum Edge, Chrome, Firefox sau Safari. Dacă întâmpinați dificultăți la instalarea sau accesarea unui alt
+   browser, vă rugăm să contactați echipa de asistență IT.
+show_menu: Arată meniul de navigare
+hide_menu: Ascunde meniul de navigare
+logo_title: Acasă

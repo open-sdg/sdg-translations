@@ -6,6 +6,12 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## 2.2.0
+
+* Add Romanian language
+* Fix various strings via Weblate
+* Add new translations strings for Open SDG features
+
 ## 2.1.0
 
 * Add goal icons for Nepali

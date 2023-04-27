@@ -36,16 +36,15 @@ footnote: Footnote
 units_type: Units type
 # The label of a widget that allows the user to change the series that is being represented in a data visualization
 series: Series
-dataset_size_warning: There are too many datasets to show on the chart. Not all
-  will be shown until you remove some selections.
+dataset_size_warning: There are too many datasets to show on the chart. Not all will
+  be shown until you remove some selections.
 view_indicator_list: View this goal's indicator list
 # A label describing a section of the page that allows the user to filter data by sub-category
 sub_categories: Sub-categories
 # A label of "Show sub-categories" to display before a particular sub-category's name
 sub_categories_show: "Show sub-categories:"
-series_help: Choose categories from the dropdowns below to see different
-  breakdowns of the data. Some will not be available until a higher level is
-  chosen.
+series_help: Choose categories from the dropdowns below to see different breakdowns
+  of the data. Some will not be available until a higher level is chosen.
 legend_help: Click on the legend to remove individual lines from the chart.
 # A button that displays some data in the form of a chart
 chart: Chart
@@ -57,18 +56,16 @@ loading: Loading
 loading_map: Loading map
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: National Metadata
-national_metadata_blurb: This table provides metadata for the actual indicator
-  available from %country.name statistics closest to the corresponding
-  global SDG indicator. Please note that even when the global SDG indicator is
-  fully available from %country.adjective statistics, this table
-  should be consulted for information on national methodology and other
-  %country.adjective-specific metadata information.
+national_metadata_blurb: This table provides metadata for the actual indicator available
+  from %country.name statistics closest to the corresponding global SDG indicator.
+  Please note that even when the global SDG indicator is fully available from %country.adjective
+  statistics, this table should be consulted for information on national methodology
+  and other %country.adjective-specific metadata information.
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: Global Metadata
-global_metadata_blurb: This table provides information on metadata for SDG
-  indicators as defined by the UN Statistical Commission.
-  <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
-  is provided by the UN Statistics Division.
+global_metadata_blurb: This table provides information on metadata for SDG indicators
+  as defined by the UN Statistical Commission. <a href="https://unstats.un.org/sdgs/metadata/">Complete
+  global metadata</a> is provided by the UN Statistics Division.
 # A button for editing some content
 edit: Edit Indicator
 # A button for editing data
@@ -79,7 +76,8 @@ edit_metadata: Edit Metadata
 edit_configuration: Edit Configuration
 # A message that displays when a chart has no data to display because of the
 # user's choices.
-data_not_available: This data is not available. Please choose alternative data to display.
+data_not_available: This data is not available. Please choose alternative data to
+  display.
 # A message that is announced when there is no data on the chart/table
 announce_data_not_available: Chart and table shows no data.
 # A message that is announced when the data is added to the chart/table
@@ -89,7 +87,8 @@ announce_data_removed: Chart and table updated to exclude data.
 # A message that points out an alternative display for visual data
 data_tabular_alternative: For tabular data alternative see Table tab.
 # Instructions for navigating data with a keyboard
-data_keyboard_navigation: Press enter to browse data points with left and right arrow keys.
+data_keyboard_navigation: Press enter to browse data points with left and right arrow
+  keys.
 # Description of the "plot legend" which displays beneath charts
 plot_legend_description: "Plot legend: list of lines included in chart"
 # Common annotation displayed on graphs for the 2030 target.
@@ -122,7 +121,8 @@ map_slider_back: View map data for previous time period
 # Description of a button that changes the map to the next time period (eg, year).
 map_slider_forward: View map data for next time period
 # Description of the screen-reader instructions for keyboard usage of the map time slider.
-map_slider_keyboard: View map data throughout time period by using left and right arrow keys
+map_slider_keyboard: View map data throughout time period by using left and right
+  arrow keys
 # Description of the on-screen instructions for mouse usage of the map time slider.
 map_slider_mouse: Navigate map data by time period
 # Instructions for using the data table columns for sorting.
@@ -147,3 +147,9 @@ empty_metadata_placeholder: Not available for this indicator
 empty_metadata_placeholder_sources: Not available for this source
 # Text for an "aggregate" option in the map disaggregation popup.
 total: Total
+# Label indicating that an indicator is a proxy for a global indicator.
+proxy: Proxy
+# Description of what a proxy indicator is.
+proxy_description: This indicator contains some alternative data to those specified
+  by the United Nations (UN). This indicator is the most suitable match currently
+  available.

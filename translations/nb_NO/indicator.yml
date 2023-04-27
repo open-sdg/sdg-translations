@@ -111,3 +111,7 @@ map_slider_keyboard: Vis kartdata gjennom tidsperioden ved å bruke venstre og h
   piltaster
 map_slider_mouse: Naviger kartdata etter tidsperiode
 empty_metadata_placeholder_sources: Ikke tilgjengelig for denne kilden
+proxy: Stedfortreder
+proxy_description: Denne indikatoren inneholder noen alternative data til de som er
+  spesifisert av De forente nasjoner (FN). Denne indikatoren er den mest passende
+  kampen som er tilgjengelig for øyeblikket.

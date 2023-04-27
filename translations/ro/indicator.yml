@@ -1,0 +1,159 @@
+select_all: 'Selectați toate'
+clear_all: 'Ștergeți toate'
+clear_selections: 'Ștergeți selecțiile'
+variable_hint: 'Disponibil atunci când este selectat "%field'
+no_data_hint: 'Nu există opțiuni disponibile din cauza filtrelor de mai sus'
+headline_data: 'Date principale'
+no_headline_data: 'Nu sunt disponibile date principale'
+download_headline: 'Descărcați datele principale (.csv)'
+download_headline_title: 'Descărcați datele principale în format CSV'
+download_source: 'Descărcați datele sursă (.csv)'
+download_source_for_disaggregations: 'Descărcați datele sursă pentru dezagregări (.csv)'
+download_source_title: 'Descărcați datele sursă ca CSV'
+download_source_sdmx: 'Descărcați sursa SDMX (.xml)'
+download_source_sdmx_title: 'Descărcați datele sursă ca SDMX'
+download_chart: 'Descărcați datele graficului (.csv)'
+download_table: 'Descărcați datele tabelului (.csv)'
+download_csv: 'Descărcați datele (.csv)'
+download_csv_title: 'Descărcați datele în format CSV'
+download_chart_image: 'Descărcați imaginea graficului (.png)'
+download_chart_image_title: 'Descărcați imaginea graficului ca PNG'
+download_geojson: 'Descărcați datele hărții (.geojson)'
+download_geojson_title: 'Descărcați datele hărții ca GeoJSON'
+# A label describing information - where some data originally came from
+source: 'Sursa'
+# A button that displays information about where some data originally came from
+sources: 'Surse'
+# A label describing information - a description of the geographical area covered by a dataset
+geographical_area: 'Zona geografică'
+# A label describing information - the unit of measurement that is being represented in a dataset
+unit_of_measurement: 'Unitatea de măsură'
+# A shorter version of the "Unit" label.
+unit: 'Unitatea'
+# A label describing information - any general information about a dataset - displayed below the data visualization on the page
+footnote: 'Notă de subsol'
+# The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
+units_type: 'Tipul de unități'
+# The label of a widget that allows the user to change the series that is being represented in a data visualization
+series: 'Seria'
+dataset_size_warning: 'Există prea multe seturi de date pentru a fi afișate pe grafic.
+  Nu vor fi afișate toate până când nu eliminați unele selecții.'
+view_indicator_list: 'Vizualizați lista indicatorilor acestui obiectiv'
+# A label describing a section of the page that allows the user to filter data by sub-category
+sub_categories: 'Sub-categorii'
+# A label of "Show sub-categories" to display before a particular sub-category's name
+sub_categories_show: "Afișați subcategoriile:"
+series_help: 'Alegeți categoriile din meniurile derulante de mai jos pentru a vedea
+  diferite defalcări ale datelor. Unele nu vor fi disponibile până când nu se alege
+  un nivel superior.'
+legend_help: 'Faceți clic pe legendă pentru a elimina liniile individuale din grafic.'
+# A button that displays some data in the form of a chart
+chart: 'Grafic'
+# A button that displays some data in the form of a table (rows and columns)
+table: 'Tabelul'
+# A button that displays some data in the form of a map
+map: 'Hartă'
+loading: 'Încărcare'
+loading_map: 'Încărcare hartă'
+# A button that displays the national metadata about a particular indicator - as provided by that country
+national_metadata: 'Metadate naționale'
+national_metadata_blurb: 'Acest tabel oferă metadate pentru indicatorul real disponibil
+  din statisticile %country.name cel mai apropiat de indicatorul global SDG corespunzător.
+  Vă rugăm să rețineți că, chiar și în cazul în care indicatorul global ODD este disponibil
+  în totalitate în statisticile %country.adjective, acest tabel trebuie consultat
+  pentru informații privind metodologia națională și alte informații privind metadatele
+  specifice %country.adjective.'
+# A button that displays the global metadata about a particular indicator - as provided by the United Nations
+global_metadata: 'Metadate globale'
+global_metadata_blurb: 'Acest tabel oferă informații privind metadatele pentru indicatorii
+  ODD, așa cum sunt definiți de Comisia de statistică a ONU. <a href="https://unstats.un.org/sdgs/metadata/">Divizia
+  de statistică a ONU oferă metadate complete la nivel mondial</a>.'
+# A button for editing some content
+edit: 'Editare Indicator'
+# A button for editing data
+edit_data: 'Editare date'
+# A button for editing metadata
+edit_metadata: 'Editarea metadatelor'
+# A button for editing configuration
+edit_configuration: 'Editați configurația'
+# A message that displays when a chart has no data to display because of the
+# user's choices.
+data_not_available: 'Aceste date nu sunt disponibile. Vă rugăm să alegeți date alternative
+  pentru afișare.'
+# A message that is announced when there is no data on the chart/table
+announce_data_not_available: 'Graficul și tabelul nu prezintă date.'
+# A message that is announced when the data is added to the chart/table
+announce_data_added: 'Graficul și tabelul au fost actualizate pentru a include date.'
+# A message that is announced when the data is removed from the chart/table
+announce_data_removed: 'Graficul și tabelul au fost actualizate pentru a exclude datele.'
+# A message that points out an alternative display for visual data
+data_tabular_alternative: 'Pentru o alternativă de date tabelare, consultați fila
+  Tabel.'
+# Instructions for navigating data with a keyboard
+data_keyboard_navigation: 'Apăsați enter pentru a parcurge punctele de date cu ajutorul
+  tastelor săgeată stânga și dreapta.'
+# Description of the "plot legend" which displays beneath charts
+plot_legend_description: "Legenda graficului: lista liniilor incluse în grafic"
+# Common annotation displayed on graphs for the 2030 target.
+annotation_2030_target: 'Ținta indicatorului pentru 2030'
+annotation_series_break: 'Pauză de serie'
+# Label describing an annotation on a chart/graph.
+chart_annotation: 'Adnotare diagramă'
+# Description of the year slider on maps.
+map_year_slider: 'Anul slider'
+# Description of a search field on maps.
+map_search: 'Căutare pe hartă'
+# Description of a button that hides the search field on maps.
+map_search_hide: 'Ascundeți căutarea pe hartă'
+# Description of a button that shows the search field on maps.
+map_search_show: 'Arată căutarea pe hartă'
+# Description of a button that cancels what has been typed into the map search.
+map_search_cancel: 'Căutare clară pe hartă'
+# Description of a button that zooms in on the map.
+map_zoom_in: 'Zoom pe hartă'
+# Description of a button that zooms out on the map.
+map_zoom_out: 'Zoom out pe hartă'
+# Description of a button that resets the zoom to the default.
+map_zoom_home: 'Resetare la zoomul implicit al hărții'
+# Description of a button that starts the map fullscreen.
+map_fullscreen: 'Vizualizați harta pe ecran complet'
+# Description of a button that stops the map fullscreen.
+map_fullscreen_exit: 'Ieșiți din harta pe ecran complet'
+# Description of a button that changes the map to the previous time period (eg, year).
+map_slider_back: 'Vizualizați datele de pe hartă pentru perioada de timp anterioară'
+# Description of a button that changes the map to the next time period (eg, year).
+map_slider_forward: 'Vizualizați datele de pe hartă pentru următoarea perioadă de
+  timp'
+# Description of the screen-reader instructions for keyboard usage of the map time slider.
+map_slider_keyboard: 'Vizualizați datele de pe hartă pe întreaga perioadă de timp
+  utilizând tastele săgeată stânga și dreapta'
+# Description of the on-screen instructions for mouse usage of the map time slider.
+map_slider_mouse: 'Navigați datele hărții în funcție de perioada de timp'
+# Instructions for using the data table columns for sorting.
+table_column_sort: 'Faceți clic pentru a sorta după această coloană'
+# Label describing the status of an indicator
+status: 'Starea indicatorului'
+# Label describing the "tags" for an indicator
+tags: 'Etichete'
+# Label for a button that takes the user to the previous indicator.
+previous: 'Indicator anterior'
+# Label for a button that takes the user to the next indicator.
+next: 'Următorul indicator'
+# Label for a button that applies changes to the disaggregations displayed on the map.
+apply: 'Aplicați'
+# Label for a button that cancels changes to the disaggregations displayed on the map.
+cancel: 'Anulează'
+# Label for a button that opens a popup where the map disaggregations can be changed.
+change_breakdowns: 'Defalcări ale modificărilor'
+# Label for a standard phrase to show when there is a no content for a particular metadata field.
+empty_metadata_placeholder: 'Nu este disponibil pentru acest indicator'
+# Label for a standard phrase to show when there is a no content for a particular sources field.
+empty_metadata_placeholder_sources: 'Nu este disponibil pentru această sursă'
+# Text for an "aggregate" option in the map disaggregation popup.
+total: 'Total'
+# Label indicating that an indicator is a proxy for a global indicator.
+proxy: 'Proxy'
+# Description of what a proxy indicator is.
+proxy_description: 'Acest indicator conține unele date alternative față de cele specificate
+  de Organizația Națiunilor Unite (ONU). Acest indicator este cea mai potrivită potrivire
+  disponibilă în prezent.'

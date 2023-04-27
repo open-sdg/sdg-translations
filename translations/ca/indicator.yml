@@ -94,3 +94,7 @@ map_slider_keyboard: Visualitza les dades del mapa durant tot el període de tem
   utilitzant les tecles de fletxa esquerra i dreta
 map_slider_mouse: Navega per les dades del mapa per període de temps
 empty_metadata_placeholder_sources: No disponible per a aquesta font
+proxy: Proxy
+proxy_description: Aquest indicador conté algunes dades alternatives a les especificades
+  per les Nacions Unides (ONU). Aquest indicador és la concordança més adequada disponible
+  actualment.

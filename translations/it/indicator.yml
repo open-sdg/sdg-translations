@@ -132,3 +132,7 @@ map_slider_keyboard: Visualizzare i dati della mappa per tutto il periodo di tem
   utilizzando i tasti freccia sinistra e destra.
 map_slider_mouse: Navigare tra i dati della mappa per periodo di tempo
 empty_metadata_placeholder_sources: Non disponibile per questa fonte
+proxy: Proxy
+proxy_description: Questo indicatore contiene alcuni dati alternativi a quelli specificati
+  dalle Nazioni Unite (ONU). Questo indicatore rappresenta la corrispondenza più adeguata
+  attualmente disponibile.

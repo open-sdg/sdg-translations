@@ -129,3 +129,6 @@ map_slider_forward: Bir sonraki zaman dilimi için harita verilerini görüntül
 map_slider_keyboard: Sol ve sağ ok tuşlarını kullanarak zaman dilimi boyunca harita
   verilerini görüntüleyin
 empty_metadata_placeholder_sources: Bu kaynak için mevcut değil
+proxy: Proxy
+proxy_description: Bu gösterge, Birleşmiş Milletler (BM) tarafından belirtilenlere
+  bazı alternatif veriler içerir. Bu gösterge şu anda mevcut olan en uygun eşleşmedir.

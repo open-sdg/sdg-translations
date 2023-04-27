@@ -116,15 +116,17 @@ cancel: Strika
 change_breakdowns: Broyt sundurgreiningar
 empty_metadata_placeholder: Ikki til taks til henda ávísan
 total: Tilsamans
-map_search_cancel: Clear mwen ap leita eftir.
-map_slider_back: View mwen ap data for fyrra tíð.
-map_zoom_in: Zoom in on mwen ap
-map_zoom_out: Zoom out on mwen ap
-map_zoom_home: Reset to default mwen ap zoom
-map_fullscreen: View mwen ap fullscreen
-map_fullscreen_exit: Exit fullscreen mwen ap
-map_slider_forward: View mwen ap data for næstu ferð.
-map_slider_keyboard: View mwen ap data gjøgnum tíðina við at brúka vinstra og høgra
-  píl lyklarnar.
-map_slider_mouse: Navigate mwen ap data by period
-empty_metadata_placeholder_sources: Ikki tøk til hesa source
+map_search_cancel: Rudda kortleiting
+map_slider_back: Vís kortdátur fyri undanfarna tíðarskeið
+map_zoom_in: Far nærri inn á kortið
+map_zoom_out: Far longri út úr korti
+map_zoom_home: Stilla kortið aftur til vanliga stødd
+map_fullscreen: Vís kortið á fullskíggja
+map_fullscreen_exit: Far úr aftur fullskíggjakorti
+map_slider_forward: Vís kortdátur fyri næsta tíðarskeið
+map_slider_keyboard: Vel kortdátutíðarskeið við vinstra og høgra píli
+map_slider_mouse: Vel kortdátutíðarskeið við músini
+empty_metadata_placeholder_sources: Ikki tøk til hesa keldu
+proxy: Proxy
+proxy_description: Henda ídicator inniheldur nakrar møguleikar til tey specified av
+  Sameindu tjóðunum (UN). Henda ídicator er tann mest hóskandi dystin í løtuni.

@@ -1,42 +1,55 @@
-cookie_settings: Cookie settings
-all_required_notice: We use some essential cookies to make this service work. They always need to be on.
-all_required_ok: OK
-acceptAll: Accepta toate
-acceptSelected: Accepta selectate
-close: Inchide
-consentModal_description: Here you can change which cookies you're happy for us to use.
-consentModal_title: Cookie settings
-consentNotice_changeDescription: The cookies used on this site have changed since you last visited, please renew your consent.
-consentNotice_description: We use some essential cookies to make this service work. We’d also like to use {purposes} so we can understand how you use the service and make improvements.
-consentNotice_learnMore: View cookies
-consentNotice_testing: Testing mode!
-contextualConsent_acceptAlways: Always
-contextualConsent_acceptOnce: 'Yes'
-contextualConsent_description: Do you want to load external content supplied by {title}?
-decline: Reject additional cookies
-ok: Accept additional cookies
-poweredBy: Realized with Klaro!
-privacyPolicy_name: privacy policy
-privacyPolicy_text: To learn more, please read our privacy policy.
-purposeItem_service: service
-purposeItem_services: services
-purposes_functional_description: Essential cookies keep your information secure, and do things like remember your preferences and the choices you make whilst you use the website. They always need to be on.
-purposes_functional_title: Essential cookies
-purposes_performance_description: These services process personal information to optimize the service that this website offers.
-purposes_performance_title: Performance optimization
-purposes_analytics_description: These services collect information about how you use the website. We use this data to help make the website better.
-purposes_analytics_title: Analytics cookies
-save: Save
-service_disableAll_description: Use this switch to enable or disable all services.
-service_disableAll_title: Enable or disable all services
-service_optOut_description: This services is loaded by default (but you can opt out)
-service_optOut_title: (opt-out)
-service_purpose: purpose
-service_purposes: purposes
-service_required_description: This service is always required
-service_required_title: (always required)
-contrast_description: Retains active state of accessibility services
-contrast_title: Accessibility mode
-google_analytics_description: Collects information about page visits using Google Analytics
+cookie_settings: Setări cookie
+all_required_notice: Folosim câteva cookie-uri esențiale pentru ca acest serviciu 
+  să funcționeze. Trebuie să fie mereu porniți.
+all_required_ok: Bine
+acceptAll: Acceptă toate
+acceptSelected: Acceptă selectat
+close: Închide
+consentModal_description: Aici puteți schimba ce cookie-uri doriți să le folosim.
+consentModal_title: Setări cookie
+consentNotice_changeDescription: Cookie-urile utilizate pe acest site s-au schimbat 
+  de la ultima vizitare, vă rugăm să vă reînnoiți consimțământul.
+consentNotice_description: Folosim câteva cookie-uri esențiale pentru ca acest serviciu 
+  să funcționeze. De asemenea, ne-ar dori să folosim {purposes} pentru a putea înțelege 
+  cum utilizați serviciul și să aducem îmbunătățiri.
+consentNotice_learnMore: Vizualizați cookie-urile
+consentNotice_testing: Modul de testare!
+contextualConsent_acceptAlways: Întotdeauna
+contextualConsent_acceptOnce: 'Da'
+contextualConsent_description: Doriți să încărcați conținut extern furnizat de {title}?
+decline: Respinge module cookie suplimentare
+ok: Acceptați cookie-uri suplimentare
+poweredBy: Realizat cu Klaro!
+privacyPolicy_name: Politica de confidențialitate
+privacyPolicy_text: Pentru a afla mai multe, vă rugăm să citiți politica noastră 
+  de confidențialitate.
+purposeItem_service: serviciu
+purposeItem_services: Servicii
+purposes_functional_description: Cookie-urile esențiale vă păstrează informațiile 
+  în siguranță și rețin preferințele și alegerile pe care le faceți în timp ce utilizați 
+  site-ul web. Trebuie să fie întotdeauna active.
+purposes_functional_title: Cookie-uri esențiale
+purposes_performance_description: Aceste servicii prelucrează informații personale 
+  pentru a optimiza serviciul pe care îl oferă acest site web.
+purposes_performance_title: Optimizarea performanței
+purposes_analytics_description: Aceste servicii colectează informații despre modul 
+  în care utilizați site-ul web. Folosim aceste date pentru a ajuta la îmbunătățirea 
+  site-ului.
+purposes_analytics_title: Cookie-uri de analiză
+save: Salvați
+service_disableAll_description: Utilizați acest comutator pentru a activa sau dezactiva 
+  toate serviciile.
+service_disableAll_title: Activați sau dezactivați toate serviciile
+service_optOut_description: Acest serviciu este încărcat implicit (dar puteți renunța)
+service_optOut_title: (renunțați)
+service_purpose: scop
+service_purposes: scopuri
+service_required_description: Acest serviciu este întotdeauna necesar
+service_required_title: (întotdeauna necesar)
+contrast_description: Menține starea activă a serviciilor de accesibilitate
+contrast_title: Mod accesibilitate
+google_analytics_description: Colectează informații despre vizitele paginii folosind 
+  Google Analytics
 google_analytics_title: Google Analytics
-cookie_settings_description: Saves your cookie consent settings
+cookie_settings_description: Salvează setările de consimțământ pentru cookie-uri
+  

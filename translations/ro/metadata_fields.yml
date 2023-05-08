@@ -1,150 +1,155 @@
 # A label describing information - any other metadata about a particular indicator - not covered by more specific labels
-other_info: Alta informatie
+other_info: Alta informație
 # A label describing information - any calculations that were used in the production of a dataset
-computation_calculations: Calculari
+computation_calculations: Formula de calcul
 # A label describing information - a list of definitions of terms used within other metadata fields
-computation_definitions: Definitii
+computation_definitions: Definiții
 # A label describing information - the unit of measurement that is being represented in a dataset
-computation_units: Unit of measurement
+computation_units: Unitatea de măsură
 # A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
-goal_meta_link: Link to UN metadata
+goal_meta_link: Link spre metadateleONU
 # A label describing information - the numeric code for a particular indicator
-indicator: Indicator number
+indicator: Numărul indicatorului
 # A label describing information - the definition for a particular indicator - as provided by the United Nations
-indicator_definition: Global indicator description
+indicator_definition: Descrierea indicatorului global
 # A label describing information - the name of a particular indicator
-indicator_name: Indicator name
-indicator_sort_order: Indicator display order (within Goal page)
-national_data_update_url: Data last updated
+indicator_name: Denumirea indicatorului
+indicator_sort_order: Ordinea indicatorului (în interiorul paginii Obiectivului)
+national_data_update_url: Data ultimei actualizări
 # A label describing information - the geographical area covered by a dataset
-national_geographical_coverage: Geographical coverage
-national_indicator_available: Indicator available
-national_indicator_description: Indicator description
-national_metadata_update_url: Metadata last updated
+national_geographical_coverage: Acoperirea geografică
+national_indicator_available: Indicatorul disponibil
+national_indicator_description: Descrierea indicatorului disponibil
+national_metadata_update_url: Ultima actualizare a metadatatelor
 # A label describing information - contact information for the person or agency that provided data
-source_contact_1: Contact details
-source_contact_2: Contact details
-source_contact_3: Contact details
-source_contact_4: Contact details
-source_contact_5: Contact details
-source_contact_6: Contact details
+source_contact_1: Contacte
+source_contact_2: Contacte
+source_contact_3: Contacte
+source_contact_4: Contacte
+source_contact_5: Contacte
+source_contact_6: Contacte
 # A label describing information - the earliest date at which data for a particular indicator was provided by a particular person or agency
-source_earliest_available_1: Earliest available data
-source_earliest_available_2: Earliest available data
-source_earliest_available_3: Earliest available data
-source_earliest_available_4: Earliest available data
-source_earliest_available_5: Earliest available data
-source_earliest_available_6: Earliest available data
+source_earliest_available_1: Cele mai recente date disponibile
+source_earliest_available_2: Cele mai recente date disponibile
+source_earliest_available_3: Cele mai recente date disponibile
+source_earliest_available_4: Cele mai recente date disponibile
+source_earliest_available_5: Cele mai recente date disponibile
+source_earliest_available_6: Cele mai recente date disponibile
 # A label describing information - the geographical area covered in the data provided by a particular person or agency
-source_geographical_coverage_1: Geographical coverage
-source_geographical_coverage_2: Geographical coverage
-source_geographical_coverage_3: Geographical coverage
-source_geographical_coverage_4: Geographical coverage
-source_geographical_coverage_5: Geographical coverage
-source_geographical_coverage_6: Geographical coverage
+source_geographical_coverage_1: Acoperirea geografică
+source_geographical_coverage_2: Acoperirea geografică
+source_geographical_coverage_3: Acoperirea geografică
+source_geographical_coverage_4: Acoperirea geografică
+source_geographical_coverage_5: Acoperirea geografică
+source_geographical_coverage_6: Acoperirea geografică
 # A label describing information - the date at which a particular person or agency plans to update their provided data
-source_next_release_1: Next release
-source_next_release_2: Next release
-source_next_release_3: Next release
-source_next_release_4: Next release
-source_next_release_5: Next release
-source_next_release_6: Next release
+source_next_release_1: Următoarea diseminare
+source_next_release_2: Următoarea diseminare
+source_next_release_3: Următoarea diseminare
+source_next_release_4: Următoarea diseminare
+source_next_release_5: Următoarea diseminare
+source_next_release_6: Următoarea diseminare
 # A label describing information - the name of any organization associated with some provided data
-source_organisation_1: Organisation
-source_organisation_2: Organisation
-source_organisation_3: Organisation
-source_organisation_4: Organisation
-source_organisation_5: Organisation
-source_organisation_6: Organisation
+source_organisation_1: Producător de date
+source_organisation_2: Producător de date
+source_organisation_3: Producător de date
+source_organisation_4: Producător de date
+source_organisation_5: Producător de date
+source_organisation_6: Producător de date
 # A label describing information - any other information about a particular source of data for a particular indicator
-source_other_info_1: Other information
-source_other_info_2: Other information
-source_other_info_3: Other information
-source_other_info_4: Other information
-source_other_info_5: Other information
-source_other_info_6: Other information
+source_other_info_1: Alte informații privind sursele de date
+source_other_info_2: Alte informații privind sursele de date
+source_other_info_3: Alte informații privind sursele de date
+source_other_info_4: Alte informații privind sursele de date
+source_other_info_5: Alte informații privind sursele de date
+source_other_info_6: Alte informații privind sursele de date
 # A label describing information - the frequency with which a particular source of data will provide updates
-source_periodicity_1: Periodicity
-source_periodicity_2: Periodicity
-source_periodicity_3: Periodicity
-source_periodicity_4: Periodicity
-source_periodicity_5: Periodicity
-source_periodicity_6: Periodicity
+source_periodicity_1: Periodicitate
+source_periodicity_2: Periodicitate
+source_periodicity_3: Periodicitate
+source_periodicity_4: Periodicitate
+source_periodicity_5: Periodicitate
+source_periodicity_6: Periodicitate
 # A label describing information - The date at which a particular source provided their data
-source_release_date_1: Release date
-source_release_date_2: Release date
-source_release_date_3: Release date
-source_release_date_4: Release date
-source_release_date_5: Release date
-source_release_date_6: Release date
+source_release_date_1: Data diseminării
+source_release_date_2: Data diseminării
+source_release_date_3: Data diseminării
+source_release_date_4: Data diseminării
+source_release_date_5: Data diseminării
+source_release_date_6: Data diseminării
 # A label describing information - some classification of a particular source of data for a particular indicator
-source_statistical_classification_1: Statistical classification
-source_statistical_classification_2: Statistical classification
-source_statistical_classification_3: Statistical classification
-source_statistical_classification_4: Statistical classification
-source_statistical_classification_5: Statistical classification
-source_statistical_classification_6: Statistical classification
-source_url_1: Link to data source
-source_url_2: Link to data source
-source_url_3: Link to data source
-source_url_4: Link to data source
-source_url_5: Link to data source
-source_url_6: Link to data source
+source_statistical_classification_1: Clasificarea statistică
+source_statistical_classification_2: Clasificarea statistică
+source_statistical_classification_3: Clasificarea statistică
+source_statistical_classification_4: Clasificarea statistică
+source_statistical_classification_5: Clasificarea statistică
+source_statistical_classification_6: Clasificarea statistică
+source_url_1: Link la sursa de date
+source_url_2: Link la sursa de date
+source_url_3: Link la sursa de date
+source_url_4: Link la sursa de date
+source_url_5: Link la sursa de date
+source_url_6: Link la sursa de date
 # A label describing information - the overall SDG target associated with a particular indicator
-target: Target name
+target: Denumirea țintei
 # A label describing information - the numeric id for the overall SDG target associated with a particular indicator
-target_id: Target number
+target_id: Numărul țintei
 # A label describing information - the United Nations custodian agency associated with a particular indicator
-un_custodian_agency: UN custodian agency
+un_custodian_agency: Agenția de custodie ONU
 # A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
-un_designated_tier: UN designated tier
-quality_assurance: Quality assurance
-international_comparability: Comparability with international data/standards
-comments_limitations: Comments and limitations
-rationale_interpretation: Rational and interpretation
-rational_interpretation: Rational and interpretation
+un_designated_tier: Categoria indicatorului (UN designated tier)
+quality_assurance: Asigurarea calității
+international_comparability: Comparabilitatea cu datele/standardele internaționale
+comments_limitations: Comentarii și limitări
+rationale_interpretation: Rationale și Interpretarea
+rational_interpretation: Rationale și interpretarea
 copyright: Copyright
 # Fields from the SDMX MSD.
-SDG_INDICATOR_INFO: Indicator information
-SDG_GOAL: Goal
-SDG_TARGET: Target
-SDG_INDICATOR: Indicator
-SDG_SERIES_DESCR: Series
-META_LAST_UPDATE: Metadata update
-SDG_RELATED_INDICATORS: Related indicators
-SDG_CUSTODIAN_AGENCIES: International organisations(s) responsible for global monitoring
-CONTACT: Data reporter
-CONTACT_ORGANISATION: Organisation
-CONTACT_NAME: Contact person(s)
-ORGANISATION_UNIT: Contact organisation unit
-CONTACT_FUNCT: Contact person function
-CONTACT_PHONE: Contact phone
-CONTACT_MAIL: Contact mail
-CONTACT_EMAIL: Contact email
-IND_DEF_CON_CLASS: Definition, concepts, and classifications
-STAT_CONC_DEF: Definition and concepts
-UNIT_MEASURE: Unit of measure
-CLASS_SYSTEM: Classifications
-SRC_TYPE_COLL_METHOD: Data source type and collection method
-SOURCE_TYPE: Data sources
-COLL_METHOD: Data collection method
-FREQ_COLL: Data collection calendar
-REL_CAL_POLICY: Data release calendar
-DATA_SOURCE: Data providers
-COMPILING_ORG: Data compilers
-INST_MANDATE: Institutional mandate
-OTHER_METHOD: Other methodological considerations
+SDG_INDICATOR__GLOBAL: Indicatorul global
+SDG_INDICATOR_INFO__GLOBAL: Descrierea indicatorului global
+SDG_INDICATOR_INFO: Descrierea indicatorului disponibil
+SDG_GOAL: Obiectiv
+SDG_TARGET_GLOBAL: Ţinta globală
+SDG_TARGET: Ţinta națională
+SDG_INDICATOR: Indicatorul disponibil
+SDG_SERIES_DESCR: Serie
+META_LAST_UPDATE: Actualizare metadate
+SDG_RELATED_INDICATORS: Indicatori relevanți
+SDG_CUSTODIAN_AGENCIES__GLOBAL: Agențiile de custodie ONU
+SDG_CUSTODIAN_AGENCIES: Agențiile de custodie ONU
+CONTACT: Raportor de date
+CONTACT_ORGANISATION: Organizația
+CONTACT_NAME: Persoana de contact
+ORGANISATION_UNIT: Subdiviziunea
+CONTACT_FUNCT: Funcția 
+CONTACT_PHONE: Telefon de contact
+CONTACT_MAIL: Adresa
+CONTACT_EMAIL: Email
+IND_DEF_CON_CLASS: Definiție, concepte și clasificări
+STAT_CONC_DEF: Definiție și concepte
+UNIT_MEASURE: Unitatea de măsură
+CLASS_SYSTEM: Clasificări
+SRC_TYPE_COLL_METHOD: Tipul sursei de date și metoda de colectare
+SOURCE_TYPE: Sursele de date
+COLL_METHOD: Metoda de colectare a datelor
+FREQ_COLL: Calendarul de colectare a datelor
+REL_CAL_POLICY: Calendarul de diseminare a datelor
+DATA_SOURCE: Furnizor de date
+COMPILING_ORG: Compilatorii de date
+INST_MANDATE: Responsabil pentru monitorizare
+OTHER_METHOD: Alte informații
 RATIONALE: Rationale
-REC_USE_LIM: Comment and limitations
-DATA_COMP: Method of computation
-DATA_VALIDATION: Validation
-ADJUSTMENT: Adjustments
-IMPUTATION: Treatment of missing values (i) at country level and (ii) at regional level
-REG_AGG: Regional aggregations
-DOC_METHOD: Methods and guidance available to countries for the compilation of the data at the national level
-QUALITY_MGMNT: Quality management
-QUALITY_ASSURE: Quality assurance
-QUALITY_ASSMNT: Quality assessment
-COVERAGE: Data availability and disaggregation
-COMPARABILITY: Comparability/deviation from international standards
-OTHER_DOC: References and Documentation
+REC_USE_LIM: Comentarii și limitări
+DATA_COMP: Formula de calcul
+DATA_VALIDATION: Validare
+ADJUSTMENT: Ajustări
+IMPUTATION: Tratarea valorilor lipsă (i) la nivel de țară și (ii) la nivel regional
+REG_AGG: Agregări regionale
+DOC_METHOD: Metode și îndrumări disponibile țărilor pentru compilarea datelor 
+  la nivel național
+QUALITY_MGMNT: Managementul calității
+QUALITY_ASSURE: Asigurarea calității
+QUALITY_ASSMNT: Evaluarea calitatii
+COVERAGE: Disponibilitatea și dezagregarea datelor
+COMPARABILITY: Comparabilitate/abatere de la standardele internaționale
+OTHER_DOC: Referințe și documentație

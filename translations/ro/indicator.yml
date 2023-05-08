@@ -8,7 +8,7 @@ no_headline_data: Nu sunt disponibile date despre titlu
 download_headline: Descărcați datele despre titlu (.csv)
 download_headline_title: Descărcați datele despre titlu ca CSV
 download_source: Descărcați datele sursă (.csv)
-download_source_for_disaggregations: Descărcați datele sursă pentru dezagregări (.csv)
+download_source_for_disaggregations: Descărcați datele sursă pentru dezagregări (.csv)  
 download_source_title: Descărcați datele sursă ca CSV
 download_source_sdmx: Descărcați sursa SDMX (.xml)
 download_source_sdmx_title: Descărcați datele sursă ca SDMX
@@ -36,16 +36,17 @@ footnote: Notă de subsol
 units_type: Tipul unităților de măsură
 # The label of a widget that allows the user to change the series that is being represented in a data visualization
 series: Serie
-dataset_size_warning: Există prea multe seturi de date pentru a fi afișate pe diagramă. Nu toate vor fi afișate până când nu eliminați unele selecții.
- 
+dataset_size_warning: Există prea multe seturi de date pentru a fi afișate pe diagramă. 
+  Nu toate vor fi afișate până când nu eliminați unele selecții. 
 view_indicator_list: Vizualizați lista de indicatori a acestui obiectiv
 # A label describing a section of the page that allows the user to filter data by sub-category
 sub_categories: Subcategorii
 # A label of "Show sub-categories" to display before a particular sub-category's name
 sub_categories_show: "Afișați subcategorii:"
-series_help: Alegeți categorii din meniurile derulante de mai jos pentru a vedea diferite dezagregări ale datelor. Unele nu vor fi disponibile până când un nivel superior nu va fi ales.
-
-legend_help: Faceți clic pe legendă pentru a elimina linii individuale din diagramă.
+series_help: Alegeți categorii din meniurile derulante de mai jos pentru a vedea 
+  diferite dezagregări ale datelor. Unele nu vor fi disponibile până când un nivel 
+  superior nu va fi ales.
+legend_help: Faceți clic pe legendă pentru a elimina linii individuale din diagramă.  
 # A button that displays some data in the form of a chart
 chart: Diagramă
 # A button that displays some data in the form of a table (rows and columns)
@@ -56,15 +57,18 @@ loading: Se încarcă
 loading_map: Se încarcă harta
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: Metadate naționale
-national_metadata_blurb: Acest tabel oferă metadate pentru indicatorul real disponibil din statisticile %country.name cel mai apropiat de cel corespunzătoare
- indicator global SDG. Vă rugăm să rețineți că, chiar și atunci când indicatorul SDG global este
+national_metadata_blurb: Acest tabel oferă metadate pentru indicatorul real disponibil 
+  din statisticile %country.name cel mai apropiat de cel corespunzătoare
+ indicator global SDG. Vă rugăm să rețineți că, chiar și atunci când indicatorul 
+  SDG global este
  complet disponibil din statisticile %country.adjective, acest tabel
  ar trebui consultat pentru informații despre metodologia națională și altele
  %country.adjective-specific metadate.
-
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: Metadate globale
-global_metadata_blurb: Acest tabel oferă informații despre metadatele pentru indicatorii SDG după cum sunt definiți de Comisia Statistică a ONU <a href="https://unstats.un.org/sdgs/metadata/">Metadatele globale complete</a> sunt furnizate de Direcția Statistică a ONU.
+global_metadata_blurb: Acest tabel oferă informații despre metadatele pentru indicatorii 
+  SDG după cum sunt definiți de Comisia Statistică a ONU <a href="https://unstats.un.org/sdgs/metadata/">Metadatele 
+  globale complete</a> sunt furnizate de Direcția Statistică a ONU.
 # A button for editing some content
 edit: Editare indicator
 # A button for editing data
@@ -75,19 +79,21 @@ edit_metadata: Editați metadatele
 edit_configuration: Editați configurația
 # A message that displays when a chart has no data to display because of the
 # user's choices.
-data_not_available: Aceste date nu sunt disponibile. Vă rugăm să alegeți date alternative de afișat.
+data_not_available: Aceste date nu sunt disponibile. Vă rugăm să alegeți date alternative 
+  de afișat.
 # A message that is announced when there is no data on the chart/table
 announce_data_not_available: Graficul și tabelul nu prezintă date.
 # A message that is announced when the data is added to the chart/table
-announce_data_added: Diagrama și tabelul au fost actualizate pentru a include date.
+announce_data_added: Diagrama și tabelul au fost actualizate pentru a include date.  
 # A message that is announced when the data is removed from the chart/table
-announce_data_removed: Diagrama și tabelul au fost actualizate pentru a exclude datele.
+announce_data_removed: Diagrama și tabelul au fost actualizate pentru a exclude datele.  
 # A message that points out an alternative display for visual data
-data_tabular_alternative: Pentru alternative de date tabelare, consultați fila Tabel.
+data_tabular_alternative: Pentru alternative de date tabelare, consultați fila Tabel.  
 # Instructions for navigating data with a keyboard:
-data_keyboard_navigation: Apăsați enter pentru a răsfoi punctele de date cu tastele săgeți stânga și dreapta.
+data_keyboard_navigation: Apăsați enter pentru a răsfoi punctele de date cu tastele 
+  săgeți stânga și dreapta.
 # Description of the "plot legend" which displays beneath charts
-plot_legend_description: "Legenda diagramei: lista liniilor incluse în diagramă"
+plot_legend_description: "Legenda diagramei: lista liniilor incluse în diagramă"  
 # Common annotation displayed on graphs for the 2030 target.
 annotation_2030_target: Indicator țintă pentru 2030
 annotation_series_break: Întrerupere de serie
@@ -113,13 +119,15 @@ map_zoom_home: Resetați la zoomul implicit al hărții
 map_fullscreen: Vizualizați harta pe tot ecranul
 # Description of a button that stops the map fullscreen.
 map_fullscreen_exit: Ieșiți din harta pe ecran complet
-# Description of a button that changes the map to the previous time period (eg, year).
+# Description of a button that changes the map to the previous time period (eg, year).  
 map_slider_back: Vizualizați datele hărții pentru perioada anterioară
-# Description of a button that changes the map to the next time period (eg, year).
+# Description of a button that changes the map to the next time period (eg, year).  
 map_slider_forward: Vizualizați datele hărții pentru perioada următoare
 # Description of the screen-reader instructions for keyboard usage of the map time slider.
-map_slider_keyboard: Vizualizați datele hărții de-a lungul perioadei de timp utilizând tastele săgeți stânga și dreapta
+map_slider_keyboard: Vizualizați datele hărții de-a lungul perioadei de timp utilizând 
+  tastele săgeți stânga și dreapta
 # Description of the on-screen instructions for mouse usage of the map time slider.
+  
 map_slider_mouse: Navigați datele hărții în funcție de perioadă de timp
 # Instructions for using the data table columns for sorting.
 table_column_sort: Faceți clic pentru a sorta după această coloană
@@ -135,7 +143,7 @@ next: Următorul indicator
 apply: Aplică
 # Label for a button that cancels changes to the disaggregations displayed on the map.
 cancel: Anulare
-# Label for a button that opens a popup where the map disaggregations can be changed.
+# Label for a button that opens a popup where the map disaggregations can be changed.  
 change_breakdowns: Schimbați dezagregările
 # Label for a standard phrase to show when there is a no content for a particular metadata field.
 empty_metadata_placeholder: Nu este disponibil pentru acest indicator

@@ -1,7 +1,7 @@
 skip_link: Sari la conținutul principal
 # This word identifies a software or web project as being in the early stages of development
 alpha: Alpha
-disclaimer: Acesta este un site în dezvotlare. This is a development website. Salutăm
+disclaimer: Acesta este un site în dezvotlare. This is a development website. Salutăm  
   <a href="mailto:%email_contacts.suggestions">feedback-ul Dvs.</a>.
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: 17 Obiective pentru a transforma Lumea
@@ -9,13 +9,18 @@ high_contrast: Contrast înalt
 default_contrast: Contrast implicit
 enable_high_contrast: Activează contrastul înalt
 disable_high_contrast: Dezactivează contrastul înalt
-toggle_search: Comutare de căutare. Faceți clic pentru a extinde sau restrânge bara de căutare.
+toggle_search: Comutare de căutare. Faceți clic pentru a extinde sau restrânge bara 
+  de căutare.
 toggle_menu: Comutare meniu. Faceți clic pentru a extinde sau restrânge meniul.
 internet_explorer_message_title: Acest browser de internet nu mai este acceptat
-internet_explorer_message: Am detectat că utilizați Internet Explorer pentru a vizita acest site web.
-   Internet Explorer este acum eliminat treptat de Microsoft. Ca urmare, acest site web nu mai acceptă
-   orice versiune de Internet Explorer. Unele funcții de pe acest site nu vor funcționa. Ar trebui să folosiți un alt
-   browser precum Edge, Chrome, Firefox sau Safari. Dacă întâmpinați dificultăți la instalarea sau accesarea unui alt
+internet_explorer_message: Am detectat că utilizați Internet Explorer pentru a vizita 
+  acest site web.
+   Internet Explorer este acum eliminat treptat de Microsoft. Ca urmare, acest site 
+  web nu mai acceptă
+   orice versiune de Internet Explorer. Unele funcții de pe acest site nu vor funcționa. 
+  Ar trebui să folosiți un alt
+   browser precum Edge, Chrome, Firefox sau Safari. Dacă întâmpinați dificultăți 
+  la instalarea sau accesarea unui alt
    browser, vă rugăm să contactați echipa de asistență IT.
 show_menu: Arată meniul de navigare
 hide_menu: Ascunde meniul de navigare

@@ -8,20 +8,20 @@ no_data_available: Nici o informatie disponibila
 # Describing a section where the status is reported for each goal
 status_by_goal: Stare după obiectiv
 status_by_field: Stare după %field
-disaggregation_status: Disaggregation status
-disaggregation_status_overall: Overall disaggregation status
+disaggregation_status: Statutul dezagregărilor
+disaggregation_status_overall: Statutul general dezagregărilor
 disaggregation_status_complete: Fully disaggregated
-disaggregation_status_inprogress: Partially disaggregated
-disaggregation_status_notstarted: Not disaggregated
-disaggregation_status_notapplicable: Out of scope
-disaggregation_status_by_field: Disaggregation by %field
+disaggregation_status_inprogress: Parțial dezagregat
+disaggregation_status_notstarted: Lipsă dezagregări
+disaggregation_status_notapplicable: Nu se aplică
+disaggregation_status_by_field: Dezagregări după %field
 not_specified: Nespecificat
 reported: Raportat
-description: Reporting status provides an overview of how much Sustainable Development
-  Goal (SDG) data %country.name reports.
+description: Statutul raportării descrie gradul raportării Obiectivelor 
+  Dezvoltării Durabile pentru Republica Moldova
 progress_status: Starea progresului
 progress_not_available: Nu este disponibil
-progress_challenges_remain: Challenges remain
-progress_approaching_target: Approaching target
-progress_target_achieved: Target achieved
-progress_help: How are we doing against the 2030 target?
+progress_challenges_remain: Rămân provocări
+progress_approaching_target: Ținta aproape atinsă
+progress_target_achieved: Ținta atinsă
+progress_help: La ce nivel suntem față de ținta 2030?

@@ -25,7 +25,7 @@ source: Sursă
 # A button that displays information about where some data originally came from
 sources: Surse
 # A label describing information - a description of the geographical area covered by a dataset
-geographical_area: Aria geografică
+geographical_area: Acoperirea geografică
 # A label describing information - the unit of measurement that is being represented in a dataset
 unit_of_measurement: Unitatea de măsură
 # A shorter version of the "Unit" label.

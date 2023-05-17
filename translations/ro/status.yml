@@ -1,16 +1,17 @@
-reporting_status: Starea raportării
-overall_reporting_status: Starea generală a raportării
-reported_online: Raportat online
-statistics_in_progress: Statistici in progres
-exploring_data_sources: Explorarea surselor de date
+reporting_status: Disponibilitatea datelor
+overall_reporting_status: Disponibilitatea generală a datelor
+reported_online: Disponibil
+in_progress: În curs de dezvoltare
+exploring_data_sources: Nu este disponibil
 not_applicable: Nu se aplică
-no_data_available: Nici o informatie disponibila
+not_relevant: Nu este relevant
+no_data_available: Nicio informație disponibilă
 # Describing a section where the status is reported for each goal
-status_by_goal: Stare după obiectiv
-status_by_field: Stare după %field
+status_by_goal: Statutul după obiectiv
+status_by_field: Statutul după %field
 disaggregation_status: Statutul dezagregărilor
-disaggregation_status_overall: Statutul general dezagregărilor
-disaggregation_status_complete: Fully disaggregated
+disaggregation_status_overall: Statutul general al dezagregărilor
+disaggregation_status_complete: Dezagregat total
 disaggregation_status_inprogress: Parțial dezagregat
 disaggregation_status_notstarted: Lipsă dezagregări
 disaggregation_status_notapplicable: Nu se aplică

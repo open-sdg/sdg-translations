@@ -1,9 +1,10 @@
 reporting_status: Reporting status
 overall_reporting_status: Overall reporting status
-reported_online: Reported online
-statistics_in_progress: Statistics in progress
-exploring_data_sources: Exploring data sources
+reported_online: Available
+in_progress: In progress
+exploring_data_sources: Not available
 not_applicable: Not applicable
+not_relevant: Not relevant
 no_data_available: No data available
 # Describing a section where the status is reported for each goal
 status_by_goal: Status by goal

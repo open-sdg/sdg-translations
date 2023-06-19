@@ -57,17 +57,12 @@ loading: Se încarcă
 loading_map: Se încarcă harta
 # A button that displays the national metadata about a particular indicator - as provided by that country
 national_metadata: Metadate naționale
-national_metadata_blurb: Acest tabel oferă metadate pentru indicatorul real disponibil 
-  din statisticile %country.name cel mai apropiat de cel corespunzătoare
- indicator global SDG. Vă rugăm să rețineți că, chiar și atunci când indicatorul 
-  SDG global este
- complet disponibil din statisticile %country.adjective, acest tabel
- ar trebui consultat pentru informații despre metodologia națională și altele
- %country.adjective-specific metadate.
+national_metadata_blurb: Acest tabel oferă metadatele pentru indicatorul real disponibil din statisticile 
+  Republicii Moldova care este cel mai apropiat de indicatorul ODD global corespunzător. Vă rugăm să rețineți că, chiar și atunci când indicatorul global ODD este disponibil pe deplin din statisticile Republicii Moldova, acest tabel ar trebui consultat pentru informații despre metodologia națională și alte informații despre metadatele specifice Republicii Moldova.
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: Metadate globale
 global_metadata_blurb: Acest tabel oferă informații despre metadatele pentru indicatorii 
-  SDG după cum sunt definiți de Comisia Statistică a ONU <a href="https://unstats.un.org/sdgs/metadata/">Metadatele 
+  ODD după cum sunt definiți de Comisia Statistică a ONU <a href="https://unstats.un.org/sdgs/metadata/">Metadatele 
   globale complete</a> sunt furnizate de Direcția Statistică a ONU.
 # A button for editing some content
 edit: Editare indicator

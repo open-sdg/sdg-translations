@@ -1,10 +1,10 @@
 skip_link: Sari la conținutul principal
 # This word identifies a software or web project as being in the early stages of development
 alpha: Alpha
-disclaimer: Acesta este un site în dezvotlare. This is a development website. Salutăm  
-  <a href="mailto:%email_contacts.suggestions">feedback-ul Dvs.</a>.
+disclaimer: Acesta este un site în dezvoltare. Salutăm  
+  <a href="mailto:%email_contacts.suggestions">feedback-ul Dvs</a>.
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
-tag_line: 17 Obiective pentru a transforma Lumea
+tag_line: 17 Obiective pentru a transforma lumea
 high_contrast: Contrast înalt
 default_contrast: Contrast implicit
 enable_high_contrast: Activează contrastul înalt

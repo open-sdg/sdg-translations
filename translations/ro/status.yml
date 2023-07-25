@@ -17,7 +17,8 @@ disaggregation_status_notstarted: Lipsă dezagregări
 disaggregation_status_notapplicable: Nu se aplică
 disaggregation_status_by_field: Dezagregări după %field
 not_specified: Nespecificat
-reported: Raportat
+reported: Disponibil
+divided: Disponibil divizat mai jos
 description: Pe această pagină puteți vedea care este gradul de disponibilitate al
   indicatorilor Obiectivelor Dezvoltării Durabile pentru Republica Moldova
 progress_status: Starea progresului

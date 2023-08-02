@@ -60,7 +60,7 @@ status: Ցուցանիշի կարգավիճակ
 table_column_sort: Կտտացրեք ՝ ըստ սյունակի տեսակավորելու
 map_search_show: Ցուցադրել որոնումը
 map_search_hide: Թաքցնել որոնումը
-map_search: Որոնում
+map_search: Քարտեզի որոնում
 map_year_slider: Տարվա սլայդեր
 chart_annotation: Գծապատկերային ծանոթագրություն
 annotation_2030_target: 2030 թիրախ
@@ -86,7 +86,7 @@ total: Ընդամենը
 map_slider_mouse: Նավարկեք քարտեզի տվյալները ըստ ժամանակաշրջանի
 map_search_cancel: Մաքրել քարտեզի որոնումը
 map_zoom_in: Մեծացնել քարտեզի վրա
-map_zoom_out: Մեծացնել քարտեզի վրա
+map_zoom_out: Փոքրացնել քարտեզի վրա
 map_zoom_home: Վերականգնել քարտեզի կանխադրված խոշորացմանը
 map_fullscreen: Դիտեք քարտեզը ամբողջ էկրանով
 map_fullscreen_exit: Դուրս գալ լիաէկրան քարտեզից

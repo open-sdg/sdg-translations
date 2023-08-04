@@ -1,6 +1,6 @@
 reporting_status: Disponibilitatea datelor
 overall_reporting_status: Disponibilitatea generală a datelor
-reported_online: Disponibil
+reported_online: Disponibili
 in_progress: În curs de dezvoltare
 exploring_data_sources: Nu este disponibil
 not_applicable: Nu se aplică
@@ -18,7 +18,7 @@ disaggregation_status_notapplicable: Nu se aplică
 disaggregation_status_by_field: Dezagregări după %field
 not_specified: Nespecificat
 reported: Disponibil
-divided: Disponibil divizat mai jos
+divided: Disponibil divizat
 description: Pe această pagină puteți vedea care este gradul de disponibilitate al
   indicatorilor Obiectivelor Dezvoltării Durabile pentru Republica Moldova
 progress_status: Starea progresului

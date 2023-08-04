@@ -18,7 +18,7 @@ disaggregation_status_notapplicable: Out of scope
 disaggregation_status_by_field: Disaggregation by %field
 not_specified: Not specified
 reported: Available
-divided: Available divided below
+divided: Available_divided_below
 description: Reporting status provides an overview of how much Sustainable Development
   Goal (SDG) data %country.name reports.
 progress_status: Progress status

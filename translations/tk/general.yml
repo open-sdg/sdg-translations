@@ -5,7 +5,7 @@ indicators: 'Görkezijiler'
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
 goal: 'Maksat'
 # This is the plural version of the goal key
-goals: 'Maksatlar'
+goals: 'Targetlar'
 sdg: 'Durnukly ösüş maksatlary'
 # This refers to the 'home page' of a website
 home: 'Öý'

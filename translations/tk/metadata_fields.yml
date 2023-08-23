@@ -5,7 +5,7 @@ computation_calculations: 'Hasaplamalar'
 # A label describing information - a list of definitions of terms used within other metadata fields
 computation_definitions: 'Kesgitlemeler'
 # A label describing information - the unit of measurement that is being represented in a dataset
-computation_units: 'Ölçeg birligi'
+computation_units: 'Ölçegbirligi'
 # A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
 goal_meta_link: 'BMG metadatalaryna baglanyşyk'
 # A label describing information - the numeric code for a particular indicator
@@ -123,7 +123,7 @@ CONTACT_MAIL: 'Habarlaşmak üçin poçta'
 CONTACT_EMAIL: 'E-poçta bilen habarlaşyň'
 IND_DEF_CON_CLASS: 'Kesgitleme, düşünjeler we klassifikasiýalar'
 STAT_CONC_DEF: 'Kesgitleme we düşünjeler'
-UNIT_MEASURE: 'Ölçeg birligi'
+UNIT_MEASURE: 'Ölçeg'
 CLASS_SYSTEM: 'Klassifikasiýalar'
 SRC_TYPE_COLL_METHOD: 'Maglumat çeşmesiniň görnüşi we ýygnamak usuly'
 SOURCE_TYPE: 'Maglumat çeşmeleri'

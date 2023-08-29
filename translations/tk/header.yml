@@ -5,10 +5,10 @@ disclaimer: 'Bu ösüş web sahypasy. <a href="mailto:%email_contacts.suggestion
   kabul edýäris </a>.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
 tag_line: 'Dünýämizi özgertmek üçin 17 maksat'
-high_contrast: 'Contrastokary kontrast'
+high_contrast: 'Ýokary kontrast'
 default_contrast: 'Bellenen kontrast'
-enable_high_contrast: 'Contrastokary kontrast açyň'
-disable_high_contrast: 'Contrastokary kontrasty öçüriň'
+enable_high_contrast: 'Ýokary kontrast açyň'
+disable_high_contrast: 'Ýokary kontrasty öçüriň'
 toggle_search: 'Geçirmek gözläň. Gözleg setirini giňeltmek ýa-da ýykmak üçin basyň.'
 toggle_menu: 'Menýu üýtgetmek. Menýuny giňeltmek ýa-da ýykmak üçin basyň.'
 internet_explorer_message_title: Bu internet brauzeri indi goldanylmaýar

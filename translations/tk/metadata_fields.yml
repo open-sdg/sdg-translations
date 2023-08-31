@@ -5,11 +5,11 @@ computation_calculations: 'Hasaplamalar'
 # A label describing information - a list of definitions of terms used within other metadata fields
 computation_definitions: 'Kesgitlemeler'
 # A label describing information - the unit of measurement that is being represented in a dataset
-computation_units: 'Ölçeg birligi'
+computation_units: 'Ölçegbirligi'
 # A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
 goal_meta_link: 'BMG metadatalaryna baglanyşyk'
 # A label describing information - the numeric code for a particular indicator
-indicator: 'Görkezijiniň belgisi'
+indicator: 'Görkezijiniň belgi sanlary'
 # A label describing information - the definition for a particular indicator - as provided by the United Nations
 indicator_definition: 'Global görkezijiniň beýany'
 # A label describing information - the name of a particular indicator
@@ -91,7 +91,7 @@ source_url_4: 'Maglumat çeşmesine baglanyşyk'
 source_url_5: 'Maglumat çeşmesine baglanyşyk'
 source_url_6: 'Maglumat çeşmesine baglanyşyk'
 # A label describing information - the overall SDG target associated with a particular indicator
-target: 'Nyşana ady'
+target: 'Meseläñ ady'
 # A label describing information - the numeric id for the overall SDG target associated with a particular indicator
 target_id: 'Maksat belgisi'
 # A label describing information - the United Nations custodian agency associated with a particular indicator
@@ -123,7 +123,7 @@ CONTACT_MAIL: 'Habarlaşmak üçin poçta'
 CONTACT_EMAIL: 'E-poçta bilen habarlaşyň'
 IND_DEF_CON_CLASS: 'Kesgitleme, düşünjeler we klassifikasiýalar'
 STAT_CONC_DEF: 'Kesgitleme we düşünjeler'
-UNIT_MEASURE: 'Ölçeg birligi'
+UNIT_MEASURE: 'Ölçeg'
 CLASS_SYSTEM: 'Klassifikasiýalar'
 SRC_TYPE_COLL_METHOD: 'Maglumat çeşmesiniň görnüşi we ýygnamak usuly'
 SOURCE_TYPE: 'Maglumat çeşmeleri'

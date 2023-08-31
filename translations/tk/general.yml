@@ -1,18 +1,18 @@
 # This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
-indicator: 'Görkeziji'
+indicator: 'Kesgitleýji'
 # This is the plural version of the indicator key
 indicators: 'Görkezijiler'
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
 goal: 'Maksat'
 # This is the plural version of the goal key
-goals: 'Maksatlar'
+goals: 'Targetlar'
 sdg: 'Durnukly ösüş maksatlary'
 # This refers to the 'home page' of a website
 home: 'Öý'
 loading: 'Gözleg netijelerini ýüklemek'
 opens_new_window: 'täze penjirede açylýar'
 hide: 'gizle'
-target: 'Nyşana'
+target: 'Nyşan'
 targets: 'Maksatlar'
 twitter: 'Twitter'
 facebook: 'Facebook'
@@ -24,4 +24,4 @@ targets_and_indicators: 'Maksatlar we görkezijiler'
 label_warning: "Duýduryş:"
 # A phrase to use as a site-wide page title.
 site_title: 'Durnukly ösüş maksatlary üçin görkezijiler'
-back_to_top: 'Topokara dolan'
+back_to_top: 'Yza dolan'

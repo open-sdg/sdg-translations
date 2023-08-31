@@ -88,7 +88,7 @@ data_tabular_alternative: 'Tablisa maglumatlary alternatiwasy üçin Tablisa go�
 data_keyboard_navigation: 'Çep we sag ok düwmeleri bilen maglumat nokatlaryna göz
   aýlamak üçin Enter basyň.'
 # Description of the "plot legend" which displays beneath charts
-plot_legend_description: "Sýu plotet rowaýaty: diagramma girizilen setirleriň sanawy"
+plot_legend_description: "Sýuźetiñ rowaýaty: diagramma girizilen setirleriň sanawy"
 # Common annotation displayed on graphs for the 2030 target.
 annotation_2030_target: '2030 Maksat'
 # Label describing an annotation on a chart/graph.
@@ -96,30 +96,30 @@ chart_annotation: 'Diagrammanyň düşündirişi'
 # Description of the year slider on maps.
 map_year_slider: 'Slaýder'
 # Description of a search field on maps.
-map_search: 'Gözle'
+map_search: 'Karta gözleg'
 # Description of a button that hides the search field on maps.
-map_search_hide: 'Gözlegi gizläň'
+map_search_hide: 'Karta gözlegi gizläň'
 # Description of a button that shows the search field on maps.
-map_search_show: 'Gözleg görkez'
+map_search_show: 'Karta gözlegi görkez'
 # Instructions for using the data table columns for sorting.
 table_column_sort: 'Bu sütün boýunça tertiplemek üçin basyň'
 # Label describing the status of an indicator
 status: 'Görkezijiniň ýagdaýy'
 # Label describing the "tags" for an indicator
 tags: 'Bellikler'
-previous: 'Öňki görkeziji'
-next: 'Indiki görkeziji'
+previous: 'Öňki görkezijiler'
+next: 'Indiki görkezijiler'
 headline_data: Sözbaşy maglumatlary
 no_headline_data: Sözbaşy maglumaty ýok
 download_source_for_disaggregations: Aýralyk üçin çeşme CSV-ni göçürip alyň
-cancel: Elatyr
+cancel: Ýatyr
 change_breakdowns: Bölümleri üýtgediň
 apply: Giriş
 empty_metadata_placeholder: Bu görkeziji üçin elýeterli däl
 total: Jemi
 map_search_cancel: Karta gözlegini arassala
 map_zoom_in: Kartada ulaldyň
-map_zoom_out: Kartada ulaldyň
+map_zoom_out: Kartada kiçeldiñ
 map_zoom_home: Kartany ýakynlaşdyrmak üçin täzeden düzüň
 map_fullscreen: Kartanyň doly ekranyny görüň
 map_fullscreen_exit: Doly ekran kartasyndan çykyň
@@ -133,3 +133,4 @@ proxy: Proksi
 proxy_description: Bu görkeziji Birleşen Milletler Guramasy (BMG) tarapyndan kesgitlenilen
   maglumatlara käbir alternatiw maglumatlary özünde jemleýär. Bu görkeziji häzirki
   wagtda elýeterli bolan iň amatly gabat gelýär.
+annotation_series_break: Seriýalarda näsazlyk

@@ -7,7 +7,7 @@ found_in: 'tapyldy'
 keywords: 'Açar sözler'
 # A message for the user - after they have performed an online search - to indicate that their search produced no results
 no_results: 'Netije ýok'
-did_you_mean: 'diýjek bolduňmy?'
+did_you_mean: 'diýjek bolduňmy'
 results_found: 'Netijeler tapyldy'
 adjust_your_search: 'Gözleýän zadyňyzy tapmak üçin gözlegiňizi sazlap görüň.'
 site_search: Saýt gözlegi

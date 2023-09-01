@@ -102,3 +102,4 @@ proxy: Proxy
 proxy_description: Este indicador contiene algunos datos alternativos a los especificados
   por la Organización de las Naciones Unidas (ONU). Este indicador es la coincidencia
   más adecuada disponible actualmente.
+note: nota

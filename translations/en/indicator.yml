@@ -84,6 +84,10 @@ announce_data_not_available: Chart and table shows no data.
 announce_data_added: Chart and table updated to include data.
 # A message that is announced when the data is removed from the chart/table
 announce_data_removed: Chart and table updated to exclude data.
+# A message that is announced when the user switches to a different unit
+announce_unit_switched: Chart and table updated to show a different unit.
+# A message that is announced when the user switches to a different series
+announce_series_switched: Chart and table updated to show a different series.
 # A message that points out an alternative display for visual data
 data_tabular_alternative: For tabular data alternative see Table tab.
 # Instructions for navigating data with a keyboard

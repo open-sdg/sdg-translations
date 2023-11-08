@@ -6,7 +6,7 @@ reported_online: Available
 not_applicable: Not applicable
 not_relevant: Not relevant
 in_progress: In progress
-divided: Divided
+divided_below: Divided
 no_data_available: No data available
 # Describing a section where the status is reported for each goal
 status_by_goal: Status by goal

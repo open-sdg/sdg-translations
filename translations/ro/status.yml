@@ -6,7 +6,7 @@ reported_online: Disponibil
 not_applicable: Nu se aplică
 not_relevant: Nu este relevant
 in_progress: În curs de dezvoltare
-divided: Divizat
+divided_below: Divizat
 no_data_available: Nicio informație disponibilă
 # Describing a section where the status is reported for each goal
 status_by_goal: Statutul după obiectiv

@@ -1,8 +1,8 @@
 reporting_status: Reporting status
 overall_reporting_status: Overall reporting status
 # Availability status
-exploring_data_sources: Not available
-reported_online: Is available
+exploring_data_sources: Notavailable
+reported_online: Available
 not_applicable: Not applicable
 not_relevant: Not relevant
 in_progress: In progress
@@ -19,7 +19,7 @@ disaggregation_status_notstarted: Not disaggregated
 disaggregation_status_notapplicable: Out of scope
 disaggregation_status_by_field: Disaggregation by %field
 not_specified: Not specified
-reported: Available
+reported: Is Available
 description: Reporting status provides an overview of how much Sustainable Development
   Goal (SDG) data %country.name reports.
 progress_status: Progress status

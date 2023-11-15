@@ -8,6 +8,9 @@ in_progress: Not relevant
 no_data_available: No data available
 not_relevant: Not relevant
 divided_below: Divided
+inprogress: In progres
+notrelevant: Not relevant
+divided: Divided
 # Describing a section where the status is reported for each goal
 status_by_goal: Status by goal
 status_by_field: Status by %field

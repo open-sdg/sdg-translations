@@ -3,12 +3,12 @@ overall_reporting_status: Overall reporting status
 # Availability status
 exploring_data_sources: Not available
 reported_online: Available
-not_applicable: Divided
-in_progress: Not relevant
+not_applicable: Not applicable
+in_progress: In progress
 no_data_available: No data available
 not_relevant: Not relevant
 divided_below: Divided
-inprogress: In progres
+inprogress: In progress
 notrelevant: Not relevant
 divided: Divided
 # Describing a section where the status is reported for each goal

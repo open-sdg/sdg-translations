@@ -1,17 +1,22 @@
-skip_link: ''
+skip_link: 'Ruka kwa yaliyomo kuu'
 # This word identifies a software or web project as being in the early stages of development
-alpha: ''
-disclaimer: ''
+alpha: 'Alpha'
+disclaimer: 'Hii ni tovuti ya maendeleo. Tunakaribisha maoni yako ya <a href="mailto:%email_contacts.suggestions"></a>.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
-tag_line: ''
-high_contrast: ''
-default_contrast: ''
-enable_high_contrast: ''
-disable_high_contrast: ''
-toggle_search: ''
-toggle_menu: ''
-internet_explorer_message_title: ''
-internet_explorer_message: ''
-show_menu: ''
-hide_menu: ''
-logo_title: ''
+tag_line: '17 Malengo ya Kubadilisha Ulimwengu Wetu'
+high_contrast: 'Tofauti ya juu'
+default_contrast: 'Tofauti ya chaguo-msingi'
+enable_high_contrast: 'Wezesha tofauti ya juu'
+disable_high_contrast: 'Zima tofauti ya juu'
+toggle_search: 'Tafuta kugeuza. Bofya ili kupanua au kuangusha upau wa utaftaji.'
+toggle_menu: 'Menyu ya kugeuza. Bofya ili kupanua au kuangusha menyu.'
+internet_explorer_message_title: 'Kivinjari hiki cha mtandao hakitegemezwi tena'
+internet_explorer_message: 'Tumegundua kuwa unatumia Internet Explorer kutembelea
+  tovuti hii. Internet Explorer sasa inaondolewa na Microsoft. Kama matokeo, tovuti
+  hii haitumii tena toleo lolote la Internet Explorer. Baadhi ya vipengele kwenye
+  tovuti hii havitafanya kazi. Unapaswa kutumia kivinjari cha kisasa kama vile Edge,
+  Chrome, Firefox, au Safari. Ikiwa una shida kusakinisha au kufikia kivinjari tofauti,
+  tafadhali wasiliana na timu yako ya usaidizi wa IT.'
+show_menu: 'Onyesha menyu ya urambazaji'
+hide_menu: 'Ficha menyu ya urambazaji'
+logo_title: 'Nenda kwenye ukurasa wa kwanza'

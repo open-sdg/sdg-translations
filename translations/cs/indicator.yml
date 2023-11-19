@@ -133,3 +133,8 @@ proxy: Proxy
 proxy_description: Tento indikátor obsahuje některé alternativní údaje k údajům stanoveným
   Organizací spojených národů (OSN). Tento indikátor je nejvhodnější shodou, která
   je v současné době k dispozici.
+announce_series_switched: Graf a tabulka byly aktualizovány tak, aby zobrazovaly jinou
+  řadu.
+announce_unit_switched: Graf a tabulka byly aktualizovány tak, aby zobrazovaly jinou
+  jednotku.
+note: poznámka

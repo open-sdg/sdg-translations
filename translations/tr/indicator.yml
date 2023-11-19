@@ -132,3 +132,6 @@ empty_metadata_placeholder_sources: Bu kaynak için mevcut değil
 proxy: Proxy
 proxy_description: Bu gösterge, Birleşmiş Milletler (BM) tarafından belirtilenlere
   bazı alternatif veriler içerir. Bu gösterge şu anda mevcut olan en uygun eşleşmedir.
+announce_series_switched: Grafik ve tablo farklı bir seriyi gösterecek şekilde güncelleştirildi.
+announce_unit_switched: Grafik ve tablo farklı bir birim gösterecek şekilde güncelleştirildi.
+note: not

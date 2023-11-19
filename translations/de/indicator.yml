@@ -99,3 +99,8 @@ proxy: Vollmacht
 proxy_description: Dieser Indikator enthält einige alternative Daten zu den von den
   Vereinten Nationen (UN) angegebenen. Dieser Indikator ist die beste Übereinstimmung,
   die derzeit verfügbar ist.
+announce_series_switched: Das Diagramm und die Tabelle wurden aktualisiert, um eine
+  andere Reihe anzuzeigen.
+announce_unit_switched: Das Diagramm und die Tabelle wurden aktualisiert, um eine
+  andere Einheit anzuzeigen.
+note: Anmerkung

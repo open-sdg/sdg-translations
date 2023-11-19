@@ -1,169 +1,508 @@
-1-1-title: ''
-1-2-title: ''
-1-3-title: ''
-1-4-title: ''
-1-5-title: ''
-1-a-title: ''
-1-b-title: ''
-10-1-title: ''
-10-2-title: ''
-10-3-title: ''
-10-4-title: ''
-10-5-title: ''
-10-6-title: ''
-10-7-title: ''
-10-a-title: ''
-10-b-title: ''
-10-c-title: ''
-11-1-title: ''
-11-2-title: ''
-11-3-title: ''
-11-4-title: ''
-11-5-title: ''
-11-6-title: ''
-11-7-title: ''
-11-a-title: ''
-11-b-title: ''
-11-c-title: ''
-12-1-title: ''
-12-2-title: ''
-12-3-title: ''
-12-4-title: ''
-12-5-title: ''
-12-6-title: ''
-12-7-title: ''
-12-8-title: ''
-12-a-title: ''
-12-b-title: ''
-12-c-title: ''
-13-1-title: ''
-13-2-title: ''
-13-3-title: ''
-13-a-title: ''
-13-b-title: ''
-14-1-title: ''
-14-2-title: ''
-14-3-title: ''
-14-4-title: ''
-14-5-title: ''
-14-6-title: ''
-14-7-title: ''
-14-a-title: ''
-14-b-title: ''
-14-c-title: ''
-15-1-title: ''
-15-2-title: ''
-15-3-title: ''
-15-4-title: ''
-15-5-title: ''
-15-6-title: ''
-15-7-title: ''
-15-8-title: ''
-15-9-title: ''
-15-a-title: ''
-15-b-title: ''
-15-c-title: ''
-16-1-title: ''
-16-10-title: ''
-16-2-title: ''
-16-3-title: ''
-16-4-title: ''
-16-5-title: ''
-16-6-title: ''
-16-7-title: ''
-16-8-title: ''
-16-9-title: ''
-16-a-title: ''
-16-b-title: ''
-17-1-title: ''
-17-10-title: ''
-17-11-title: ''
-17-12-title: ''
-17-13-title: ''
-17-14-title: ''
-17-15-title: ''
-17-16-title: ''
-17-17-title: ''
-17-18-title: ''
-17-19-title: ''
-17-2-title: ''
-17-3-title: ''
-17-4-title: ''
-17-5-title: ''
-17-6-title: ''
-17-7-title: ''
-17-8-title: ''
-17-9-title: ''
-2-1-title: ''
-2-2-title: ''
-2-3-title: ''
-2-4-title: ''
-2-5-title: ''
-2-a-title: ''
-2-b-title: ''
-2-c-title: ''
-3-1-title: ''
-3-2-title: ''
-3-3-title: ''
-3-4-title: ''
-3-5-title: ''
-3-6-title: ''
-3-7-title: ''
-3-8-title: ''
-3-9-title: ''
-3-a-title: ''
-3-b-title: ''
-3-c-title: ''
-3-d-title: ''
-4-1-title: ''
-4-2-title: ''
-4-3-title: ''
-4-4-title: ''
-4-5-title: ''
-4-6-title: ''
-4-7-title: ''
-4-a-title: ''
-4-b-title: ''
-4-c-title: ''
-5-1-title: ''
-5-2-title: ''
-5-3-title: ''
-5-4-title: ''
-5-5-title: ''
-5-6-title: ''
-5-a-title: ''
-5-b-title: ''
-5-c-title: ''
-6-1-title: ''
-6-2-title: ''
-6-3-title: ''
-6-4-title: ''
-6-5-title: ''
-6-6-title: ''
-6-a-title: ''
-6-b-title: ''
-7-1-title: ''
-7-2-title: ''
-7-3-title: ''
-7-a-title: ''
-7-b-title: ''
-8-1-title: ''
-8-10-title: ''
-8-2-title: ''
-8-3-title: ''
-8-4-title: ''
-8-5-title: ''
-8-6-title: ''
-8-7-title: ''
-8-8-title: ''
-8-9-title: ''
-8-a-title: ''
-8-b-title: ''
-9-1-title: ''
-9-2-title: ''
-9-3-title: ''
-9-4-title: ''
-9-5-title: ''
-9-a-title: ''
-9-b-title: ''
-9-c-title: ''
+1-1-title: 'Kufikia mwaka wa 2030, kutokomeza umaskini uliokithiri kwa watu wote kila
+  mahali, kwa sasa hupimwa kama watu wanaoishi chini ya $ 1.25 kwa siku'
+1-2-title: 'Kufikia mwaka 2030, punguza angalau nusu ya idadi ya wanaume, wanawake
+  na watoto wa umri wote wanaoishi katika umaskini katika vipimo vyake vyote kulingana
+  na ufafanuzi wa kitaifa.'
+1-3-title: 'Tekeleza mifumo na hatua zinazofaa za kitaifa za ulinzi wa jamii kwa wote,
+  ikiwa ni pamoja na sakafu, na kufikia 2030 kufikia chanjo kubwa ya maskini na walio
+  katika mazingira magumu'
+1-4-title: 'Kufikia mwaka 2030, hakikisha kuwa wanaume na wanawake wote, hususan maskini
+  na walio katika mazingira magumu, wana haki sawa ya rasilimali za kiuchumi, pamoja
+  na upatikanaji wa huduma za msingi, umiliki na udhibiti wa ardhi na aina nyingine
+  za mali, mirathi, maliasili, teknolojia mpya na huduma za kifedha, ikiwa ni pamoja
+  na fedha ndogo.'
+1-5-title: 'Kufikia mwaka wa 2030, jenga ujasiri wa maskini na wale walio katika mazingira
+  magumu na kupunguza uwezekano wao na hatari ya matukio ya hali ya hewa na majanga
+  mengine ya kiuchumi, kijamii na mazingira na majanga.'
+1-a-title: 'Kuhakikisha uhamasishaji mkubwa wa rasilimali kutoka vyanzo mbalimbali,
+  ikiwa ni pamoja na kupitia ushirikiano wa maendeleo ulioimarishwa, ili kutoa njia
+  za kutosha na za kutabirika kwa nchi zinazoendelea, hasa nchi zilizoendelea, kutekeleza
+  mipango na sera za kumaliza umaskini katika vipimo vyake vyote.'
+1-b-title: 'Unda mifumo ya sera nzuri katika ngazi za kitaifa, kikanda na kimataifa,
+  kulingana na mikakati ya maendeleo ya maskini na ya kijinsia, kusaidia uwekezaji
+  wa haraka katika vitendo vya kutokomeza umaskini'
+10-1-title: 'Kufikia mwaka 2030, kufikia na kuendeleza ukuaji wa mapato ya asilimia
+  40 ya chini ya idadi ya watu kwa kiwango cha juu kuliko wastani wa kitaifa'
+10-2-title: 'Kufikia mwaka 2030, kuwezesha na kukuza ujumuishaji wa kijamii, kiuchumi
+  na kisiasa wa wote, bila kujali umri, jinsia, ulemavu, rangi, kabila, asili, dini
+  au hali ya kiuchumi au nyingine.'
+10-3-title: 'Kuhakikisha fursa sawa na kupunguza ukosefu wa usawa wa matokeo, ikiwa
+  ni pamoja na kuondoa sheria za kibaguzi, sera na mazoea na kukuza sheria, sera na
+  hatua zinazofaa katika suala hili'
+10-4-title: 'Kupitisha sera, hasa sera za fedha, mshahara na ulinzi wa jamii, na kufikia
+  usawa mkubwa zaidi'
+10-5-title: 'Kuboresha udhibiti na ufuatiliaji wa masoko ya fedha duniani na taasisi
+  na kuimarisha utekelezaji wa kanuni hizo'
+10-6-title: 'Kuhakikisha uwakilishi ulioimarishwa na sauti kwa nchi zinazoendelea
+  katika kufanya maamuzi katika taasisi za kimataifa za kiuchumi na kifedha ili kutoa
+  taasisi bora zaidi, za kuaminika, zinazowajibika na halali'
+10-7-title: 'Kuwezesha uhamiaji wa utaratibu, salama, wa kawaida na wa kuwajibika
+  na uhamaji wa watu, ikiwa ni pamoja na utekelezaji wa sera za uhamiaji zilizopangwa
+  na zinazosimamiwa vizuri'
+10-a-title: 'Kutekeleza kanuni ya matibabu maalum na tofauti kwa nchi zinazoendelea,
+  hasa nchi zilizoendelea, kulingana na makubaliano ya Shirika la Biashara Duniani'
+10-b-title: 'Kuhimiza misaada rasmi ya maendeleo na mtiririko wa kifedha, ikiwa ni
+  pamoja na uwekezaji wa moja kwa moja wa kigeni, kwa Mataifa ambapo mahitaji ni makubwa,
+  hasa nchi zilizoendelea, nchi za Afrika, nchi ndogo zinazoendelea za kisiwa na nchi
+  zinazoendelea, kulingana na mipango na mipango yao ya kitaifa.'
+10-c-title: 'Kufikia mwaka wa 2030, punguza hadi chini ya asilimia 3 gharama za manunuzi
+  ya fedha za wahamiaji na kuondoa njia za kutuma pesa na gharama kubwa zaidi ya asilimia
+  5'
+11-1-title: 'Kufikia mwaka 2030, hakikisha upatikanaji wa nyumba za kutosha, salama
+  na za bei nafuu na huduma za msingi na kuboresha makazi duni'
+11-2-title: 'Kufikia mwaka 2030, kutoa upatikanaji wa mifumo salama, nafuu, inayoweza
+  kufikiwa na endelevu ya usafiri kwa wote, kuboresha usalama barabarani, hasa kwa
+  kupanua usafiri wa umma, kwa kuzingatia mahitaji ya wale walio katika hali hatarishi,
+  wanawake, watoto, watu wenye ulemavu na wazee.'
+11-3-title: 'Kufikia mwaka 2030, kuimarisha miji jumuishi na endelevu na uwezo wa
+  mipango shirikishi, jumuishi na endelevu ya makazi ya binadamu katika nchi zote'
+11-4-title: 'Kuimarisha juhudi za kulinda na kulinda urithi wa kitamaduni na wa asili
+  wa dunia'
+11-5-title: 'Kufikia mwaka 2030, kupunguza kwa kiasi kikubwa idadi ya vifo na idadi
+  ya watu walioathirika na kupunguza kwa kiasi kikubwa hasara za moja kwa moja za
+  kiuchumi zinazohusiana na pato la ndani la dunia linalosababishwa na majanga, ikiwa
+  ni pamoja na majanga yanayohusiana na maji, kwa lengo la kuwalinda maskini na watu
+  walio katika hali hatarishi.'
+11-6-title: 'By 2030, kupunguza athari mbaya ya mazingira ya kila mtu ya miji, ikiwa
+  ni pamoja na kulipa kipaumbele maalum kwa ubora wa hewa na manispaa na usimamizi
+  mwingine wa taka'
+11-7-title: 'Kufikia mwaka wa 2030, kutoa ufikiaji wa ulimwengu wote kwa nafasi salama,
+  jumuishi na zinazoweza kupatikana, kijani na za umma, haswa kwa wanawake na watoto,
+  wazee na watu wenye ulemavu'
+11-a-title: 'Kusaidia uhusiano mzuri wa kiuchumi, kijamii na mazingira kati ya miji,
+  peri-urban na vijijini kwa kuimarisha mipango ya maendeleo ya kitaifa na kikanda'
+11-b-title: 'Kufikia mwaka wa 2020, kuongeza kwa kiasi kikubwa idadi ya miji na makazi
+  ya binadamu kupitisha na kutekeleza sera na mipango jumuishi kuelekea ujumuishaji,
+  ufanisi wa rasilimali, kupunguza na kukabiliana na mabadiliko ya hali ya hewa, uthabiti
+  wa majanga, na kuendeleza na kutekeleza, kulingana na Mfumo wa Sendai wa Kupunguza
+  Hatari ya Maafa 2015-2030, usimamizi kamili wa hatari ya maafa katika ngazi zote'
+11-c-title: 'Kusaidia nchi zilizoendelea, ikiwa ni pamoja na kupitia msaada wa kifedha
+  na kiufundi, katika kujenga majengo endelevu na yenye nguvu kwa kutumia vifaa vya
+  ndani'
+12-1-title: 'Kutekeleza Mfumo wa Miaka 10 wa Mipango ya Matumizi Endelevu na Uzalishaji,
+  nchi zote zinachukua hatua, na nchi zilizoendelea zinaongoza, kwa kuzingatia maendeleo
+  na uwezo wa nchi zinazoendelea'
+12-2-title: 'Kufikia mwaka 2030, kufikia usimamizi endelevu na matumizi bora ya maliasili'
+12-3-title: 'Kufikia mwaka wa 2030, punguza nusu ya taka ya chakula duniani kwa kiwango
+  cha rejareja na watumiaji na kupunguza upotezaji wa chakula pamoja na minyororo
+  ya uzalishaji na usambazaji, pamoja na upotezaji wa baada ya mavuno'
+12-4-title: 'Kufikia 2020, kufikia usimamizi mzuri wa mazingira wa kemikali na taka
+  zote katika mzunguko wao wa maisha, kulingana na mifumo ya kimataifa iliyokubaliwa,
+  na kupunguza kwa kiasi kikubwa kutolewa kwa hewa, maji na udongo ili kupunguza athari
+  zao mbaya kwa afya ya binadamu na mazingira.'
+12-5-title: 'Kufikia mwaka wa 2030, punguza kwa kiasi kikubwa uzalishaji wa taka kupitia
+  kuzuia, kupunguza, kuchakata na kutumia tena'
+12-6-title: 'Kuhimiza makampuni, hasa makampuni makubwa na ya kimataifa, kupitisha
+  mazoea endelevu na kuunganisha habari endelevu katika mzunguko wao wa taarifa'
+12-7-title: 'Kukuza mazoea ya ununuzi wa umma ambayo ni endelevu, kulingana na sera
+  na vipaumbele vya kitaifa'
+12-8-title: 'Kufikia mwaka 2030, hakikisha kuwa watu kila mahali wana habari na ufahamu
+  unaofaa kwa maendeleo endelevu na mitindo ya maisha kulingana na maumbile'
+12-a-title: 'Kusaidia nchi zinazoendelea kuimarisha uwezo wao wa kisayansi na kiteknolojia
+  ili kuelekea mifumo endelevu zaidi ya matumizi na uzalishaji'
+12-b-title: 'Kuendeleza na kutekeleza zana za kufuatilia athari za maendeleo endelevu
+  kwa utalii endelevu ambao unaunda ajira na kukuza utamaduni na bidhaa za ndani'
+12-c-title: 'Kuzidisha ruzuku ya mafuta ya mafuta ambayo inahimiza matumizi ya taka
+  kwa kuondoa uharibifu wa soko, kulingana na hali ya kitaifa, ikiwa ni pamoja na
+  kurekebisha ushuru na kuondoa ruzuku hizo hatari, ambapo zipo, kutafakari athari
+  zao za mazingira, kuzingatia kikamilifu mahitaji maalum na hali ya nchi zinazoendelea
+  na kupunguza athari mbaya kwa maendeleo yao kwa njia ambayo inalinda maskini na
+  walioathirika Jamii'
+13-1-title: 'Kuimarisha ujasiri na uwezo wa kukabiliana na hatari zinazohusiana na
+  hali ya hewa na majanga ya asili katika nchi zote'
+13-2-title: 'Kuunganisha hatua za mabadiliko ya hali ya hewa katika sera, mikakati
+  na mipango ya kitaifa'
+13-3-title: 'Kuboresha elimu, kukuza uelewa na uwezo wa kibinadamu na kitaasisi juu
+  ya kukabiliana na mabadiliko ya hali ya hewa, kukabiliana na, kupunguza athari na
+  onyo la mapema'
+13-a-title: 'Tekeleza ahadi iliyofanywa na vyama vya nchi zilizoendelea kwa Mkataba
+  wa Umoja wa Mataifa wa Mabadiliko ya Hali ya Hewa kwa lengo la kuhamasisha kwa pamoja
+  $ 100 bilioni kila mwaka na 2020 kutoka vyanzo vyote kushughulikia mahitaji ya nchi
+  zinazoendelea katika muktadha wa hatua za kupunguza maana na uwazi juu ya utekelezaji
+  na kutekeleza kikamilifu Mfuko wa Hali ya Hewa ya Kijani kupitia mtaji wake haraka
+  iwezekanavyo'
+13-b-title: 'Kukuza utaratibu wa kuongeza uwezo wa mipango na usimamizi wa mabadiliko
+  ya hali ya hewa katika nchi zilizoendelea na nchi zinazoendelea za kisiwa, ikiwa
+  ni pamoja na kuzingatia wanawake, vijana na jamii za mitaa na zilizotengwa'
+14-1-title: 'Ifikapo mwaka 2025, kuzuia na kupunguza kwa kiasi kikubwa uchafuzi wa
+  mazingira baharini wa kila aina, hasa kutokana na shughuli za ardhi, ikiwa ni pamoja
+  na uchafu wa baharini na uchafuzi wa virutubishi'
+14-2-title: 'Kufikia 2020, kusimamia na kulinda mazingira ya baharini na pwani ili
+  kuepuka athari mbaya, ikiwa ni pamoja na kuimarisha ujasiri wao, na kuchukua hatua
+  kwa ajili ya marejesho yao ili kufikia bahari yenye afya na yenye tija'
+14-3-title: 'Kupunguza na kushughulikia athari za acidification ya bahari, ikiwa ni
+  pamoja na kupitia ushirikiano wa kisayansi ulioimarishwa katika ngazi zote'
+14-4-title: 'Kufikia mwaka wa 2020, dhibiti kwa ufanisi uvunaji na kukomesha uvuvi
+  wa uvuvi, haramu, usioripotiwa na usiodhibitiwa na mazoea ya uvuvi wa uharibifu
+  na kutekeleza mipango ya usimamizi wa sayansi, ili kurejesha hifadhi za samaki kwa
+  muda mfupi iwezekanavyo, angalau kwa viwango ambavyo vinaweza kuzalisha mavuno endelevu
+  kama ilivyoamuliwa na sifa zao za kibiolojia'
+14-5-title: 'Kufikia 2020, hifadhi angalau asilimia 10 ya maeneo ya pwani na baharini,
+  kulingana na sheria za kitaifa na kimataifa na kulingana na habari bora za kisayansi
+  zinazopatikana'
+14-6-title: 'By 2020, kuzuia aina fulani ya ruzuku ya uvuvi ambayo inachangia overcapacity
+  na overfishing, kuondoa ruzuku ambayo kuchangia uvuvi haramu, unreported na unregulated
+  na kuacha kuanzisha ruzuku mpya kama hiyo, kutambua kwamba sahihi na ufanisi maalum
+  na tofauti matibabu kwa nchi zinazoendelea na chini ya maendeleo lazima kuwa sehemu
+  muhimu ya Shirika la Biashara Duniani uvuvi ruzuku mazungumzo.'
+14-7-title: 'Kufikia mwaka wa 2030, kuongeza faida za kiuchumi kwa nchi zinazoendelea
+  za kisiwa kidogo na nchi zilizoendelea zaidi kutokana na matumizi endelevu ya rasilimali
+  za baharini, ikiwa ni pamoja na kupitia usimamizi endelevu wa uvuvi, ufugaji wa
+  samaki na utalii'
+14-a-title: 'Kuongeza maarifa ya kisayansi, kuendeleza uwezo wa utafiti na kuhamisha
+  teknolojia ya baharini, kwa kuzingatia vigezo na miongozo ya Tume ya Oceanographic
+  ya Serikali za Mitaa juu ya Uhamisho wa Teknolojia ya Marine, ili kuboresha afya
+  ya bahari na kuongeza mchango wa viumbe hai wa baharini kwa maendeleo ya nchi zinazoendelea,
+  hasa nchi zinazoendelea za kisiwa na nchi zisizoendelea'
+14-b-title: 'Kutoa upatikanaji wa wavuvi wadogo wadogo wa artisanal kwa rasilimali
+  za baharini na masoko'
+14-c-title: 'Kuimarisha uhifadhi na matumizi endelevu ya bahari na rasilimali zao
+  kwa kutekeleza sheria za kimataifa kama ilivyoonyeshwa katika Mkataba wa Umoja wa
+  Mataifa juu ya Sheria ya Bahari, ambayo inatoa mfumo wa kisheria wa uhifadhi na
+  matumizi endelevu ya bahari na rasilimali zao, kama ilivyokumbukwa katika aya ya
+  158 ya "Mustakabali tunaotaka"'
+15-1-title: 'Kufikia mwaka wa 2020, hakikisha uhifadhi, urejeshwaji na matumizi endelevu
+  ya mifumo ya ekolojia ya maji safi na ya ndani na huduma zao, hasa misitu, maeneo
+  ya mvua, milima na maeneo kavu, kulingana na majukumu chini ya mikataba ya kimataifa'
+15-2-title: 'Kufikia mwaka 2020, kukuza utekelezaji wa usimamizi endelevu wa aina
+  zote za misitu, kukomesha ukataji miti, kurejesha misitu iliyoharibika na kuongeza
+  kwa kiasi kikubwa upandaji miti na upandaji miti duniani'
+15-3-title: 'Kufikia mwaka wa 2030, kupambana na jangwa, kurejesha ardhi iliyoharibika
+  na udongo, ikiwa ni pamoja na ardhi iliyoathiriwa na jangwa, ukame na mafuriko,
+  na kujitahidi kufikia ulimwengu wa uharibifu wa ardhi'
+15-4-title: 'Kufikia mwaka 2030, kuhakikisha uhifadhi wa mazingira ya milima, ikiwa
+  ni pamoja na viumbe hai wao, ili kuongeza uwezo wao wa kutoa faida ambazo ni muhimu
+  kwa maendeleo endelevu'
+15-5-title: 'Chukua hatua za haraka na muhimu kupunguza uharibifu wa makazi ya asili,
+  kukomesha upotezaji wa viumbe hai na, ifikapo 2020, kulinda na kuzuia kutoweka kwa
+  spishi zilizotishiwa.'
+15-6-title: 'Kukuza ushiriki wa haki na usawa wa faida zinazotokana na matumizi ya
+  rasilimali za maumbile na kukuza upatikanaji sahihi wa rasilimali hizo, kama ilivyokubaliwa
+  kimataifa'
+15-7-title: 'Chukua hatua za haraka kukomesha ujangili na usafirishaji haramu wa aina
+  ya mimea na mimea na kushughulikia mahitaji na usambazaji wa bidhaa haramu za wanyamapori'
+15-8-title: 'Kufikia 2020, kuanzisha hatua za kuzuia kuanzishwa na kupunguza kwa kiasi
+  kikubwa athari za aina za wageni vamizi kwenye mazingira ya ardhi na maji na kudhibiti
+  au kutokomeza aina za kipaumbele'
+15-9-title: 'Kufikia 2020, unganisha maadili ya mazingira na bayoanuai katika mipango
+  ya kitaifa na ya ndani, michakato ya maendeleo, mikakati ya kupunguza umaskini na
+  akaunti'
+15-a-title: 'Kuhamasisha na kuongeza kwa kiasi kikubwa rasilimali za kifedha kutoka
+  vyanzo vyote ili kuhifadhi na kutumia bioanuai na mazingira endelevu'
+15-b-title: 'Kuhamasisha rasilimali muhimu kutoka vyanzo vyote na katika ngazi zote
+  ili kufadhili usimamizi endelevu wa misitu na kutoa motisha ya kutosha kwa nchi
+  zinazoendelea kuendeleza usimamizi huo, ikiwa ni pamoja na uhifadhi na upandaji
+  miti'
+15-c-title: 'Kuongeza msaada wa kimataifa kwa juhudi za kupambana na ujangili na usafirishaji
+  wa aina zilizohifadhiwa, ikiwa ni pamoja na kuongeza uwezo wa jamii za mitaa kutekeleza
+  fursa endelevu za maisha'
+16-1-title: 'Kupunguza kwa kiasi kikubwa aina zote za vurugu na viwango vya vifo vinavyohusiana
+  kila mahali'
+16-10-title: 'Kuhakikisha upatikanaji wa habari na kulinda uhuru wa msingi, kwa mujibu
+  wa sheria za kitaifa na mikataba ya kimataifa.'
+16-2-title: 'Kukomesha unyanyasaji, unyonyaji, usafirishaji haramu na aina zote za
+  ukatili dhidi ya watoto na mateso ya watoto'
+16-3-title: 'Kukuza utawala wa sheria katika ngazi ya kitaifa na kimataifa na kuhakikisha
+  upatikanaji sawa wa haki kwa wote'
+16-4-title: 'Kufikia mwaka 2030, kupunguza kwa kiasi kikubwa mtiririko wa fedha na
+  silaha haramu, kuimarisha urejeshaji na kurudi kwa mali zilizoibiwa na kupambana
+  na aina zote za uhalifu uliopangwa.'
+16-5-title: 'Kupunguza rushwa na rushwa katika fomu zao zote'
+16-6-title: 'Kuendeleza taasisi zenye ufanisi, uwajibikaji na uwazi katika ngazi zote'
+16-7-title: 'Kuhakikisha uamuzi wa msikivu, jumuishi, shirikishi na mwakilishi katika
+  ngazi zote'
+16-8-title: 'Kuimarisha na kuimarisha ushiriki wa nchi zinazoendelea katika taasisi
+  za utawala wa kimataifa'
+16-9-title: 'Kufikia mwaka 2030, kutoa utambulisho wa kisheria kwa wote, ikiwa ni
+  pamoja na usajili wa kuzaliwa'
+16-a-title: 'Kuimarisha taasisi husika za kitaifa, ikiwa ni pamoja na kupitia ushirikiano
+  wa kimataifa, kwa kujenga uwezo katika ngazi zote, hasa katika nchi zinazoendelea,
+  kuzuia vurugu na kupambana na ugaidi na uhalifu'
+16-b-title: 'Kukuza na kutekeleza sheria na sera zisizo za kibaguzi kwa maendeleo
+  endelevu'
+17-1-title: 'Kuimarisha uhamasishaji wa rasilimali za ndani, ikiwa ni pamoja na kupitia
+  msaada wa kimataifa kwa nchi zinazoendelea, kuboresha uwezo wa ndani wa kodi na
+  ukusanyaji mwingine wa mapato'
+17-10-title: 'Kukuza mfumo wa biashara wa kimataifa, unaozingatia sheria, wazi, usio
+  na ubaguzi na usawa chini ya Shirika la Biashara Duniani, ikiwa ni pamoja na hitimisho
+  la mazungumzo chini ya Ajenda yake ya Maendeleo ya Doha'
+17-11-title: 'Kuongeza kwa kiasi kikubwa mauzo ya nje ya nchi zinazoendelea, hasa
+  kwa lengo la kuongeza mara mbili sehemu ya nchi zilizoendelea zaidi ya mauzo ya
+  nje ya kimataifa na 2020'
+17-12-title: 'Kutambua utekelezaji wa wakati unaofaa wa upatikanaji wa soko lisilo
+  na ushuru na usio na upendeleo kwa msingi wa kudumu kwa nchi zote zilizoendelea,
+  kulingana na maamuzi ya Shirika la Biashara Duniani, ikiwa ni pamoja na kuhakikisha
+  kuwa sheria za upendeleo za asili zinazotumika kwa uagizaji kutoka nchi zilizoendelea
+  ni wazi na rahisi, na kuchangia kuwezesha upatikanaji wa soko'
+17-13-title: 'Kuongeza utulivu wa uchumi wa kimataifa, ikiwa ni pamoja na kupitia
+  uratibu wa sera na ushirikiano wa sera'
+17-14-title: 'Kuimarisha ushirikiano wa sera kwa maendeleo endelevu'
+17-15-title: 'Kuheshimu nafasi ya sera na uongozi wa kila nchi kuanzisha na kutekeleza
+  sera za kutokomeza umaskini na maendeleo endelevu'
+17-16-title: 'Kuimarisha Ushirikiano wa Kimataifa wa Maendeleo Endelevu, unaosaidiwa
+  na ushirikiano wa wadau mbalimbali ambao huhamasisha na kushiriki maarifa, utaalamu,
+  teknolojia na rasilimali za kifedha, kusaidia kufikia Malengo ya Maendeleo Endelevu
+  katika nchi zote, hasa nchi zinazoendelea.'
+17-17-title: 'Kuhimiza na kukuza ushirikiano mzuri wa umma, wa umma na wa kibinafsi
+  na wa kiraia, kujenga juu ya uzoefu na mikakati ya kuimarisha ushirikiano'
+17-18-title: 'Kufikia 2020, kuongeza msaada wa kujenga uwezo kwa nchi zinazoendelea,
+  ikiwa ni pamoja na nchi zilizoendelea na nchi zinazoendelea za kisiwa, kuongeza
+  kwa kiasi kikubwa upatikanaji wa data ya ubora, kwa wakati na ya kuaminika iliyogawanywa
+  na mapato, jinsia, umri, rangi, kabila, hali ya uhamiaji, ulemavu, eneo la kijiografia
+  na sifa zingine zinazofaa katika muktadha wa kitaifa'
+17-19-title: 'By 2030, kujenga juu ya mipango iliyopo ya kuendeleza vipimo vya maendeleo
+  juu ya maendeleo endelevu ambayo yanasaidia pato la taifa, na kusaidia kujenga uwezo
+  wa takwimu katika nchi zinazoendelea'
+17-2-title: 'Nchi zilizoendelea kutekeleza kikamilifu ahadi zao rasmi za misaada ya
+  maendeleo, ikiwa ni pamoja na ahadi ya nchi nyingi zilizoendelea kufikia lengo la
+  asilimia 0.7 ya mapato ya kitaifa kwa msaada rasmi wa maendeleo (ODA / GNI) kwa
+  nchi zinazoendelea na 0.15 hadi 0.20% ya ODA / GNI kwa nchi zilizoendelea; Watoa
+  huduma wa ODA wanahimizwa kuzingatia kuweka lengo la kutoa angalau asilimia 0.20
+  ya ODA / GNI kwa nchi zilizoendelea'
+17-3-title: 'Kuhamasisha rasilimali za ziada za kifedha kwa nchi zinazoendelea kutoka
+  vyanzo mbalimbali'
+17-4-title: 'Kusaidia nchi zinazoendelea katika kufikia uendelevu wa deni la muda
+  mrefu kupitia sera zilizoratibiwa zinazolenga kukuza ufadhili wa madeni, misaada
+  ya madeni na marekebisho ya madeni, kama inavyofaa, na kushughulikia deni la nje
+  la nchi maskini zenye deni kubwa ili kupunguza shida ya madeni.'
+17-5-title: 'Kupitisha na kutekeleza sheria za kukuza uwekezaji kwa nchi zilizoendelea'
+17-6-title: 'Kuimarisha ushirikiano wa kikanda na kimataifa wa Kaskazini-Kusini, Kusini-Kusini
+  na kimataifa na upatikanaji wa sayansi, teknolojia na uvumbuzi na kuongeza kugawana
+  maarifa kwa masharti yaliyokubaliwa, ikiwa ni pamoja na kupitia uratibu bora kati
+  ya mifumo iliyopo, hasa katika ngazi ya Umoja wa Mataifa, na kupitia utaratibu wa
+  uwezeshaji wa teknolojia ya kimataifa'
+17-7-title: 'Kukuza maendeleo, uhamisho, usambazaji na usambazaji wa teknolojia za
+  sauti za mazingira kwa nchi zinazoendelea kwa masharti mazuri, ikiwa ni pamoja na
+  masharti ya makubaliano na upendeleo, kama ilivyokubaliwa kwa pande zote'
+17-8-title: 'Kufanya kazi kikamilifu benki ya teknolojia na sayansi, teknolojia na
+  uvumbuzi wa kujenga uwezo kwa nchi zilizoendelea na 2017 na kuongeza matumizi ya
+  teknolojia ya kuwezesha, hasa teknolojia ya habari na mawasiliano'
+17-9-title: 'Kuongeza msaada wa kimataifa kwa kutekeleza ufanisi na lengo la kujenga
+  uwezo katika nchi zinazoendelea ili kusaidia mipango ya kitaifa ya kutekeleza Malengo
+  yote ya Maendeleo Endelevu, ikiwa ni pamoja na kupitia ushirikiano wa Kaskazini-Kusini,
+  Kusini-Kusini na pembetatu'
+2-1-title: 'Kufikia mwaka 2030, tokomeza njaa na kuhakikisha upatikanaji wa watu wote,
+  hasa maskini na watu walio katika mazingira magumu, ikiwa ni pamoja na watoto wachanga,
+  kupata chakula salama, chenye lishe na cha kutosha mwaka mzima.'
+2-2-title: 'Kufikia mwaka 2030, komesha aina zote za utapiamlo, ikiwa ni pamoja na
+  kufikia, ifikapo mwaka 2025, malengo yaliyokubaliwa kimataifa juu ya udumavu na
+  upotevu kwa watoto walio chini ya umri wa miaka mitano, na kushughulikia mahitaji
+  ya lishe ya wasichana wadogo, wanawake wajawazito na wanaonyonyesha na wazee.'
+2-3-title: 'Ifikapo mwaka 2030, kuongeza maradufu tija ya kilimo na kipato cha wazalishaji
+  wadogo wa chakula, hususan wanawake, wazawa, wakulima wa familia, wafugaji na wavuvi,
+  ikiwa ni pamoja na kupitia upatikanaji salama na sawa wa ardhi, rasilimali nyingine
+  zenye tija na pembejeo, maarifa, huduma za kifedha, masoko na fursa za kuongeza
+  thamani na ajira zisizo za kilimo'
+2-4-title: 'Kufikia mwaka 2030, hakikisha mifumo endelevu ya uzalishaji wa chakula
+  na kutekeleza mbinu za kilimo zenye nguvu ambazo zinaongeza uzalishaji na uzalishaji,
+  ambazo husaidia kudumisha mifumo ya ekolojia, ambayo inaimarisha uwezo wa kukabiliana
+  na mabadiliko ya hali ya hewa, hali ya hewa kali, ukame, mafuriko na majanga mengine
+  na ambayo inaboresha ardhi na ubora wa udongo'
+2-5-title: 'Kufikia mwaka wa 2020, dumisha utofauti wa maumbile ya mbegu, mimea iliyopandwa
+  na wanyama waliopandwa na wa ndani na aina zao za porini, pamoja na kupitia mbegu
+  zilizosimamiwa vizuri na tofauti na benki za mimea katika ngazi za kitaifa, kikanda
+  na kimataifa, na kukuza upatikanaji wa na kushiriki kwa usawa na usawa wa faida
+  zinazotokana na matumizi ya rasilimali za maumbile na maarifa yanayohusiana ya jadi,  Kama
+  ilivyokubaliwa kimataifa'
+2-a-title: 'Kuongeza uwekezaji, ikiwa ni pamoja na kupitia ushirikiano wa kimataifa
+  ulioimarishwa, katika miundombinu ya vijijini, utafiti wa kilimo na huduma za ugani,
+  maendeleo ya teknolojia na benki za jeni za mimea na mifugo ili kuongeza uwezo wa
+  uzalishaji wa kilimo katika nchi zinazoendelea, hasa nchi zilizoendelea'
+2-b-title: 'Sahihi na kuzuia vikwazo vya biashara na upotoshaji katika masoko ya kilimo
+  duniani, ikiwa ni pamoja na kuondoa sambamba ya aina zote za ruzuku ya kuuza nje
+  ya kilimo na hatua zote za kuuza nje kwa athari sawa, kulingana na mamlaka ya Doha
+  Development Round'
+2-c-title: 'Kupitisha hatua za kuhakikisha utendaji sahihi wa masoko ya bidhaa za
+  chakula na derivatives zao na kuwezesha upatikanaji wa habari za soko kwa wakati,
+  ikiwa ni pamoja na hifadhi ya chakula, ili kusaidia kupunguza tete ya bei ya chakula'
+3-1-title: 'Ifikapo mwaka 2030, kupunguza uwiano wa vifo vya akina mama wajawazito
+  duniani hadi chini ya 70 kwa kila vizazi hai 100,000'
+3-2-title: 'Kufikia mwaka 2030, kutokomeza vifo vinavyoweza kuzuilika vya watoto wachanga
+  na watoto chini ya umri wa miaka mitano, huku nchi zote zikilenga kupunguza vifo
+  vya watoto wachanga hadi chini ya 12 kwa kila vizazi hai 1,000 na vifo vya chini
+  ya miaka 5 hadi chini ya 25 kwa kila vizazi hai 1,000.'
+3-3-title: 'Kufikia mwaka 2030, kutokomeza magonjwa ya UKIMWI, kifua kikuu, malaria
+  na magonjwa ya kitropiki yaliyopuuzwa na kupambana na homa ya ini, magonjwa yanayosababishwa
+  na maji na magonjwa mengine ya kuambukiza'
+3-4-title: 'Kufikia mwaka 2030, kupunguza kwa theluthi moja vifo vya mapema kutokana
+  na magonjwa yasiyo ya kuambukiza kupitia kuzuia na kutibu na kukuza afya ya akili
+  na ustawi'
+3-5-title: 'Kuimarisha kuzuia na kutibu matumizi mabaya ya dawa za kulevya, ikiwa
+  ni pamoja na matumizi mabaya ya madawa ya kulevya na matumizi mabaya ya pombe'
+3-6-title: 'Kufikia mwaka 2020, nusu ya idadi ya vifo duniani na majeruhi kutokana
+  na ajali za barabarani'
+3-7-title: 'Kufikia mwaka 2030, kuhakikisha upatikanaji wa huduma za afya ya uzazi
+  na uzazi kwa wote, ikiwa ni pamoja na uzazi wa mpango, habari na elimu, na ujumuishaji
+  wa afya ya uzazi katika mikakati na mipango ya kitaifa.'
+3-8-title: 'Kufikia upatikanaji wa huduma za afya kwa wote, ikiwa ni pamoja na ulinzi
+  wa hatari ya kifedha, upatikanaji wa huduma bora za afya na upatikanaji wa dawa
+  na chanjo salama, bora, na za bei nafuu kwa wote'
+3-9-title: 'Kufikia mwaka wa 2030, kupunguza kwa kiasi kikubwa idadi ya vifo na magonjwa
+  kutokana na kemikali hatari na uchafuzi wa hewa, maji na udongo na uchafuzi'
+3-a-title: 'Kuimarisha utekelezaji wa Mkataba wa Mfumo wa Shirika la Afya Duniani
+  juu ya Udhibiti wa Tumbaku katika nchi zote, kama inavyofaa'
+3-b-title: 'Kusaidia utafiti na maendeleo ya chanjo na dawa kwa magonjwa ya kuambukiza
+  na yasiyo ya kuambukiza ambayo kimsingi huathiri nchi zinazoendelea, kutoa upatikanaji
+  wa dawa muhimu na chanjo za bei nafuu, kwa mujibu wa Azimio la Doha juu ya Mkataba
+  wa TRIPS na Afya ya Umma, ambayo inathibitisha haki ya nchi zinazoendelea kutumia
+  kwa ukamilifu masharti katika Mkataba wa Mambo ya Biashara yanayohusiana na Haki
+  za Haki za Haki za Akili kuhusu uwezekano wa kulinda umma ya afya na hasa katika
+  kutoa huduma za afya kwa wote'
+3-c-title: 'Kuongeza kwa kiasi kikubwa fedha za afya na kuajiri, maendeleo, mafunzo
+  na uhifadhi wa wafanyikazi wa afya katika nchi zinazoendelea, hasa katika nchi zilizoendelea
+  na nchi ndogo zinazoendelea za kisiwa'
+3-d-title: 'Kuimarisha uwezo wa nchi zote, hasa nchi zinazoendelea, kwa onyo la mapema,
+  kupunguza hatari na usimamizi wa hatari za afya za kitaifa na kimataifa'
+4-1-title: 'Ifikapo mwaka 2030, kuhakikisha kuwa wasichana na wavulana wote wanakamilisha
+  elimu ya msingi na ya sekondari bila malipo na yenye usawa na yenye ubora na hivyo
+  kusababisha matokeo ya kujifunza yenye ufanisi na yenye ufanisi.'
+4-2-title: 'Ifikapo mwaka 2030, kuhakikisha kuwa wasichana na wavulana wote wanapata
+  elimu bora ya awali ya utotoni, matunzo na elimu ya awali ili wawe tayari kwa elimu
+  ya msingi'
+4-3-title: 'Kufikia mwaka 2030, kuhakikisha upatikanaji sawa kwa wanawake na wanaume
+  wote kwa elimu ya ufundi, ufundi na elimu ya juu, ikiwa ni pamoja na chuo kikuu.'
+4-4-title: 'Kufikia mwaka 2030, kuongeza idadi ya vijana na watu wazima ambao wana
+  ujuzi husika, ikiwa ni pamoja na ujuzi wa kiufundi na ufundi, kwa ajira, kazi nzuri
+  na ujasiriamali'
+4-5-title: 'Ifikapo mwaka 2030, kuondoa tofauti za kijinsia katika elimu na kuhakikisha
+  upatikanaji sawa wa ngazi zote za elimu na mafunzo ya ufundi stadi kwa walio katika
+  mazingira magumu, ikiwa ni pamoja na watu wenye ulemavu, watu wa asili na watoto
+  walio katika mazingira magumu.'
+4-6-title: 'Ifikapo mwaka 2030, kuhakikisha kuwa vijana wote na idadi kubwa ya watu
+  wazima, wanaume na wanawake, wanafikia elimu ya kusoma na kuhesabu'
+4-7-title: 'Kufikia mwaka wa 2030, hakikisha kwamba wanafunzi wote wanapata maarifa
+  na ujuzi unaohitajika kukuza maendeleo endelevu, ikiwa ni pamoja na, kati ya wengine,
+  kupitia elimu ya maendeleo endelevu na maisha endelevu, haki za binadamu, usawa
+  wa kijinsia, kukuza utamaduni wa amani na kutokuwa na vurugu, uraia wa kimataifa
+  na kuthamini utofauti wa kitamaduni na mchango wa utamaduni kwa maendeleo endelevu'
+4-a-title: 'Kujenga na kuboresha vituo vya elimu ambavyo ni vya watoto, ulemavu na
+  nyeti kijinsia na kutoa mazingira salama, yasiyo ya vurugu, jumuishi na yenye ufanisi
+  kwa wote'
+4-b-title: 'Kufikia 2020, kupanua kwa kiasi kikubwa idadi ya usomi inapatikana kwa
+  nchi zinazoendelea, hasa nchi zilizoendelea, nchi ndogo zinazoendelea za kisiwa
+  na nchi za Afrika, kwa uandikishaji katika elimu ya juu, ikiwa ni pamoja na mafunzo
+  ya ufundi na teknolojia ya habari na mawasiliano, kiufundi, uhandisi na mipango
+  ya kisayansi, katika nchi zilizoendelea na nchi nyingine zinazoendelea.'
+4-c-title: 'Kufikia mwaka 2030, kuongeza kwa kiasi kikubwa usambazaji wa walimu waliohitimu,
+  ikiwa ni pamoja na kupitia ushirikiano wa kimataifa kwa mafunzo ya walimu katika
+  nchi zinazoendelea, hasa nchi zilizoendelea na nchi ndogo zinazoendelea'
+5-1-title: 'Kukomesha aina zote za ubaguzi dhidi ya wanawake na wasichana kila mahali'
+5-2-title: 'Kutokomeza aina zote za ukatili dhidi ya wanawake na wasichana katika
+  nyanja za umma na binafsi, ikiwa ni pamoja na biashara haramu ya ngono na aina nyingine
+  za unyonyaji.'
+5-3-title: 'Kutokomeza vitendo vyote vyenye madhara kama vile mtoto, ndoa za mapema
+  na za kulazimishwa na ukeketaji wa wanawake'
+5-4-title: 'Kutambua na kuthamini utunzaji usiolipwa na kazi za nyumbani kupitia utoaji
+  wa huduma za umma, miundombinu na sera za ulinzi wa jamii na kukuza uwajibikaji
+  wa pamoja ndani ya kaya na familia kama inavyofaa kitaifa'
+5-5-title: 'Kuhakikisha ushiriki kamili na ufanisi wa wanawake na fursa sawa za uongozi
+  katika ngazi zote za maamuzi katika maisha ya kisiasa, kiuchumi na umma'
+5-6-title: 'Kuhakikisha upatikanaji wa afya ya uzazi na afya ya uzazi na haki za uzazi
+  kama ilivyokubaliwa kwa mujibu wa Mpango wa Utekelezaji wa Mkutano wa Kimataifa
+  wa Idadi ya Watu na Maendeleo na Jukwaa la Beijing la Utekelezaji na nyaraka za
+  matokeo ya mikutano yao ya mapitio'
+5-a-title: 'Kufanya mageuzi ili kuwapa wanawake haki sawa za rasilimali za kiuchumi,
+  pamoja na upatikanaji wa umiliki na udhibiti wa ardhi na aina nyingine za mali,
+  huduma za kifedha, urithi na maliasili, kwa mujibu wa sheria za kitaifa.'
+5-b-title: 'Kuimarisha matumizi ya teknolojia wezeshi, hasa teknolojia ya habari na
+  mawasiliano, ili kukuza uwezeshaji wa wanawake'
+5-c-title: 'Kupitisha na kuimarisha sera nzuri na sheria zinazoweza kutekelezwa kwa
+  ajili ya kukuza usawa wa kijinsia na uwezeshaji wa wanawake na wasichana wote katika
+  ngazi zote'
+6-1-title: 'Kufikia mwaka 2030, kufikia upatikanaji wa maji safi na salama kwa wote'
+6-2-title: 'Kufikia mwaka wa 2030, kufikia upatikanaji wa usafi wa kutosha na usawa
+  kwa wote na kukomesha uharibifu wa wazi, kwa kuzingatia mahitaji ya wanawake na
+  wasichana na wale walio katika hali hatarishi.'
+6-3-title: 'Kufikia mwaka wa 2030, kuboresha ubora wa maji kwa kupunguza uchafuzi
+  wa mazingira, kuondoa utupaji na kupunguza utoaji wa kemikali na vifaa hatari, kupunguza
+  idadi ya maji machafu yasiyotibiwa na kuongeza kwa kiasi kikubwa kuchakata na kutumia
+  tena salama duniani kote.'
+6-4-title: 'Kufikia mwaka 2030, kuongeza ufanisi wa matumizi ya maji katika sekta
+  zote na kuhakikisha uondoaji endelevu na usambazaji wa maji safi ili kukabiliana
+  na uhaba wa maji na kupunguza kwa kiasi kikubwa idadi ya watu wanaosumbuliwa na
+  uhaba wa maji.'
+6-5-title: 'Kufikia mwaka 2030, tekeleza usimamizi wa rasilimali za maji katika ngazi
+  zote, ikiwa ni pamoja na kupitia ushirikiano wa mipaka kama inavyofaa'
+6-6-title: 'Kufikia mwaka 2020, linda na kurejesha mifumo ya ekolojia inayohusiana
+  na maji, ikiwa ni pamoja na milima, misitu, maeneo ya mvua, mito, aquifers na maziwa'
+6-a-title: 'Kufikia 2030, panua ushirikiano wa kimataifa na msaada wa kujenga uwezo
+  kwa nchi zinazoendelea katika shughuli na mipango inayohusiana na maji na usafi
+  wa mazingira, ikiwa ni pamoja na uvunaji wa maji, desalination, ufanisi wa maji,
+  matibabu ya maji machafu, kuchakata na kutumia tena teknolojia'
+6-b-title: 'Kusaidia na kuimarisha ushiriki wa jamii katika kuboresha usimamizi wa
+  maji na usafi wa mazingira'
+7-1-title: 'Kufikia mwaka 2030, kuhakikisha upatikanaji wa huduma za nishati za bei
+  nafuu, za kuaminika na za kisasa'
+7-2-title: 'Kufikia mwaka 2030, ongezeko la kiasi kikubwa cha nishati mbadala katika
+  mchanganyiko wa nishati duniani'
+7-3-title: 'Kufikia mwaka 2030, kiwango cha kimataifa cha kuboresha ufanisi wa nishati'
+7-a-title: 'By 2030, kuongeza ushirikiano wa kimataifa ili kuwezesha upatikanaji wa
+  utafiti safi wa nishati na teknolojia, ikiwa ni pamoja na nishati mbadala, ufanisi
+  wa nishati na teknolojia ya juu na safi ya mafuta, na kukuza uwekezaji katika miundombinu
+  ya nishati na teknolojia safi ya nishati.'
+7-b-title: 'Kufikia mwaka wa 2030, panua miundombinu na kuboresha teknolojia ya kusambaza
+  huduma za kisasa na endelevu za nishati kwa wote katika nchi zinazoendelea, hasa
+  nchi zilizoendelea, nchi zinazoendelea za kisiwa kidogo na nchi zinazoendelea, kulingana
+  na mipango yao ya msaada.'
+8-1-title: 'Kuendeleza ukuaji wa uchumi wa kila mtu kulingana na hali ya kitaifa na,
+  hasa, angalau asilimia 7 ya ukuaji wa pato la taifa kwa mwaka katika nchi zilizoendelea
+  kidogo'
+8-10-title: 'Kuimarisha uwezo wa taasisi za fedha za ndani kuhamasisha na kupanua
+  upatikanaji wa huduma za kibenki, bima na kifedha kwa wote'
+8-2-title: 'Kufikia viwango vya juu vya uzalishaji wa kiuchumi kupitia mseto, uboreshaji
+  wa teknolojia na uvumbuzi, ikiwa ni pamoja na kuzingatia sekta za juu za thamani
+  na nguvu kazi'
+8-3-title: 'Kukuza sera zinazolenga maendeleo ambazo zinasaidia shughuli za uzalishaji,
+  uundaji wa kazi nzuri, ujasiriamali, ubunifu na uvumbuzi, na kuhimiza urasimishaji
+  na ukuaji wa makampuni madogo, madogo na ya kati, ikiwa ni pamoja na upatikanaji
+  wa huduma za kifedha'
+8-4-title: 'Kuboresha hatua kwa hatua, kupitia 2030, ufanisi wa rasilimali za kimataifa
+  katika matumizi na uzalishaji na jitihada za kupunguza ukuaji wa uchumi kutokana
+  na uharibifu wa mazingira, kulingana na Mfumo wa Miaka 10 wa Programu za Matumizi
+  na Uzalishaji Endelevu, na nchi zilizoendelea zinaongoza'
+8-5-title: 'Kufikia mwaka 2030, kufikia ajira kamili na yenye tija na kazi nzuri kwa
+  wanawake na wanaume wote, ikiwa ni pamoja na vijana na watu wenye ulemavu, na malipo
+  sawa kwa kazi ya thamani sawa'
+8-6-title: 'Kufikia mwaka 2020, kupunguza kwa kiasi kikubwa idadi ya vijana wasio
+  katika ajira, elimu au mafunzo'
+8-7-title: 'Chukua hatua za haraka na madhubuti kutokomeza ajira za kulazimishwa,
+  kukomesha utumwa wa kisasa na usafirishaji wa binadamu na kuhakikisha marufuku na
+  kuondoa aina mbaya zaidi za ajira kwa watoto, ikiwa ni pamoja na kuajiri na kutumia
+  askari watoto, na ifikapo mwaka 2025 kukomesha ajira kwa watoto katika aina zake
+  zote.'
+8-8-title: 'Kulinda haki za kazi na kukuza mazingira salama ya kazi kwa wafanyakazi
+  wote, ikiwa ni pamoja na wafanyakazi wahamiaji, hasa wahamiaji wanawake, na wale
+  walio katika ajira ya hatari'
+8-9-title: 'Ifikapo mwaka 2030, kubuni na kutekeleza sera za kukuza utalii endelevu
+  unaotengeneza ajira na kukuza utamaduni na bidhaa za ndani'
+8-a-title: 'Kuongeza misaada kwa ajili ya msaada wa biashara kwa nchi zinazoendelea,
+  hasa nchi zilizoendelea, ikiwa ni pamoja na kupitia Mfumo Jumuishi wa Msaada wa
+  Kiufundi unaohusiana na Biashara kwa Nchi Zilizoendelea'
+8-b-title: 'Kufikia mwaka 2020, kuendeleza na kutekeleza mkakati wa kimataifa wa ajira
+  kwa vijana na kutekeleza Mkataba wa Kazi Duniani wa Shirika la Kazi Duniani'
+9-1-title: 'Kuendeleza miundombinu bora, ya kuaminika, endelevu na yenye nguvu, ikiwa
+  ni pamoja na miundombinu ya kikanda na ya mipaka, kusaidia maendeleo ya kiuchumi
+  na ustawi wa binadamu, kwa kuzingatia upatikanaji wa bei nafuu na usawa kwa wote'
+9-2-title: 'Kukuza viwanda jumuishi na endelevu na, ifikapo 2030, kwa kiasi kikubwa
+  kuongeza sehemu ya sekta ya ajira na pato la taifa, kulingana na hali ya kitaifa,
+  na mara mbili ya sehemu yake katika nchi zilizoendelea'
+9-3-title: 'Kuongeza upatikanaji wa viwanda vidogo vidogo na makampuni mengine, hasa
+  katika nchi zinazoendelea, kwa huduma za kifedha, ikiwa ni pamoja na mikopo nafuu,
+  na ujumuishaji wao katika minyororo ya thamani na masoko'
+9-4-title: 'Kufikia mwaka wa 2030, kuboresha miundombinu na viwanda vya retrofit ili
+  kuzifanya kuwa endelevu, na kuongezeka kwa ufanisi wa matumizi ya rasilimali na
+  kupitishwa zaidi kwa teknolojia safi na za mazingira na michakato ya viwanda, na
+  nchi zote kuchukua hatua kulingana na uwezo wao'
+9-5-title: 'Kuongeza utafiti wa kisayansi, kuboresha uwezo wa kiteknolojia wa sekta
+  za viwanda katika nchi zote, hasa nchi zinazoendelea, ikiwa ni pamoja na, na 2030,
+  kuhamasisha uvumbuzi na kuongeza kwa kiasi kikubwa idadi ya wafanyakazi wa utafiti
+  na maendeleo kwa watu milioni 1 na utafiti wa umma na binafsi na matumizi ya maendeleo.'
+9-a-title: 'Kuwezesha maendeleo endelevu na yenye nguvu ya miundombinu katika nchi
+  zinazoendelea kupitia msaada wa kifedha, teknolojia na kiufundi kwa nchi za Afrika,
+  nchi zisizoendelea, nchi zinazoendelea na nchi zinazoendelea za kisiwa kidogo'
+9-b-title: 'Kusaidia maendeleo ya teknolojia ya ndani, utafiti na uvumbuzi katika
+  nchi zinazoendelea, ikiwa ni pamoja na kuhakikisha mazingira mazuri ya sera kwa,
+  inter alia, mseto wa viwanda na kuongeza thamani kwa bidhaa'
+9-c-title: 'Kuongeza kwa kiasi kikubwa upatikanaji wa teknolojia ya habari na mawasiliano
+  na kujitahidi kutoa upatikanaji wa mtandao kwa wote na kwa bei nafuu katika nchi
+  zilizoendelea na 2020'

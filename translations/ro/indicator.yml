@@ -157,3 +157,7 @@ proxy: 'Proxy'
 proxy_description: 'Acest indicator conține unele date alternative față de cele specificate
   de Organizația Națiunilor Unite (ONU). Acest indicator este cea mai potrivită potrivire
   disponibilă în prezent.'
+announce_series_switched: Diagramă și tabel actualizate pentru a afișa o serie diferită.
+announce_unit_switched: Diagrama și tabelul s-au actualizat pentru a afișa o altă
+  unitate.
+note: notă

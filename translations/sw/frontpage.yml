@@ -1,0 +1,18 @@
+instructions: Bonyeza kwenye kila lengo, au %before_link utafutaji, %after_link kwa
+  %country.name takwimu za viashiria vya kimataifa vya Malengo ya Maendeleo Endelevu.
+instructions_short: Bonyeza kila lengo kwa %country.name Data ya kiashiria cha Maendeleo
+  Endelevu ya Kimataifa.
+download_all: Download All (.zip)
+file_size: Ukubwa
+heading: '%country.name data kwa viashiria vya Malengo ya Maendeleo Endelevu'
+instructions_shorter: Chagua kila lengo kwa data ya kiashiria.
+intro_title: 17 Malengo ya kubadilisha ulimwengu wetu
+heading_short: '%country.name Takwimu za Malengo ya Maendeleo Endelevu'
+zip_file: Faili ya ZIP
+intro_body: <a href 
+  ="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Malengo
+  ya Maendeleo Endelevu (SDGs)</a> ni wito wa ulimwengu wote wa hatua za kukomesha
+  umaskini, kulinda sayari na kuboresha maisha na matarajio ya kila mtu, kila mahali.
+  Malengo ya 17 yalipitishwa na nchi zote wanachama wa Umoja wa Mataifa katika 2015,
+  kama sehemu ya <a href = "http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">2030
+  Agenda ya Maendeleo Endelevu</a>.

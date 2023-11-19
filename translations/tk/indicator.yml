@@ -134,3 +134,6 @@ proxy_description: Bu görkeziji Birleşen Milletler Guramasy (BMG) tarapyndan k
   maglumatlara käbir alternatiw maglumatlary özünde jemleýär. Bu görkeziji häzirki
   wagtda elýeterli bolan iň amatly gabat gelýär.
 annotation_series_break: Seriýalarda näsazlyk
+announce_series_switched: Başga seriýallary görkezmek üçin tablisa we tablisa täzelenýär.
+announce_unit_switched: Başga birligi görkezmek üçin tablisa we tablisa täzelenýär.
+note: bellik

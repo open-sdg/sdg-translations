@@ -29,7 +29,8 @@ loading: 正在加载
 loading_map: 载入地图
 map: 地图
 national_metadata: 国家元数据
-national_metadata_blurb: 此表格所提供的真正指标中的元数据可从接近相对的全球可持续发展目标指标的国家统计数据获得。请注意：全球可持续发展目标指标完全可从国家统计数据获得，此表格资料皆只用作参阅国家方法论及其他国家的元数据用途。
+national_metadata_blurb: 
+  此表格所提供的真正指标中的元数据可从接近相对的全球可持续发展目标指标的国家统计数据获得。请注意：全球可持续发展目标指标完全可从国家统计数据获得，此表格资料皆只用作参阅国家方法论及其他国家的元数据用途。
 no_data_hint: 由于上述筛选的限制，因此没有可用的选项
 select_all: 全选
 series: 系列
@@ -84,3 +85,6 @@ map_slider_mouse: 按时间段浏览地图数据
 empty_metadata_placeholder_sources: 该来源不适用
 proxy: 代理人
 proxy_description: 该指标包含一些替代联合国（UN）规定的数据。该指标是目前最合适的匹配。
+announce_series_switched: 图表和表格已更新以显示不同的系列。
+announce_unit_switched: 图表和表格已更新以显示不同的单位。
+note: 注意

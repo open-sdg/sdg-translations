@@ -1,0 +1,162 @@
+select_all: 'Chagua yote'
+clear_all: 'Futa yote'
+clear_selections: 'Futa uteuzi'
+variable_hint: 'Inapatikana wakati ''%field'' imechaguliwa'
+no_data_hint: 'Hakuna chaguo zinazopatikana kwa sababu ya vichungi hapo juu'
+headline_data: 'Data ya kichwa'
+no_headline_data: 'Hakuna data ya kichwa cha habari inayopatikana'
+download_headline: 'Pakua data ya kichwa cha habari (.csv)'
+download_headline_title: 'Pakua data ya kichwa cha habari kama CSV'
+download_source: 'Pakua data ya chanzo (.csv)'
+download_source_for_disaggregations: 'Pakua data ya chanzo kwa ajili ya kutenganisha
+  (.csv)'
+download_source_title: 'Pakua data ya chanzo kama CSV'
+download_source_sdmx: 'Pakua chanzo SDMX (.xml)'
+download_source_sdmx_title: 'Pakua data chanzo kama SDMX'
+download_chart: 'Pakua data ya chati (.csv)'
+download_table: 'Pakua data ya jedwali (.csv)'
+download_csv: 'Pakua data (.csv)'
+download_csv_title: 'Pakua data kama CSV'
+download_chart_image: 'Pakua picha ya chati (.png)'
+download_chart_image_title: 'Pakua picha ya chati kama PNG'
+download_geojson: 'Pakua data ya ramani (.geojson)'
+download_geojson_title: 'Pakua data ya ramani kama GeoJSON'
+# A label describing information - where some data originally came from
+source: 'Chanzo'
+# A button that displays information about where some data originally came from
+sources: 'Vyanzo'
+# A label describing information - a description of the geographical area covered by a dataset
+geographical_area: 'Eneo la kijiografia'
+# A label describing information - the unit of measurement that is being represented in a dataset
+unit_of_measurement: 'Kitengo cha Upimaji'
+# A shorter version of the "Unit" label.
+unit: 'Kitengo'
+# A label describing information - any general information about a dataset - displayed below the data visualization on the page
+footnote: 'Tanbihi'
+# The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
+units_type: 'Aina ya vitengo'
+# The label of a widget that allows the user to change the series that is being represented in a data visualization
+series: 'Mfululizo'
+dataset_size_warning: 'Kuna data nyingi sana za kuonyesha kwenye chati. Sio kila kitu
+  kitaonyeshwa hadi uondoe baadhi ya chaguo.'
+view_indicator_list: 'Tazama orodha ya kiashiria cha lengo hili'
+# A label describing a section of the page that allows the user to filter data by sub-category
+sub_categories: 'Jamii ndogo'
+# A label of "Show sub-categories" to display before a particular sub-category's name
+sub_categories_show: "Onyesha kategoria ndogo:"
+series_help: 'Chagua kategoria kutoka kwa kushuka chini ili kuona kuvunjika tofauti
+  kwa data. Wengine hawatapatikana hadi kiwango cha juu kichaguliwe.'
+legend_help: 'Bofya kwenye hadithi ili kuondoa mistari ya kibinafsi kutoka kwenye
+  chati.'
+# A button that displays some data in the form of a chart
+chart: 'Chati'
+# A button that displays some data in the form of a table (rows and columns)
+table: 'Jedwali'
+# A button that displays some data in the form of a map
+map: 'Ramani'
+loading: 'Kupakia'
+loading_map: 'Ramani ya kupakia'
+# A button that displays the national metadata about a particular indicator - as provided by that country
+national_metadata: 'Metadata ya Taifa'
+national_metadata_blurb: 'Jedwali hili hutoa metadata kwa kiashiria halisi kinachopatikana
+  kutoka kwa takwimu za %country.name karibu na kiashiria cha SDG kinacholingana cha
+  kimataifa. Tafadhali kumbuka kuwa hata wakati kiashiria cha SDG cha kimataifa kinapatikana
+  kikamilifu kutoka kwa takwimu za %country.adjective, meza hii inapaswa kushauriwa
+  kwa habari juu ya mbinu za kitaifa na habari nyingine za metadata za %country.adjective.'
+# A button that displays the global metadata about a particular indicator - as provided by the United Nations
+global_metadata: 'Metadata ya Ulimwenguni'
+global_metadata_blurb: 'Jedwali hili hutoa taarifa juu ya metadata kwa viashiria vya
+  SDG kama inavyofafanuliwa na Tume ya Takwimu ya Umoja wa Mataifa. <a href="https://unstats.un.org/sdgs/metadata/">
+  metadata kamili ya kimataifa</a> hutolewa na Idara ya Takwimu ya Umoja wa Mataifa.'
+# A button for editing some content
+edit: 'Hariri Kiashiria'
+# A button for editing data
+edit_data: 'Hariri Data'
+# A button for editing metadata
+edit_metadata: 'Hariri metadata'
+# A button for editing configuration
+edit_configuration: 'Hariri Usanidi'
+# A message that displays when a chart has no data to display because of the
+# user's choices.
+data_not_available: 'Data hii haipatikani. Tafadhali chagua data mbadala ya kuonyesha.'
+# A message that is announced when there is no data on the chart/table
+announce_data_not_available: 'Chati na jedwali havionyeshi data.'
+# A message that is announced when the data is added to the chart/table
+announce_data_added: 'Chati na jedwali vimesasishwa ili kujumuisha data.'
+# A message that is announced when the data is removed from the chart/table
+announce_data_removed: 'Chati na jedwali vimesasishwa ili kutojumuisha data.'
+# A message that is announced when the user switches to a different unit
+announce_unit_switched: 'Chati na jedwali limesasishwa ili kuonyesha kitengo tofauti.'
+# A message that is announced when the user switches to a different series
+announce_series_switched: 'Chati na jedwali limesasishwa ili kuonyesha mfululizo tofauti.'
+# A message that points out an alternative display for visual data
+data_tabular_alternative: 'Kwa mbadala wa data ya tabular angalia kichupo cha Jedwali.'
+# Instructions for navigating data with a keyboard
+data_keyboard_navigation: 'Bonyeza ingiza ili kuvinjari pointi za data na funguo za
+  mshale wa kushoto na kulia.'
+# Description of the "plot legend" which displays beneath charts
+plot_legend_description: "Hadithi ya Plot: orodha ya mistari iliyojumuishwa kwenye
+  chati"
+# Common annotation displayed on graphs for the 2030 target.
+annotation_2030_target: 'Lengo la kiashiria cha 2030'
+annotation_series_break: 'Mapumziko ya mfululizo'
+# Label describing an annotation on a chart/graph.
+chart_annotation: 'Ufafanuzi wa chati'
+# Description of the year slider on maps.
+map_year_slider: 'kitelezi cha mwaka'
+# Description of a search field on maps.
+map_search: 'Utafutaji wa ramani'
+# Description of a button that hides the search field on maps.
+map_search_hide: 'Ficha utafutaji wa ramani'
+# Description of a button that shows the search field on maps.
+map_search_show: 'Onyesha utafutaji wa ramani'
+# Description of a button that cancels what has been typed into the map search.
+map_search_cancel: 'Futa utafutaji wa ramani'
+# Description of a button that zooms in on the map.
+map_zoom_in: 'Kuza kwenye ramani'
+# Description of a button that zooms out on the map.
+map_zoom_out: 'Kuza nje kwenye ramani'
+# Description of a button that resets the zoom to the default.
+map_zoom_home: 'Weka upya kwenye ramani chaguo-msingi zoom'
+# Description of a button that starts the map fullscreen.
+map_fullscreen: 'Tazama skrini kamili ya ramani'
+# Description of a button that stops the map fullscreen.
+map_fullscreen_exit: 'Toka kwenye ramani ya skrini nzima'
+# Description of a button that changes the map to the previous time period (eg, year).
+map_slider_back: 'Tazama data ya ramani kwa kipindi cha muda uliopita'
+# Description of a button that changes the map to the next time period (eg, year).
+map_slider_forward: 'Tazama data ya ramani kwa kipindi cha wakati ujao'
+# Description of the screen-reader instructions for keyboard usage of the map time slider.
+map_slider_keyboard: 'Tazama data ya ramani katika kipindi chote cha muda kwa kutumia
+  vitufe vya vishale vya kushoto na kulia'
+# Description of the on-screen instructions for mouse usage of the map time slider.
+map_slider_mouse: 'Nenda data ya ramani kwa kipindi cha muda'
+# Instructions for using the data table columns for sorting.
+table_column_sort: 'Bofya ili kupanga kwa safuwima hii'
+# Label describing the status of an indicator
+status: 'Hali ya kiashiria'
+# Label describing the "tags" for an indicator
+tags: 'Tags'
+# Label for a button that takes the user to the previous indicator.
+previous: 'Kiashiria cha awali'
+# Label for a button that takes the user to the next indicator.
+next: 'Kiashiria kinachofuata'
+# Label for a button that applies changes to the disaggregations displayed on the map.
+apply: 'Tekeleza'
+# Label for a button that cancels changes to the disaggregations displayed on the map.
+cancel: 'Katisha'
+# Label for a button that opens a popup where the map disaggregations can be changed.
+change_breakdowns: 'Badilisha kuvunjika'
+# Label for a standard phrase to show when there is a no content for a particular metadata field.
+empty_metadata_placeholder: 'Haipatikani kwa kiashiria hiki'
+# Label for a standard phrase to show when there is a no content for a particular sources field.
+empty_metadata_placeholder_sources: 'Haipatikani kwa chanzo hiki'
+# Text for an "aggregate" option in the map disaggregation popup.
+total: 'Jumla'
+# Label indicating that an indicator is a proxy for a global indicator.
+proxy: 'Mbadala'
+# Description of what a proxy indicator is.
+proxy_description: 'Kiashiria hiki kina data mbadala kwa wale walioainishwa na Umoja
+  wa Mataifa (UN). Kiashiria hiki ni mechi inayofaa zaidi inayopatikana kwa sasa.'
+# Description of a footnote that is applied to a particular data value (observation).
+note: 'Kumbuka'

@@ -100,3 +100,8 @@ proxy: Proxy
 proxy_description: Cet indicateur contient des données alternatives à celles spécifiées
   par les Nations Unies (NU). Cet indicateur est la meilleure correspondance actuellement
   disponible.
+announce_series_switched: Le graphique et le tableau ont été mis à jour pour afficher
+  une série différente.
+announce_unit_switched: Le graphique et le tableau ont été mis à jour pour afficher
+  une unité différente.
+note: note

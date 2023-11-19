@@ -98,3 +98,6 @@ proxy: Proxy
 proxy_description: Aquest indicador conté algunes dades alternatives a les especificades
   per les Nacions Unides (ONU). Aquest indicador és la concordança més adequada disponible
   actualment.
+announce_series_switched: Gràfic i taula actualitzats per mostrar una sèrie diferent.
+announce_unit_switched: Gràfic i taula actualitzats per mostrar una unitat diferent.
+note: nota

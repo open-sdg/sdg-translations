@@ -136,3 +136,7 @@ proxy: Proxy
 proxy_description: Questo indicatore contiene alcuni dati alternativi a quelli specificati
   dalle Nazioni Unite (ONU). Questo indicatore rappresenta la corrispondenza più adeguata
   attualmente disponibile.
+announce_series_switched: Grafico e tabella aggiornati per mostrare una serie diversa.
+announce_unit_switched: Il grafico e la tabella sono stati aggiornati per mostrare
+  un'unità diversa.
+note: nota

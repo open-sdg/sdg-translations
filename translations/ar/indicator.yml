@@ -92,3 +92,6 @@ empty_metadata_placeholder_sources: غير متوفر لهذا المصدر
 proxy: الوكيل
 proxy_description: يحتوي هذا المؤشر على بعض البيانات البديلة لتلك التي حددتها الأمم
   المتحدة (UN). هذا المؤشر هو أنسب تطابق متاح حاليا.
+announce_series_switched: تم تحديث المخطط والجدول لعرض سلسلة مختلفة.
+announce_unit_switched: تم تحديث المخطط والجدول لإظهار وحدة مختلفة.
+note: ملاحظه

@@ -1,252 +1,487 @@
-1-1-1-title: ''
-1-2-1-title: ''
-1-2-2-title: ''
-1-3-1-title: ''
-1-4-1-title: ''
-1-4-2-title: ''
-1-5-1-title: ''
-1-5-2-title: ''
-1-5-3-title: ''
-1-5-4-title: ''
-1-a-1-title: ''
-1-a-2-title: ''
-1-a-3-title: ''
-1-b-1-title: ''
-10-1-1-title: ''
-10-2-1-title: ''
-10-3-1-title: ''
-10-4-1-title: ''
-10-4-2-title: ''
-10-5-1-title: ''
-10-6-1-title: ''
-10-7-1-title: ''
-10-7-2-title: ''
-10-7-3-title: ''
-10-7-4-title: ''
-10-a-1-title: ''
-10-b-1-title: ''
-10-c-1-title: ''
-11-1-1-title: ''
-11-2-1-title: ''
-11-3-1-title: ''
-11-3-2-title: ''
-11-4-1-title: ''
-11-5-1-title: ''
-11-5-2-title: ''
-11-6-1-title: ''
-11-6-2-title: ''
-11-7-1-title: ''
-11-7-2-title: ''
-11-a-1-title: ''
-11-b-1-title: ''
-11-b-2-title: ''
-11-c-1-title: ''
-12-1-1-title: ''
-12-2-1-title: ''
-12-2-2-title: ''
-12-3-1-title: ''
-12-4-1-title: ''
-12-4-2-title: ''
-12-5-1-title: ''
-12-6-1-title: ''
-12-7-1-title: ''
-12-8-1-title: ''
-12-a-1-title: ''
-12-b-1-title: ''
-12-c-1-title: ''
-13-1-1-title: ''
-13-1-2-title: ''
-13-1-3-title: ''
-13-2-1-title: ''
-13-2-2-title: ''
-13-3-1-title: ''
-13-3-2-title: ''
-13-a-1-title: ''
-13-b-1-title: ''
-14-1-1-title: ''
-14-2-1-title: ''
-14-3-1-title: ''
-14-4-1-title: ''
-14-5-1-title: ''
-14-6-1-title: ''
-14-7-1-title: ''
-14-a-1-title: ''
-14-b-1-title: ''
-14-c-1-title: ''
-15-1-1-title: ''
-15-1-2-title: ''
-15-2-1-title: ''
-15-3-1-title: ''
-15-4-1-title: ''
-15-4-2-title: ''
-15-5-1-title: ''
-15-6-1-title: ''
-15-7-1-title: ''
-15-8-1-title: ''
-15-9-1-title: ''
-15-a-1-title: ''
-15-b-1-title: ''
-15-c-1-title: ''
-16-1-1-title: ''
-16-1-2-title: ''
-16-1-3-title: ''
-16-1-4-title: ''
-16-10-1-title: ''
-16-10-2-title: ''
-16-2-1-title: ''
-16-2-2-title: ''
-16-2-3-title: ''
-16-3-1-title: ''
-16-3-2-title: ''
-16-3-3-title: ''
-16-4-1-title: ''
-16-4-2-title: ''
-16-5-1-title: ''
-16-5-2-title: ''
-16-6-1-title: ''
-16-6-2-title: ''
-16-7-1-title: ''
-16-7-2-title: ''
-16-8-1-title: ''
-16-9-1-title: ''
-16-a-1-title: ''
-16-b-1-title: ''
-17-1-1-title: ''
-17-1-2-title: ''
-17-10-1-title: ''
-17-11-1-title: ''
-17-12-1-title: ''
-17-13-1-title: ''
-17-14-1-title: ''
-17-15-1-title: ''
-17-16-1-title: ''
-17-17-1-title: ''
-17-18-1-title: ''
-17-18-2-title: ''
-17-18-3-title: ''
-17-19-1-title: ''
-17-19-2-title: ''
-17-2-1-title: ''
-17-3-1-title: ''
-17-3-2-title: ''
-17-4-1-title: ''
-17-5-1-title: ''
-17-6-1-title: ''
-17-6-2-title: ''
-17-7-1-title: ''
-17-8-1-title: ''
-17-9-1-title: ''
-2-1-1-title: ''
-2-1-2-title: ''
-2-2-1-title: ''
-2-2-2-title: ''
-2-2-3-title: ''
-2-3-1-title: ''
-2-3-2-title: ''
-2-4-1-title: ''
-2-5-1-title: ''
-2-5-2-title: ''
-2-a-1-title: ''
-2-a-2-title: ''
-2-b-1-title: ''
-2-c-1-title: ''
-3-1-1-title: ''
-3-1-2-title: ''
-3-2-1-title: ''
-3-2-2-title: ''
-3-3-1-title: ''
-3-3-2-title: ''
-3-3-3-title: ''
-3-3-4-title: ''
-3-3-5-title: ''
-3-4-1-title: ''
-3-4-2-title: ''
-3-5-1-title: ''
-3-5-2-title: ''
-3-6-1-title: ''
-3-7-1-title: ''
-3-7-2-title: ''
-3-8-1-title: ''
-3-8-2-title: ''
-3-9-1-title: ''
-3-9-2-title: ''
-3-9-3-title: ''
-3-a-1-title: ''
-3-b-1-title: ''
-3-b-2-title: ''
-3-b-3-title: ''
-3-c-1-title: ''
-3-d-1-title: ''
-3-d-2-title: ''
-4-1-1-title: ''
-4-1-2-title: ''
-4-2-1-title: ''
-4-2-2-title: ''
-4-3-1-title: ''
-4-4-1-title: ''
-4-5-1-title: ''
-4-6-1-title: ''
-4-7-1-title: ''
-4-a-1-title: ''
-4-b-1-title: ''
-4-c-1-title: ''
-5-1-1-title: ''
-5-2-1-title: ''
-5-2-2-title: ''
-5-3-1-title: ''
-5-3-2-title: ''
-5-4-1-title: ''
-5-5-1-title: ''
-5-5-2-title: ''
-5-6-1-title: ''
-5-6-2-title: ''
-5-a-1-title: ''
-5-a-2-title: ''
-5-b-1-title: ''
-5-c-1-title: ''
-6-1-1-title: ''
-6-2-1-title: ''
-6-3-1-title: ''
-6-3-2-title: ''
-6-4-1-title: ''
-6-4-2-title: ''
-6-5-1-title: ''
-6-5-2-title: ''
-6-6-1-title: ''
-6-a-1-title: ''
-6-b-1-title: ''
-7-1-1-title: ''
-7-1-2-title: ''
-7-2-1-title: ''
-7-3-1-title: ''
-7-a-1-title: ''
-7-b-1-title: ''
-8-1-1-title: ''
-8-10-1-title: ''
-8-10-2-title: ''
-8-2-1-title: ''
-8-3-1-title: ''
-8-4-1-title: ''
-8-4-2-title: ''
-8-5-1-title: ''
-8-5-2-title: ''
-8-6-1-title: ''
-8-7-1-title: ''
-8-8-1-title: ''
-8-8-2-title: ''
-8-9-1-title: ''
-8-9-2-title: ''
-8-a-1-title: ''
-8-b-1-title: ''
-9-1-1-title: ''
-9-1-2-title: ''
-9-2-1-title: ''
-9-2-2-title: ''
-9-3-1-title: ''
-9-3-2-title: ''
-9-4-1-title: ''
-9-5-1-title: ''
-9-5-2-title: ''
-9-a-1-title: ''
-9-b-1-title: ''
-9-c-1-title: ''
+1-1-1-title: 'Uwiano wa idadi ya watu wanaoishi chini ya mstari wa umaskini wa kimataifa
+  kwa jinsia, umri, hali ya ajira na eneo la kijiografia (urban / rural)'
+1-2-1-title: 'Idadi ya watu wanaoishi chini ya mstari wa umaskini wa kitaifa, kwa
+  jinsia na umri'
+1-2-2-title: 'Idadi ya wanaume, wanawake na watoto wa umri wote wanaoishi katika umaskini
+  katika vipimo vyake vyote kulingana na ufafanuzi wa kitaifa'
+1-3-1-title: 'Idadi ya watu waliofunikwa na sakafu za ulinzi wa kijamii / mifumo,
+  kwa ngono, kutofautisha watoto, watu wasio na ajira, wazee, watu wenye ulemavu,
+  wanawake wajawazito, watoto wachanga, waathirika wa majeraha ya kazi na maskini
+  na walio katika mazingira magumu'
+1-4-1-title: 'Idadi ya watu wanaoishi katika kaya zilizo na upatikanaji wa huduma
+  za msingi'
+1-4-2-title: 'Uwiano wa jumla ya watu wazima wenye haki za umiliki wa ardhi, (a) na
+  nyaraka zinazotambuliwa kisheria, na (b) ambao wanaona haki zao za ardhi kama salama,
+  kwa jinsia na aina ya umiliki'
+1-5-1-title: 'Idadi ya vifo, watu waliopotea na watu walioathirika moja kwa moja na
+  majanga kwa kila watu 100,000'
+1-5-2-title: 'Hasara ya moja kwa moja ya kiuchumi inayohusishwa na majanga kuhusiana
+  na Pato la Taifa la Kimataifa (GDP)'
+1-5-3-title: 'Idadi ya nchi zinazopitisha na kutekeleza mikakati ya kitaifa ya kupunguza
+  hatari ya maafa kulingana na Mfumo wa Sendai wa Kupunguza Hatari ya Maafa 2015-2030'
+1-5-4-title: 'Uwiano wa serikali za mitaa ambazo zinachukua na kutekeleza mikakati
+  ya kupunguza hatari ya maafa kulingana na mikakati ya kitaifa ya kupunguza hatari
+  ya maafa'
+1-a-1-title: 'Jumla ya misaada rasmi ya maendeleo kutoka kwa wafadhili wote ambao
+  huzingatia kupunguza umaskini kama sehemu ya mapato ya nchi ya mpokeaji'
+1-a-2-title: 'Uwiano wa matumizi ya jumla ya serikali katika huduma muhimu (elimu,
+  afya na ulinzi wa jamii)'
+1-a-3-title: 'Jumla ya misaada na mapato yasiyo ya deni yaliyotengwa moja kwa moja
+  kwa mipango ya kupunguza umaskini kama sehemu ya Pato la Taifa'
+1-b-1-title: 'Matumizi ya kijamii ya umma ya maskini'
+10-1-1-title: 'Viwango vya ukuaji wa matumizi ya kaya au mapato kwa kila mtu kati
+  ya asilimia 40 ya chini ya idadi ya watu na jumla ya idadi ya watu'
+10-2-1-title: 'Idadi ya watu wanaoishi chini ya asilimia 50 ya kipato cha wastani,
+  kwa jinsia, umri na watu wenye ulemavu'
+10-3-1-title: 'Idadi ya watu wanaoripoti kuwa binafsi walihisi kubaguliwa au kunyanyaswa
+  katika miezi 12 iliyopita kwa misingi ya ubaguzi uliokatazwa chini ya sheria ya
+  kimataifa ya haki za binadamu'
+10-4-1-title: 'Sehemu ya kazi ya Pato la Taifa'
+10-4-2-title: 'Athari za usambazaji wa sera ya fedha'
+10-5-1-title: 'Viashiria vya Sauti ya Fedha'
+10-6-1-title: 'Idadi ya wanachama na haki za kupiga kura za nchi zinazoendelea katika
+  mashirika ya kimataifa'
+10-7-1-title: 'Gharama ya kuajiri inayobebwa na mfanyakazi kama sehemu ya mapato ya
+  kila mwezi yaliyopatikana katika nchi ya marudio'
+10-7-2-title: 'Idadi ya nchi zilizo na sera za uhamiaji zinazowezesha uhamiaji wa
+  utaratibu, salama, wa kawaida na wa kuwajibika na uhamaji wa watu'
+10-7-3-title: 'Idadi ya watu waliokufa au kupotea katika mchakato wa uhamiaji kuelekea
+  marudio ya kimataifa'
+10-7-4-title: 'Idadi ya watu ambao ni wakimbizi, kwa nchi ya asili'
+10-a-1-title: 'Uwiano wa mistari ya ushuru inayotumika kwa uagizaji kutoka nchi zilizoendelea
+  na nchi zinazoendelea na ushuru wa sifuri'
+10-b-1-title: 'Jumla ya mtiririko wa rasilimali kwa ajili ya maendeleo, kwa mpokeaji
+  na nchi wafadhili na aina ya mtiririko (kwa mfano msaada rasmi wa maendeleo, uwekezaji
+  wa moja kwa moja wa kigeni na mtiririko mwingine)'
+10-c-1-title: 'Gharama za malipo kama sehemu ya kiasi kilichotolewa'
+11-1-1-title: 'Idadi ya wakazi wa mijini wanaoishi katika makazi duni, makazi yasiyo
+  rasmi au makazi duni'
+11-2-1-title: 'Idadi ya watu ambao wana upatikanaji rahisi wa usafiri wa umma, kwa
+  jinsia, umri na watu wenye ulemavu'
+11-3-1-title: 'Uwiano wa kiwango cha matumizi ya ardhi kwa kiwango cha ukuaji wa idadi
+  ya watu'
+11-3-2-title: 'Uwiano wa miji na muundo wa ushiriki wa moja kwa moja wa asasi za kiraia
+  katika mipango na usimamizi wa miji ambao hufanya kazi mara kwa mara na kidemokrasia'
+11-4-1-title: 'Jumla ya matumizi ya kila mtu juu ya uhifadhi, ulinzi na uhifadhi wa
+  urithi wote wa kitamaduni na asili, kwa chanzo cha fedha (ya umma, binafsi), aina
+  ya urithi (utamaduni, asili) na kiwango cha serikali (kitaifa, kikanda, na ndani
+  / jamii)'
+11-5-1-title: 'Idadi ya vifo, watu waliopotea na watu walioathirika moja kwa moja
+  na majanga kwa kila watu 100,000'
+11-5-2-title: 'Hasara ya moja kwa moja ya kiuchumi kuhusiana na Pato la Taifa la Kimataifa,
+  uharibifu wa miundombinu muhimu na idadi ya usumbufu kwa huduma za msingi, zinazohusiana
+  na majanga'
+11-6-1-title: 'Uwiano wa taka ngumu za manispaa zilizokusanywa na kusimamiwa katika
+  vituo vilivyodhibitiwa kutoka kwa taka za manispaa zinazozalishwa, na miji'
+11-6-2-title: 'Viwango vya kila mwaka vya maana vya jambo la chembe nzuri (kwa mfano
+  PM2.5 na PM10) katika miji (idadi ya watu walio na uzito)'
+11-7-1-title: 'Wastani wa sehemu ya eneo lililojengwa la miji ambayo ni nafasi ya
+  wazi kwa matumizi ya umma kwa wote, kwa jinsia, umri na watu wenye ulemavu'
+11-7-2-title: 'Idadi ya watu walioathirika na unyanyasaji wa kimwili au kijinsia,
+  kwa jinsia, umri, hali ya ulemavu na mahali pa tukio, katika miezi 12 iliyopita'
+11-a-1-title: 'Idadi ya nchi ambazo zina sera za kitaifa za mijini au mipango ya maendeleo
+  ya kikanda ambayo (a) hujibu mienendo ya idadi ya watu; (b) Kuhakikisha maendeleo
+  ya nchi; na (c) kuongeza nafasi ya fedha za ndani'
+11-b-1-title: 'Idadi ya nchi zinazopitisha na kutekeleza mikakati ya kitaifa ya kupunguza
+  hatari ya maafa kulingana na Mfumo wa Sendai wa Kupunguza Hatari ya Maafa 2015-2030'
+11-b-2-title: 'Uwiano wa serikali za mitaa ambazo zinachukua na kutekeleza mikakati
+  ya kupunguza hatari ya maafa kulingana na mikakati ya kitaifa ya kupunguza hatari
+  ya maafa'
+11-c-1-title: 'Uwiano wa msaada wa kifedha kwa nchi zilizoendelea ambazo zimetengwa
+  kwa ujenzi na ukarabati wa majengo endelevu, yenye nguvu na yenye ufanisi wa rasilimali
+  kwa kutumia vifaa vya ndani'
+12-1-1-title: 'Idadi ya nchi zinazoendelea, kupitisha au kutekeleza vyombo vya sera
+  vinavyolenga kusaidia mabadiliko ya matumizi endelevu na uzalishaji'
+12-2-1-title: 'Mguu wa nyenzo, nyayo za nyenzo kwa kila mtu, na alama ya nyenzo kwa
+  Pato la Taifa'
+12-2-2-title: 'Matumizi ya vifaa vya ndani, matumizi ya vifaa vya ndani kwa kila mtu,
+  na matumizi ya vifaa vya ndani kwa Pato la Taifa'
+12-3-1-title: '(a) Faharasa ya upotezaji wa chakula na (b) faharasa ya taka ya chakula'
+12-4-1-title: 'Idadi ya vyama vya mikataba ya kimataifa ya mazingira juu ya taka hatari,
+  na kemikali nyingine ambazo zinatimiza ahadi na majukumu yao katika kusambaza habari
+  kama inavyotakiwa na kila makubaliano husika'
+12-4-2-title: '(a) Taka hatari zinazozalishwa kwa kila mtu; na (b) uwiano wa taka
+  hatari zilizotibiwa, kwa aina ya matibabu'
+12-5-1-title: 'Kiwango cha kitaifa cha kuchakata, tani za nyenzo zilizorejeshwa'
+12-6-1-title: 'Idadi ya makampuni yanayochapisha ripoti za uendelevu'
+12-7-1-title: 'Shahada ya sera endelevu za ununuzi wa umma na utekelezaji wa mpango
+  wa utekelezaji'
+12-8-1-title: 'Kiwango ambacho (i) elimu ya uraia wa kimataifa na (ii) elimu ya maendeleo
+  endelevu imejumuishwa katika (a) sera za kitaifa za elimu; (b) mitaala; (c) Elimu
+  ya Walimu; na (d) Tathmini ya wanafunzi'
+12-a-1-title: 'Uwezo wa kuzalisha nishati mbadala katika nchi zinazoendelea (katika
+  watts kwa kila mtu)'
+12-b-1-title: 'Utekelezaji wa zana za uhasibu za kawaida kufuatilia masuala ya kiuchumi
+  na mazingira ya uendelevu wa utalii'
+12-c-1-title: 'Kiasi cha ruzuku ya mafuta ya mafuta kwa kila kitengo cha Pato la Taifa
+  (uzalishaji na matumizi)'
+13-1-1-title: 'Idadi ya vifo, watu waliopotea na watu walioathirika moja kwa moja
+  na majanga kwa kila watu 100,000'
+13-1-2-title: 'Idadi ya nchi zinazopitisha na kutekeleza mikakati ya kitaifa ya kupunguza
+  hatari ya maafa kulingana na Mfumo wa Sendai wa Kupunguza Hatari ya Maafa 2015-2030'
+13-1-3-title: 'Uwiano wa serikali za mitaa ambazo zinachukua na kutekeleza mikakati
+  ya kupunguza hatari ya maafa kulingana na mikakati ya kitaifa ya kupunguza hatari
+  ya maafa'
+13-2-1-title: 'Idadi ya nchi zilizo na michango ya kitaifa, mikakati ya muda mrefu,
+  mipango ya kitaifa ya kukabiliana na mabadiliko, mikakati kama ilivyoripotiwa katika
+  mawasiliano ya kukabiliana na mabadiliko na mawasiliano ya kitaifa'
+13-2-2-title: 'Jumla ya uzalishaji wa gesi chafu kwa mwaka'
+13-3-1-title: 'Kiwango ambacho (i) elimu ya uraia wa kimataifa na (ii) elimu ya maendeleo
+  endelevu imejumuishwa katika (a) sera za kitaifa za elimu; (b) mitaala; (c) Elimu
+  ya Walimu; na (d) Tathmini ya wanafunzi'
+13-3-2-title: 'Idadi ya nchi ambazo zimewasiliana na kuimarisha uwezo wa taasisi,
+  kimfumo na mtu binafsi kutekeleza mabadiliko ya hali ya hewa, kupunguza na kuhamisha
+  teknolojia, na hatua za maendeleo'
+13-a-1-title: 'Kiasi kilichotolewa na kuhamasishwa kwa dola za Marekani kwa mwaka
+  kuhusiana na lengo la uhamasishaji wa pamoja la ahadi ya $ 100 bilioni hadi 2025'
+13-b-1-title: 'Idadi ya nchi zilizoendelea na nchi ndogo zinazoendelea za kisiwa na
+  michango ya kitaifa, mikakati ya muda mrefu, mipango ya kitaifa ya kukabiliana na
+  mabadiliko, mikakati kama ilivyoripotiwa katika mawasiliano ya kukabiliana na mabadiliko
+  na mawasiliano ya kitaifa'
+14-1-1-title: '(a) Orodha ya eutrophication ya pwani; na (b) msongamano wa uchafu
+  wa plastiki'
+14-2-1-title: 'Idadi ya nchi zinazotumia mbinu za mazingira za kusimamia maeneo ya
+  baharini'
+14-3-1-title: 'Wastani wa asidi ya baharini (pH) iliyopimwa katika Suite iliyokubaliwa
+  ya vituo vya sampuli vya mwakilishi'
+14-4-1-title: 'Uwiano wa hifadhi za samaki ndani ya viwango endelevu vya kibiolojia'
+14-5-1-title: 'Utunzaji wa maeneo yaliyohifadhiwa kuhusiana na maeneo ya baharini'
+14-6-1-title: 'Kiwango cha utekelezaji wa vyombo vya kimataifa vinavyolenga kupambana
+  na uvuvi haramu, usioripotiwa na usiodhibitiwa'
+14-7-1-title: 'Uvuvi endelevu kama sehemu ya Pato la Taifa katika nchi ndogo zinazoendelea
+  za kisiwa, nchi zilizoendelea zaidi na nchi zote'
+14-a-1-title: 'Sehemu ya bajeti ya jumla ya utafiti iliyotengwa kwa utafiti katika
+  uwanja wa teknolojia ya baharini'
+14-b-1-title: 'Shahada ya matumizi ya mfumo wa kisheria / sheria / sera / taasisi
+  ambayo inatambua na kulinda haki za upatikanaji wa uvuvi mdogo'
+14-c-1-title: 'Idadi ya nchi zinazopiga hatua katika kuridhia, kukubali na kutekeleza
+  kupitia mifumo ya kisheria, sera na taasisi, vyombo vinavyohusiana na bahari vinavyotekeleza
+  sheria za kimataifa, kama ilivyoonyeshwa katika Mkataba wa Umoja wa Mataifa juu
+  ya Sheria ya Bahari, kwa uhifadhi na matumizi endelevu ya bahari na rasilimali zao.'
+15-1-1-title: 'Eneo la misitu kama sehemu ya jumla ya eneo la ardhi'
+15-1-2-title: 'Uwiano wa maeneo muhimu kwa viumbe hai vya ardhini na maji safi ambayo
+  yanafunikwa na maeneo yaliyohifadhiwa, na aina ya mazingira'
+15-2-1-title: 'Maendeleo kuelekea usimamizi endelevu wa misitu'
+15-3-1-title: 'Sehemu ya ardhi ambayo imeharibika juu ya eneo la jumla la ardhi'
+15-4-1-title: 'Kufunikwa na maeneo yaliyohifadhiwa ya maeneo muhimu kwa bioanuai ya
+  mlima'
+15-4-2-title: 'Kielezo cha Kifuniko cha Kijani cha Mlima'
+15-5-1-title: 'Kielezo cha Orodha Nyekundu'
+15-6-1-title: 'Idadi ya nchi ambazo zimepitisha mifumo ya kisheria, kiutawala na sera
+  ili kuhakikisha kugawana haki na usawa wa faida'
+15-7-1-title: 'Uwiano wa wanyamapori waliouzwa ambao walikuwa wamepigwa au kusafirishwa
+  kinyume cha sheria'
+15-8-1-title: 'Uwiano wa nchi zinazopitisha sheria husika za kitaifa na kuimarisha
+  kwa kutosha kuzuia au kudhibiti aina za wageni vamizi'
+15-9-1-title: '(a) Idadi ya nchi ambazo zimeweka malengo ya kitaifa kwa mujibu wa
+  au sawa na Lengo la Aichi Biodiversity 2 la Mpango Mkakati wa Biodiversity 2011-2020
+  katika mkakati wao wa kitaifa wa bioanuai na mipango ya utekelezaji na maendeleo
+  yaliyoripotiwa kuelekea malengo haya; na (b) ujumuishaji wa bioanuai katika mifumo
+  ya kitaifa ya uhasibu na taarifa, inayofafanuliwa kama utekelezaji wa Mfumo wa Uhasibu
+  wa Mazingira-Uchumi.'
+15-a-1-title: '(a) Msaada rasmi wa maendeleo juu ya uhifadhi na matumizi endelevu
+  ya bioanuai; na (b) mapato yanayotokana na fedha zinazohamasishwa kutoka kwa vyombo
+  vya kiuchumi vinavyohusika na bioanuai'
+15-b-1-title: '(a) Msaada rasmi wa maendeleo juu ya uhifadhi na matumizi endelevu
+  ya bioanuai; na (b) mapato yanayotokana na fedha zinazohamasishwa kutoka kwa vyombo
+  vya kiuchumi vinavyohusika na bioanuai'
+15-c-1-title: 'Uwiano wa wanyamapori waliouzwa ambao walikuwa wamepigwa au kusafirishwa
+  kinyume cha sheria'
+16-1-1-title: 'Idadi ya waathirika wa mauaji ya kukusudia kwa kila watu 100,000, kwa
+  jinsia na umri'
+16-1-2-title: 'Vifo vinavyohusiana na migogoro kwa kila watu 100,000, kwa jinsia,
+  umri na sababu'
+16-1-3-title: 'Idadi ya watu wanaokabiliwa na (a) ukatili wa kimwili, (b) unyanyasaji
+  wa kisaikolojia na (c) unyanyasaji wa kijinsia katika miezi 12 iliyopita'
+16-1-4-title: 'Idadi ya watu ambao wanahisi salama kutembea peke yao karibu na eneo
+  wanaloishi'
+16-10-1-title: 'Idadi ya kesi zilizothibitishwa za mauaji, utekaji nyara, kutoweka
+  kwa nguvu, kuwekwa kizuizini kiholela na kuteswa kwa waandishi wa habari, wafanyakazi
+  wa vyombo vya habari, vyama vya wafanyakazi na watetezi wa haki za binadamu katika
+  miezi 12 iliyopita'
+16-10-2-title: 'Idadi ya nchi zinazopitisha na kutekeleza dhamana ya kikatiba, kisheria
+  na / au sera kwa upatikanaji wa habari kwa umma'
+16-2-1-title: 'Idadi ya watoto wenye umri wa miaka 1-17 ambao walipata adhabu yoyote
+  ya kimwili na / au uchokozi wa kisaikolojia na walezi katika mwezi uliopita'
+16-2-2-title: 'Idadi ya waathirika wa biashara haramu ya binadamu kwa kila watu 100,000,
+  kwa jinsia, umri na aina ya unyonyaji'
+16-2-3-title: 'Idadi ya wanawake na wanaume wenye umri wa miaka 18-29 ambao walipata
+  unyanyasaji wa kijinsia kwa umri wa miaka 18'
+16-3-1-title: 'Idadi ya waathirika wa vurugu katika miezi 12 iliyopita ambao waliripoti
+  kunyanyaswa kwao kwa mamlaka husika au njia zingine za utatuzi wa migogoro zinazotambuliwa
+  rasmi'
+16-3-2-title: 'Wafungwa wasio na hatia kama sehemu ya idadi ya jumla ya wafungwa'
+16-3-3-title: 'Uwiano wa idadi ya watu ambao wamepata mgogoro katika miaka miwili
+  iliyopita na ambao walipata utaratibu rasmi au usio rasmi wa utatuzi wa migogoro,
+  kwa aina ya utaratibu'
+16-4-1-title: 'Thamani ya jumla ya mtiririko wa kifedha wa ndani na nje (kwa dola
+  za sasa za Marekani)'
+16-4-2-title: 'Uwiano wa silaha zilizokamatwa, kupatikana au kusalimisha ambazo asili
+  yake haramu au muktadha umefuatiliwa au kuanzishwa na mamlaka yenye uwezo kulingana
+  na vyombo vya kimataifa'
+16-5-1-title: 'Idadi ya watu ambao walikuwa na angalau mawasiliano moja na afisa wa
+  umma na ambao walitoa rushwa kwa afisa wa umma, au waliombwa rushwa na maafisa hao
+  wa umma, katika miezi 12 iliyopita'
+16-5-2-title: 'Uwiano wa biashara ambazo zilikuwa na angalau mawasiliano moja na afisa
+  wa umma na ambazo zilitoa rushwa kwa afisa wa umma, au ziliombwa rushwa na maafisa
+  hao wa umma katika miezi 12 iliyopita'
+16-6-1-title: 'Matumizi ya serikali ya msingi kama sehemu ya bajeti ya awali iliyoidhinishwa,
+  na sekta (au kwa nambari za bajeti au sawa)'
+16-6-2-title: 'Idadi ya watu walioridhika na uzoefu wao wa mwisho wa huduma za umma'
+16-7-1-title: 'Uwiano wa nafasi katika taasisi za kitaifa na za mitaa, ikiwa ni pamoja
+  na (a) wabunge; (b) Utumishi wa Umma; na (c) mahakama, ikilinganishwa na usambazaji
+  wa kitaifa, kwa jinsia, umri, watu wenye ulemavu na vikundi vya idadi ya watu'
+16-7-2-title: 'Idadi ya watu wanaoamini kufanya maamuzi ni jumuishi na msikivu, kwa
+  jinsia, umri, ulemavu na kikundi cha idadi ya watu'
+16-8-1-title: 'Idadi ya wanachama na haki za kupiga kura za nchi zinazoendelea katika
+  mashirika ya kimataifa'
+16-9-1-title: 'Idadi ya watoto chini ya umri wa miaka 5 ambao kuzaliwa kwao wamesajiliwa
+  na mamlaka ya kiraia, kwa umri'
+16-a-1-title: 'Kuwepo kwa taasisi huru za haki za binadamu za kitaifa kwa kufuata
+  kanuni za Paris'
+16-b-1-title: 'Idadi ya watu wanaoripoti kuwa binafsi walihisi kubaguliwa au kunyanyaswa
+  katika miezi 12 iliyopita kwa misingi ya ubaguzi uliokatazwa chini ya sheria ya
+  kimataifa ya haki za binadamu'
+17-1-1-title: 'Jumla ya mapato ya serikali kama sehemu ya Pato la Taifa, kwa chanzo'
+17-1-2-title: 'Uwiano wa bajeti ya ndani inayofadhiliwa na kodi za ndani'
+17-10-1-title: 'Ulimwenguni kote ushuru wa ushuru-wastani'
+17-11-1-title: 'Nchi zinazoendelea na nchi zinazoendelea ''sehemu ya mauzo ya nje
+  ya kimataifa'
+17-12-1-title: 'Ushuru wa wastani unaokabiliwa na nchi zinazoendelea, nchi zilizoendelea
+  kidogo na nchi zinazoendelea za kisiwa kidogo'
+17-13-1-title: 'Dashibodi ya Uchumi wa Makro'
+17-14-1-title: 'Idadi ya nchi zilizo na utaratibu wa kuimarisha ushirikiano wa sera
+  ya maendeleo endelevu'
+17-15-1-title: 'Kiwango cha matumizi ya mifumo ya matokeo inayomilikiwa na nchi na
+  zana za mipango na watoa huduma wa ushirikiano wa maendeleo'
+17-16-1-title: 'Idadi ya nchi zinazoripoti maendeleo katika mifumo ya ufuatiliaji
+  wa ufanisi wa maendeleo ya wadau mbalimbali ambayo inasaidia kufikia malengo ya
+  maendeleo endelevu'
+17-17-1-title: 'Kiasi cha dola za Marekani zilizojitolea kwa ushirikiano wa umma na
+  binafsi kwa miundombinu'
+17-18-1-title: 'Kiashiria cha uwezo wa takwimu kwa ufuatiliaji wa lengo la maendeleo
+  endelevu'
+17-18-2-title: 'Idadi ya nchi ambazo zina sheria ya kitaifa ya takwimu ambayo inatii
+  Kanuni za Msingi za Takwimu rasmi'
+17-18-3-title: 'Idadi ya nchi zilizo na mpango wa kitaifa wa takwimu ambao unafadhiliwa
+  kikamilifu na chini ya utekelezaji, kwa chanzo cha fedha'
+17-19-1-title: 'Thamani ya dola ya rasilimali zote zinazopatikana ili kuimarisha uwezo
+  wa takwimu katika nchi zinazoendelea'
+17-19-2-title: 'Idadi ya nchi ambazo (a) zimefanya angalau sensa ya watu na makazi
+  katika miaka 10 iliyopita; na (b) wamefanikiwa usajili wa kuzaliwa kwa asilimia
+  100 na usajili wa vifo kwa asilimia 80'
+17-2-1-title: 'Msaada rasmi wa maendeleo, jumla na kwa nchi zilizoendelea, kama sehemu
+  ya Shirika la Ushirikiano wa Kiuchumi na Maendeleo (OECD) Kamati ya Msaada wa Maendeleo
+  ya Mapato ya Taifa (GNI)'
+17-3-1-title: 'Uwekezaji wa moja kwa moja wa kigeni, msaada rasmi wa maendeleo na
+  ushirikiano wa Kusini-Kusini kama sehemu ya mapato ya kitaifa'
+17-3-2-title: 'Kiasi cha fedha (kwa dola za Marekani) kama sehemu ya Pato la Taifa'
+17-4-1-title: 'Huduma ya deni kama sehemu ya mauzo ya bidhaa na huduma'
+17-5-1-title: 'Idadi ya nchi zinazopitisha na kutekeleza mifumo ya kukuza uwekezaji
+  kwa nchi zinazoendelea, ikiwa ni pamoja na nchi zilizoendelea kidogo'
+17-6-1-title: 'Usajili wa kasi ya mtandao kwa kila wakazi 100, kwa kasi'
+17-6-2-title: 'Usajili wa kasi ya mtandao kwa kila wakazi 100, kwa kasi'
+17-7-1-title: 'Jumla ya fedha kwa nchi zinazoendelea kukuza maendeleo, uhamisho, usambazaji
+  na uenezaji wa teknolojia za sauti za mazingira'
+17-8-1-title: 'Idadi ya watu wanaotumia mtandao'
+17-9-1-title: 'Thamani ya dola ya msaada wa kifedha na kiufundi (ikiwa ni pamoja na
+  kupitia ushirikiano wa Kaskazini-Kusini, Kusini-Kusini na pembe) uliojitolea kwa
+  nchi zinazoendelea'
+2-1-1-title: 'Uhaba wa lishe duni'
+2-1-2-title: 'Uhaba wa chakula wa wastani au mkali kwa idadi ya watu, kulingana na
+  Kiwango cha Uzoefu wa Usalama wa Chakula (FIES)'
+2-2-1-title: 'Kupungua kwa udumavu (urefu wa umri wa <-2 kiwango cha kupotoka kutoka
+  kwa wastani wa Shirika la Afya Duniani (WHO) Viwango vya Ukuaji wa Mtoto) kati ya
+  watoto chini ya umri wa miaka 5'
+2-2-2-title: 'Usahihi wa utapiamlo (uzito kwa urefu >+2 au kupotoka kwa kiwango cha
+  <-2 kutoka kwa wastani wa Viwango vya Ukuaji wa Mtoto wa WHO) kati ya watoto chini
+  ya umri wa miaka 5, kwa aina (kupoteza na uzito mkubwa)'
+2-2-3-title: 'Upungufu wa upungufu wa damu kwa wanawake wenye umri wa miaka 15 hadi
+  49, kwa hali ya ujauzito (asilimia)'
+2-3-1-title: 'Kiasi cha uzalishaji kwa kila kitengo cha kazi kwa madarasa ya kilimo
+  / ufugaji / ukubwa wa biashara ya misitu'
+2-3-2-title: 'Wastani wa mapato ya wazalishaji wadogo wa chakula, kwa jinsia na hali
+  ya asili'
+2-4-1-title: 'Uwiano wa eneo la kilimo chini ya kilimo chenye tija na endelevu'
+2-5-1-title: 'Idadi ya rasilimali za maumbile ya mimea na wanyama kwa chakula na kilimo
+  kilichohifadhiwa katika vituo vya uhifadhi wa kati au vya muda mrefu'
+2-5-2-title: 'Uwiano wa mifugo ya ndani iliyoainishwa kuwa katika hatari ya kutoweka'
+2-a-1-title: 'Ripoti ya mwelekeo wa kilimo kwa matumizi ya serikali'
+2-a-2-title: 'Jumla ya mtiririko rasmi (msaada rasmi wa maendeleo pamoja na mtiririko
+  mwingine rasmi) kwa sekta ya kilimo'
+2-b-1-title: 'Ruzuku ya kuuza nje ya kilimo'
+2-c-1-title: 'Kiashiria cha bei ya chakula anomalies'
+3-1-1-title: 'Uwiano wa vifo vya akina mama'
+3-1-2-title: 'Idadi ya watoto wanaozaliwa wakiwa wamehudhuria na wahudumu wa afya
+  wenye ujuzi'
+3-2-1-title: 'Kiwango cha vifo vya chini ya 5'
+3-2-2-title: 'Kiwango cha vifo vya watoto wachanga'
+3-3-1-title: 'Idadi ya maambukizi mapya ya VVU kwa kila watu 1,000 ambao hawajaambukizwa,
+  kwa jinsia, umri na makundi muhimu'
+3-3-2-title: 'Ugonjwa wa kifua kikuu kwa kila watu 100,000'
+3-3-3-title: 'Malaria kwa kila watu 1,000'
+3-3-4-title: 'Hepatitis B kwa kila watu 100,000'
+3-3-5-title: 'Idadi ya watu wanaohitaji hatua dhidi ya magonjwa ya kitropiki yaliyopuuzwa'
+3-4-1-title: 'Kiwango cha vifo kinachohusishwa na ugonjwa wa moyo, saratani, ugonjwa
+  wa kisukari au ugonjwa sugu wa kupumua'
+3-4-2-title: 'Kiwango cha vifo vya kujiua'
+3-5-1-title: 'Kufunika hatua za matibabu (famasia, kisaikolojia na ukarabati na huduma
+  za baada ya huduma) kwa shida za matumizi ya dutu'
+3-5-2-title: 'Matumizi ya pombe kwa kila mtu (umri wa miaka 15 na zaidi) ndani ya
+  mwaka wa kalenda katika lita za pombe safi'
+3-6-1-title: 'Kiwango cha vifo kutokana na majeraha ya barabarani'
+3-7-1-title: 'Idadi ya wanawake wenye umri wa kuzaa (wenye umri wa miaka 15-49) ambao
+  wana uhitaji wao wa uzazi wa mpango wameridhika na mbinu za kisasa'
+3-7-2-title: 'Kiwango cha kuzaliwa kwa vijana (umri wa miaka 10-14; umri wa miaka
+  15-19) kwa wanawake 1,000 katika kikundi hicho cha umri'
+3-8-1-title: 'Utoaji wa huduma muhimu za afya'
+3-8-2-title: 'Uwiano wa idadi ya watu wenye matumizi makubwa ya kaya juu ya afya kama
+  sehemu ya matumizi ya jumla ya kaya au mapato'
+3-9-1-title: 'Kiwango cha vifo kinachohusishwa na uchafuzi wa hewa wa kaya na wa kawaida'
+3-9-2-title: 'Kiwango cha vifo vinavyohusishwa na maji yasiyo salama, usafi wa mazingira
+  usio salama na ukosefu wa usafi (ufafanuzi wa huduma za Maji Salama, Usafi wa Mazingira
+  na Usafi kwa Wote (WASH)'
+3-9-3-title: 'Kiwango cha vifo kinachohusishwa na sumu isiyo ya kukusudia'
+3-a-1-title: 'Kuenea kwa umri wa matumizi ya tumbaku ya sasa kati ya watu wenye umri
+  wa miaka 15 na zaidi'
+3-b-1-title: 'Uwiano wa idadi ya watu walengwa waliofunikwa na chanjo zote zilizojumuishwa
+  katika mpango wao wa kitaifa'
+3-b-2-title: 'Jumla ya msaada wa maendeleo rasmi kwa utafiti wa matibabu na sekta
+  za msingi za afya'
+3-b-3-title: 'Uwiano wa vituo vya afya ambavyo vina seti ya msingi ya dawa muhimu
+  zinazopatikana na kwa bei nafuu kwa msingi endelevu'
+3-c-1-title: 'Msongamano wa wafanyakazi wa afya na usambazaji'
+3-d-1-title: 'Kanuni za Afya za Kimataifa (IHR) uwezo na utayarishaji wa dharura ya
+  afya'
+3-d-2-title: 'Asilimia ya maambukizi ya mfumo wa damu kutokana na viumbe vilivyochaguliwa
+  vya antimicrobial'
+4-1-1-title: 'Idadi ya watoto na vijana (a) katika darasa la 2/3; (b) Mwisho wa siku;
+  na (c) mwishoni mwa sekondari ya chini kufikia angalau kiwango cha chini cha ustadi
+  katika (i) kusoma na (ii) hisabati, kwa ngono'
+4-1-2-title: 'Kiwango cha ukamilishaji (elimu ya msingi, elimu ya sekondari ya chini,
+  elimu ya sekondari ya juu)'
+4-2-1-title: 'Idadi ya watoto wenye umri wa miezi 24-59 ambao wanafuatilia afya, kujifunza
+  na ustawi wa kisaikolojia, kwa ngono'
+4-2-2-title: 'Kiwango cha ushiriki katika ujifunzaji uliopangwa (mwaka mmoja kabla
+  ya umri rasmi wa kuingia kwa msingi), kwa ngono'
+4-3-1-title: 'Kiwango cha ushiriki wa vijana na watu wazima katika elimu rasmi na
+  isiyo rasmi na mafunzo katika miezi 12 iliyopita, kwa ngono'
+4-4-1-title: 'Uwiano wa vijana na watu wazima wenye ujuzi wa teknolojia ya habari
+  na mawasiliano (ICT), kwa aina ya ujuzi'
+4-5-1-title: 'Viashiria vya usawa (/ kiume, vijijini / mijini, chini / juu ya utajiri
+  quintile na wengine kama vile hali ya ulemavu, watu wa asili na walioathirika na
+  migogoro, kama data zinapatikana) kwa viashiria vyote vya elimu kwenye orodha hii
+  ambayo inaweza kugawanywa'
+4-6-1-title: 'Uwiano wa idadi ya watu katika kikundi cha umri fulani kufikia angalau
+  kiwango cha kudumu cha ustadi katika ujuzi wa kazi (a) kusoma na (b) ujuzi wa kuhesabu,
+  kwa ngono'
+4-7-1-title: 'Kiwango ambacho (i) elimu ya uraia wa kimataifa na (ii) elimu ya maendeleo
+  endelevu imejumuishwa katika (a) sera za kitaifa za elimu; (b) mitaala; (c) Elimu
+  ya Walimu; na (d) Tathmini ya wanafunzi'
+4-a-1-title: 'Uwiano wa shule zinazotoa huduma za msingi, kwa aina ya huduma'
+4-b-1-title: 'Kiasi cha msaada rasmi wa maendeleo kwa ajili ya masomo na sekta na
+  aina ya utafiti'
+4-c-1-title: 'Uwiano wa walimu wenye sifa za chini zinazohitajika, kwa kiwango cha
+  elimu'
+5-1-1-title: 'Ikiwa mifumo ya kisheria iko au la ili kukuza, kutekeleza na kufuatilia
+  usawa na kutobaguliwa kwa misingi ya ngono'
+5-2-1-title: 'Uwiano wa wanawake na wasichana walio na umri wa miaka 15 na zaidi wanakabiliwa
+  na unyanyasaji wa kimwili, kijinsia au kisaikolojia na mpenzi wa sasa au wa zamani
+  wa karibu katika miezi 12 iliyopita, kwa njia ya vurugu na kwa umri'
+5-2-2-title: 'Idadi ya wanawake na wasichana wenye umri wa miaka 15 na zaidi wanakabiliwa
+  na unyanyasaji wa kijinsia na watu wengine isipokuwa mpenzi wa karibu katika miezi
+  12 iliyopita, kwa umri na mahali pa tukio'
+5-3-1-title: 'Idadi ya wanawake wenye umri wa miaka 20-24 ambao walikuwa wameolewa
+  au katika muungano kabla ya umri wa miaka 15 na kabla ya umri wa miaka 18'
+5-3-2-title: 'Idadi ya wasichana na wanawake wenye umri wa miaka 15-49 ambao wamefanyiwa
+  ukeketaji / kukatwa kwa wanawake, kwa umri'
+5-4-1-title: 'Uwiano wa muda uliotumika kwa kazi ya ndani na ya utunzaji isiyolipwa,
+  kwa jinsia, umri na eneo'
+5-5-1-title: 'Sehemu ya viti vinavyoshikiliwa na wanawake katika (a) mabunge ya kitaifa
+  na (b) serikali za mitaa'
+5-5-2-title: 'Uwiano wa wanawake katika nafasi za uongozi'
+5-6-1-title: 'Idadi ya wanawake wenye umri wa miaka 15-49 ambao hufanya maamuzi yao
+  wenyewe kuhusu mahusiano ya ngono, matumizi ya uzazi wa mpango na huduma za afya
+  ya uzazi'
+5-6-2-title: 'Idadi ya nchi zilizo na sheria na kanuni zinazohakikisha upatikanaji
+  kamili na sawa kwa wanawake na wanaume wenye umri wa miaka 15 na zaidi kwa huduma
+  za afya ya uzazi na ngono, habari na elimu'
+5-a-1-title: '(a) Uwiano wa jumla ya idadi ya watu wa kilimo na umiliki au haki salama
+  juu ya ardhi ya kilimo, kwa jinsia; na (b) sehemu ya wanawake kati ya wamiliki au
+  wamiliki wa haki za ardhi ya kilimo, kwa aina ya umiliki'
+5-a-2-title: 'Uwiano wa nchi ambapo mfumo wa kisheria (ikiwa ni pamoja na sheria ya
+  jadi) unahakikisha haki sawa za wanawake kwa umiliki wa ardhi na / au udhibiti'
+5-b-1-title: 'Idadi ya watu wanaomiliki simu ya mkononi, kwa ngono'
+5-c-1-title: 'Uwiano wa nchi zilizo na mifumo ya kufuatilia na kufanya mgao wa umma
+  kwa usawa wa kijinsia na uwezeshaji wa wanawake'
+6-1-1-title: 'Idadi ya watu wanaotumia huduma salama za maji ya kunywa'
+6-2-1-title: 'Idadi ya watu wanaotumia (a) huduma za usafi zinazosimamiwa kwa usalama
+  na (b) kituo cha kunawa mikono kwa sabuni na maji'
+6-3-1-title: 'Uwiano wa mtiririko wa maji taka ya ndani na ya viwandani hutibiwa salama'
+6-3-2-title: 'Uwiano wa miili ya maji yenye ubora mzuri wa maji'
+6-4-1-title: 'Mabadiliko katika ufanisi wa matumizi ya maji kwa muda'
+6-4-2-title: 'Kiwango cha mafadhaiko ya maji: uondoaji wa maji safi kama sehemu ya
+  rasilimali za maji safi zinazopatikana'
+6-5-1-title: 'Shahada ya Usimamizi wa Rasilimali za Maji Jumuishi'
+6-5-2-title: 'Sehemu ya eneo la bonde la transboundary na mpangilio wa uendeshaji
+  wa ushirikiano wa maji'
+6-6-1-title: 'Mabadiliko katika kiwango cha mazingira yanayohusiana na maji kwa muda'
+6-a-1-title: 'Kiasi cha msaada wa maendeleo ya maji na usafi wa mazingira ambayo ni
+  sehemu ya mpango wa matumizi unaoratibiwa na serikali'
+6-b-1-title: 'Uwiano wa vitengo vya utawala wa mitaa na sera na taratibu za uendeshaji
+  na ushiriki wa jamii za mitaa katika usimamizi wa maji na usafi wa mazingira'
+7-1-1-title: 'Idadi ya watu walio na upatikanaji wa umeme'
+7-1-2-title: 'Idadi ya watu walio na utegemezi wa msingi juu ya mafuta safi na teknolojia'
+7-2-1-title: 'Sehemu ya nishati mbadala katika matumizi ya nishati ya mwisho'
+7-3-1-title: 'Nguvu ya nishati iliyopimwa kwa suala la nishati ya msingi na Pato la
+  Taifa'
+7-a-1-title: 'Mtiririko wa kifedha wa kimataifa kwa nchi zinazoendelea kwa msaada
+  wa utafiti wa nishati safi na maendeleo na uzalishaji wa nishati mbadala, ikiwa
+  ni pamoja na mifumo ya mseto'
+7-b-1-title: 'Uwezo wa kuzalisha nishati mbadala katika nchi zinazoendelea (katika
+  watts kwa kila mtu)'
+8-1-1-title: 'Kiwango cha ukuaji wa kila mwaka wa Pato la Taifa halisi kwa kila mtu'
+8-10-1-title: '(a) Idadi ya matawi ya benki ya biashara kwa watu wazima 100,000 na
+  (b) idadi ya mashine za kutolea taarifa (ATMs) kwa kila watu wazima 100,000'
+8-10-2-title: 'Uwiano wa watu wazima (miaka 15 na zaidi) na akaunti katika benki au
+  taasisi nyingine ya kifedha au na mtoa huduma ya fedha za simu'
+8-2-1-title: 'Kiwango cha ukuaji wa kila mwaka wa Pato la Taifa halisi kwa kila mtu
+  aliyeajiriwa'
+8-3-1-title: 'Uwiano wa ajira zisizo rasmi katika ajira ya jumla, kwa sekta na jinsia'
+8-4-1-title: 'Mguu wa nyenzo, nyayo za nyenzo kwa kila mtu, na alama ya nyenzo kwa
+  Pato la Taifa'
+8-4-2-title: 'Matumizi ya vifaa vya ndani, matumizi ya vifaa vya ndani kwa kila mtu,
+  na matumizi ya vifaa vya ndani kwa Pato la Taifa'
+8-5-1-title: 'Wastani wa mapato ya kila saa ya wafanyakazi, kwa jinsia, umri, kazi
+  na watu wenye ulemavu'
+8-5-2-title: 'Kiwango cha ukosefu wa ajira, kwa jinsia, umri na watu wenye ulemavu'
+8-6-1-title: 'Idadi ya vijana (umri wa miaka 15-24) sio katika elimu, ajira au mafunzo'
+8-7-1-title: 'Idadi na idadi ya watoto wenye umri wa miaka 5-17 wanaojihusisha na
+  ajira kwa watoto, kwa jinsia na umri'
+8-8-1-title: 'Majeraha ya kikazi na yasiyo ya kawaida kwa wafanyakazi 100,000, kwa
+  jinsia na hali ya wahamiaji'
+8-8-2-title: 'Kiwango cha kufuata kitaifa na haki za kazi (uhuru wa ushirika na majadiliano
+  ya pamoja) kulingana na vyanzo vya maandishi vya Shirika la Kazi Duniani (ILO) na
+  sheria ya kitaifa, kwa jinsia na hali ya wahamiaji'
+8-9-1-title: 'Utalii unaelekeza Pato la Taifa kama sehemu ya Pato la Taifa na katika
+  kiwango cha ukuaji'
+8-9-2-title: 'Uwiano wa ajira katika viwanda endelevu vya utalii nje ya ajira za utalii'
+8-a-1-title: 'Msaada kwa ajili ya ahadi za biashara na utoaji'
+8-b-1-title: 'Uwepo wa mkakati wa kitaifa ulioendelea na wa uendeshaji wa ajira kwa
+  vijana, kama mkakati tofauti au kama sehemu ya mkakati wa ajira wa kitaifa'
+9-1-1-title: 'Idadi ya wakazi wa vijijini ambao wanaishi ndani ya kilomita 2 ya barabara
+  ya msimu wote'
+9-1-2-title: 'Kiasi cha abiria na mizigo, kwa njia ya usafiri'
+9-2-1-title: 'Thamani ya viwanda imeongezwa kama sehemu ya Pato la Taifa na kwa kila
+  mtu'
+9-2-2-title: 'Ajira ya viwanda kama sehemu ya ajira ya jumla'
+9-3-1-title: 'Uwiano wa viwanda vidogo vidogo katika jumla ya thamani ya sekta aliongeza'
+9-3-2-title: 'Uwiano wa viwanda vidogo vidogo na mkopo au mstari wa mkopo'
+9-4-1-title: 'CO2 uzalishaji kwa kila kitengo cha thamani aliongeza'
+9-5-1-title: 'Utafiti na matumizi ya maendeleo kama sehemu ya Pato la Taifa'
+9-5-2-title: 'Watafiti (kwa wakati wote sawa) kwa wakazi milioni'
+9-a-1-title: 'Jumla ya msaada rasmi wa kimataifa (msaada rasmi wa maendeleo pamoja
+  na mtiririko mwingine rasmi) kwa miundombinu'
+9-b-1-title: 'Uwiano wa thamani ya sekta ya kati na ya hali ya juu iliyoongezwa kwa
+  jumla ya thamani iliyoongezwa'
+9-c-1-title: 'Idadi ya watu waliofunikwa na mtandao wa simu, kwa teknolojia'

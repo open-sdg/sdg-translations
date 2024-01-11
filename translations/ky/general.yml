@@ -1,27 +1,27 @@
 # This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
-indicator: ''
+indicator: 'Көрсөткүч'
 # This is the plural version of the indicator key
-indicators: ''
+indicators: 'Көрсөткүчтөр'
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: ''
+goal: 'Максат'
 # This is the plural version of the goal key
-goals: ''
-sdg: ''
+goals: 'Максаттар'
+sdg: 'Туруктуу өнүгүүнүн максаттары'
 # This refers to the 'home page' of a website
-home: ''
-loading: ''
-opens_new_window: ''
-hide: ''
-target: ''
-targets: ''
-twitter: ''
-facebook: ''
-built_using_open_sdg: ''
-page: ''
-pages: ''
-targets_and_indicators: ''
+home: 'Үй'
+loading: 'Издөө жыйынтыктарын жүктөө'
+opens_new_window: 'жаңы терезеде ачат'
+hide: 'жашыруу'
+target: 'Максат'
+targets: 'Максаттар'
+twitter: 'Твиттер'
+facebook: 'Facebook'
+built_using_open_sdg: 'Ачык СДГ колдонуу менен курулган'
+page: 'Бет'
+pages: 'Барактар'
+targets_and_indicators: 'Максаттар жана көрсөткүчтөр'
 # A label of "Warning" to place before some other text.
-label_warning: ""
+label_warning: "Эскертүү:"
 # A phrase to use as a site-wide page title.
-site_title: ''
-back_to_top: ''
+site_title: 'Туруктуу өнүгүүнүн максаттары үчүн көрсөткүчтөр'
+back_to_top: 'Кайра жогоруга'

@@ -1,17 +1,23 @@
-skip_link: ''
+skip_link: 'Негизги мазмунга өтүү'
 # This word identifies a software or web project as being in the early stages of development
-alpha: ''
-disclaimer: ''
+alpha: 'Альфа'
+disclaimer: 'Бул иштеп чыгуу сайты. Биз силердин <a href="mailto:%email_contacts.suggestions">пикирлериңизди</a>кабыл
+  алабыз .'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
-tag_line: ''
-high_contrast: ''
-default_contrast: ''
-enable_high_contrast: ''
-disable_high_contrast: ''
-toggle_search: ''
-toggle_menu: ''
-internet_explorer_message_title: ''
-internet_explorer_message: ''
-show_menu: ''
-hide_menu: ''
-logo_title: ''
+tag_line: '17 Дүйнөбүздү өзгөртө турган максаттар'
+high_contrast: 'Жогорку карама-каршылык'
+default_contrast: 'Дефолт карама-каршы'
+enable_high_contrast: 'Карама - каршылыкты жогорулатуу'
+disable_high_contrast: 'Жогорку карама - каршылыкты өчүрүү'
+toggle_search: 'Издөө плитасы. Издөө тилкесин кеңейтүү же кулатуу үчүн чыкылдатуу.'
+toggle_menu: 'Меню тогле. Менюну кеңейтүү же кулатуу үчүн чыкылдатуу.'
+internet_explorer_message_title: 'Бул интернет-браузер мындан ары колдолбойт'
+internet_explorer_message: 'Биз бул сайтка кирүү үчүн Internet Explorer колдонуп жатканыңызды
+  аныктадык. Internet Explorer азыр Microsoft тарабынан акырындык менен өчүрүлүп жатат.
+  Натыйжада, бул сайт мындан ары Internet Explorer эч кандай версиясын колдобойт.
+  Бул сайттагы кээ бир өзгөчөлүктөр иштебейт. Эдж, Chrome, Firefox, же Safari сыяктуу
+  заманбап браузерди колдонуу керек. Эгерде башка браузерди орнотууда же кирүүдө кыйынчылык
+  туудурса, ат-колдоо командасына кайрылыңыздар.'
+show_menu: 'Навигациялык менюну көрсөтүү'
+hide_menu: 'Навигациялык менюну жашыруу'
+logo_title: 'Башкы бетке өтүү'

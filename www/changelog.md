@@ -6,6 +6,10 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## 2.3.0
+
+* Add Kyrgyz language
+
 ## 2.2.0
 
 * Add Romanian language

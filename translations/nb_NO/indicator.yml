@@ -115,3 +115,6 @@ proxy: Stedfortreder
 proxy_description: Denne indikatoren inneholder noen alternative data til de som er
   spesifisert av De forente nasjoner (FN). Denne indikatoren er den mest passende
   kampen som er tilgjengelig for øyeblikket.
+announce_series_switched: Diagram og tabell oppdatert for å vise en annen serie.
+note: notat
+announce_unit_switched: Diagram og tabell oppdatert for å vise en annen enhet.

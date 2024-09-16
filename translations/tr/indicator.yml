@@ -137,3 +137,5 @@ announce_unit_switched: Grafik ve tablo farklı bir birim gösterecek şekilde g
 note: not
 yes: Evet
 no: Hayır
+affirmative: Evet
+negative: Hayır

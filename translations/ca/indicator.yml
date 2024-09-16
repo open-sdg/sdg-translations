@@ -101,3 +101,5 @@ proxy_description: Aquest indicador conté algunes dades alternatives a les espe
 announce_series_switched: Gràfic i taula actualitzats per mostrar una sèrie diferent.
 announce_unit_switched: Gràfic i taula actualitzats per mostrar una unitat diferent.
 note: nota
+yes: Sí
+no: No

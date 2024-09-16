@@ -103,3 +103,5 @@ announce_unit_switched: Диаграмма и таблица обновлены 
 note: заметка
 yes: Да
 no: Нет
+affirmative: Да
+negative: Нет

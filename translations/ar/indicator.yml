@@ -95,3 +95,5 @@ proxy_description: يحتوي هذا المؤشر على بعض البيانات
 announce_series_switched: تم تحديث المخطط والجدول لعرض سلسلة مختلفة.
 announce_unit_switched: تم تحديث المخطط والجدول لإظهار وحدة مختلفة.
 note: ملاحظه
+yes: نعم
+no: لا

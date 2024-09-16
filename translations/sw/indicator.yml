@@ -162,3 +162,5 @@ proxy_description: 'Kiashiria hiki kina data mbadala kwa wale walioainishwa na U
 note: 'Kumbuka'
 yes: Ndiyo
 no: La
+affirmative: Ndiyo
+negative: La

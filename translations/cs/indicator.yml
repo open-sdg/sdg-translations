@@ -140,3 +140,5 @@ announce_unit_switched: Graf a tabulka byly aktualizovány tak, aby zobrazovaly 
 note: poznámka
 yes: Ano
 no: Ne
+affirmative: Ano
+negative: Ne

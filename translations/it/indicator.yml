@@ -142,3 +142,5 @@ announce_unit_switched: Il grafico e la tabella sono stati aggiornati per mostra
 note: nota
 yes: Sì
 no: No
+affirmative: Sì
+negative: No

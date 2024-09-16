@@ -135,3 +135,5 @@ announce_unit_switched: Chart og borð dagføra seg at vísa eina aðra unita.
 note: note
 yes: Ja, tað er
 no: Nei
+affirmative: Ja, tað er
+negative: Nei

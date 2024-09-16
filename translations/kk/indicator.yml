@@ -100,3 +100,5 @@ announce_unit_switched: Басқа бірлікті көрсету үшін жа
 note: ескерту
 yes: Иә
 no: Жоқ
+affirmative: Иә
+negative: Жоқ

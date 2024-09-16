@@ -106,3 +106,5 @@ announce_unit_switched: Das Diagramm und die Tabelle wurden aktualisiert, um ein
 note: Anmerkung
 yes: Ja
 no: Nein
+affirmative: Ja
+negative: Nein

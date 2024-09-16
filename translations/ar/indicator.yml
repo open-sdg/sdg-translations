@@ -97,3 +97,5 @@ announce_unit_switched: تم تحديث المخطط والجدول لإظهار
 note: ملاحظه
 yes: نعم
 no: لا
+affirmative: نعم
+negative: لا

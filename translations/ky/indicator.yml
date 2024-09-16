@@ -164,3 +164,5 @@ proxy_description: 'Бул көрсөткүч Бириккен Улуттар У
 note: 'эскертүү'
 yes: Ооба
 no: Жок
+affirmative: Ооба
+negative: Жок

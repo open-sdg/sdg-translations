@@ -107,3 +107,5 @@ announce_unit_switched: 'Աղյուսակը եւ աղյուսակը թարմաց
 note: նշում
 yes: Այո
 no: Ոչ
+affirmative: Այո
+negative: Ոչ

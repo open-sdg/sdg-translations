@@ -108,3 +108,5 @@ announce_unit_switched: Le graphique et le tableau ont été mis à jour pour af
 note: note
 yes: Oui
 no: Non
+affirmative: Oui
+negative: Non

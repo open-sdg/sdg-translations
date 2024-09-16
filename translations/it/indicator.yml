@@ -140,3 +140,5 @@ announce_series_switched: Grafico e tabella aggiornati per mostrare una serie di
 announce_unit_switched: Il grafico e la tabella sono stati aggiornati per mostrare
   un'unità diversa.
 note: nota
+yes: Sì
+no: No

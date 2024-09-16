@@ -161,3 +161,5 @@ announce_series_switched: Diagramă și tabel actualizate pentru a afișa o seri
 announce_unit_switched: Diagrama și tabelul s-au actualizat pentru a afișa o altă
   unitate.
 note: notă
+yes: Da
+no: Nu

@@ -1,0 +1,42 @@
+cookie_settings: Configuración de cookies
+all_required_notice: Utilizamos algunas cookies esenciales para que este servicio funcione. Siempre deben estar activadas.
+all_required_ok: OK
+acceptAll: Aceptar todas
+acceptSelected: Aceptar seleccionadas
+close: Cerrar
+consentModal_description: Aquí puedes cambiar qué cookies estás de acuerdo en que usemos.
+consentModal_title: Configuración de cookies
+consentNotice_changeDescription: Las cookies utilizadas en este sitio han cambiado desde tu última visita, por favor renueva tu consentimiento.
+consentNotice_description: Utilizamos algunas cookies esenciales para que este servicio funcione. También nos gustaría utilizar {purposes} para entender cómo utilizas el servicio y mejorar.
+consentNotice_learnMore: Ver cookies
+consentNotice_testing: ¡Modo de prueba!
+contextualConsent_acceptAlways: Siempre
+contextualConsent_acceptOnce: 'Sí'
+contextualConsent_description: ¿Quieres cargar contenido externo proporcionado por {title}?
+decline: Rechazar cookies adicionales
+ok: Aceptar cookies adicionales
+poweredBy: Realizado con Klaro!
+privacyPolicy_name: política de privacidad
+privacyPolicy_text: Para obtener más información, lee nuestra política de privacidad.
+purposeItem_service: servicio
+purposeItem_services: servicios
+purposes_functional_description: Las cookies esenciales mantienen tu información segura y realizan funciones como recordar tus preferencias y elecciones mientras usas el sitio web. Siempre deben estar activadas.
+purposes_functional_title: Cookies esenciales
+purposes_performance_description: Estos servicios procesan información personal para optimizar el servicio que ofrece este sitio web.
+purposes_performance_title: Optimización del rendimiento
+purposes_analytics_description: Estos servicios recogen información sobre cómo utilizas el sitio web. Usamos estos datos para ayudar a mejorar el sitio.
+purposes_analytics_title: Cookies de análisis
+save: Guardar
+service_disableAll_description: Usa este interruptor para activar o desactivar todos los servicios.
+service_disableAll_title: Activar o desactivar todos los servicios
+service_optOut_description: Este servicio se carga por defecto (pero puedes darte de baja)
+service_optOut_title: (darse de baja)
+service_purpose: propósito
+service_purposes: propósitos
+service_required_description: Este servicio siempre es necesario
+service_required_title: (siempre requerido)
+contrast_description: Mantiene el estado activo de los servicios de accesibilidad
+contrast_title: Modo de accesibilidad
+google_analytics_description: Recoge información sobre visitas a la página usando Google Analytics
+google_analytics_title: Google Analytics
+cookie_settings_description: Guarda tus preferencias de consentimiento de cookies

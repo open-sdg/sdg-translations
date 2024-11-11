@@ -106,7 +106,5 @@ announce_series_switched: Le graphique et le tableau ont été mis à jour pour 
 announce_unit_switched: Le graphique et le tableau ont été mis à jour pour afficher
   une unité différente.
 note: note
-yes: Oui
-no: Non
 affirmative: Oui
 negative: Non

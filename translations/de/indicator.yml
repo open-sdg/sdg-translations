@@ -104,7 +104,5 @@ announce_series_switched: Das Diagramm und die Tabelle wurden aktualisiert, um e
 announce_unit_switched: Das Diagramm und die Tabelle wurden aktualisiert, um eine
   andere Einheit anzuzeigen.
 note: Anmerkung
-yes: Ja
-no: Nein
 affirmative: Ja
 negative: Nein

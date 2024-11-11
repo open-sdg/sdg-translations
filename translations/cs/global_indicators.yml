@@ -63,8 +63,8 @@
   dědictví (kulturní, přírodní) a úrovně veřejné správy (národní, regionální a místní/obecní)'
 11-5-1-title: 'Počet úmrtí, pohřešovaných osob a přímo postižených osob v důsledku
   katastrof na 100 000 obyvatel'
-11-5-2-title: 'Přímé ekonomické ztráty ve vztahu k celosvětovému HDP, škody na kritické
-  infrastruktuře a počet narušení základních služeb v důsledku katastrof'
+11-5-2-title: 'Přímé ekonomické ztráty způsobené katastrofami v poměru k celosvětovému
+  hrubému domácímu produktu (HDP)'
 11-6-1-title: 'Podíl tuhého komunálního odpadu sebraného a zpracovaného v kontrolovaných
   zařízeních z celkového množství vyprodukovaného komunálního odpadu podle měst'
 11-6-2-title: 'Roční průměrné úrovně jemných prachových částic (např. PM2,5 a PM10)
@@ -97,8 +97,8 @@
   podíl zpracovaných nebezpečných odpadů podle druhu zpracování'
 12-5-1-title: 'Národní míra recyklace, tuny recyklovaného materiálu'
 12-6-1-title: 'Počet společností, které zveřejňují zprávy o udržitelnosti'
-12-7-1-title: 'Stupeň udržitelných politik v oblasti veřejných zakázek a provádění
-  akčního plánu'
+12-7-1-title: 'Počet zemí, které provádějí politiky a akční plány udržitelného zadávání
+  veřejných zakázek'
 12-8-1-title: 'Rozsah, v jakém je i) vzdělávání ke globálnímu občanství a ii) vzdělávání
   k udržitelnému rozvoji začleněno do a) vnitrostátních vzdělávacích politik; b) učebních
   osnov; c) vzdělávání učitelů; a d) hodnocení žáků'
@@ -114,8 +114,8 @@
 13-1-3-title: 'Podíl místních samospráv, které přijímají a provádějí místní strategie
   snižování rizika katastrof v souladu s národními strategiemi snižování rizika katastrof'
 13-2-1-title: 'Počet zemí s vnitrostátně stanovenými příspěvky, dlouhodobými strategiemi,
-  národními adaptačními plány, strategiemi uvedenými v adaptačních sděleních a národních
-  sděleních'
+  národními adaptačními plány a adaptačními sděleními, jak byly nahlášeny sekretariátu
+  Rámcové úmluvy OSN o změně klimatu'
 13-2-2-title: 'Celkové emise skleníkových plynů za rok'
 13-3-1-title: 'Rozsah, v jakém je i) vzdělávání ke globálnímu občanství a ii) vzdělávání
   k udržitelnému rozvoji začleněno do a) vnitrostátních vzdělávacích politik; b) učebních
@@ -128,7 +128,8 @@
   miliard dolarů do roku 2025'
 13-b-1-title: 'Počet nejméně rozvinutých zemí a malých ostrovních rozvojových států
   s vnitrostátně stanovenými příspěvky, dlouhodobými strategiemi, národními adaptačními
-  plány, strategiemi uvedenými v adaptačních sděleních a národních sděleních'
+  plány a adaptačními sděleními, jak byly nahlášeny sekretariátu Rámcové úmluvy OSN
+  o změně klimatu'
 14-1-1-title: '(a) index eutrofizace pobřeží a (b) hustota plastových odpadků'
 14-2-1-title: 'Počet zemí využívajících ekosystémové přístupy k řízení mořských oblastí'
 14-3-1-title: 'Průměrná kyselost mořské vody (pH) měřená na dohodnutém souboru reprezentativních
@@ -154,7 +155,7 @@
 15-3-1-title: 'Podíl znehodnocené půdy na celkové rozloze půdy'
 15-4-1-title: 'Pokrytí chráněných oblastí významnými lokalitami pro horskou biologickou
   rozmanitost'
-15-4-2-title: 'Index Pokrytí horskou zelení'
+15-4-2-title: 'Index horské zeleně a podíl degradované horské půdy'
 15-5-1-title: 'Index červeného seznamu'
 15-6-1-title: 'Počet zemí, které přijaly legislativní, správní a politické rámce pro
   zajištění spravedlivého a rovnocenného sdílení přínosů'
@@ -181,8 +182,8 @@
   a příčiny'
 16-1-3-title: 'Podíl obyvatel, kteří byli v posledních 12 měsících vystaveni a) fyzickému
   násilí, b) psychickému násilí a c) sexuálnímu násilí'
-16-1-4-title: 'Podíl obyvatel, kteří se cítí bezpečně, když chodí sami po oblasti,
-  kde žijí'
+16-1-4-title: 'Podíl obyvatel, kteří se cítí bezpečně, když se po setmění procházejí
+  sami po okolí svého bydliště'
 16-10-1-title: 'Počet ověřených případů zabití, únosů, násilných zmizení, svévolného
   zadržování a mučení novinářů, přidružených pracovníků médií, odborářů a obhájců
   lidských práv v předchozích 12 měsících'
@@ -254,8 +255,7 @@
 17-2-1-title: 'Čistá oficiální rozvojová pomoc celkem a nejméně rozvinutým zemím jako
   podíl hrubého národního důchodu (HND) dárců Výboru pro rozvojovou pomoc Organizace
   pro hospodářskou spolupráci a rozvoj (OECD)'
-17-3-1-title: 'Přímé zahraniční investice, oficiální rozvojová pomoc a spolupráce
-  Jih-Jih jako podíl na hrubém národním důchodu'
+17-3-1-title: 'Dodatečné finanční zdroje mobilizované pro rozvojové země z více zdrojů'
 17-3-2-title: 'Objem remitencí (v amerických dolarech) jako podíl na celkovém HDP'
 17-4-1-title: 'Podíl dluhové služby na vývozu zboží a služeb'
 17-5-1-title: 'Počet zemí, které přijmou a zavedou režimy na podporu investic pro

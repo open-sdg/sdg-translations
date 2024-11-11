@@ -138,7 +138,5 @@ announce_series_switched: Graf a tabulka byly aktualizovány tak, aby zobrazoval
 announce_unit_switched: Graf a tabulka byly aktualizovány tak, aby zobrazovaly jinou
   jednotku.
 note: poznámka
-yes: Ano
-no: Ne
 affirmative: Ano
 negative: Ne

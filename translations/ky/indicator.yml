@@ -162,7 +162,5 @@ proxy_description: 'Бул көрсөткүч Бириккен Улуттар У
   ылайыктуу дал келет.'
 # Description of a footnote that is applied to a particular data value (observation).
 note: 'эскертүү'
-yes: Ооба
-no: Жок
 affirmative: Ооба
 negative: Жок

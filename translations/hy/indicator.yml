@@ -105,7 +105,5 @@ announce_series_switched: 'Գծապատկերն և աղյուսակը թարմա
 announce_unit_switched: 'Գծապատկերն ու աղյուսակը թարմացվել են՝ մեկ այլ միավոր ցուցադրելու
   համար'
 note: նշում
-yes: Այո
-no: Ոչ
 affirmative: Այո
 negative: Ոչ

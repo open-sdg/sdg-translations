@@ -133,3 +133,7 @@ proxy_description: Henda ídicator inniheldur nakrar møguleikar til tey specifi
 announce_series_switched: Chart og borð dagføra seg at vísa eina aðra røð.
 announce_unit_switched: Chart og borð dagføra seg at vísa eina aðra unita.
 note: note
+yes: Ja, tað er
+no: Nei
+affirmative: Ja, tað er
+negative: Nei

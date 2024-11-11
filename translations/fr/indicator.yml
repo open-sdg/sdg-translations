@@ -5,21 +5,21 @@ data_not_available: Ces données ne sont pas disponibles. Veuillez choisir des d
   alternatives à afficher.
 dataset_size_warning: Il y a trop de jeux de données à afficher sur le graphique.
   Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
-download_chart: Télécharger le graphique CSV
-download_csv: Télécharger CSV
-download_csv_title: Télécharger en format CSV
-download_headline: Télécharger Headline CSV
+download_chart: Télécharger les données du graphique (.csv)
+download_csv: Télécharger les données (.csv)
+download_csv_title: Télécharger les données comme CSV
+download_headline: Télécharger les données de l'en-tête (.csv)
 download_headline_title: Télécharger les données de titre au format CSV
-download_source: Télécharger Source CSV
+download_source: Télécharger les données de la source (.csv)
 download_source_title: Télécharger les données source au format CSV
-download_source_sdmx: Télécharger Source SDMX
+download_source_sdmx: Télécharger la source SDMX (.xml)
 download_source_sdmx_title: Télécharger les données source au format SDMX
-download_table: Télécharger le tableau CSV
-download_chart_image: Télécharger l'image graphique
-download_chart_image_title: Télécharger le graphique en image
-download_geojson: Télécharger GeoJSON
-download_geojson_title: Télécharger en format GeoJSON
-edit: Modifier
+download_table: Télécharger les données du tableau (.csv)
+download_chart_image: Télécharger l'image du graphique (.png)
+download_chart_image_title: Télécharger l'image du graphique en PNG
+download_geojson: Télécharger les données de la carte (.geojson)
+download_geojson_title: Télécharger les données de la carte comme GeoJSON
+edit: Modifier l'indicateur
 edit_data: Modifier les données
 edit_metadata: Modifier les métadonnées
 footnote: note de bas de page
@@ -46,7 +46,7 @@ series: Séries
 series_help: Choisissez des catégories dans les listes déroulantes ci-dessous pour
   voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à
   ce qu&#39;un niveau supérieur soit choisi.
-source: La source
+source: Source
 sources: Sources
 sub_categories: Sous-catégories
 table: Table
@@ -57,7 +57,7 @@ view_indicator_list: Voir la liste des indicateurs de cet objectif
 announce_data_not_available: Le graphique et le tableau ne montrent aucune donnée.
 map_year_slider: Curseur d’année
 chart_annotation: Annotation du graphique
-annotation_2030_target: Objectif 2030
+annotation_2030_target: objectif fixé pour 2030
 plot_legend_description: 'Légende du tracé : liste des lignes incluses dans le graphique'
 data_keyboard_navigation: Appuyez sur Entrée pour parcourir les points de données
   avec les touches fléchées gauche et droite.
@@ -69,7 +69,7 @@ status: État de l’indicateur
 table_column_sort: Cliquez pour trier par cette colonne
 map_search_show: Afficher la recherche
 map_search_hide: Masquer la recherche
-map_search: Rechercher
+map_search: Recherche sur la carte
 announce_data_removed: Graphique et tableau mis à jour pour exclure les données.
 sub_categories_show: 'Afficher les sous-catégories :'
 edit_configuration: Modifier la configuration
@@ -78,7 +78,8 @@ previous: Indicateur précédent
 unit: Unité
 headline_data: Données d'en-tête
 no_headline_data: Aucune donnée principale disponible
-download_source_for_disaggregations: Télécharger le CSV source pour les désagrégations
+download_source_for_disaggregations: Télécharger les données sources pour désagrégations
+  (.csv)
 apply: Appliquer
 cancel: Annuler
 change_breakdowns: Ventilation des changements
@@ -87,7 +88,7 @@ total: Total
 map_zoom_home: Rétablir le zoom par défaut de la carte
 map_slider_back: Visualiser les données de la carte pour la période précédente
 map_slider_mouse: Naviguer dans les données cartographiques par période de temps
-map_search_cancel: Recherche claire sur la carte
+map_search_cancel: Effacer la recherche sur la carte
 map_zoom_in: Zoom sur la carte
 map_zoom_out: Zoom arrière sur la carte
 map_fullscreen: Afficher la carte en plein écran
@@ -105,3 +106,7 @@ announce_series_switched: Le graphique et le tableau ont été mis à jour pour 
 announce_unit_switched: Le graphique et le tableau ont été mis à jour pour afficher
   une unité différente.
 note: note
+yes: Oui
+no: Non
+affirmative: Oui
+negative: Non

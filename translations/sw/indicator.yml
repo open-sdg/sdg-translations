@@ -160,3 +160,7 @@ proxy_description: 'Kiashiria hiki kina data mbadala kwa wale walioainishwa na U
   wa Mataifa (UN). Kiashiria hiki ni mechi inayofaa zaidi inayopatikana kwa sasa.'
 # Description of a footnote that is applied to a particular data value (observation).
 note: 'Kumbuka'
+yes: Ndiyo
+no: La
+affirmative: Ndiyo
+negative: La

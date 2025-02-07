@@ -88,3 +88,5 @@ proxy_description: 该指标包含一些替代联合国（UN）规定的数据�
 announce_series_switched: 图表和表格已更新以显示不同的系列。
 announce_unit_switched: 图表和表格已更新以显示不同的单位。
 note: 注意
+affirmative: 是的
+negative: 不

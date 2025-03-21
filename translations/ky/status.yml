@@ -25,3 +25,8 @@ progress_challenges_remain: 'Кыйынчылыктар дагы деле бар
 progress_approaching_target: 'Жакындап келаткан максат'
 progress_target_achieved: 'Максатка жетти'
 progress_help: 'Биз 2030 максатка каршы кантип кылып жатабыз?'
+target_achieved: Максат ишке ашты
+substantial_progress: Жолдо
+moderate_progress: Жылыш жасалды, бирок тездетүү керек
+limited_progress: Чектелген прогресс
+deterioration: Начарлоо

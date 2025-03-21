@@ -25,3 +25,8 @@ progress_approaching_target: Hedefe yaklaşılıyor
 progress_target_achieved: Hedefe ulaşıldı
 no_data_available: Veri yok
 progress_help: 2030 hedefine karşı ne durumdayız?
+target_achieved: Hedefe ulaşıldı
+substantial_progress: Yolda
+moderate_progress: İlerleme kaydedildi ancak hızlanma gerekiyor
+limited_progress: Sınırlı ilerleme
+deterioration: Bozulma

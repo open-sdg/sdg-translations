@@ -15,8 +15,8 @@ disaggregation_status_notapplicable: 'Շրջանակից դուրս'
 disaggregation_status_by_field: 'Տարանջատում ըստ% դաշտի'
 not_specified: Նշված չէ
 reported: Ներկայացված
-description: 'Հաշվետվության կարգավիճակը տալիս է ակնարկ, թե որքանով են Կայուն զարգացման
-  նպատակի (SDG)% անունները հաղորդում:'
+description: 'Հաշվետվողականության կարգավիճակը ներակյացնում է, թե որքան տվյալներ է
+  Հայաստանը հաղորդում Կայուն զարգացման նպատակների (ԿԶՆ) վերաբերյալ:'
 progress_status: Առաջընթացի կարգավիճակը
 progress_not_available: Անհասանելի
 progress_challenges_remain: Մարտահրավերները մնում են

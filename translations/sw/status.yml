@@ -25,3 +25,8 @@ progress_challenges_remain: 'Changamoto zimebaki kuwa'
 progress_approaching_target: 'Kukaribia lengo'
 progress_target_achieved: 'Malengo yaliyofikiwa'
 progress_help: 'Tunafanyaje dhidi ya lengo la 2030?'
+target_achieved: Lengo limefikiwa
+substantial_progress: Kwenye wimbo
+moderate_progress: Maendeleo yamefanywa lakini kuongeza kasi inahitajika
+limited_progress: Maendeleo machache
+deterioration: Kuzorota

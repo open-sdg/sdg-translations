@@ -25,3 +25,8 @@ progress_challenges_remain: Challenges remain
 progress_approaching_target: Approaching target
 progress_target_achieved: Target achieved
 progress_help: How are we doing against the 2030 target?
+target_achieved: Target achieved
+substantial_progress: On track
+moderate_progress: Progress made but acceleration needed
+limited_progress: Limited progress
+deterioration: Deterioration

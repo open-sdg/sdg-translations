@@ -25,3 +25,8 @@ progress_approaching_target: 'Nærkast málinum'
 progress_target_achieved: 'Málið rokkið'
 no_data_available: Ongar dátur tøkar
 progress_help: Hvussu gongst at røkka 2030 málinum?
+target_achieved: Málið er rokkið
+substantial_progress: Á rættari leið
+moderate_progress: Framstig gjørd, men akselerering neyðug
+limited_progress: Avmarkað framgongd
+deterioration: Versnun

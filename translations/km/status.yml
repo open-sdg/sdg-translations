@@ -21,7 +21,13 @@ progress_not_available: មិនទំនេរ
 progress_challenges_remain: បញ្ហាប្រឈមនៅតែមាន
 progress_approaching_target: ជិតដល់គោលដៅ
 progress_target_achieved: គោលដៅសម្រេចបាន។
-description: ស្ថានភាពនៃការរាយការណ៍ផ្តល់នូវទិដ្ឋភាពទូទៅនៃចំនួនទិន្នន័យនៃគោលដៅអភិវឌ្ឍន៍ប្រកបដោយចីរភាព
+description: 
+  ស្ថានភាពនៃការរាយការណ៍ផ្តល់នូវទិដ្ឋភាពទូទៅនៃចំនួនទិន្នន័យនៃគោលដៅអភិវឌ្ឍន៍ប្រកបដោយចីរភាព
   (SDG) របាយការណ៍ %country.name ។
 no_data_available: មិនមានទិន្នន័យទេ។
 progress_help: តើយើងកំពុងធ្វើអ្វីប្រឆាំងនឹងគោលដៅឆ្នាំ 2030?
+target_achieved: គោលដៅសម្រេចបាន
+substantial_progress: នៅលើផ្លូវ
+moderate_progress: ការរីកចម្រើនបានធ្វើឡើងប៉ុន្តែត្រូវការការបង្កើនល្បឿន
+limited_progress: វឌ្ឍនភាពមានកំណត់
+deterioration: ការខូចខាត

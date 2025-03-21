@@ -24,3 +24,8 @@ progress_approaching_target: Приближение к цели
 progress_target_achieved: Цель достигнута
 no_data_available: Нет данных
 progress_help: Как обстоят дела с достижением цели на 2030 год?
+target_achieved: Цель достигнута
+substantial_progress: По графику
+moderate_progress: Прогресс достигнут, но требуется ускорение
+limited_progress: Ограниченный прогресс
+deterioration: Ухудшение

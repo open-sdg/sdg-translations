@@ -24,3 +24,8 @@ progress_approaching_target: Approche de la cible
 progress_target_achieved: Objectif atteint
 no_data_available: Aucune donnée disponible
 progress_help: Où en sommes-nous par rapport à l'objectif 2030 ?
+target_achieved: Objectif atteint
+moderate_progress: Des progrès ont été réalisés, mais une accélération est nécessaire
+limited_progress: Progrès limités
+deterioration: Détérioration
+substantial_progress: Sur la piste

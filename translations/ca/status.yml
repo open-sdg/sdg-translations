@@ -24,3 +24,8 @@ description: L'estat dels informes proporciona una visió general de quantes dad
   de l'Objectiu de Desenvolupament Sostenible (ODS) informa %country.name.
 no_data_available: No hi ha dades disponibles
 progress_help: Com estem davant de l'objectiu del 2030?
+substantial_progress: En el bon camí
+moderate_progress: S'ha fet un progrés però cal accelerar
+limited_progress: Progrés limitat
+deterioration: Deterioració
+target_achieved: Objectiu assolit

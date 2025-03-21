@@ -24,3 +24,8 @@ description: Есеп беру күйі Тұрақты даму мақсаты (
   есептері туралы жалпы шолуды қамтамасыз етеді.
 no_data_available: Дерек жоқ
 progress_help: Біз 2030 жылға дейінгі мақсатқа қалай қарсы тұрамыз?
+target_achieved: Қол жеткізілген мақсат
+substantial_progress: Жолдағы
+moderate_progress: Прогресс қол жеткізілді, бірақ жеделдету қажет
+limited_progress: Шектеулі прогресс
+deterioration: Нашарлау

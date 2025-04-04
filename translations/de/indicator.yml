@@ -5,21 +5,21 @@ data_not_available: Diese Daten sind nicht verfügbar. Bitte wählen Sie alterna
   Daten aus, die angezeigt werden sollen.
 dataset_size_warning: Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen.
   Es können nicht alle Zeitreihen dargestellt werden.
-download_chart: Grafik im CSV-Format speichern
-download_csv: im CSV-Format speichern
-download_csv_title: im CSV-Format speichern
-download_headline: Speichern der Headline im CSV-Format
+download_chart: Diagrammdaten herunterladen (.csv)
+download_csv: Daten herunterladen (.csv)
+download_csv_title: Daten als CSV herunterladen
+download_headline: Schlagzeilendaten herunterladen (.csv)
 download_headline_title: Speichern der Headline im CSV-Format
-download_source: Daten im CSV-Format speichern
+download_source: Quelldaten herunterladen (.csv)
 download_source_title: Daten im CSV-Format speichern
 download_source_sdmx: Daten im SDMX-Format speichern
 download_source_sdmx_title: Daten im SDMX-Format speichern
-download_table: Tabelle im CSV-Format speichern
-download_chart_image: Grafik herunterladen
-download_chart_image_title: Grafik als Bild herunterladen
-download_geojson: im GeoJSON-Format speichern
-download_geojson_title: im GeoJSON-Format speichern
-edit: Bearbeiten
+download_table: Tabellendaten herunterladen (.csv)
+download_chart_image: Diagrammgrafik herunterladen (.png)
+download_chart_image_title: Diagrammgrafik als PNG herunterladen
+download_geojson: Kartendaten herunterladen (.geojson)
+download_geojson_title: Kartendaten als GeoJSON herunterladen
+edit: Indikator bearbeiten
 edit_data: Daten bearbeiten
 edit_metadata: Metadaten bearbeiten
 footnote: Fußnote
@@ -57,12 +57,12 @@ view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an
 edit_configuration: Konfiguration bearbeiten
 next: Nächster Indikator
 previous: Vorheriger Indikator
-tags: Tags
-status: Status des Indikators
-table_column_sort: Klicken Sie auf , um nach dieser Spalte zu sortieren
-map_search_show: Suche anzeigen
-map_search_hide: Suche ausblenden
-map_search: Suche
+tags: Schlagwörter
+status: Indikatorstatus
+table_column_sort: Klicken, um nach dieser Spalte zu sortieren
+map_search_show: Kartensuche anzeigen
+map_search_hide: Kartensuche ausblenden
+map_search: Kartensuche
 map_year_slider: Jahr-Schieberegler
 chart_annotation: Diagramm-Anmerkung
 annotation_2030_target: 2030 Ziel
@@ -71,19 +71,19 @@ data_keyboard_navigation: Drücken Sie die Eingabetaste, um mit den Pfeiltasten 
   links und rechts durch die Datenpunkte zu blättern.
 data_tabular_alternative: Für tabellarische Daten alternativ siehe Registerkarte Tabelle.
 announce_data_removed: Diagramm und Tabelle aktualisiert, um Daten auszuschließen.
-announce_data_added: Diagramm und Tabelle wurden aktualisiert, um die Daten einzubeziehen.
+announce_data_added: Diagramm und Tabelle wurden aktualisiert, um Daten einzubeziehen.
 announce_data_not_available: Diagramm und Tabelle zeigen keine Daten.
 sub_categories_show: 'Unterkategorien anzeigen:'
 unit: Einheit
 headline_data: Schlagzeilendaten
-no_headline_data: Keine Headline-Daten verfügbar
+no_headline_data: Keine Schlagzeilendaten verfügbar
 download_source_for_disaggregations: Quell-CSV für Disaggregationen herunterladen
-apply: Bewerbung
+apply: Anwenden
 cancel: Abbrechen
 change_breakdowns: Aufschlüsselungen ändern
 empty_metadata_placeholder: Für diesen Indikator nicht verfügbar
 total: Insgesamt
-map_search_cancel: Übersichtliche Kartensuche
+map_search_cancel: Kartensuche leeren
 map_slider_back: Ansicht der Kartendaten für den vorherigen Zeitraum
 map_slider_forward: Ansicht der Kartendaten für den nächsten Zeitabschnitt
 map_zoom_in: Vergrößern der Karte
@@ -93,16 +93,16 @@ map_fullscreen: Karte im Vollbildmodus anzeigen
 map_fullscreen_exit: Karte im Vollbildmodus beenden
 map_slider_keyboard: Ansicht der Kartendaten über den gesamten Zeitraum mit den Pfeiltasten
   links und rechts
-map_slider_mouse: Navigieren in Kartendaten nach Zeiträumen
+map_slider_mouse: Kartendaten nach Zeitraum navigieren
 empty_metadata_placeholder_sources: Für diese Quelle nicht verfügbar
-proxy: Vollmacht
+proxy: Proxy
 proxy_description: Dieser Indikator enthält einige alternative Daten zu den von den
   Vereinten Nationen (UN) angegebenen. Dieser Indikator ist die beste Übereinstimmung,
   die derzeit verfügbar ist.
-announce_series_switched: Das Diagramm und die Tabelle wurden aktualisiert, um eine
-  andere Reihe anzuzeigen.
-announce_unit_switched: Das Diagramm und die Tabelle wurden aktualisiert, um eine
-  andere Einheit anzuzeigen.
+announce_series_switched: Diagramm und die Tabelle wurden aktualisiert, um eine andere
+  Reihe anzuzeigen.
+announce_unit_switched: Diagramm und die Tabelle wurden aktualisiert, um eine andere
+  Einheit anzuzeigen.
 note: Anmerkung
 affirmative: Ja
 negative: Nein

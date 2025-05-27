@@ -18,14 +18,14 @@ reported: Déclaré
 description: L'état des rapports donne un aperçu de la quantité de données sur les
   objectifs de développement durable (ODD) que %country.name rapporte.
 progress_status: État d'avancement
-progress_not_available: Indisponible
+progress_not_available: Non disponible
 progress_challenges_remain: Des défis à relever
 progress_approaching_target: Approche de la cible
-progress_target_achieved: Objectif atteint
+progress_target_achieved: Cible atteinte
 no_data_available: Aucune donnée disponible
 progress_help: Où en sommes-nous par rapport à l'objectif 2030 ?
-target_achieved: Objectif atteint
+target_achieved: Cible atteinte
 moderate_progress: Des progrès ont été réalisés, mais une accélération est nécessaire
 limited_progress: Progrès limités
 deterioration: Détérioration
-substantial_progress: Sur la piste
+substantial_progress: Sur la bonne voie

@@ -1,5 +1,5 @@
-heading: "Données %country.name pour les indicateurs des objectifs de développement\
-  \ durable"
+heading: "Données %country.name pour les indicateurs des objectifs de développement
+  durable"
 instructions: Cliquez sur chaque objectif, ou %before_link recherchez, %after_link
   pour %country.name statistiques pour Sustainable Development Goal global indicateurs.
 download_all: Téléchargez toutes les données
@@ -9,7 +9,8 @@ intro_body: Les <a href="https://www.un.org/sustainabledevelopment/fr">objectifs
   développement durable (SDG)</a> sont un appel universel à l'action pour mettre fin
   à la pauvreté, protéger la planète et améliorer la vie et les perspectives de chacun,
   partout. Les 17 objectifs ont été adoptés par tous les États membres des Nations
-  unies en 2015, dans le cadre du <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=F">programme
+  unies en 2015, dans le cadre du <a 
+  href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=F">programme
   pour le développement durable de 2030</a>.
 instructions_short: Cliquez sur chaque objectif pour obtenir des données sur les indicateurs
   mondiaux des objectifs de développement durable de %country.name.

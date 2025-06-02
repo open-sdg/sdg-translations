@@ -17,7 +17,7 @@ not_specified: Non spécifié
 reported: Déclaré
 description: L'état des rapports donne un aperçu de la quantité de données sur les
   objectifs de développement durable (ODD) que %country.name rapporte.
-progress_status: État d'avancement
+progress_status: État du progrès
 progress_not_available: Non disponible
 progress_challenges_remain: Des défis à relever
 progress_approaching_target: Approche de la cible

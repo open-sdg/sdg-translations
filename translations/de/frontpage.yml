@@ -5,7 +5,8 @@ instructions: Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten z
 download_all: Alle Daten herunterladen (.zip)
 zip_file: ZIP-Datei
 intro_title: 17 Ziele, um unsere Welt zu verändern
-intro_body: Die <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable
+intro_body: Die <a 
+  href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable
   Development Goals (SDGs)</a> sind ein universeller Aufruf zum Handeln, um die Armut
   zu beenden, den Planeten zu schützen und das Leben und die Perspektiven aller Menschen
   überall zu verbessern. Die 17 Ziele wurden 2015 von allen UN-Mitgliedsstaaten als

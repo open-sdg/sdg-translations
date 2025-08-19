@@ -6,6 +6,11 @@ permalink: changelog/
 
 Numbers in parenthesis below refer to Github issues or pull-requests.
 
+## 2.4.0
+
+* Fix various strings via Weblate
+* Add new translations strings for Open SDG features
+
 ## 2.3.0
 
 * Add Kyrgyz language

@@ -1,22 +1,23 @@
 skip_link: 'ຂ້າມໄປຫາເນື້ອຫາຫຼັກ'
 # This word identifies a software or web project as being in the early stages of development
-alpha: 'ບໍ່ມີເພດ;'
-disclaimer: 'ນີ້ແມ່ນເວບໄຊທ໌ການພັດທະນາ. ພວກເຮົາຍິນດີຮັບ ຄຳ ຄິດເຫັນ <a href="mailto:%email_contacts.suggestions">
-  ຂອງທ່ານ </a>.'
+alpha: 'ອັລຟາ'
+disclaimer: 'ນີ້ແມ່ນເວັບໄຊທົດລອງພັດທະນາ. ພວກເຮົາຍິນດີຮັບ <a href="mailto:%email_contacts.suggestions">ຄຳເຫັນ</a>
+  ຈາກທ່ານ.'
 # This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
-tag_line: '17 ເປົ້າ ໝາຍ ໃນການຫັນປ່ຽນໂລກຂອງພວກເຮົາ'
-high_contrast: 'ກົງກັນຂ້າມສູງ'
-default_contrast: 'ກົງກັນຂ້າມໃນຕອນຕົ້ນ'
+tag_line: '17 ເປົ້າໝາຍເພື່ອຫັນປ່ຽນໂລກຂອງພວກເຮົາ'
+high_contrast: 'ຄວາມຄົມຊັດສູງ'
+default_contrast: 'ຄວາມຄົມຊັດເລີ່ມຕົ້ນ'
 enable_high_contrast: 'ເປີດໃຊ້ຄວາມຄົມຊັດສູງ'
-disable_high_contrast: 'ປິດການໃຊ້ງານກົງກັນຂ້າມສູງ'
-toggle_search: 'ຄົ້ນຫາສະຫຼັບ. ກົດເພື່ອຂະຫຍາຍຫຼືຍຸບແຖບຄົ້ນຫາ.'
-toggle_menu: 'ເມນູປິດ. ກົດເພື່ອຂະຫຍາຍຫຼືຫຍໍ້ເມນູ.'
-internet_explorer_message_title: ບຣາວເຊີອິນເຕີເນັດນີ້ບໍ່ຖືກຮອງຮັບອີກຕໍ່ໄປ
-internet_explorer_message: ພວກເຮົາໄດ້ກວດພົບວ່າທ່ານກຳລັງໃຊ້ Internet Explorer ເພື່ອເຂົ້າເບິ່ງເວັບໄຊທ໌ນີ້.
-  ດຽວນີ້ Internet Explorer ໄດ້ຖືກຍົກເລີກໂດຍ Microsoft. ດັ່ງນັ້ນ, ເວັບໄຊທ໌ນີ້ບໍ່ຮອງຮັບ
-  Internet Explorer ເວີຊັນໃດໆອີກຕໍ່ໄປ. ຄຸນສົມບັດບາງຢ່າງຢູ່ໃນເວັບໄຊນີ້ຈະບໍ່ເຮັດວຽກ.
-  ທ່ານຄວນໃຊ້ຕົວທ່ອງເວັບທີ່ທັນສະໄຫມເຊັ່ນ Edge, Chrome, Firefox, ຫຼື Safari. ຖ້າທ່ານມີຄວາມຫຍຸ້ງຍາກໃນການຕິດຕັ້ງ
-  ຫຼືເຂົ້າເຖິງຕົວທ່ອງເວັບອື່ນ, ກະລຸນາຕິດຕໍ່ທີມງານຊ່ວຍເຫຼືອດ້ານໄອທີຂອງທ່ານ.
-show_menu: ສະແດງເມນູນໍາທາງ
-hide_menu: ເຊື່ອງເມນູນໍາທາງ
-logo_title: ໄປທີ່ຫນ້າທໍາອິດ
+disable_high_contrast: 'ປິດການໃຊ້ງານຄວາມຄົມຊັດສູງ'
+toggle_search: 'ປຸ່ມສະຫຼັບການຄົ້ນຫາ. ກົດເພື່ອສະແດງ ຫຼື ຫຍໍ້ແຖບຄົ້ນຫາ.'
+toggle_menu: 'ປຸ່ມສະຫຼັບເມນູ. ກົດເພື່ອສະແດງ ຫຼື ຫຍໍ້ເມນູ.'
+internet_explorer_message_title: ບຣາວເຊີນີ້ບໍ່ໄດ້ຮັບການຮອງຮັບອີກຕໍ່ໄປ
+internet_explorer_message: ພວກເຮົາກວດພົບວ່າທ່ານກຳລັງໃຊ້ Internet Explorer 
+  ເພື່ອເຂົ້າເບິ່ງເວັບໄຊນີ້. ປັດຈຸບັນ Microsoft ໄດ້ຢຸດການພັດທະນາ Internet 
+  Explorer ແລ້ວ. ດັ່ງນັ້ນ, ເວັບໄຊນີ້ຈຶ່ງບໍ່ຮອງຮັບ Internet Explorer ທຸກເວີຊັນ. 
+  ບາງຄຸນສົມບັດໃນເວັບໄຊນີ້ອາດຈະບໍ່ເຮັດວຽກ. ທ່ານຄວນໃຊ້ບຣາວເຊີທີ່ທັນສະໄໝເຊັ່ນ Edge,
+  Chrome, Firefox ຫຼື Safari. ຖ້າທ່ານມີຂໍ້ຫຍຸ້ງຍາກໃນການຕິດຕັ້ງ ຫຼື 
+  ການເຂົ້າເຖິງບຣາວເຊີອື່ນ, ກະລຸນາຕິດຕໍ່ທີມງານຊ່ວຍເຫຼືອດ້ານໄອທີ (IT) ຂອງທ່ານ.
+show_menu: ສະແດງເມນູນຳທາງ
+hide_menu: ເຊື່ອງເມນູນຳທາງ
+logo_title: ໄປທີ່ໜ້າຫຼັກ

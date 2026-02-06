@@ -20,6 +20,7 @@ reported: Reported
 description: Reporting status provides an overview of how much Sustainable Development
   Goal (SDG) data %country.name reports.
 progress_status: Progress status
+progress_status_overall: Overall progress status
 progress_not_available: Not available
 progress_challenges_remain: Challenges remain
 progress_approaching_target: Approaching target

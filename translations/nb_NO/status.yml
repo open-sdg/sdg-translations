@@ -16,8 +16,8 @@ disaggregation_status_notapplicable: 'Utenfor omfanget'
 disaggregation_status_by_field: 'Oppdeling etter %felt'
 not_specified: Ikke angitt
 reported: Rapportert
-description: Rapporteringsstatus gir en oversikt over hvor mye data om bærekraftig
-  utviklingsmål (SDG) (%).
+description: Rapporteringsstatus gir en oversikt over hvor mye data om 
+  bærekraftig utviklingsmål (SDG) (%).
 progress_status: Fremdriftsstatus
 progress_not_available: Ikke tilgjengelig
 progress_challenges_remain: Utfordringer gjenstår
@@ -30,3 +30,5 @@ substantial_progress: På rett spor
 moderate_progress: Fremgang gjort, men akselerasjon nødvendig
 limited_progress: Begrenset fremgang
 deterioration: Forverring
+progress_status_overall: Generell fremdriftsstatus
+progress_not_available_full: Fremdriftsmåling ikke tilgjengelig

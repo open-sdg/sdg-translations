@@ -15,8 +15,8 @@ disaggregation_status_notapplicable: 'خارج النطاق'
 disaggregation_status_by_field: 'التصنيف حسب٪ مجال'
 not_specified: غير محدّد
 reported: تم الإبلاغ
-description: تقدم حالة إعداد التقارير نظرة عامة على مقدار بيانات٪ name الخاصة بأهداف
-  التنمية المستدامة (SDG).
+description: تقدم حالة إعداد التقارير نظرة عامة على مقدار بيانات٪ name الخاصة 
+  بأهداف التنمية المستدامة (SDG).
 progress_status: حالة التقدم
 progress_not_available: غير متوفر
 progress_challenges_remain: التحديات لا تزال قائمة
@@ -29,3 +29,5 @@ substantial_progress: على المسار الصحيح
 moderate_progress: إحراز تقدم ولكن هناك حاجة إلى تسريع
 limited_progress: تقدم محدود
 deterioration: تدهور
+progress_status_overall: الوضع العام للتقدم
+progress_not_available_full: قياس التقدم غير متوفر

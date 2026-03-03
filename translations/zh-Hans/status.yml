@@ -28,3 +28,5 @@ limited_progress: 进展有限
 deterioration: 恶化
 target_achieved: 已达成目标
 substantial_progress: 步入正轨
+progress_status_overall: 整体进展状况
+progress_not_available_full: 进展测量不可用

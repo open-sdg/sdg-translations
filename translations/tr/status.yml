@@ -16,8 +16,8 @@ disaggregation_status_notapplicable: 'Kapsam dışı'
 disaggregation_status_by_field: '%field göre ayrıştırma'
 not_specified: Belirtilmedi
 reported: Bildirildi
-description: Raporlama durumu, %country.name için ne kadar Sürdürülebilir Kalkınma
-  Amacı (SDG) verisinin raporlandığına ilişkin bir genel bakış sağlar.
+description: Raporlama durumu, %country.name için ne kadar Sürdürülebilir 
+  Kalkınma Amacı (SDG) verisinin raporlandığına ilişkin bir genel bakış sağlar.
 progress_status: İlerleme durumu
 progress_not_available: Yok
 progress_challenges_remain: Zorluklar devam ediyor
@@ -30,3 +30,5 @@ substantial_progress: Yolda
 moderate_progress: İlerleme kaydedildi ancak hızlanma gerekiyor
 limited_progress: Sınırlı ilerleme
 deterioration: Bozulma
+progress_status_overall: Genel ilerleme durumu
+progress_not_available_full: İlerleme ölçümü mevcut değil

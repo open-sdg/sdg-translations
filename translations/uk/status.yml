@@ -30,3 +30,5 @@ substantial_progress: На трасі
 moderate_progress: Прогрес досягнуто, але потрібне прискорення
 limited_progress: Обмежений прогрес
 deterioration: Погіршення
+progress_status_overall: Загальний статус прогресу
+progress_not_available_full: Вимірювання прогресу недоступно

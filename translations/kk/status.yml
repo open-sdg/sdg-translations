@@ -20,8 +20,8 @@ progress_not_available: Qoljetimdi emes
 progress_challenges_remain: Қиындықтар әлі де бар
 progress_approaching_target: Мақсатқа жақындау
 progress_target_achieved: Мақсатқа қол жеткізілді
-description: Есеп беру күйі Тұрақты даму мақсаты (SDG) деректерінің %country.name
-  есептері туралы жалпы шолуды қамтамасыз етеді.
+description: Есеп беру күйі Тұрақты даму мақсаты (SDG) деректерінің 
+  %country.name есептері туралы жалпы шолуды қамтамасыз етеді.
 no_data_available: Дерек жоқ
 progress_help: Біз 2030 жылға дейінгі мақсатқа қалай қарсы тұрамыз?
 target_achieved: Қол жеткізілген мақсат
@@ -29,3 +29,5 @@ substantial_progress: Жолдағы
 moderate_progress: Прогресс қол жеткізілді, бірақ жеделдету қажет
 limited_progress: Шектеулі прогресс
 deterioration: Нашарлау
+progress_status_overall: Жалпы жетістік жағдайы
+progress_not_available_full: Прогресс өлшеуі қолжетімсіз

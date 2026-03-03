@@ -15,8 +15,9 @@ disaggregation_status_complete: အပြည့်အဝ disaggregated
 disaggregation_status_overall: ယေဘုယျအားဖြင့်လူစုခွဲခြင်းအခြေအနေ
 disaggregation_status: အသားအရောင်ခွဲခြား status ကို
 reported: သတင်းပို့သည်
-description: အစီရင်ခံခြင်းအခြေအနေတွင်ရေရှည်တည်တံ့ခိုင်မြဲသောဖွံ့ဖြိုးရေးရည်မှန်းချက်
-  (SDG) ၏%% အမည်အစီရင်ခံစာများကိုခြုံငုံသုံးသပ်ထားသည်။
+description: 
+  အစီရင်ခံခြင်းအခြေအနေတွင်ရေရှည်တည်တံ့ခိုင်မြဲသောဖွံ့ဖြိုးရေးရည်မှန်းချက် (SDG) 
+  ၏%% အမည်အစီရင်ခံစာများကိုခြုံငုံသုံးသပ်ထားသည်။
 progress_status: တိုးတက်မှုအခြေအနေ
 progress_not_available: Not available
 progress_challenges_remain: စိန်ခေါ်မှုများ ရှိနေသေးသည်။
@@ -29,3 +30,5 @@ substantial_progress: လမ်းကြောင်းပေါ်တွင်
 moderate_progress: တိုးတက် မှု ပြုလုပ် ခဲ့ သော်လည်း အရှိန်မြှင့် ရန် လိုအပ် သည်
 limited_progress: တိုးတက်မှုအကန့်အသတ်
 deterioration: ယိုယွင်း မှု
+progress_status_overall: ယေဘုယျ တိုးတက်မှု အခြေအနေ
+progress_not_available_full: တိုးတက်မှုတိုင်းတာမှု မရရှိနိုင်ပါ

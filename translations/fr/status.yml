@@ -15,8 +15,8 @@ disaggregation_status_notapplicable: 'Hors champ'
 disaggregation_status_by_field: 'Désagrégation par %field'
 not_specified: Non spécifié
 reported: Déclaré
-description: L'état des rapports donne un aperçu de la quantité de données sur les
-  objectifs de développement durable (ODD) que %country.name rapporte.
+description: L'état des rapports donne un aperçu de la quantité de données sur 
+  les objectifs de développement durable (ODD) que %country.name rapporte.
 progress_status: État du progrès
 progress_not_available: Non disponible
 progress_challenges_remain: Des défis à relever
@@ -25,7 +25,10 @@ progress_target_achieved: Cible atteinte
 no_data_available: Aucune donnée disponible
 progress_help: Où en sommes-nous par rapport à l'objectif 2030 ?
 target_achieved: Cible atteinte
-moderate_progress: Des progrès ont été réalisés, mais une accélération est nécessaire
+moderate_progress: Des progrès ont été réalisés, mais une accélération est 
+  nécessaire
 limited_progress: Progrès limités
 deterioration: Détérioration
 substantial_progress: Sur la bonne voie
+progress_status_overall: Situation générale de l’avancement
+progress_not_available_full: Mesure des progrès non disponible

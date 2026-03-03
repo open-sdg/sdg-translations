@@ -22,6 +22,7 @@ description: Reporting status provides an overview of how much Sustainable Devel
 progress_status: Progress status
 progress_status_overall: Overall progress status
 progress_not_available: Not available
+progress_not_available_full: Progress measurement not available
 progress_challenges_remain: Challenges remain
 progress_approaching_target: Approaching target
 progress_target_achieved: Target achieved

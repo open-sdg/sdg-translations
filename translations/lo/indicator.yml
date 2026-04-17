@@ -58,8 +58,9 @@ national_metadata_blurb: 'ຕາຕະລາງນີ້ໃຫ້ຂໍ້ມູ
   ແລະ ຂໍ້ມູນເມຕາເດຕາອື່ນໆທີ່ສະເພາະເຈາະຈົງສຳລັບ %country.adjective.'
 # A button that displays the global metadata about a particular indicator - as provided by the United Nations
 global_metadata: 'ເມຕາເດຕາສາກົນ'
-global_metadata_blurb: 'ຕາຕະລາງນີ້ໃຫ້ຂໍ້ມູນກ່ຽວກັບເມຕາເດຕາສຳລັບຕົວຊີ້ວັດ SDG ຕາມທີ່ກຳນົດໂດຍຄະນະກຳມາທິການສະຖິຕິຂອງສະຫະປະຊາຊາດ.
-  <a href="https://unstats.un.org/sdgs/metadata/"> ເມຕາເດຕາສາກົນທີ່ສົມບູນ </a> ແມ່ນສະໜອງໃຫ້ໂດຍພະແນກສະຖິຕິຂອງສະຫະປະຊາຊາດ.'
+global_metadata_blurb: 'Lao: ຕາຕະລາງນີ້ໃຫ້ຂໍ້ມູນກ່ຽວກັບເມຕາເດຕາສຳລັບຕົວຊີ້ວັດ SDG
+  ຕາມທີ່ໄດ້ກຳນົດໂດຍຄະນະກຳມາທິການສະຖິຕິຂອງອົງການສະຫະປະຊາຊາດ. <a href="https://unstats.un.org/sdgs/metadata/
+  ">ເມຕາເດຕາທົ່ວໂລກທີ່ສົມບູນ</a> ແມ່ນສະໜອງໃຫ້ໂດຍກົມສະຖິຕິຂອງອົງການສະຫະປະຊາຊາດ.'
 # A button for editing some content
 edit: 'ແກ້ໄຂຕົວຊີ້ວັດ'
 # A button for editing data

@@ -1,20 +1,17 @@
-goal: Ziel
-goals: Ziele
-home: Startseite
+goal: Themenbereich
+goals: Themenbereiche
+home: Home
 indicator: Indikator
 indicators: Indikatoren
 loading: Ergebnisse werden geladen
 opens_new_window: in neuem Fenster öffnen
 hide: ausblenden
 sdg: Ziele für Nachhaltige Entwicklung
-target: Unterziel
-targets: Unterziele
+target: Indikator Beschreibung
+targets: Indikator Beschreibung
 twitter: Twitter
 facebook: Facebook
 built_using_open_sdg: Erstellt mit Open SDG
-page: Seite
+page: Website
 pages: Webseiten
-site_title: Indikatoren für die nachhaltigen Entwicklungsziele
-label_warning: 'Warnung:'
-targets_and_indicators: Ziele und Indikatoren
-back_to_top: Zurück nach oben
+site_title: Migration und Teilhabe in Niedersachsen

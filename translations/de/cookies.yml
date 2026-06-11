@@ -1,0 +1,42 @@
+cookie_settings: Cookie Einstellungen
+all_required_notice: Es werden zwei essentielle Cookies gespeichert.
+all_required_ok: Ok
+acceptAll: Alle Akzeptieren
+acceptSelected: Ausgewählte Cookies akzeptieren
+close: Schließen
+consentModal_description: Hier können Sie die Cookie-Einstellungen anschauen.
+consentModal_title: Cookie Einstellungen
+consentNotice_changeDescription: Die Cookie Einstellungen haben sich seit dem letzten Besuch geändert. Bitte erneut einstellen.
+consentNotice_description: Diese Seite verwendet Cookies lediglich zum Speichern des Hintergrundkontrastes...
+consentNotice_learnMore: Cookies ansehen
+consentNotice_testing: Testing mode!
+contextualConsent_acceptAlways: Immer
+contextualConsent_acceptOnce: 'ja'
+contextualConsent_description: Do you want to load external content supplied by {title}?
+decline: Weitere Cookies ablehnen
+ok: Cookies akzeptieren
+poweredBy: Realized with Klaro!
+privacyPolicy_name: <a href="https://wohnungnds.github.io/IM_Site/imprint/">Impressum</a>
+privacyPolicy_text: <a href="https://wohnungnds.github.io/IM_Site/imprint/">Impressum</a>
+purposeItem_service: Cookie
+purposeItem_services: Cookies
+purposes_functional_description: Notwendige Cookies erleichtern die Nutzung der Seite und speichern lediglich die Auswahl des Hintergrundkontrastes.
+purposes_functional_title: Notwendige Cookies
+purposes_performance_description: These services process personal information to optimize the service that this website offers.
+purposes_performance_title: Performance optimization
+purposes_analytics_description: These services collect information about how you use the website. We use this data to help make the website better.
+purposes_analytics_title: Analytics cookies
+save: Speichern
+service_disableAll_description: Use this switch to enable or disable all services.
+service_disableAll_title: Enable or disable all services
+service_optOut_description: This services is loaded by default (but you can opt out)
+service_optOut_title: (opt-out)
+service_purpose: Zweck
+service_purposes: Zwecke
+service_required_description: This service is always required
+service_required_title: (notwendig)
+contrast_description:
+contrast_title: Hintergrundkontrast
+google_analytics_description: Collects information about page visits using Google Analytics
+google_analytics_title: Google Analytics
+cookie_settings_description: Speichert Ihre Cookie-Einstellungen

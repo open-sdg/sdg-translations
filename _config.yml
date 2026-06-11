@@ -1,11 +1,11 @@
-# Customize these as needed
+###### Customize these as needed
 title: SDG Translations
 description: >-
   A project to compile and translate text related to the United Nation's
   Sustainable Development Goals, and then provide those translations as JSON.
-baseurl: "/sdg-translations"
-url: "https://open-sdg.github.io"
-repo: "https://github.com/open-sdg/sdg-translations"
+baseurl: "/IM-translations"
+url: "https://christoph-lsn.github.io"
+repo: "https://github.com/christoph-lsn/IM-translations"
 
 # Build settings
 markdown: kramdown

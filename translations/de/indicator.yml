@@ -4,51 +4,105 @@ clear_selections: Auswahl aufheben
 data_not_available: Diese Daten sind nicht verfügbar. Bitte wählen Sie alternative
   Daten aus, die angezeigt werden sollen.
 dataset_size_warning: Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen.
-  Es können nicht alle Zeitreihen dargestellt werden.
-download_chart: Diagrammdaten herunterladen (.csv)
-download_csv: Daten herunterladen (.csv)
-download_csv_title: Daten als CSV herunterladen
-download_headline: Schlagzeilendaten herunterladen (.csv)
+  Es können nicht alle Zeitreihen dargestellt werden
+download_chart: Grafik im CSV-Format speichern
+download_csv: im CSV-Format speichern
+download_csv_title: im CSV-Format speichern
+download_headline: Speichern der Headline im CSV-Format
 download_headline_title: Speichern der Headline im CSV-Format
-download_source: Quelldaten herunterladen (.csv)
+download_source: Daten im CSV-Format speichern
 download_source_title: Daten im CSV-Format speichern
-download_source_sdmx: Daten im SDMX-Format speichern
-download_source_sdmx_title: Daten im SDMX-Format speichern
-download_table: Tabellendaten herunterladen (.csv)
-download_chart_image: Diagrammgrafik herunterladen (.png)
-download_chart_image_title: Diagrammgrafik als PNG herunterladen
-download_geojson: Kartendaten herunterladen (.geojson)
-download_geojson_title: Kartendaten als GeoJSON herunterladen
-edit: Indikator bearbeiten
+download_table: Tabelle im CSV-Format speichern
+download_chart_image: Grafik herunterladen
+download_chart_image_title: Grafik als Bild herunterladen
+download_geojson: im GeoJSON-Format speichern
+download_geojson_title: im GeoJSON-Format speichern
+edit: Bearbeiten
 edit_data: Daten bearbeiten
-edit_metadata: Metadaten bearbeiten
+# edit_metadata: Metadaten bearbeite
 footnote: Fußnote
+data_footnotes: Fußnoten
 geographical_area: Geographische Abdeckung
-global_metadata: Globale Metadaten
-global_metadata_blurb: Diese Übersicht stellt Informationen zu den globalen Metadaten
-  des jeweiligen SDG-Indikators bereit. Die <a href="https://unstats.un.org/sdgs/metadata/">globalen
-  Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt.
+global_metadata: Tabellen zum Download
+global_metadata_blurb: Hier finden Sie die dargestellten Daten und weitere Tabellen als Excel Datei.
 legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
 loading: Laden
 loading_map: Karte wird geladen
 map: Karte
-national_metadata: Nationale Metadaten
-national_metadata_blurb: Im Folgenden werden Metadaten zu den national verfügbaren
-  Zeitreihen für %country.name zum jeweiligen globalen SDG-Indikator bereitgestellt.
-  Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe.
-  Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch
-  auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen
-  hinzuweisen.
+map_legend: Legende
+national_metadata: Indikator Beschreibung
+national_metadata_blurb:
+no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
+  verfügbar.
+print_table: Drucken
+select_all: Alle auswählen
+series: Reihe
+series_help: Wählen Sie eine oder mehrere Kategorien aus, um die Tabelle/Grafik anzupassen.
+source: Datenquelle
+sources: Datenquellen
+sub_categories: Kategorien
+table: Tabelle
+unit_of_measurement: Einheit
+units_type: Einheit
+unit: Einheit
+variable_hint: Verfügbar
+view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
+# Description of a footnote that is applied to a particular data value (observation).
+# note: Methodischer Hinweis
+apply: Ok
+cancel: Abbrechen
+change_breakdowns: Auwahl ändern
+# Description of a footnote that is applied to a particular data value (observation).
+note: Anmerkung
+chart: Grafik
+clear_all: Auswahl aufheben
+clear_selections: Auswahl aufheben
+data_not_available: Diese Daten sind nicht verfügbar. Bitte wählen Sie alternative
+  Daten aus, die angezeigt werden sollen.
+dataset_size_warning: Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen.
+  Es können nicht alle Zeitreihen dargestellt werden.
+# download_chart: Diagrammdaten herunterladen (.csv)
+# download_csv: Daten herunterladen (.csv)
+# download_csv_title: Daten als CSV herunterladen
+download_headline: Schlagzeilendaten herunterladen (.csv)
+download_headline_title: Speichern der Headline im CSV-Format
+# download_source: Quelldaten herunterladen (.csv)
+download_source_title: Daten im CSV-Format speichern
+download_source_sdmx: Daten im SDMX-Format speichern
+download_source_sdmx_title: Daten im SDMX-Format speichern
+# download_table: Tabellendaten herunterladen (.csv)
+# download_chart_image: Diagrammgrafik herunterladen (.png)
+# download_chart_image_title: Diagrammgrafik als PNG herunterladen
+# download_geojson: Kartendaten herunterladen (.geojson)
+# download_geojson_title: Kartendaten als GeoJSON herunterladen
+# edit: Indikator bearbeiten
+edit_data: Daten bearbeiten
+edit_metadata: Metadaten bearbeiten
+footnote: Fußnote
+geographical_area: Geographische Abdeckung
+# global_metadata: Globale Metadaten
+# global_metadata_blurb: Diese Übersicht stellt Informationen zu den globalen Metadaten
+#  des jeweiligen SDG-Indikators bereit. Die <a href="https://unstats.un.org/sdgs/metadata/">globalen
+#  Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt.
+legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+loading: Laden
+loading_map: Karte wird geladen
+map: Karte
+#national_metadata: Nationale Metadaten
+#national_metadata_blurb: Im Folgenden werden Metadaten zu den national verfügbaren
+#  Zeitreihen für %country.name zum jeweiligen globalen SDG-Indikator bereitgestellt.
+#  Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe.
+#  Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch
+#  auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen
+#  hinzuweisen.
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
   verfügbar.
 select_all: Alle auswählen
 series: Reihe
-series_help: Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien
-  angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt
-  wird.
-source: Datenquelle
-sources: Datenquellen
-sub_categories: Disaggregationsdimensionen
+# series_help: Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien
+#  angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt
+#  wird.
+# sub_categories: Disaggregationsdimensionen
 table: Tabelle
 unit_of_measurement: Einheit
 units_type: Einheit
@@ -78,9 +132,9 @@ unit: Einheit
 headline_data: Schlagzeilendaten
 no_headline_data: Keine Schlagzeilendaten verfügbar
 download_source_for_disaggregations: Quell-CSV für Disaggregationen herunterladen
-apply: Anwenden
+# apply: Anwenden
 cancel: Abbrechen
-change_breakdowns: Aufschlüsselungen ändern
+# change_breakdowns: Aufschlüsselungen ändern
 empty_metadata_placeholder: Für diesen Indikator nicht verfügbar
 total: Insgesamt
 map_search_cancel: Kartensuche leeren
